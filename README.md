@@ -11,5 +11,5 @@ Minecraft-assets is language independent, you can use it with these language spe
 
 | Wrapper name | Language |
 | --- | --- | --- |
-| [node-minecraft-wrapper](https://github.com/rom1504/node-minecraft-wrapper) | Node.js |
+| [node-minecraft-assets](https://github.com/rom1504/node-minecraft-assets) | Node.js |
 
