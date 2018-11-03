@@ -7,92 +7,92 @@
   {
     "name": "stone",
     "model": "stone",
-    "texture": null
+    "texture": "block/stone"
   },
   {
     "name": "granite",
     "model": "granite",
-    "texture": null
+    "texture": "block/granite"
   },
   {
     "name": "polished_granite",
     "model": "polished_granite",
-    "texture": null
+    "texture": "block/polished_granite"
   },
   {
     "name": "diorite",
     "model": "diorite",
-    "texture": null
+    "texture": "block/diorite"
   },
   {
     "name": "polished_diorite",
     "model": "polished_diorite",
-    "texture": null
+    "texture": "block/polished_diorite"
   },
   {
     "name": "andesite",
     "model": "andesite",
-    "texture": null
+    "texture": "block/andesite"
   },
   {
     "name": "polished_andesite",
     "model": "polished_andesite",
-    "texture": null
+    "texture": "block/polished_andesite"
   },
   {
     "name": "grass_block",
     "model": "grass_block",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "dirt",
     "model": "dirt",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "coarse_dirt",
     "model": "coarse_dirt",
-    "texture": null
+    "texture": "block/coarse_dirt"
   },
   {
     "name": "podzol",
     "model": "podzol",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "cobblestone",
     "model": "cobblestone",
-    "texture": null
+    "texture": "block/cobblestone"
   },
   {
     "name": "oak_planks",
     "model": "oak_planks",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_planks",
     "model": "spruce_planks",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_planks",
     "model": "birch_planks",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_planks",
     "model": "jungle_planks",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_planks",
     "model": "acacia_planks",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_planks",
     "model": "dark_oak_planks",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "oak_sapling",
@@ -127,237 +127,237 @@
   {
     "name": "bedrock",
     "model": "bedrock",
-    "texture": null
+    "texture": "block/bedrock"
   },
   {
     "name": "sand",
     "model": "sand",
-    "texture": null
+    "texture": "block/sand"
   },
   {
     "name": "red_sand",
     "model": "red_sand",
-    "texture": null
+    "texture": "block/red_sand"
   },
   {
     "name": "gravel",
     "model": "gravel",
-    "texture": null
+    "texture": "block/gravel"
   },
   {
     "name": "gold_ore",
     "model": "gold_ore",
-    "texture": null
+    "texture": "block/gold_ore"
   },
   {
     "name": "iron_ore",
     "model": "iron_ore",
-    "texture": null
+    "texture": "block/iron_ore"
   },
   {
     "name": "coal_ore",
     "model": "coal_ore",
-    "texture": null
+    "texture": "block/coal_ore"
   },
   {
     "name": "oak_log",
     "model": "oak_log",
-    "texture": null
+    "texture": "block/oak_log_top"
   },
   {
     "name": "spruce_log",
     "model": "spruce_log",
-    "texture": null
+    "texture": "block/spruce_log_top"
   },
   {
     "name": "birch_log",
     "model": "birch_log",
-    "texture": null
+    "texture": "block/birch_log_top"
   },
   {
     "name": "jungle_log",
     "model": "jungle_log",
-    "texture": null
+    "texture": "block/jungle_log_top"
   },
   {
     "name": "acacia_log",
     "model": "acacia_log",
-    "texture": null
+    "texture": "block/acacia_log_top"
   },
   {
     "name": "dark_oak_log",
     "model": "dark_oak_log",
-    "texture": null
+    "texture": "block/dark_oak_log_top"
   },
   {
     "name": "stripped_oak_log",
     "model": "stripped_oak_log",
-    "texture": null
+    "texture": "block/stripped_oak_log_top"
   },
   {
     "name": "stripped_spruce_log",
     "model": "stripped_spruce_log",
-    "texture": null
+    "texture": "block/stripped_spruce_log_top"
   },
   {
     "name": "stripped_birch_log",
     "model": "stripped_birch_log",
-    "texture": null
+    "texture": "block/stripped_birch_log_top"
   },
   {
     "name": "stripped_jungle_log",
     "model": "stripped_jungle_log",
-    "texture": null
+    "texture": "block/stripped_jungle_log_top"
   },
   {
     "name": "stripped_acacia_log",
     "model": "stripped_acacia_log",
-    "texture": null
+    "texture": "block/stripped_acacia_log_top"
   },
   {
     "name": "stripped_dark_oak_log",
     "model": "stripped_dark_oak_log",
-    "texture": null
+    "texture": "block/stripped_dark_oak_log_top"
   },
   {
     "name": "stripped_oak_wood",
     "model": "stripped_oak_wood",
-    "texture": null
+    "texture": "block/stripped_oak_log"
   },
   {
     "name": "stripped_spruce_wood",
     "model": "stripped_spruce_wood",
-    "texture": null
+    "texture": "block/stripped_spruce_log"
   },
   {
     "name": "stripped_birch_wood",
     "model": "stripped_birch_wood",
-    "texture": null
+    "texture": "block/stripped_birch_log"
   },
   {
     "name": "stripped_jungle_wood",
     "model": "stripped_jungle_wood",
-    "texture": null
+    "texture": "block/stripped_jungle_log"
   },
   {
     "name": "stripped_acacia_wood",
     "model": "stripped_acacia_wood",
-    "texture": null
+    "texture": "block/stripped_acacia_log"
   },
   {
     "name": "stripped_dark_oak_wood",
     "model": "stripped_dark_oak_wood",
-    "texture": null
+    "texture": "block/stripped_dark_oak_log"
   },
   {
     "name": "oak_wood",
     "model": "oak_wood",
-    "texture": null
+    "texture": "block/oak_log"
   },
   {
     "name": "spruce_wood",
     "model": "spruce_wood",
-    "texture": null
+    "texture": "block/spruce_log"
   },
   {
     "name": "birch_wood",
     "model": "birch_wood",
-    "texture": null
+    "texture": "block/birch_log"
   },
   {
     "name": "jungle_wood",
     "model": "jungle_wood",
-    "texture": null
+    "texture": "block/jungle_log"
   },
   {
     "name": "acacia_wood",
     "model": "acacia_wood",
-    "texture": null
+    "texture": "block/acacia_log"
   },
   {
     "name": "dark_oak_wood",
     "model": "dark_oak_wood",
-    "texture": null
+    "texture": "block/dark_oak_log"
   },
   {
     "name": "oak_leaves",
     "model": "oak_leaves",
-    "texture": null
+    "texture": "block/oak_leaves"
   },
   {
     "name": "spruce_leaves",
     "model": "spruce_leaves",
-    "texture": null
+    "texture": "block/spruce_leaves"
   },
   {
     "name": "birch_leaves",
     "model": "birch_leaves",
-    "texture": null
+    "texture": "block/birch_leaves"
   },
   {
     "name": "jungle_leaves",
     "model": "jungle_leaves",
-    "texture": null
+    "texture": "block/jungle_leaves"
   },
   {
     "name": "acacia_leaves",
     "model": "acacia_leaves",
-    "texture": null
+    "texture": "block/acacia_leaves"
   },
   {
     "name": "dark_oak_leaves",
     "model": "dark_oak_leaves",
-    "texture": null
+    "texture": "block/dark_oak_leaves"
   },
   {
     "name": "sponge",
     "model": "sponge",
-    "texture": null
+    "texture": "block/sponge"
   },
   {
     "name": "wet_sponge",
     "model": "wet_sponge",
-    "texture": null
+    "texture": "block/wet_sponge"
   },
   {
     "name": "glass",
     "model": "glass",
-    "texture": null
+    "texture": "block/glass"
   },
   {
     "name": "lapis_ore",
     "model": "lapis_ore",
-    "texture": null
+    "texture": "block/lapis_ore"
   },
   {
     "name": "lapis_block",
     "model": "lapis_block",
-    "texture": null
+    "texture": "block/lapis_block"
   },
   {
     "name": "dispenser",
     "model": "dispenser",
-    "texture": null
+    "texture": "block/furnace_top"
   },
   {
     "name": "sandstone",
     "model": "sandstone",
-    "texture": null
+    "texture": "block/sandstone_bottom"
   },
   {
     "name": "chiseled_sandstone",
     "model": "chiseled_sandstone",
-    "texture": null
+    "texture": "block/sandstone_top"
   },
   {
     "name": "cut_sandstone",
     "model": "cut_sandstone",
-    "texture": null
+    "texture": "block/sandstone_top"
   },
   {
     "name": "note_block",
     "model": "note_block",
-    "texture": null
+    "texture": "block/note_block"
   },
   {
     "name": "powered_rail",
@@ -372,7 +372,7 @@
   {
     "name": "sticky_piston",
     "model": "sticky_piston",
-    "texture": null
+    "texture": "block/piston_bottom"
   },
   {
     "name": "cobweb",
@@ -407,87 +407,87 @@
   {
     "name": "piston",
     "model": "piston",
-    "texture": null
+    "texture": "block/piston_bottom"
   },
   {
     "name": "white_wool",
     "model": "white_wool",
-    "texture": null
+    "texture": "block/white_wool"
   },
   {
     "name": "orange_wool",
     "model": "orange_wool",
-    "texture": null
+    "texture": "block/orange_wool"
   },
   {
     "name": "magenta_wool",
     "model": "magenta_wool",
-    "texture": null
+    "texture": "block/magenta_wool"
   },
   {
     "name": "light_blue_wool",
     "model": "light_blue_wool",
-    "texture": null
+    "texture": "block/light_blue_wool"
   },
   {
     "name": "yellow_wool",
     "model": "yellow_wool",
-    "texture": null
+    "texture": "block/yellow_wool"
   },
   {
     "name": "lime_wool",
     "model": "lime_wool",
-    "texture": null
+    "texture": "block/lime_wool"
   },
   {
     "name": "pink_wool",
     "model": "pink_wool",
-    "texture": null
+    "texture": "block/pink_wool"
   },
   {
     "name": "gray_wool",
     "model": "gray_wool",
-    "texture": null
+    "texture": "block/gray_wool"
   },
   {
     "name": "light_gray_wool",
     "model": "light_gray_wool",
-    "texture": null
+    "texture": "block/light_gray_wool"
   },
   {
     "name": "cyan_wool",
     "model": "cyan_wool",
-    "texture": null
+    "texture": "block/cyan_wool"
   },
   {
     "name": "purple_wool",
     "model": "purple_wool",
-    "texture": null
+    "texture": "block/purple_wool"
   },
   {
     "name": "blue_wool",
     "model": "blue_wool",
-    "texture": null
+    "texture": "block/blue_wool"
   },
   {
     "name": "brown_wool",
     "model": "brown_wool",
-    "texture": null
+    "texture": "block/brown_wool"
   },
   {
     "name": "green_wool",
     "model": "green_wool",
-    "texture": null
+    "texture": "block/green_wool"
   },
   {
     "name": "red_wool",
     "model": "red_wool",
-    "texture": null
+    "texture": "block/red_wool"
   },
   {
     "name": "black_wool",
     "model": "black_wool",
-    "texture": null
+    "texture": "block/black_wool"
   },
   {
     "name": "dandelion",
@@ -552,152 +552,152 @@
   {
     "name": "gold_block",
     "model": "gold_block",
-    "texture": null
+    "texture": "block/gold_block"
   },
   {
     "name": "iron_block",
     "model": "iron_block",
-    "texture": null
+    "texture": "block/iron_block"
   },
   {
     "name": "oak_slab",
     "model": "oak_slab",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_slab",
     "model": "spruce_slab",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_slab",
     "model": "birch_slab",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_slab",
     "model": "jungle_slab",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_slab",
     "model": "acacia_slab",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_slab",
     "model": "dark_oak_slab",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "stone_slab",
     "model": "stone_slab",
-    "texture": null
+    "texture": "block/stone_slab_top"
   },
   {
     "name": "sandstone_slab",
     "model": "sandstone_slab",
-    "texture": null
+    "texture": "block/sandstone_bottom"
   },
   {
     "name": "petrified_oak_slab",
     "model": "petrified_oak_slab",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "cobblestone_slab",
     "model": "cobblestone_slab",
-    "texture": null
+    "texture": "block/cobblestone"
   },
   {
     "name": "brick_slab",
     "model": "brick_slab",
-    "texture": null
+    "texture": "block/bricks"
   },
   {
     "name": "stone_brick_slab",
     "model": "stone_brick_slab",
-    "texture": null
+    "texture": "block/stone_bricks"
   },
   {
     "name": "nether_brick_slab",
     "model": "nether_brick_slab",
-    "texture": null
+    "texture": "block/nether_bricks"
   },
   {
     "name": "quartz_slab",
     "model": "quartz_slab",
-    "texture": null
+    "texture": "block/quartz_block_bottom"
   },
   {
     "name": "red_sandstone_slab",
     "model": "red_sandstone_slab",
-    "texture": null
+    "texture": "block/red_sandstone_bottom"
   },
   {
     "name": "purpur_slab",
     "model": "purpur_slab",
-    "texture": null
+    "texture": "block/purpur_block"
   },
   {
     "name": "prismarine_slab",
     "model": "prismarine_slab",
-    "texture": null
+    "texture": "block/prismarine"
   },
   {
     "name": "prismarine_brick_slab",
     "model": "prismarine_brick_slab",
-    "texture": null
+    "texture": "block/prismarine_bricks"
   },
   {
     "name": "dark_prismarine_slab",
     "model": "dark_prismarine_slab",
-    "texture": null
+    "texture": "block/dark_prismarine"
   },
   {
     "name": "smooth_quartz",
     "model": "smooth_quartz",
-    "texture": null
+    "texture": "block/quartz_block_top"
   },
   {
     "name": "smooth_red_sandstone",
     "model": "smooth_red_sandstone",
-    "texture": null
+    "texture": "block/red_sandstone_top"
   },
   {
     "name": "smooth_sandstone",
     "model": "smooth_sandstone",
-    "texture": null
+    "texture": "block/sandstone_top"
   },
   {
     "name": "smooth_stone",
     "model": "smooth_stone",
-    "texture": null
+    "texture": "block/stone_slab_top"
   },
   {
     "name": "bricks",
     "model": "bricks",
-    "texture": null
+    "texture": "block/bricks"
   },
   {
     "name": "tnt",
     "model": "tnt",
-    "texture": null
+    "texture": "block/tnt_bottom"
   },
   {
     "name": "bookshelf",
     "model": "bookshelf",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "mossy_cobblestone",
     "model": "mossy_cobblestone",
-    "texture": null
+    "texture": "block/mossy_cobblestone"
   },
   {
     "name": "obsidian",
     "model": "obsidian",
-    "texture": null
+    "texture": "block/obsidian"
   },
   {
     "name": "torch",
@@ -712,37 +712,37 @@
   {
     "name": "chorus_plant",
     "model": "chorus_plant",
-    "texture": null
+    "texture": "block/chorus_plant"
   },
   {
     "name": "chorus_flower",
     "model": "chorus_flower",
-    "texture": null
+    "texture": "block/chorus_flower"
   },
   {
     "name": "purpur_block",
     "model": "purpur_block",
-    "texture": null
+    "texture": "block/purpur_block"
   },
   {
     "name": "purpur_pillar",
     "model": "purpur_pillar",
-    "texture": null
+    "texture": "block/purpur_pillar_top"
   },
   {
     "name": "purpur_stairs",
     "model": "purpur_stairs",
-    "texture": null
+    "texture": "block/purpur_block"
   },
   {
     "name": "spawner",
     "model": "spawner",
-    "texture": null
+    "texture": "block/spawner"
   },
   {
     "name": "oak_stairs",
     "model": "oak_stairs",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "chest",
@@ -752,27 +752,27 @@
   {
     "name": "diamond_ore",
     "model": "diamond_ore",
-    "texture": null
+    "texture": "block/diamond_ore"
   },
   {
     "name": "diamond_block",
     "model": "diamond_block",
-    "texture": null
+    "texture": "block/diamond_block"
   },
   {
     "name": "crafting_table",
     "model": "crafting_table",
-    "texture": null
+    "texture": "block/crafting_table_front"
   },
   {
     "name": "farmland",
     "model": "farmland",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "furnace",
     "model": "furnace",
-    "texture": null
+    "texture": "block/furnace_top"
   },
   {
     "name": "ladder",
@@ -787,7 +787,7 @@
   {
     "name": "cobblestone_stairs",
     "model": "cobblestone_stairs",
-    "texture": null
+    "texture": "block/cobblestone"
   },
   {
     "name": "lever",
@@ -797,42 +797,42 @@
   {
     "name": "stone_pressure_plate",
     "model": "stone_pressure_plate",
-    "texture": null
+    "texture": "block/stone"
   },
   {
     "name": "oak_pressure_plate",
     "model": "oak_pressure_plate",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_pressure_plate",
     "model": "spruce_pressure_plate",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_pressure_plate",
     "model": "birch_pressure_plate",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_pressure_plate",
     "model": "jungle_pressure_plate",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_pressure_plate",
     "model": "acacia_pressure_plate",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_pressure_plate",
     "model": "dark_oak_pressure_plate",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "redstone_ore",
     "model": "redstone_ore",
-    "texture": null
+    "texture": "block/redstone_ore"
   },
   {
     "name": "redstone_torch",
@@ -842,192 +842,192 @@
   {
     "name": "stone_button",
     "model": "stone_button",
-    "texture": null
+    "texture": "block/stone"
   },
   {
     "name": "snow",
     "model": "snow",
-    "texture": null
+    "texture": "block/snow"
   },
   {
     "name": "ice",
     "model": "ice",
-    "texture": null
+    "texture": "block/ice"
   },
   {
     "name": "snow_block",
     "model": "snow_block",
-    "texture": null
+    "texture": "block/snow"
   },
   {
     "name": "cactus",
     "model": "cactus",
-    "texture": null
+    "texture": "block/cactus_side"
   },
   {
     "name": "clay",
     "model": "clay",
-    "texture": null
+    "texture": "block/clay"
   },
   {
     "name": "jukebox",
     "model": "jukebox",
-    "texture": null
+    "texture": "block/jukebox_top"
   },
   {
     "name": "oak_fence",
     "model": "oak_fence",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_fence",
     "model": "spruce_fence",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_fence",
     "model": "birch_fence",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_fence",
     "model": "jungle_fence",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_fence",
     "model": "acacia_fence",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_fence",
     "model": "dark_oak_fence",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "pumpkin",
     "model": "pumpkin",
-    "texture": null
+    "texture": "block/pumpkin_top"
   },
   {
     "name": "carved_pumpkin",
     "model": "carved_pumpkin",
-    "texture": null
+    "texture": "block/pumpkin_top"
   },
   {
     "name": "netherrack",
     "model": "netherrack",
-    "texture": null
+    "texture": "block/netherrack"
   },
   {
     "name": "soul_sand",
     "model": "soul_sand",
-    "texture": null
+    "texture": "block/soul_sand"
   },
   {
     "name": "glowstone",
     "model": "glowstone",
-    "texture": null
+    "texture": "block/glowstone"
   },
   {
     "name": "jack_o_lantern",
     "model": "jack_o_lantern",
-    "texture": null
+    "texture": "block/pumpkin_top"
   },
   {
     "name": "oak_trapdoor",
     "model": "oak_trapdoor",
-    "texture": null
+    "texture": "block/oak_trapdoor"
   },
   {
     "name": "spruce_trapdoor",
     "model": "spruce_trapdoor",
-    "texture": null
+    "texture": "block/spruce_trapdoor"
   },
   {
     "name": "birch_trapdoor",
     "model": "birch_trapdoor",
-    "texture": null
+    "texture": "block/birch_trapdoor"
   },
   {
     "name": "jungle_trapdoor",
     "model": "jungle_trapdoor",
-    "texture": null
+    "texture": "block/jungle_trapdoor"
   },
   {
     "name": "acacia_trapdoor",
     "model": "acacia_trapdoor",
-    "texture": null
+    "texture": "block/acacia_trapdoor"
   },
   {
     "name": "dark_oak_trapdoor",
     "model": "dark_oak_trapdoor",
-    "texture": null
+    "texture": "block/dark_oak_trapdoor"
   },
   {
     "name": "infested_stone",
     "model": "infested_stone",
-    "texture": null
+    "texture": "block/stone"
   },
   {
     "name": "infested_cobblestone",
     "model": "infested_cobblestone",
-    "texture": null
+    "texture": "block/cobblestone"
   },
   {
     "name": "infested_stone_bricks",
     "model": "infested_stone_bricks",
-    "texture": null
+    "texture": "block/stone_bricks"
   },
   {
     "name": "infested_mossy_stone_bricks",
     "model": "infested_mossy_stone_bricks",
-    "texture": null
+    "texture": "block/mossy_stone_bricks"
   },
   {
     "name": "infested_cracked_stone_bricks",
     "model": "infested_cracked_stone_bricks",
-    "texture": null
+    "texture": "block/cracked_stone_bricks"
   },
   {
     "name": "infested_chiseled_stone_bricks",
     "model": "infested_chiseled_stone_bricks",
-    "texture": null
+    "texture": "block/chiseled_stone_bricks"
   },
   {
     "name": "stone_bricks",
     "model": "stone_bricks",
-    "texture": null
+    "texture": "block/stone_bricks"
   },
   {
     "name": "mossy_stone_bricks",
     "model": "mossy_stone_bricks",
-    "texture": null
+    "texture": "block/mossy_stone_bricks"
   },
   {
     "name": "cracked_stone_bricks",
     "model": "cracked_stone_bricks",
-    "texture": null
+    "texture": "block/cracked_stone_bricks"
   },
   {
     "name": "chiseled_stone_bricks",
     "model": "chiseled_stone_bricks",
-    "texture": null
+    "texture": "block/chiseled_stone_bricks"
   },
   {
     "name": "brown_mushroom_block",
     "model": "brown_mushroom_block",
-    "texture": null
+    "texture": "block/brown_mushroom_block"
   },
   {
     "name": "red_mushroom_block",
     "model": "red_mushroom_block",
-    "texture": null
+    "texture": "block/red_mushroom_block"
   },
   {
     "name": "mushroom_stem",
     "model": "mushroom_stem",
-    "texture": null
+    "texture": "block/mushroom_stem"
   },
   {
     "name": "iron_bars",
@@ -1042,7 +1042,7 @@
   {
     "name": "melon",
     "model": "melon",
-    "texture": null
+    "texture": "block/melon_top"
   },
   {
     "name": "vine",
@@ -1052,47 +1052,47 @@
   {
     "name": "oak_fence_gate",
     "model": "oak_fence_gate",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_fence_gate",
     "model": "spruce_fence_gate",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_fence_gate",
     "model": "birch_fence_gate",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_fence_gate",
     "model": "jungle_fence_gate",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_fence_gate",
     "model": "acacia_fence_gate",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_fence_gate",
     "model": "dark_oak_fence_gate",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "brick_stairs",
     "model": "brick_stairs",
-    "texture": null
+    "texture": "block/bricks"
   },
   {
     "name": "stone_brick_stairs",
     "model": "stone_brick_stairs",
-    "texture": null
+    "texture": "block/stone_bricks"
   },
   {
     "name": "mycelium",
     "model": "mycelium",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "lily_pad",
@@ -1102,57 +1102,57 @@
   {
     "name": "nether_bricks",
     "model": "nether_bricks",
-    "texture": null
+    "texture": "block/nether_bricks"
   },
   {
     "name": "nether_brick_fence",
     "model": "nether_brick_fence",
-    "texture": null
+    "texture": "block/nether_bricks"
   },
   {
     "name": "nether_brick_stairs",
     "model": "nether_brick_stairs",
-    "texture": null
+    "texture": "block/nether_bricks"
   },
   {
     "name": "enchanting_table",
     "model": "enchanting_table",
-    "texture": null
+    "texture": "block/enchanting_table_bottom"
   },
   {
     "name": "end_portal_frame",
     "model": "end_portal_frame",
-    "texture": null
+    "texture": "block/end_portal_frame_side"
   },
   {
     "name": "end_stone",
     "model": "end_stone",
-    "texture": null
+    "texture": "block/end_stone"
   },
   {
     "name": "end_stone_bricks",
     "model": "end_stone_bricks",
-    "texture": null
+    "texture": "block/end_stone_bricks"
   },
   {
     "name": "dragon_egg",
     "model": "dragon_egg",
-    "texture": null
+    "texture": "block/dragon_egg"
   },
   {
     "name": "redstone_lamp",
     "model": "redstone_lamp",
-    "texture": null
+    "texture": "block/redstone_lamp"
   },
   {
     "name": "sandstone_stairs",
     "model": "sandstone_stairs",
-    "texture": null
+    "texture": "block/sandstone_bottom"
   },
   {
     "name": "emerald_ore",
     "model": "emerald_ore",
-    "texture": null
+    "texture": "block/emerald_ore"
   },
   {
     "name": "ender_chest",
@@ -1167,87 +1167,87 @@
   {
     "name": "emerald_block",
     "model": "emerald_block",
-    "texture": null
+    "texture": "block/emerald_block"
   },
   {
     "name": "spruce_stairs",
     "model": "spruce_stairs",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_stairs",
     "model": "birch_stairs",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_stairs",
     "model": "jungle_stairs",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "command_block",
     "model": "command_block",
-    "texture": null
+    "texture": "block/command_block_back"
   },
   {
     "name": "beacon",
     "model": "beacon",
-    "texture": null
+    "texture": "block/glass"
   },
   {
     "name": "cobblestone_wall",
     "model": "cobblestone_wall",
-    "texture": null
+    "texture": "block/cobblestone"
   },
   {
     "name": "mossy_cobblestone_wall",
     "model": "mossy_cobblestone_wall",
-    "texture": null
+    "texture": "block/mossy_cobblestone"
   },
   {
     "name": "oak_button",
     "model": "oak_button",
-    "texture": null
+    "texture": "block/oak_planks"
   },
   {
     "name": "spruce_button",
     "model": "spruce_button",
-    "texture": null
+    "texture": "block/spruce_planks"
   },
   {
     "name": "birch_button",
     "model": "birch_button",
-    "texture": null
+    "texture": "block/birch_planks"
   },
   {
     "name": "jungle_button",
     "model": "jungle_button",
-    "texture": null
+    "texture": "block/jungle_planks"
   },
   {
     "name": "acacia_button",
     "model": "acacia_button",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_button",
     "model": "dark_oak_button",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "anvil",
     "model": "anvil",
-    "texture": null
+    "texture": "block/anvil"
   },
   {
     "name": "chipped_anvil",
     "model": "chipped_anvil",
-    "texture": null
+    "texture": "block/chipped_anvil_top"
   },
   {
     "name": "damaged_anvil",
     "model": "damaged_anvil",
-    "texture": null
+    "texture": "block/damaged_anvil_top"
   },
   {
     "name": "trapped_chest",
@@ -1257,27 +1257,27 @@
   {
     "name": "light_weighted_pressure_plate",
     "model": "light_weighted_pressure_plate",
-    "texture": null
+    "texture": "block/gold_block"
   },
   {
     "name": "heavy_weighted_pressure_plate",
     "model": "heavy_weighted_pressure_plate",
-    "texture": null
+    "texture": "block/iron_block"
   },
   {
     "name": "daylight_detector",
     "model": "daylight_detector",
-    "texture": null
+    "texture": "block/daylight_detector_top"
   },
   {
     "name": "redstone_block",
     "model": "redstone_block",
-    "texture": null
+    "texture": "block/redstone_block"
   },
   {
     "name": "nether_quartz_ore",
     "model": "nether_quartz_ore",
-    "texture": null
+    "texture": "block/nether_quartz_ore"
   },
   {
     "name": "hopper",
@@ -1287,22 +1287,22 @@
   {
     "name": "chiseled_quartz_block",
     "model": "chiseled_quartz_block",
-    "texture": null
+    "texture": "block/chiseled_quartz_block"
   },
   {
     "name": "quartz_block",
     "model": "quartz_block",
-    "texture": null
+    "texture": "block/quartz_block_bottom"
   },
   {
     "name": "quartz_pillar",
     "model": "quartz_pillar",
-    "texture": null
+    "texture": "block/quartz_pillar_top"
   },
   {
     "name": "quartz_stairs",
     "model": "quartz_stairs",
-    "texture": null
+    "texture": "block/quartz_block_bottom"
   },
   {
     "name": "activator_rail",
@@ -1312,87 +1312,87 @@
   {
     "name": "dropper",
     "model": "dropper",
-    "texture": null
+    "texture": "block/furnace_top"
   },
   {
     "name": "white_terracotta",
     "model": "white_terracotta",
-    "texture": null
+    "texture": "block/white_terracotta"
   },
   {
     "name": "orange_terracotta",
     "model": "orange_terracotta",
-    "texture": null
+    "texture": "block/orange_terracotta"
   },
   {
     "name": "magenta_terracotta",
     "model": "magenta_terracotta",
-    "texture": null
+    "texture": "block/magenta_terracotta"
   },
   {
     "name": "light_blue_terracotta",
     "model": "light_blue_terracotta",
-    "texture": null
+    "texture": "block/light_blue_terracotta"
   },
   {
     "name": "yellow_terracotta",
     "model": "yellow_terracotta",
-    "texture": null
+    "texture": "block/yellow_terracotta"
   },
   {
     "name": "lime_terracotta",
     "model": "lime_terracotta",
-    "texture": null
+    "texture": "block/lime_terracotta"
   },
   {
     "name": "pink_terracotta",
     "model": "pink_terracotta",
-    "texture": null
+    "texture": "block/pink_terracotta"
   },
   {
     "name": "gray_terracotta",
     "model": "gray_terracotta",
-    "texture": null
+    "texture": "block/gray_terracotta"
   },
   {
     "name": "light_gray_terracotta",
     "model": "light_gray_terracotta",
-    "texture": null
+    "texture": "block/light_gray_terracotta"
   },
   {
     "name": "cyan_terracotta",
     "model": "cyan_terracotta",
-    "texture": null
+    "texture": "block/cyan_terracotta"
   },
   {
     "name": "purple_terracotta",
     "model": "purple_terracotta",
-    "texture": null
+    "texture": "block/purple_terracotta"
   },
   {
     "name": "blue_terracotta",
     "model": "blue_terracotta",
-    "texture": null
+    "texture": "block/blue_terracotta"
   },
   {
     "name": "brown_terracotta",
     "model": "brown_terracotta",
-    "texture": null
+    "texture": "block/brown_terracotta"
   },
   {
     "name": "green_terracotta",
     "model": "green_terracotta",
-    "texture": null
+    "texture": "block/green_terracotta"
   },
   {
     "name": "red_terracotta",
     "model": "red_terracotta",
-    "texture": null
+    "texture": "block/red_terracotta"
   },
   {
     "name": "black_terracotta",
     "model": "black_terracotta",
-    "texture": null
+    "texture": "block/black_terracotta"
   },
   {
     "name": "barrier",
@@ -1402,127 +1402,127 @@
   {
     "name": "iron_trapdoor",
     "model": "iron_trapdoor",
-    "texture": null
+    "texture": "block/iron_trapdoor"
   },
   {
     "name": "hay_block",
     "model": "hay_block",
-    "texture": null
+    "texture": "block/hay_block_top"
   },
   {
     "name": "white_carpet",
     "model": "white_carpet",
-    "texture": null
+    "texture": "block/white_wool"
   },
   {
     "name": "orange_carpet",
     "model": "orange_carpet",
-    "texture": null
+    "texture": "block/orange_wool"
   },
   {
     "name": "magenta_carpet",
     "model": "magenta_carpet",
-    "texture": null
+    "texture": "block/magenta_wool"
   },
   {
     "name": "light_blue_carpet",
     "model": "light_blue_carpet",
-    "texture": null
+    "texture": "block/light_blue_wool"
   },
   {
     "name": "yellow_carpet",
     "model": "yellow_carpet",
-    "texture": null
+    "texture": "block/yellow_wool"
   },
   {
     "name": "lime_carpet",
     "model": "lime_carpet",
-    "texture": null
+    "texture": "block/lime_wool"
   },
   {
     "name": "pink_carpet",
     "model": "pink_carpet",
-    "texture": null
+    "texture": "block/pink_wool"
   },
   {
     "name": "gray_carpet",
     "model": "gray_carpet",
-    "texture": null
+    "texture": "block/gray_wool"
   },
   {
     "name": "light_gray_carpet",
     "model": "light_gray_carpet",
-    "texture": null
+    "texture": "block/light_gray_wool"
   },
   {
     "name": "cyan_carpet",
     "model": "cyan_carpet",
-    "texture": null
+    "texture": "block/cyan_wool"
   },
   {
     "name": "purple_carpet",
     "model": "purple_carpet",
-    "texture": null
+    "texture": "block/purple_wool"
   },
   {
     "name": "blue_carpet",
     "model": "blue_carpet",
-    "texture": null
+    "texture": "block/blue_wool"
   },
   {
     "name": "brown_carpet",
     "model": "brown_carpet",
-    "texture": null
+    "texture": "block/brown_wool"
   },
   {
     "name": "green_carpet",
     "model": "green_carpet",
-    "texture": null
+    "texture": "block/green_wool"
   },
   {
     "name": "red_carpet",
     "model": "red_carpet",
-    "texture": null
+    "texture": "block/red_wool"
   },
   {
     "name": "black_carpet",
     "model": "black_carpet",
-    "texture": null
+    "texture": "block/black_wool"
   },
   {
     "name": "terracotta",
     "model": "terracotta",
-    "texture": null
+    "texture": "block/terracotta"
   },
   {
     "name": "coal_block",
     "model": "coal_block",
-    "texture": null
+    "texture": "block/coal_block"
   },
   {
     "name": "packed_ice",
     "model": "packed_ice",
-    "texture": null
+    "texture": "block/packed_ice"
   },
   {
     "name": "acacia_stairs",
     "model": "acacia_stairs",
-    "texture": null
+    "texture": "block/acacia_planks"
   },
   {
     "name": "dark_oak_stairs",
     "model": "dark_oak_stairs",
-    "texture": null
+    "texture": "block/dark_oak_planks"
   },
   {
     "name": "slime_block",
     "model": "slime_block",
-    "texture": null
+    "texture": "block/slime_block"
   },
   {
     "name": "grass_path",
     "model": "grass_path",
-    "texture": null
+    "texture": "block/dirt"
   },
   {
     "name": "sunflower",
@@ -1557,82 +1557,82 @@
   {
     "name": "white_stained_glass",
     "model": "white_stained_glass",
-    "texture": null
+    "texture": "block/white_stained_glass"
   },
   {
     "name": "orange_stained_glass",
     "model": "orange_stained_glass",
-    "texture": null
+    "texture": "block/orange_stained_glass"
   },
   {
     "name": "magenta_stained_glass",
     "model": "magenta_stained_glass",
-    "texture": null
+    "texture": "block/magenta_stained_glass"
   },
   {
     "name": "light_blue_stained_glass",
     "model": "light_blue_stained_glass",
-    "texture": null
+    "texture": "block/light_blue_stained_glass"
   },
   {
     "name": "yellow_stained_glass",
     "model": "yellow_stained_glass",
-    "texture": null
+    "texture": "block/yellow_stained_glass"
   },
   {
     "name": "lime_stained_glass",
     "model": "lime_stained_glass",
-    "texture": null
+    "texture": "block/lime_stained_glass"
   },
   {
     "name": "pink_stained_glass",
     "model": "pink_stained_glass",
-    "texture": null
+    "texture": "block/pink_stained_glass"
   },
   {
     "name": "gray_stained_glass",
     "model": "gray_stained_glass",
-    "texture": null
+    "texture": "block/gray_stained_glass"
   },
   {
     "name": "light_gray_stained_glass",
     "model": "light_gray_stained_glass",
-    "texture": null
+    "texture": "block/light_gray_stained_glass"
   },
   {
     "name": "cyan_stained_glass",
     "model": "cyan_stained_glass",
-    "texture": null
+    "texture": "block/cyan_stained_glass"
   },
   {
     "name": "purple_stained_glass",
     "model": "purple_stained_glass",
-    "texture": null
+    "texture": "block/purple_stained_glass"
   },
   {
     "name": "blue_stained_glass",
     "model": "blue_stained_glass",
-    "texture": null
+    "texture": "block/blue_stained_glass"
   },
   {
     "name": "brown_stained_glass",
     "model": "brown_stained_glass",
-    "texture": null
+    "texture": "block/brown_stained_glass"
   },
   {
     "name": "green_stained_glass",
     "model": "green_stained_glass",
-    "texture": null
+    "texture": "block/green_stained_glass"
   },
   {
     "name": "red_stained_glass",
     "model": "red_stained_glass",
-    "texture": null
+    "texture": "block/red_stained_glass"
   },
   {
     "name": "black_stained_glass",
     "model": "black_stained_glass",
-    "texture": null
+    "texture": "block/black_stained_glass"
   },
   {
     "name": "white_stained_glass_pane",
@@ -1717,87 +1717,87 @@
   {
     "name": "prismarine",
     "model": "prismarine",
-    "texture": null
+    "texture": "block/prismarine"
   },
   {
     "name": "prismarine_bricks",
     "model": "prismarine_bricks",
-    "texture": null
+    "texture": "block/prismarine_bricks"
   },
   {
     "name": "dark_prismarine",
     "model": "dark_prismarine",
-    "texture": null
+    "texture": "block/dark_prismarine"
   },
   {
     "name": "prismarine_stairs",
     "model": "prismarine_stairs",
-    "texture": null
+    "texture": "block/prismarine"
   },
   {
     "name": "prismarine_brick_stairs",
     "model": "prismarine_brick_stairs",
-    "texture": null
+    "texture": "block/prismarine_bricks"
   },
   {
     "name": "dark_prismarine_stairs",
     "model": "dark_prismarine_stairs",
-    "texture": null
+    "texture": "block/dark_prismarine"
   },
   {
     "name": "sea_lantern",
     "model": "sea_lantern",
-    "texture": null
+    "texture": "block/sea_lantern"
   },
   {
     "name": "red_sandstone",
     "model": "red_sandstone",
-    "texture": null
+    "texture": "block/red_sandstone_bottom"
   },
   {
     "name": "chiseled_red_sandstone",
     "model": "chiseled_red_sandstone",
-    "texture": null
+    "texture": "block/red_sandstone_top"
   },
   {
     "name": "cut_red_sandstone",
     "model": "cut_red_sandstone",
-    "texture": null
+    "texture": "block/red_sandstone_top"
   },
   {
     "name": "red_sandstone_stairs",
     "model": "red_sandstone_stairs",
-    "texture": null
+    "texture": "block/red_sandstone_bottom"
   },
   {
     "name": "repeating_command_block",
     "model": "repeating_command_block",
-    "texture": null
+    "texture": "block/repeating_command_block_back"
   },
   {
     "name": "chain_command_block",
     "model": "chain_command_block",
-    "texture": null
+    "texture": "block/chain_command_block_back"
   },
   {
     "name": "magma_block",
     "model": "magma_block",
-    "texture": null
+    "texture": "block/magma"
   },
   {
     "name": "nether_wart_block",
     "model": "nether_wart_block",
-    "texture": null
+    "texture": "block/nether_wart_block"
   },
   {
     "name": "red_nether_bricks",
     "model": "red_nether_bricks",
-    "texture": null
+    "texture": "block/red_nether_bricks"
   },
   {
     "name": "bone_block",
     "model": "bone_block",
-    "texture": null
+    "texture": "block/bone_block_top"
   },
   {
     "name": "structure_void",
@@ -1807,7 +1807,7 @@
   {
     "name": "observer",
     "model": "observer",
-    "texture": null
+    "texture": "block/observer_back"
   },
   {
     "name": "shulker_box",
@@ -1897,242 +1897,242 @@
   {
     "name": "white_glazed_terracotta",
     "model": "white_glazed_terracotta",
-    "texture": null
+    "texture": "block/white_glazed_terracotta"
   },
   {
     "name": "orange_glazed_terracotta",
     "model": "orange_glazed_terracotta",
-    "texture": null
+    "texture": "block/orange_glazed_terracotta"
   },
   {
     "name": "magenta_glazed_terracotta",
     "model": "magenta_glazed_terracotta",
-    "texture": null
+    "texture": "block/magenta_glazed_terracotta"
   },
   {
     "name": "light_blue_glazed_terracotta",
     "model": "light_blue_glazed_terracotta",
-    "texture": null
+    "texture": "block/light_blue_glazed_terracotta"
   },
   {
     "name": "yellow_glazed_terracotta",
     "model": "yellow_glazed_terracotta",
-    "texture": null
+    "texture": "block/yellow_glazed_terracotta"
   },
   {
     "name": "lime_glazed_terracotta",
     "model": "lime_glazed_terracotta",
-    "texture": null
+    "texture": "block/lime_glazed_terracotta"
   },
   {
     "name": "pink_glazed_terracotta",
     "model": "pink_glazed_terracotta",
-    "texture": null
+    "texture": "block/pink_glazed_terracotta"
   },
   {
     "name": "gray_glazed_terracotta",
     "model": "gray_glazed_terracotta",
-    "texture": null
+    "texture": "block/gray_glazed_terracotta"
   },
   {
     "name": "light_gray_glazed_terracotta",
     "model": "light_gray_glazed_terracotta",
-    "texture": null
+    "texture": "block/light_gray_glazed_terracotta"
   },
   {
     "name": "cyan_glazed_terracotta",
     "model": "cyan_glazed_terracotta",
-    "texture": null
+    "texture": "block/cyan_glazed_terracotta"
   },
   {
     "name": "purple_glazed_terracotta",
     "model": "purple_glazed_terracotta",
-    "texture": null
+    "texture": "block/purple_glazed_terracotta"
   },
   {
     "name": "blue_glazed_terracotta",
     "model": "blue_glazed_terracotta",
-    "texture": null
+    "texture": "block/blue_glazed_terracotta"
   },
   {
     "name": "brown_glazed_terracotta",
     "model": "brown_glazed_terracotta",
-    "texture": null
+    "texture": "block/brown_glazed_terracotta"
   },
   {
     "name": "green_glazed_terracotta",
     "model": "green_glazed_terracotta",
-    "texture": null
+    "texture": "block/green_glazed_terracotta"
   },
   {
     "name": "red_glazed_terracotta",
     "model": "red_glazed_terracotta",
-    "texture": null
+    "texture": "block/red_glazed_terracotta"
   },
   {
     "name": "black_glazed_terracotta",
     "model": "black_glazed_terracotta",
-    "texture": null
+    "texture": "block/black_glazed_terracotta"
   },
   {
     "name": "white_concrete",
     "model": "white_concrete",
-    "texture": null
+    "texture": "block/white_concrete"
   },
   {
     "name": "orange_concrete",
     "model": "orange_concrete",
-    "texture": null
+    "texture": "block/orange_concrete"
   },
   {
     "name": "magenta_concrete",
     "model": "magenta_concrete",
-    "texture": null
+    "texture": "block/magenta_concrete"
   },
   {
     "name": "light_blue_concrete",
     "model": "light_blue_concrete",
-    "texture": null
+    "texture": "block/light_blue_concrete"
   },
   {
     "name": "yellow_concrete",
     "model": "yellow_concrete",
-    "texture": null
+    "texture": "block/yellow_concrete"
   },
   {
     "name": "lime_concrete",
     "model": "lime_concrete",
-    "texture": null
+    "texture": "block/lime_concrete"
   },
   {
     "name": "pink_concrete",
     "model": "pink_concrete",
-    "texture": null
+    "texture": "block/pink_concrete"
   },
   {
     "name": "gray_concrete",
     "model": "gray_concrete",
-    "texture": null
+    "texture": "block/gray_concrete"
   },
   {
     "name": "light_gray_concrete",
     "model": "light_gray_concrete",
-    "texture": null
+    "texture": "block/light_gray_concrete"
   },
   {
     "name": "cyan_concrete",
     "model": "cyan_concrete",
-    "texture": null
+    "texture": "block/cyan_concrete"
   },
   {
     "name": "purple_concrete",
     "model": "purple_concrete",
-    "texture": null
+    "texture": "block/purple_concrete"
   },
   {
     "name": "blue_concrete",
     "model": "blue_concrete",
-    "texture": null
+    "texture": "block/blue_concrete"
   },
   {
     "name": "brown_concrete",
     "model": "brown_concrete",
-    "texture": null
+    "texture": "block/brown_concrete"
   },
   {
     "name": "green_concrete",
     "model": "green_concrete",
-    "texture": null
+    "texture": "block/green_concrete"
   },
   {
     "name": "red_concrete",
     "model": "red_concrete",
-    "texture": null
+    "texture": "block/red_concrete"
   },
   {
     "name": "black_concrete",
     "model": "black_concrete",
-    "texture": null
+    "texture": "block/black_concrete"
   },
   {
     "name": "white_concrete_powder",
     "model": "white_concrete_powder",
-    "texture": null
+    "texture": "block/white_concrete_powder"
   },
   {
     "name": "orange_concrete_powder",
     "model": "orange_concrete_powder",
-    "texture": null
+    "texture": "block/orange_concrete_powder"
   },
   {
     "name": "magenta_concrete_powder",
     "model": "magenta_concrete_powder",
-    "texture": null
+    "texture": "block/magenta_concrete_powder"
   },
   {
     "name": "light_blue_concrete_powder",
     "model": "light_blue_concrete_powder",
-    "texture": null
+    "texture": "block/light_blue_concrete_powder"
   },
   {
     "name": "yellow_concrete_powder",
     "model": "yellow_concrete_powder",
-    "texture": null
+    "texture": "block/yellow_concrete_powder"
   },
   {
     "name": "lime_concrete_powder",
     "model": "lime_concrete_powder",
-    "texture": null
+    "texture": "block/lime_concrete_powder"
   },
   {
     "name": "pink_concrete_powder",
     "model": "pink_concrete_powder",
-    "texture": null
+    "texture": "block/pink_concrete_powder"
   },
   {
     "name": "gray_concrete_powder",
     "model": "gray_concrete_powder",
-    "texture": null
+    "texture": "block/gray_concrete_powder"
   },
   {
     "name": "light_gray_concrete_powder",
     "model": "light_gray_concrete_powder",
-    "texture": null
+    "texture": "block/light_gray_concrete_powder"
   },
   {
     "name": "cyan_concrete_powder",
     "model": "cyan_concrete_powder",
-    "texture": null
+    "texture": "block/cyan_concrete_powder"
   },
   {
     "name": "purple_concrete_powder",
     "model": "purple_concrete_powder",
-    "texture": null
+    "texture": "block/purple_concrete_powder"
   },
   {
     "name": "blue_concrete_powder",
     "model": "blue_concrete_powder",
-    "texture": null
+    "texture": "block/blue_concrete_powder"
   },
   {
     "name": "brown_concrete_powder",
     "model": "brown_concrete_powder",
-    "texture": null
+    "texture": "block/brown_concrete_powder"
   },
   {
     "name": "green_concrete_powder",
     "model": "green_concrete_powder",
-    "texture": null
+    "texture": "block/green_concrete_powder"
   },
   {
     "name": "red_concrete_powder",
     "model": "red_concrete_powder",
-    "texture": null
+    "texture": "block/red_concrete_powder"
   },
   {
     "name": "black_concrete_powder",
     "model": "black_concrete_powder",
-    "texture": null
+    "texture": "block/black_concrete_powder"
   },
   {
     "name": "turtle_egg",
@@ -2142,52 +2142,52 @@
   {
     "name": "dead_tube_coral_block",
     "model": "dead_tube_coral_block",
-    "texture": null
+    "texture": "block/dead_tube_coral_block"
   },
   {
     "name": "dead_brain_coral_block",
     "model": "dead_brain_coral_block",
-    "texture": null
+    "texture": "block/dead_brain_coral_block"
   },
   {
     "name": "dead_bubble_coral_block",
     "model": "dead_bubble_coral_block",
-    "texture": null
+    "texture": "block/dead_bubble_coral_block"
   },
   {
     "name": "dead_fire_coral_block",
     "model": "dead_fire_coral_block",
-    "texture": null
+    "texture": "block/dead_fire_coral_block"
   },
   {
     "name": "dead_horn_coral_block",
     "model": "dead_horn_coral_block",
-    "texture": null
+    "texture": "block/dead_horn_coral_block"
   },
   {
     "name": "tube_coral_block",
     "model": "tube_coral_block",
-    "texture": null
+    "texture": "block/tube_coral_block"
   },
   {
     "name": "brain_coral_block",
     "model": "brain_coral_block",
-    "texture": null
+    "texture": "block/brain_coral_block"
   },
   {
     "name": "bubble_coral_block",
     "model": "bubble_coral_block",
-    "texture": null
+    "texture": "block/bubble_coral_block"
   },
   {
     "name": "fire_coral_block",
     "model": "fire_coral_block",
-    "texture": null
+    "texture": "block/fire_coral_block"
   },
   {
     "name": "horn_coral_block",
     "model": "horn_coral_block",
-    "texture": null
+    "texture": "block/horn_coral_block"
   },
   {
     "name": "tube_coral",
@@ -2267,7 +2267,7 @@
   {
     "name": "blue_ice",
     "model": "blue_ice",
-    "texture": null
+    "texture": "block/blue_ice"
   },
   {
     "name": "conduit",
@@ -2322,7 +2322,7 @@
   {
     "name": "structure_block",
     "model": "structure_block",
-    "texture": null
+    "texture": "block/structure_block"
   },
   {
     "name": "turtle_helmet",
@@ -2777,7 +2777,7 @@
   {
     "name": "dried_kelp_block",
     "model": "dried_kelp_block",
-    "texture": null
+    "texture": "block/dried_kelp_side"
   },
   {
     "name": "paper",
@@ -3172,257 +3172,257 @@
   {
     "name": "bat_spawn_egg",
     "model": "bat_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "blaze_spawn_egg",
     "model": "blaze_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "cave_spider_spawn_egg",
     "model": "cave_spider_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "chicken_spawn_egg",
     "model": "chicken_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "cod_spawn_egg",
     "model": "cod_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "cow_spawn_egg",
     "model": "cow_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "creeper_spawn_egg",
     "model": "creeper_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "dolphin_spawn_egg",
     "model": "dolphin_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "donkey_spawn_egg",
     "model": "donkey_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "drowned_spawn_egg",
     "model": "drowned_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "elder_guardian_spawn_egg",
     "model": "elder_guardian_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "enderman_spawn_egg",
     "model": "enderman_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "endermite_spawn_egg",
     "model": "endermite_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "evoker_spawn_egg",
     "model": "evoker_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "ghast_spawn_egg",
     "model": "ghast_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "guardian_spawn_egg",
     "model": "guardian_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "horse_spawn_egg",
     "model": "horse_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "husk_spawn_egg",
     "model": "husk_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "llama_spawn_egg",
     "model": "llama_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "magma_cube_spawn_egg",
     "model": "magma_cube_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "mooshroom_spawn_egg",
     "model": "mooshroom_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "mule_spawn_egg",
     "model": "mule_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "ocelot_spawn_egg",
     "model": "ocelot_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "parrot_spawn_egg",
     "model": "parrot_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "phantom_spawn_egg",
     "model": "phantom_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "pig_spawn_egg",
     "model": "pig_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "polar_bear_spawn_egg",
     "model": "polar_bear_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "pufferfish_spawn_egg",
     "model": "pufferfish_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "rabbit_spawn_egg",
     "model": "rabbit_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "salmon_spawn_egg",
     "model": "salmon_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "sheep_spawn_egg",
     "model": "sheep_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "shulker_spawn_egg",
     "model": "shulker_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "silverfish_spawn_egg",
     "model": "silverfish_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "skeleton_spawn_egg",
     "model": "skeleton_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "skeleton_horse_spawn_egg",
     "model": "skeleton_horse_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "slime_spawn_egg",
     "model": "slime_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "spider_spawn_egg",
     "model": "spider_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "squid_spawn_egg",
     "model": "squid_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "stray_spawn_egg",
     "model": "stray_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "tropical_fish_spawn_egg",
     "model": "tropical_fish_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "turtle_spawn_egg",
     "model": "turtle_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "vex_spawn_egg",
     "model": "vex_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "villager_spawn_egg",
     "model": "villager_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "vindicator_spawn_egg",
     "model": "vindicator_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "witch_spawn_egg",
     "model": "witch_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "wither_skeleton_spawn_egg",
     "model": "wither_skeleton_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "wolf_spawn_egg",
     "model": "wolf_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "zombie_spawn_egg",
     "model": "zombie_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "zombie_horse_spawn_egg",
     "model": "zombie_horse_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "zombie_pigman_spawn_egg",
     "model": "zombie_pigman_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "zombie_villager_spawn_egg",
     "model": "zombie_villager_spawn_egg",
-    "texture": null
+    "texture": "items/spawn_egg"
   },
   {
     "name": "experience_bottle",
