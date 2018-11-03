@@ -397,12 +397,12 @@
   {
     "name": "seagrass",
     "model": "seagrass",
-    "texture": "item/seagrass"
+    "texture": "items/seagrass"
   },
   {
     "name": "sea_pickle",
     "model": "sea_pickle",
-    "texture": "item/sea_pickle"
+    "texture": "items/sea_pickle"
   },
   {
     "name": "piston",
@@ -1282,7 +1282,7 @@
   {
     "name": "hopper",
     "model": "hopper",
-    "texture": "item/hopper"
+    "texture": "items/hopper"
   },
   {
     "name": "chiseled_quartz_block",
@@ -1397,7 +1397,7 @@
   {
     "name": "barrier",
     "model": "barrier",
-    "texture": "item/barrier"
+    "texture": "items/barrier"
   },
   {
     "name": "iron_trapdoor",
@@ -1802,7 +1802,7 @@
   {
     "name": "structure_void",
     "model": "structure_void",
-    "texture": "item/structure_void"
+    "texture": "items/structure_void"
   },
   {
     "name": "observer",
@@ -2137,7 +2137,7 @@
   {
     "name": "turtle_egg",
     "model": "turtle_egg",
-    "texture": "item/turtle_egg"
+    "texture": "items/turtle_egg"
   },
   {
     "name": "dead_tube_coral_block",
@@ -2277,47 +2277,47 @@
   {
     "name": "iron_door",
     "model": "iron_door",
-    "texture": "item/iron_door"
+    "texture": "items/iron_door"
   },
   {
     "name": "oak_door",
     "model": "oak_door",
-    "texture": "item/oak_door"
+    "texture": "items/oak_door"
   },
   {
     "name": "spruce_door",
     "model": "spruce_door",
-    "texture": "item/spruce_door"
+    "texture": "items/spruce_door"
   },
   {
     "name": "birch_door",
     "model": "birch_door",
-    "texture": "item/birch_door"
+    "texture": "items/birch_door"
   },
   {
     "name": "jungle_door",
     "model": "jungle_door",
-    "texture": "item/jungle_door"
+    "texture": "items/jungle_door"
   },
   {
     "name": "acacia_door",
     "model": "acacia_door",
-    "texture": "item/acacia_door"
+    "texture": "items/acacia_door"
   },
   {
     "name": "dark_oak_door",
     "model": "dark_oak_door",
-    "texture": "item/dark_oak_door"
+    "texture": "items/dark_oak_door"
   },
   {
     "name": "repeater",
     "model": "repeater",
-    "texture": "item/repeater"
+    "texture": "items/repeater"
   },
   {
     "name": "comparator",
     "model": "comparator",
-    "texture": "item/comparator"
+    "texture": "items/comparator"
   },
   {
     "name": "structure_block",
@@ -2327,452 +2327,452 @@
   {
     "name": "turtle_helmet",
     "model": "turtle_helmet",
-    "texture": "item/turtle_helmet"
+    "texture": "items/turtle_helmet"
   },
   {
     "name": "scute",
     "model": "scute",
-    "texture": "item/scute"
+    "texture": "items/scute"
   },
   {
     "name": "iron_shovel",
     "model": "iron_shovel",
-    "texture": "item/iron_shovel"
+    "texture": "items/iron_shovel"
   },
   {
     "name": "iron_pickaxe",
     "model": "iron_pickaxe",
-    "texture": "item/iron_pickaxe"
+    "texture": "items/iron_pickaxe"
   },
   {
     "name": "iron_axe",
     "model": "iron_axe",
-    "texture": "item/iron_axe"
+    "texture": "items/iron_axe"
   },
   {
     "name": "flint_and_steel",
     "model": "flint_and_steel",
-    "texture": "item/flint_and_steel"
+    "texture": "items/flint_and_steel"
   },
   {
     "name": "apple",
     "model": "apple",
-    "texture": "item/apple"
+    "texture": "items/apple"
   },
   {
     "name": "bow",
     "model": "bow",
-    "texture": "item/bow"
+    "texture": "items/bow"
   },
   {
     "name": "arrow",
     "model": "arrow",
-    "texture": "item/arrow"
+    "texture": "items/arrow"
   },
   {
     "name": "coal",
     "model": "coal",
-    "texture": "item/coal"
+    "texture": "items/coal"
   },
   {
     "name": "charcoal",
     "model": "charcoal",
-    "texture": "item/charcoal"
+    "texture": "items/charcoal"
   },
   {
     "name": "diamond",
     "model": "diamond",
-    "texture": "item/diamond"
+    "texture": "items/diamond"
   },
   {
     "name": "iron_ingot",
     "model": "iron_ingot",
-    "texture": "item/iron_ingot"
+    "texture": "items/iron_ingot"
   },
   {
     "name": "gold_ingot",
     "model": "gold_ingot",
-    "texture": "item/gold_ingot"
+    "texture": "items/gold_ingot"
   },
   {
     "name": "iron_sword",
     "model": "iron_sword",
-    "texture": "item/iron_sword"
+    "texture": "items/iron_sword"
   },
   {
     "name": "wooden_sword",
     "model": "wooden_sword",
-    "texture": "item/wooden_sword"
+    "texture": "items/wooden_sword"
   },
   {
     "name": "wooden_shovel",
     "model": "wooden_shovel",
-    "texture": "item/wooden_shovel"
+    "texture": "items/wooden_shovel"
   },
   {
     "name": "wooden_pickaxe",
     "model": "wooden_pickaxe",
-    "texture": "item/wooden_pickaxe"
+    "texture": "items/wooden_pickaxe"
   },
   {
     "name": "wooden_axe",
     "model": "wooden_axe",
-    "texture": "item/wooden_axe"
+    "texture": "items/wooden_axe"
   },
   {
     "name": "stone_sword",
     "model": "stone_sword",
-    "texture": "item/stone_sword"
+    "texture": "items/stone_sword"
   },
   {
     "name": "stone_shovel",
     "model": "stone_shovel",
-    "texture": "item/stone_shovel"
+    "texture": "items/stone_shovel"
   },
   {
     "name": "stone_pickaxe",
     "model": "stone_pickaxe",
-    "texture": "item/stone_pickaxe"
+    "texture": "items/stone_pickaxe"
   },
   {
     "name": "stone_axe",
     "model": "stone_axe",
-    "texture": "item/stone_axe"
+    "texture": "items/stone_axe"
   },
   {
     "name": "diamond_sword",
     "model": "diamond_sword",
-    "texture": "item/diamond_sword"
+    "texture": "items/diamond_sword"
   },
   {
     "name": "diamond_shovel",
     "model": "diamond_shovel",
-    "texture": "item/diamond_shovel"
+    "texture": "items/diamond_shovel"
   },
   {
     "name": "diamond_pickaxe",
     "model": "diamond_pickaxe",
-    "texture": "item/diamond_pickaxe"
+    "texture": "items/diamond_pickaxe"
   },
   {
     "name": "diamond_axe",
     "model": "diamond_axe",
-    "texture": "item/diamond_axe"
+    "texture": "items/diamond_axe"
   },
   {
     "name": "stick",
     "model": "stick",
-    "texture": "item/stick"
+    "texture": "items/stick"
   },
   {
     "name": "bowl",
     "model": "bowl",
-    "texture": "item/bowl"
+    "texture": "items/bowl"
   },
   {
     "name": "mushroom_stew",
     "model": "mushroom_stew",
-    "texture": "item/mushroom_stew"
+    "texture": "items/mushroom_stew"
   },
   {
     "name": "golden_sword",
     "model": "golden_sword",
-    "texture": "item/golden_sword"
+    "texture": "items/golden_sword"
   },
   {
     "name": "golden_shovel",
     "model": "golden_shovel",
-    "texture": "item/golden_shovel"
+    "texture": "items/golden_shovel"
   },
   {
     "name": "golden_pickaxe",
     "model": "golden_pickaxe",
-    "texture": "item/golden_pickaxe"
+    "texture": "items/golden_pickaxe"
   },
   {
     "name": "golden_axe",
     "model": "golden_axe",
-    "texture": "item/golden_axe"
+    "texture": "items/golden_axe"
   },
   {
     "name": "string",
     "model": "string",
-    "texture": "item/string"
+    "texture": "items/string"
   },
   {
     "name": "feather",
     "model": "feather",
-    "texture": "item/feather"
+    "texture": "items/feather"
   },
   {
     "name": "gunpowder",
     "model": "gunpowder",
-    "texture": "item/gunpowder"
+    "texture": "items/gunpowder"
   },
   {
     "name": "wooden_hoe",
     "model": "wooden_hoe",
-    "texture": "item/wooden_hoe"
+    "texture": "items/wooden_hoe"
   },
   {
     "name": "stone_hoe",
     "model": "stone_hoe",
-    "texture": "item/stone_hoe"
+    "texture": "items/stone_hoe"
   },
   {
     "name": "iron_hoe",
     "model": "iron_hoe",
-    "texture": "item/iron_hoe"
+    "texture": "items/iron_hoe"
   },
   {
     "name": "diamond_hoe",
     "model": "diamond_hoe",
-    "texture": "item/diamond_hoe"
+    "texture": "items/diamond_hoe"
   },
   {
     "name": "golden_hoe",
     "model": "golden_hoe",
-    "texture": "item/golden_hoe"
+    "texture": "items/golden_hoe"
   },
   {
     "name": "wheat_seeds",
     "model": "wheat_seeds",
-    "texture": "item/wheat_seeds"
+    "texture": "items/wheat_seeds"
   },
   {
     "name": "wheat",
     "model": "wheat",
-    "texture": "item/wheat"
+    "texture": "items/wheat"
   },
   {
     "name": "bread",
     "model": "bread",
-    "texture": "item/bread"
+    "texture": "items/bread"
   },
   {
     "name": "leather_helmet",
     "model": "leather_helmet",
-    "texture": "item/leather_helmet"
+    "texture": "items/leather_helmet"
   },
   {
     "name": "leather_chestplate",
     "model": "leather_chestplate",
-    "texture": "item/leather_chestplate"
+    "texture": "items/leather_chestplate"
   },
   {
     "name": "leather_leggings",
     "model": "leather_leggings",
-    "texture": "item/leather_leggings"
+    "texture": "items/leather_leggings"
   },
   {
     "name": "leather_boots",
     "model": "leather_boots",
-    "texture": "item/leather_boots"
+    "texture": "items/leather_boots"
   },
   {
     "name": "chainmail_helmet",
     "model": "chainmail_helmet",
-    "texture": "item/chainmail_helmet"
+    "texture": "items/chainmail_helmet"
   },
   {
     "name": "chainmail_chestplate",
     "model": "chainmail_chestplate",
-    "texture": "item/chainmail_chestplate"
+    "texture": "items/chainmail_chestplate"
   },
   {
     "name": "chainmail_leggings",
     "model": "chainmail_leggings",
-    "texture": "item/chainmail_leggings"
+    "texture": "items/chainmail_leggings"
   },
   {
     "name": "chainmail_boots",
     "model": "chainmail_boots",
-    "texture": "item/chainmail_boots"
+    "texture": "items/chainmail_boots"
   },
   {
     "name": "iron_helmet",
     "model": "iron_helmet",
-    "texture": "item/iron_helmet"
+    "texture": "items/iron_helmet"
   },
   {
     "name": "iron_chestplate",
     "model": "iron_chestplate",
-    "texture": "item/iron_chestplate"
+    "texture": "items/iron_chestplate"
   },
   {
     "name": "iron_leggings",
     "model": "iron_leggings",
-    "texture": "item/iron_leggings"
+    "texture": "items/iron_leggings"
   },
   {
     "name": "iron_boots",
     "model": "iron_boots",
-    "texture": "item/iron_boots"
+    "texture": "items/iron_boots"
   },
   {
     "name": "diamond_helmet",
     "model": "diamond_helmet",
-    "texture": "item/diamond_helmet"
+    "texture": "items/diamond_helmet"
   },
   {
     "name": "diamond_chestplate",
     "model": "diamond_chestplate",
-    "texture": "item/diamond_chestplate"
+    "texture": "items/diamond_chestplate"
   },
   {
     "name": "diamond_leggings",
     "model": "diamond_leggings",
-    "texture": "item/diamond_leggings"
+    "texture": "items/diamond_leggings"
   },
   {
     "name": "diamond_boots",
     "model": "diamond_boots",
-    "texture": "item/diamond_boots"
+    "texture": "items/diamond_boots"
   },
   {
     "name": "golden_helmet",
     "model": "golden_helmet",
-    "texture": "item/golden_helmet"
+    "texture": "items/golden_helmet"
   },
   {
     "name": "golden_chestplate",
     "model": "golden_chestplate",
-    "texture": "item/golden_chestplate"
+    "texture": "items/golden_chestplate"
   },
   {
     "name": "golden_leggings",
     "model": "golden_leggings",
-    "texture": "item/golden_leggings"
+    "texture": "items/golden_leggings"
   },
   {
     "name": "golden_boots",
     "model": "golden_boots",
-    "texture": "item/golden_boots"
+    "texture": "items/golden_boots"
   },
   {
     "name": "flint",
     "model": "flint",
-    "texture": "item/flint"
+    "texture": "items/flint"
   },
   {
     "name": "porkchop",
     "model": "porkchop",
-    "texture": "item/porkchop"
+    "texture": "items/porkchop"
   },
   {
     "name": "cooked_porkchop",
     "model": "cooked_porkchop",
-    "texture": "item/cooked_porkchop"
+    "texture": "items/cooked_porkchop"
   },
   {
     "name": "painting",
     "model": "painting",
-    "texture": "item/painting"
+    "texture": "items/painting"
   },
   {
     "name": "golden_apple",
     "model": "golden_apple",
-    "texture": "item/golden_apple"
+    "texture": "items/golden_apple"
   },
   {
     "name": "enchanted_golden_apple",
     "model": "enchanted_golden_apple",
-    "texture": "item/golden_apple"
+    "texture": "items/golden_apple"
   },
   {
     "name": "sign",
     "model": "sign",
-    "texture": "item/sign"
+    "texture": "items/sign"
   },
   {
     "name": "bucket",
     "model": "bucket",
-    "texture": "item/bucket"
+    "texture": "items/bucket"
   },
   {
     "name": "water_bucket",
     "model": "water_bucket",
-    "texture": "item/water_bucket"
+    "texture": "items/water_bucket"
   },
   {
     "name": "lava_bucket",
     "model": "lava_bucket",
-    "texture": "item/lava_bucket"
+    "texture": "items/lava_bucket"
   },
   {
     "name": "minecart",
     "model": "minecart",
-    "texture": "item/minecart"
+    "texture": "items/minecart"
   },
   {
     "name": "saddle",
     "model": "saddle",
-    "texture": "item/saddle"
+    "texture": "items/saddle"
   },
   {
     "name": "redstone",
     "model": "redstone",
-    "texture": "item/redstone"
+    "texture": "items/redstone"
   },
   {
     "name": "snowball",
     "model": "snowball",
-    "texture": "item/snowball"
+    "texture": "items/snowball"
   },
   {
     "name": "oak_boat",
     "model": "oak_boat",
-    "texture": "item/oak_boat"
+    "texture": "items/oak_boat"
   },
   {
     "name": "leather",
     "model": "leather",
-    "texture": "item/leather"
+    "texture": "items/leather"
   },
   {
     "name": "milk_bucket",
     "model": "milk_bucket",
-    "texture": "item/milk_bucket"
+    "texture": "items/milk_bucket"
   },
   {
     "name": "pufferfish_bucket",
     "model": "pufferfish_bucket",
-    "texture": "item/pufferfish_bucket"
+    "texture": "items/pufferfish_bucket"
   },
   {
     "name": "salmon_bucket",
     "model": "salmon_bucket",
-    "texture": "item/salmon_bucket"
+    "texture": "items/salmon_bucket"
   },
   {
     "name": "cod_bucket",
     "model": "cod_bucket",
-    "texture": "item/cod_bucket"
+    "texture": "items/cod_bucket"
   },
   {
     "name": "tropical_fish_bucket",
     "model": "tropical_fish_bucket",
-    "texture": "item/tropical_fish_bucket"
+    "texture": "items/tropical_fish_bucket"
   },
   {
     "name": "brick",
     "model": "brick",
-    "texture": "item/brick"
+    "texture": "items/brick"
   },
   {
     "name": "clay_ball",
     "model": "clay_ball",
-    "texture": "item/clay_ball"
+    "texture": "items/clay_ball"
   },
   {
     "name": "sugar_cane",
     "model": "sugar_cane",
-    "texture": "item/sugar_cane"
+    "texture": "items/sugar_cane"
   },
   {
     "name": "kelp",
     "model": "kelp",
-    "texture": "item/kelp"
+    "texture": "items/kelp"
   },
   {
     "name": "dried_kelp_block",
@@ -2782,177 +2782,177 @@
   {
     "name": "paper",
     "model": "paper",
-    "texture": "item/paper"
+    "texture": "items/paper"
   },
   {
     "name": "book",
     "model": "book",
-    "texture": "item/book"
+    "texture": "items/book"
   },
   {
     "name": "slime_ball",
     "model": "slime_ball",
-    "texture": "item/slime_ball"
+    "texture": "items/slime_ball"
   },
   {
     "name": "chest_minecart",
     "model": "chest_minecart",
-    "texture": "item/chest_minecart"
+    "texture": "items/chest_minecart"
   },
   {
     "name": "furnace_minecart",
     "model": "furnace_minecart",
-    "texture": "item/furnace_minecart"
+    "texture": "items/furnace_minecart"
   },
   {
     "name": "egg",
     "model": "egg",
-    "texture": "item/egg"
+    "texture": "items/egg"
   },
   {
     "name": "compass",
     "model": "compass",
-    "texture": "item/compass_16"
+    "texture": "items/compass_16"
   },
   {
     "name": "fishing_rod",
     "model": "fishing_rod",
-    "texture": "item/fishing_rod"
+    "texture": "items/fishing_rod"
   },
   {
     "name": "clock",
     "model": "clock",
-    "texture": "item/clock_00"
+    "texture": "items/clock_00"
   },
   {
     "name": "glowstone_dust",
     "model": "glowstone_dust",
-    "texture": "item/glowstone_dust"
+    "texture": "items/glowstone_dust"
   },
   {
     "name": "cod",
     "model": "cod",
-    "texture": "item/cod"
+    "texture": "items/cod"
   },
   {
     "name": "salmon",
     "model": "salmon",
-    "texture": "item/salmon"
+    "texture": "items/salmon"
   },
   {
     "name": "tropical_fish",
     "model": "tropical_fish",
-    "texture": "item/tropical_fish"
+    "texture": "items/tropical_fish"
   },
   {
     "name": "pufferfish",
     "model": "pufferfish",
-    "texture": "item/pufferfish"
+    "texture": "items/pufferfish"
   },
   {
     "name": "cooked_cod",
     "model": "cooked_cod",
-    "texture": "item/cooked_cod"
+    "texture": "items/cooked_cod"
   },
   {
     "name": "cooked_salmon",
     "model": "cooked_salmon",
-    "texture": "item/cooked_salmon"
+    "texture": "items/cooked_salmon"
   },
   {
     "name": "ink_sac",
     "model": "ink_sac",
-    "texture": "item/ink_sac"
+    "texture": "items/ink_sac"
   },
   {
     "name": "rose_red",
     "model": "rose_red",
-    "texture": "item/rose_red"
+    "texture": "items/rose_red"
   },
   {
     "name": "cactus_green",
     "model": "cactus_green",
-    "texture": "item/cactus_green"
+    "texture": "items/cactus_green"
   },
   {
     "name": "cocoa_beans",
     "model": "cocoa_beans",
-    "texture": "item/cocoa_beans"
+    "texture": "items/cocoa_beans"
   },
   {
     "name": "lapis_lazuli",
     "model": "lapis_lazuli",
-    "texture": "item/lapis_lazuli"
+    "texture": "items/lapis_lazuli"
   },
   {
     "name": "purple_dye",
     "model": "purple_dye",
-    "texture": "item/purple_dye"
+    "texture": "items/purple_dye"
   },
   {
     "name": "cyan_dye",
     "model": "cyan_dye",
-    "texture": "item/cyan_dye"
+    "texture": "items/cyan_dye"
   },
   {
     "name": "light_gray_dye",
     "model": "light_gray_dye",
-    "texture": "item/light_gray_dye"
+    "texture": "items/light_gray_dye"
   },
   {
     "name": "gray_dye",
     "model": "gray_dye",
-    "texture": "item/gray_dye"
+    "texture": "items/gray_dye"
   },
   {
     "name": "pink_dye",
     "model": "pink_dye",
-    "texture": "item/pink_dye"
+    "texture": "items/pink_dye"
   },
   {
     "name": "lime_dye",
     "model": "lime_dye",
-    "texture": "item/lime_dye"
+    "texture": "items/lime_dye"
   },
   {
     "name": "dandelion_yellow",
     "model": "dandelion_yellow",
-    "texture": "item/dandelion_yellow"
+    "texture": "items/dandelion_yellow"
   },
   {
     "name": "light_blue_dye",
     "model": "light_blue_dye",
-    "texture": "item/light_blue_dye"
+    "texture": "items/light_blue_dye"
   },
   {
     "name": "magenta_dye",
     "model": "magenta_dye",
-    "texture": "item/magenta_dye"
+    "texture": "items/magenta_dye"
   },
   {
     "name": "orange_dye",
     "model": "orange_dye",
-    "texture": "item/orange_dye"
+    "texture": "items/orange_dye"
   },
   {
     "name": "bone_meal",
     "model": "bone_meal",
-    "texture": "item/bone_meal"
+    "texture": "items/bone_meal"
   },
   {
     "name": "bone",
     "model": "bone",
-    "texture": "item/bone"
+    "texture": "items/bone"
   },
   {
     "name": "sugar",
     "model": "sugar",
-    "texture": "item/sugar"
+    "texture": "items/sugar"
   },
   {
     "name": "cake",
     "model": "cake",
-    "texture": "item/cake"
+    "texture": "items/cake"
   },
   {
     "name": "white_bed",
@@ -3037,137 +3037,137 @@
   {
     "name": "cookie",
     "model": "cookie",
-    "texture": "item/cookie"
+    "texture": "items/cookie"
   },
   {
     "name": "filled_map",
     "model": "filled_map",
-    "texture": "item/filled_map"
+    "texture": "items/filled_map"
   },
   {
     "name": "shears",
     "model": "shears",
-    "texture": "item/shears"
+    "texture": "items/shears"
   },
   {
     "name": "melon_slice",
     "model": "melon_slice",
-    "texture": "item/melon_slice"
+    "texture": "items/melon_slice"
   },
   {
     "name": "dried_kelp",
     "model": "dried_kelp",
-    "texture": "item/dried_kelp"
+    "texture": "items/dried_kelp"
   },
   {
     "name": "pumpkin_seeds",
     "model": "pumpkin_seeds",
-    "texture": "item/pumpkin_seeds"
+    "texture": "items/pumpkin_seeds"
   },
   {
     "name": "melon_seeds",
     "model": "melon_seeds",
-    "texture": "item/melon_seeds"
+    "texture": "items/melon_seeds"
   },
   {
     "name": "beef",
     "model": "beef",
-    "texture": "item/beef"
+    "texture": "items/beef"
   },
   {
     "name": "cooked_beef",
     "model": "cooked_beef",
-    "texture": "item/cooked_beef"
+    "texture": "items/cooked_beef"
   },
   {
     "name": "chicken",
     "model": "chicken",
-    "texture": "item/chicken"
+    "texture": "items/chicken"
   },
   {
     "name": "cooked_chicken",
     "model": "cooked_chicken",
-    "texture": "item/cooked_chicken"
+    "texture": "items/cooked_chicken"
   },
   {
     "name": "rotten_flesh",
     "model": "rotten_flesh",
-    "texture": "item/rotten_flesh"
+    "texture": "items/rotten_flesh"
   },
   {
     "name": "ender_pearl",
     "model": "ender_pearl",
-    "texture": "item/ender_pearl"
+    "texture": "items/ender_pearl"
   },
   {
     "name": "blaze_rod",
     "model": "blaze_rod",
-    "texture": "item/blaze_rod"
+    "texture": "items/blaze_rod"
   },
   {
     "name": "ghast_tear",
     "model": "ghast_tear",
-    "texture": "item/ghast_tear"
+    "texture": "items/ghast_tear"
   },
   {
     "name": "gold_nugget",
     "model": "gold_nugget",
-    "texture": "item/gold_nugget"
+    "texture": "items/gold_nugget"
   },
   {
     "name": "nether_wart",
     "model": "nether_wart",
-    "texture": "item/nether_wart"
+    "texture": "items/nether_wart"
   },
   {
     "name": "potion",
     "model": "potion",
-    "texture": "item/potion_overlay"
+    "texture": "items/potion_overlay"
   },
   {
     "name": "glass_bottle",
     "model": "glass_bottle",
-    "texture": "item/glass_bottle"
+    "texture": "items/glass_bottle"
   },
   {
     "name": "spider_eye",
     "model": "spider_eye",
-    "texture": "item/spider_eye"
+    "texture": "items/spider_eye"
   },
   {
     "name": "fermented_spider_eye",
     "model": "fermented_spider_eye",
-    "texture": "item/fermented_spider_eye"
+    "texture": "items/fermented_spider_eye"
   },
   {
     "name": "blaze_powder",
     "model": "blaze_powder",
-    "texture": "item/blaze_powder"
+    "texture": "items/blaze_powder"
   },
   {
     "name": "magma_cream",
     "model": "magma_cream",
-    "texture": "item/magma_cream"
+    "texture": "items/magma_cream"
   },
   {
     "name": "brewing_stand",
     "model": "brewing_stand",
-    "texture": "item/brewing_stand"
+    "texture": "items/brewing_stand"
   },
   {
     "name": "cauldron",
     "model": "cauldron",
-    "texture": "item/cauldron"
+    "texture": "items/cauldron"
   },
   {
     "name": "ender_eye",
     "model": "ender_eye",
-    "texture": "item/ender_eye"
+    "texture": "items/ender_eye"
   },
   {
     "name": "glistering_melon_slice",
     "model": "glistering_melon_slice",
-    "texture": "item/glistering_melon_slice"
+    "texture": "items/glistering_melon_slice"
   },
   {
     "name": "bat_spawn_egg",
@@ -3427,67 +3427,67 @@
   {
     "name": "experience_bottle",
     "model": "experience_bottle",
-    "texture": "item/experience_bottle"
+    "texture": "items/experience_bottle"
   },
   {
     "name": "fire_charge",
     "model": "fire_charge",
-    "texture": "item/fire_charge"
+    "texture": "items/fire_charge"
   },
   {
     "name": "writable_book",
     "model": "writable_book",
-    "texture": "item/writable_book"
+    "texture": "items/writable_book"
   },
   {
     "name": "written_book",
     "model": "written_book",
-    "texture": "item/written_book"
+    "texture": "items/written_book"
   },
   {
     "name": "emerald",
     "model": "emerald",
-    "texture": "item/emerald"
+    "texture": "items/emerald"
   },
   {
     "name": "item_frame",
     "model": "item_frame",
-    "texture": "item/item_frame"
+    "texture": "items/item_frame"
   },
   {
     "name": "flower_pot",
     "model": "flower_pot",
-    "texture": "item/flower_pot"
+    "texture": "items/flower_pot"
   },
   {
     "name": "carrot",
     "model": "carrot",
-    "texture": "item/carrot"
+    "texture": "items/carrot"
   },
   {
     "name": "potato",
     "model": "potato",
-    "texture": "item/potato"
+    "texture": "items/potato"
   },
   {
     "name": "baked_potato",
     "model": "baked_potato",
-    "texture": "item/baked_potato"
+    "texture": "items/baked_potato"
   },
   {
     "name": "poisonous_potato",
     "model": "poisonous_potato",
-    "texture": "item/poisonous_potato"
+    "texture": "items/poisonous_potato"
   },
   {
     "name": "map",
     "model": "map",
-    "texture": "item/map"
+    "texture": "items/map"
   },
   {
     "name": "golden_carrot",
     "model": "golden_carrot",
-    "texture": "item/golden_carrot"
+    "texture": "items/golden_carrot"
   },
   {
     "name": "skeleton_skull",
@@ -3522,132 +3522,132 @@
   {
     "name": "carrot_on_a_stick",
     "model": "carrot_on_a_stick",
-    "texture": "item/carrot_on_a_stick"
+    "texture": "items/carrot_on_a_stick"
   },
   {
     "name": "nether_star",
     "model": "nether_star",
-    "texture": "item/nether_star"
+    "texture": "items/nether_star"
   },
   {
     "name": "pumpkin_pie",
     "model": "pumpkin_pie",
-    "texture": "item/pumpkin_pie"
+    "texture": "items/pumpkin_pie"
   },
   {
     "name": "firework_rocket",
     "model": "firework_rocket",
-    "texture": "item/firework_rocket"
+    "texture": "items/firework_rocket"
   },
   {
     "name": "firework_star",
     "model": "firework_star",
-    "texture": "item/firework_star"
+    "texture": "items/firework_star"
   },
   {
     "name": "enchanted_book",
     "model": "enchanted_book",
-    "texture": "item/enchanted_book"
+    "texture": "items/enchanted_book"
   },
   {
     "name": "nether_brick",
     "model": "nether_brick",
-    "texture": "item/nether_brick"
+    "texture": "items/nether_brick"
   },
   {
     "name": "quartz",
     "model": "quartz",
-    "texture": "item/quartz"
+    "texture": "items/quartz"
   },
   {
     "name": "tnt_minecart",
     "model": "tnt_minecart",
-    "texture": "item/tnt_minecart"
+    "texture": "items/tnt_minecart"
   },
   {
     "name": "hopper_minecart",
     "model": "hopper_minecart",
-    "texture": "item/hopper_minecart"
+    "texture": "items/hopper_minecart"
   },
   {
     "name": "prismarine_shard",
     "model": "prismarine_shard",
-    "texture": "item/prismarine_shard"
+    "texture": "items/prismarine_shard"
   },
   {
     "name": "prismarine_crystals",
     "model": "prismarine_crystals",
-    "texture": "item/prismarine_crystals"
+    "texture": "items/prismarine_crystals"
   },
   {
     "name": "rabbit",
     "model": "rabbit",
-    "texture": "item/rabbit"
+    "texture": "items/rabbit"
   },
   {
     "name": "cooked_rabbit",
     "model": "cooked_rabbit",
-    "texture": "item/cooked_rabbit"
+    "texture": "items/cooked_rabbit"
   },
   {
     "name": "rabbit_stew",
     "model": "rabbit_stew",
-    "texture": "item/rabbit_stew"
+    "texture": "items/rabbit_stew"
   },
   {
     "name": "rabbit_foot",
     "model": "rabbit_foot",
-    "texture": "item/rabbit_foot"
+    "texture": "items/rabbit_foot"
   },
   {
     "name": "rabbit_hide",
     "model": "rabbit_hide",
-    "texture": "item/rabbit_hide"
+    "texture": "items/rabbit_hide"
   },
   {
     "name": "armor_stand",
     "model": "armor_stand",
-    "texture": "item/armor_stand"
+    "texture": "items/armor_stand"
   },
   {
     "name": "iron_horse_armor",
     "model": "iron_horse_armor",
-    "texture": "item/iron_horse_armor"
+    "texture": "items/iron_horse_armor"
   },
   {
     "name": "golden_horse_armor",
     "model": "golden_horse_armor",
-    "texture": "item/golden_horse_armor"
+    "texture": "items/golden_horse_armor"
   },
   {
     "name": "diamond_horse_armor",
     "model": "diamond_horse_armor",
-    "texture": "item/diamond_horse_armor"
+    "texture": "items/diamond_horse_armor"
   },
   {
     "name": "lead",
     "model": "lead",
-    "texture": "item/lead"
+    "texture": "items/lead"
   },
   {
     "name": "name_tag",
     "model": "name_tag",
-    "texture": "item/name_tag"
+    "texture": "items/name_tag"
   },
   {
     "name": "command_block_minecart",
     "model": "command_block_minecart",
-    "texture": "item/command_block_minecart"
+    "texture": "items/command_block_minecart"
   },
   {
     "name": "mutton",
     "model": "mutton",
-    "texture": "item/mutton"
+    "texture": "items/mutton"
   },
   {
     "name": "cooked_mutton",
     "model": "cooked_mutton",
-    "texture": "item/cooked_mutton"
+    "texture": "items/cooked_mutton"
   },
   {
     "name": "white_banner",
@@ -3732,57 +3732,57 @@
   {
     "name": "end_crystal",
     "model": "end_crystal",
-    "texture": "item/end_crystal"
+    "texture": "items/end_crystal"
   },
   {
     "name": "chorus_fruit",
     "model": "chorus_fruit",
-    "texture": "item/chorus_fruit"
+    "texture": "items/chorus_fruit"
   },
   {
     "name": "popped_chorus_fruit",
     "model": "popped_chorus_fruit",
-    "texture": "item/popped_chorus_fruit"
+    "texture": "items/popped_chorus_fruit"
   },
   {
     "name": "beetroot",
     "model": "beetroot",
-    "texture": "item/beetroot"
+    "texture": "items/beetroot"
   },
   {
     "name": "beetroot_seeds",
     "model": "beetroot_seeds",
-    "texture": "item/beetroot_seeds"
+    "texture": "items/beetroot_seeds"
   },
   {
     "name": "beetroot_soup",
     "model": "beetroot_soup",
-    "texture": "item/beetroot_soup"
+    "texture": "items/beetroot_soup"
   },
   {
     "name": "dragon_breath",
     "model": "dragon_breath",
-    "texture": "item/dragon_breath"
+    "texture": "items/dragon_breath"
   },
   {
     "name": "splash_potion",
     "model": "splash_potion",
-    "texture": "item/potion_overlay"
+    "texture": "items/potion_overlay"
   },
   {
     "name": "spectral_arrow",
     "model": "spectral_arrow",
-    "texture": "item/spectral_arrow"
+    "texture": "items/spectral_arrow"
   },
   {
     "name": "tipped_arrow",
     "model": "tipped_arrow",
-    "texture": "item/tipped_arrow_head"
+    "texture": "items/tipped_arrow_head"
   },
   {
     "name": "lingering_potion",
     "model": "lingering_potion",
-    "texture": "item/potion_overlay"
+    "texture": "items/potion_overlay"
   },
   {
     "name": "shield",
@@ -3792,136 +3792,136 @@
   {
     "name": "elytra",
     "model": "elytra",
-    "texture": "item/elytra"
+    "texture": "items/elytra"
   },
   {
     "name": "spruce_boat",
     "model": "spruce_boat",
-    "texture": "item/spruce_boat"
+    "texture": "items/spruce_boat"
   },
   {
     "name": "birch_boat",
     "model": "birch_boat",
-    "texture": "item/birch_boat"
+    "texture": "items/birch_boat"
   },
   {
     "name": "jungle_boat",
     "model": "jungle_boat",
-    "texture": "item/jungle_boat"
+    "texture": "items/jungle_boat"
   },
   {
     "name": "acacia_boat",
     "model": "acacia_boat",
-    "texture": "item/acacia_boat"
+    "texture": "items/acacia_boat"
   },
   {
     "name": "dark_oak_boat",
     "model": "dark_oak_boat",
-    "texture": "item/dark_oak_boat"
+    "texture": "items/dark_oak_boat"
   },
   {
     "name": "totem_of_undying",
     "model": "totem_of_undying",
-    "texture": "item/totem_of_undying"
+    "texture": "items/totem_of_undying"
   },
   {
     "name": "shulker_shell",
     "model": "shulker_shell",
-    "texture": "item/shulker_shell"
+    "texture": "items/shulker_shell"
   },
   {
     "name": "iron_nugget",
     "model": "iron_nugget",
-    "texture": "item/iron_nugget"
+    "texture": "items/iron_nugget"
   },
   {
     "name": "knowledge_book",
     "model": "knowledge_book",
-    "texture": "item/knowledge_book"
+    "texture": "items/knowledge_book"
   },
   {
     "name": "debug_stick",
     "model": "debug_stick",
-    "texture": "item/stick"
+    "texture": "items/stick"
   },
   {
     "name": "music_disc_13",
     "model": "music_disc_13",
-    "texture": "item/music_disc_13"
+    "texture": "items/music_disc_13"
   },
   {
     "name": "music_disc_cat",
     "model": "music_disc_cat",
-    "texture": "item/music_disc_cat"
+    "texture": "items/music_disc_cat"
   },
   {
     "name": "music_disc_blocks",
     "model": "music_disc_blocks",
-    "texture": "item/music_disc_blocks"
+    "texture": "items/music_disc_blocks"
   },
   {
     "name": "music_disc_chirp",
     "model": "music_disc_chirp",
-    "texture": "item/music_disc_chirp"
+    "texture": "items/music_disc_chirp"
   },
   {
     "name": "music_disc_far",
     "model": "music_disc_far",
-    "texture": "item/music_disc_far"
+    "texture": "items/music_disc_far"
   },
   {
     "name": "music_disc_mall",
     "model": "music_disc_mall",
-    "texture": "item/music_disc_mall"
+    "texture": "items/music_disc_mall"
   },
   {
     "name": "music_disc_mellohi",
     "model": "music_disc_mellohi",
-    "texture": "item/music_disc_mellohi"
+    "texture": "items/music_disc_mellohi"
   },
   {
     "name": "music_disc_stal",
     "model": "music_disc_stal",
-    "texture": "item/music_disc_stal"
+    "texture": "items/music_disc_stal"
   },
   {
     "name": "music_disc_strad",
     "model": "music_disc_strad",
-    "texture": "item/music_disc_strad"
+    "texture": "items/music_disc_strad"
   },
   {
     "name": "music_disc_ward",
     "model": "music_disc_ward",
-    "texture": "item/music_disc_ward"
+    "texture": "items/music_disc_ward"
   },
   {
     "name": "music_disc_11",
     "model": "music_disc_11",
-    "texture": "item/music_disc_11"
+    "texture": "items/music_disc_11"
   },
   {
     "name": "music_disc_wait",
     "model": "music_disc_wait",
-    "texture": "item/music_disc_wait"
+    "texture": "items/music_disc_wait"
   },
   {
     "name": "trident",
     "model": "trident",
-    "texture": "item/trident"
+    "texture": "items/trident"
   },
   {
     "name": "phantom_membrane",
     "model": "phantom_membrane",
-    "texture": "item/phantom_membrane"
+    "texture": "items/phantom_membrane"
   },
   {
     "name": "nautilus_shell",
     "model": "nautilus_shell",
-    "texture": "item/nautilus_shell"
+    "texture": "items/nautilus_shell"
   },
   {
     "name": "heart_of_the_sea",
     "model": "heart_of_the_sea",
-    "texture": "item/heart_of_the_sea"
+    "texture": "items/heart_of_the_sea"
   }
 ]
