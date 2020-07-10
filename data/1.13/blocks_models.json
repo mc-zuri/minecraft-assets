@@ -8883,12 +8883,6 @@
       }
     ]
   },
-  "dead_brain_coral": {
-    "parent": "block/cross",
-    "textures": {
-      "cross": "block/dead_brain_coral"
-    }
-  },
   "dead_brain_coral_block": {
     "parent": "block/cube_all",
     "textures": {
@@ -8905,12 +8899,6 @@
     "parent": "block/coral_wall_fan",
     "textures": {
       "fan": "block/dead_brain_coral_fan"
-    }
-  },
-  "dead_bubble_coral": {
-    "parent": "block/cross",
-    "textures": {
-      "cross": "block/dead_bubble_coral"
     }
   },
   "dead_bubble_coral_block": {
@@ -8937,12 +8925,6 @@
       "cross": "block/dead_bush"
     }
   },
-  "dead_fire_coral": {
-    "parent": "block/cross",
-    "textures": {
-      "cross": "block/dead_fire_coral"
-    }
-  },
   "dead_fire_coral_block": {
     "parent": "block/cube_all",
     "textures": {
@@ -8959,12 +8941,6 @@
     "parent": "block/coral_wall_fan",
     "textures": {
       "fan": "block/dead_fire_coral_fan"
-    }
-  },
-  "dead_horn_coral": {
-    "parent": "block/cross",
-    "textures": {
-      "cross": "block/dead_horn_coral"
     }
   },
   "dead_horn_coral_block": {
@@ -9085,12 +9061,6 @@
         }
       }
     ]
-  },
-  "dead_tube_coral": {
-    "parent": "block/cross",
-    "textures": {
-      "cross": "block/dead_tube_coral"
-    }
   },
   "dead_tube_coral_block": {
     "parent": "block/cube_all",
@@ -25011,8 +24981,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "down"
+            "texture": "#texture"
           },
           "up": {
             "uv": [
@@ -25021,8 +24990,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "up"
+            "texture": "#texture"
           },
           "north": {
             "uv": [
@@ -25031,8 +24999,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "north"
+            "texture": "#texture"
           },
           "south": {
             "uv": [
@@ -25041,8 +25008,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "south"
+            "texture": "#texture"
           },
           "west": {
             "uv": [
@@ -25051,8 +25017,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "west"
+            "texture": "#texture"
           },
           "east": {
             "uv": [
@@ -25061,8 +25026,7 @@
               16,
               16
             ],
-            "texture": "#texture",
-            "cullface": "east"
+            "texture": "#texture"
           }
         }
       }
