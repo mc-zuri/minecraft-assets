@@ -4,6 +4,10 @@ Provide minecraft 1.8.8, 1.9, 1.10, 1.11.2, 1.12, 1.13, 1.13.2, 1.14.4, 1.15.2, 
 
 Generated using [image_names.js](https://github.com/PrismarineJS/minecraft-jar-extractor/blob/master/image_names.js)
 
+## Automated Updates
+
+This repository supports automated updates via workflow dispatch. When a new Minecraft version is released, the assets can be automatically generated and a pull request created by triggering the `handle-mcdata-update` workflow with the new version number.
+
 ## Wrappers
 
 Minecraft-assets is language independent, you can use it with these language specific modules :

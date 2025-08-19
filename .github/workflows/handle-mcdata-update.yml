@@ -1,0 +1,22 @@
+name: handle-mcdata-update
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'What new version is like `1.21.6`'
+        required: true
+        default: '1.21.6'
+jobs:
+  update-mcdata:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: cd .github/commands && npm install prismarinejs/minecraft-jar-extractor
+      - run: cd .github/commands && node bump.js ${{ github.event.inputs.version }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_PASSWORD || secrets.GITHUB_TOKEN }}
