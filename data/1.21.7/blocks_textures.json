@@ -1010,8 +1010,8 @@
   {
     "name": "chiseled_bookshelf",
     "blockState": "chiseled_bookshelf",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/chiseled_bookshelf",
+    "texture": "blocks/chiseled_bookshelf_top"
   },
   {
     "name": "mossy_cobblestone",
@@ -1070,8 +1070,8 @@
   {
     "name": "redstone_wire",
     "blockState": "redstone_wire",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/redstone_dust_dot",
+    "texture": "blocks/redstone_dust_dot"
   },
   {
     "name": "diamond_ore",
@@ -1526,8 +1526,8 @@
   {
     "name": "oak_fence",
     "blockState": "oak_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/oak_fence_post",
+    "texture": "minecraft:blocks/oak_planks"
   },
   {
     "name": "netherrack",
@@ -1832,26 +1832,26 @@
   {
     "name": "brown_mushroom_block",
     "blockState": "brown_mushroom_block",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/brown_mushroom_block",
+    "texture": "minecraft:blocks/brown_mushroom_block"
   },
   {
     "name": "red_mushroom_block",
     "blockState": "red_mushroom_block",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/red_mushroom_block",
+    "texture": "minecraft:blocks/red_mushroom_block"
   },
   {
     "name": "mushroom_stem",
     "blockState": "mushroom_stem",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/mushroom_stem",
+    "texture": "minecraft:blocks/mushroom_stem"
   },
   {
     "name": "iron_bars",
     "blockState": "iron_bars",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/iron_bars_post_ends",
+    "texture": "blocks/iron_bars"
   },
   {
     "name": "chain",
@@ -1862,8 +1862,8 @@
   {
     "name": "glass_pane",
     "blockState": "glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/glass_pane_post",
+    "texture": "minecraft:blocks/glass_pane_top"
   },
   {
     "name": "pumpkin",
@@ -1904,14 +1904,14 @@
   {
     "name": "vine",
     "blockState": "vine",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/vine",
+    "texture": "blocks/vine"
   },
   {
     "name": "glow_lichen",
     "blockState": "glow_lichen",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/glow_lichen",
+    "texture": "blocks/glow_lichen"
   },
   {
     "name": "oak_fence_gate",
@@ -1958,8 +1958,8 @@
   {
     "name": "nether_brick_fence",
     "blockState": "nether_brick_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/nether_brick_fence_post",
+    "texture": "minecraft:blocks/nether_bricks"
   },
   {
     "name": "nether_brick_stairs",
@@ -1982,8 +1982,8 @@
   {
     "name": "brewing_stand",
     "blockState": "brewing_stand",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/brewing_stand",
+    "texture": "blocks/brewing_stand"
   },
   {
     "name": "cauldron",
@@ -2120,14 +2120,14 @@
   {
     "name": "cobblestone_wall",
     "blockState": "cobblestone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/cobblestone_wall_post",
+    "texture": "minecraft:blocks/cobblestone"
   },
   {
     "name": "mossy_cobblestone_wall",
     "blockState": "mossy_cobblestone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/mossy_cobblestone_wall_post",
+    "texture": "minecraft:blocks/mossy_cobblestone"
   },
   {
     "name": "flower_pot",
@@ -2648,98 +2648,98 @@
   {
     "name": "white_stained_glass_pane",
     "blockState": "white_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/white_stained_glass_pane_post",
+    "texture": "minecraft:blocks/white_stained_glass_pane_top"
   },
   {
     "name": "orange_stained_glass_pane",
     "blockState": "orange_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/orange_stained_glass_pane_post",
+    "texture": "minecraft:blocks/orange_stained_glass_pane_top"
   },
   {
     "name": "magenta_stained_glass_pane",
     "blockState": "magenta_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/magenta_stained_glass_pane_post",
+    "texture": "minecraft:blocks/magenta_stained_glass_pane_top"
   },
   {
     "name": "light_blue_stained_glass_pane",
     "blockState": "light_blue_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/light_blue_stained_glass_pane_post",
+    "texture": "minecraft:blocks/light_blue_stained_glass_pane_top"
   },
   {
     "name": "yellow_stained_glass_pane",
     "blockState": "yellow_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/yellow_stained_glass_pane_post",
+    "texture": "minecraft:blocks/yellow_stained_glass_pane_top"
   },
   {
     "name": "lime_stained_glass_pane",
     "blockState": "lime_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/lime_stained_glass_pane_post",
+    "texture": "minecraft:blocks/lime_stained_glass_pane_top"
   },
   {
     "name": "pink_stained_glass_pane",
     "blockState": "pink_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/pink_stained_glass_pane_post",
+    "texture": "minecraft:blocks/pink_stained_glass_pane_top"
   },
   {
     "name": "gray_stained_glass_pane",
     "blockState": "gray_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/gray_stained_glass_pane_post",
+    "texture": "minecraft:blocks/gray_stained_glass_pane_top"
   },
   {
     "name": "light_gray_stained_glass_pane",
     "blockState": "light_gray_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/light_gray_stained_glass_pane_post",
+    "texture": "minecraft:blocks/light_gray_stained_glass_pane_top"
   },
   {
     "name": "cyan_stained_glass_pane",
     "blockState": "cyan_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/cyan_stained_glass_pane_post",
+    "texture": "minecraft:blocks/cyan_stained_glass_pane_top"
   },
   {
     "name": "purple_stained_glass_pane",
     "blockState": "purple_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/purple_stained_glass_pane_post",
+    "texture": "minecraft:blocks/purple_stained_glass_pane_top"
   },
   {
     "name": "blue_stained_glass_pane",
     "blockState": "blue_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/blue_stained_glass_pane_post",
+    "texture": "minecraft:blocks/blue_stained_glass_pane_top"
   },
   {
     "name": "brown_stained_glass_pane",
     "blockState": "brown_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/brown_stained_glass_pane_post",
+    "texture": "minecraft:blocks/brown_stained_glass_pane_top"
   },
   {
     "name": "green_stained_glass_pane",
     "blockState": "green_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/green_stained_glass_pane_post",
+    "texture": "minecraft:blocks/green_stained_glass_pane_top"
   },
   {
     "name": "red_stained_glass_pane",
     "blockState": "red_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/red_stained_glass_pane_post",
+    "texture": "minecraft:blocks/red_stained_glass_pane_top"
   },
   {
     "name": "black_stained_glass_pane",
     "blockState": "black_stained_glass_pane",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/black_stained_glass_pane_post",
+    "texture": "minecraft:blocks/black_stained_glass_pane_top"
   },
   {
     "name": "acacia_stairs",
@@ -3452,50 +3452,50 @@
   {
     "name": "spruce_fence",
     "blockState": "spruce_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/spruce_fence_post",
+    "texture": "minecraft:blocks/spruce_planks"
   },
   {
     "name": "birch_fence",
     "blockState": "birch_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/birch_fence_post",
+    "texture": "minecraft:blocks/birch_planks"
   },
   {
     "name": "jungle_fence",
     "blockState": "jungle_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/jungle_fence_post",
+    "texture": "minecraft:blocks/jungle_planks"
   },
   {
     "name": "acacia_fence",
     "blockState": "acacia_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/acacia_fence_post",
+    "texture": "minecraft:blocks/acacia_planks"
   },
   {
     "name": "cherry_fence",
     "blockState": "cherry_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/cherry_fence_post",
+    "texture": "minecraft:blocks/cherry_planks"
   },
   {
     "name": "dark_oak_fence",
     "blockState": "dark_oak_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/dark_oak_fence_post",
+    "texture": "minecraft:blocks/dark_oak_planks"
   },
   {
     "name": "mangrove_fence",
     "blockState": "mangrove_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/mangrove_fence_post",
+    "texture": "minecraft:blocks/mangrove_planks"
   },
   {
     "name": "bamboo_fence",
     "blockState": "bamboo_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/bamboo_fence_post",
+    "texture": "minecraft:blocks/bamboo_fence_particle"
   },
   {
     "name": "spruce_door",
@@ -3554,8 +3554,8 @@
   {
     "name": "chorus_plant",
     "blockState": "chorus_plant",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/chorus_plant_side",
+    "texture": "blocks/chorus_plant"
   },
   {
     "name": "chorus_flower",
@@ -4556,80 +4556,80 @@
   {
     "name": "brick_wall",
     "blockState": "brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/brick_wall_post",
+    "texture": "minecraft:blocks/bricks"
   },
   {
     "name": "prismarine_wall",
     "blockState": "prismarine_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/prismarine_wall_post",
+    "texture": "minecraft:blocks/prismarine"
   },
   {
     "name": "red_sandstone_wall",
     "blockState": "red_sandstone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/red_sandstone_wall_post",
+    "texture": "minecraft:blocks/red_sandstone"
   },
   {
     "name": "mossy_stone_brick_wall",
     "blockState": "mossy_stone_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/mossy_stone_brick_wall_post",
+    "texture": "minecraft:blocks/mossy_stone_bricks"
   },
   {
     "name": "granite_wall",
     "blockState": "granite_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/granite_wall_post",
+    "texture": "minecraft:blocks/granite"
   },
   {
     "name": "stone_brick_wall",
     "blockState": "stone_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/stone_brick_wall_post",
+    "texture": "minecraft:blocks/stone_bricks"
   },
   {
     "name": "mud_brick_wall",
     "blockState": "mud_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/mud_brick_wall_post",
+    "texture": "minecraft:blocks/mud_bricks"
   },
   {
     "name": "nether_brick_wall",
     "blockState": "nether_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/nether_brick_wall_post",
+    "texture": "minecraft:blocks/nether_bricks"
   },
   {
     "name": "andesite_wall",
     "blockState": "andesite_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/andesite_wall_post",
+    "texture": "minecraft:blocks/andesite"
   },
   {
     "name": "red_nether_brick_wall",
     "blockState": "red_nether_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/red_nether_brick_wall_post",
+    "texture": "minecraft:blocks/red_nether_bricks"
   },
   {
     "name": "sandstone_wall",
     "blockState": "sandstone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/sandstone_wall_post",
+    "texture": "minecraft:blocks/sandstone"
   },
   {
     "name": "end_stone_brick_wall",
     "blockState": "end_stone_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/end_stone_brick_wall_post",
+    "texture": "minecraft:blocks/end_stone_bricks"
   },
   {
     "name": "diorite_wall",
     "blockState": "diorite_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/diorite_wall_post",
+    "texture": "minecraft:blocks/diorite"
   },
   {
     "name": "scaffolding",
@@ -4898,14 +4898,14 @@
   {
     "name": "crimson_fence",
     "blockState": "crimson_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/crimson_fence_post",
+    "texture": "minecraft:blocks/crimson_planks"
   },
   {
     "name": "warped_fence",
     "blockState": "warped_fence",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/warped_fence_post",
+    "texture": "minecraft:blocks/warped_planks"
   },
   {
     "name": "crimson_trapdoor",
@@ -5006,8 +5006,8 @@
   {
     "name": "composter",
     "blockState": "composter",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/composter",
+    "texture": "blocks/composter_side"
   },
   {
     "name": "target",
@@ -5108,8 +5108,8 @@
   {
     "name": "blackstone_wall",
     "blockState": "blackstone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/blackstone_wall_post",
+    "texture": "minecraft:blocks/blackstone"
   },
   {
     "name": "blackstone_slab",
@@ -5156,8 +5156,8 @@
   {
     "name": "polished_blackstone_brick_wall",
     "blockState": "polished_blackstone_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/polished_blackstone_brick_wall_post",
+    "texture": "minecraft:blocks/polished_blackstone_bricks"
   },
   {
     "name": "gilded_blackstone",
@@ -5192,8 +5192,8 @@
   {
     "name": "polished_blackstone_wall",
     "blockState": "polished_blackstone_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/polished_blackstone_wall_post",
+    "texture": "minecraft:blocks/polished_blackstone"
   },
   {
     "name": "chiseled_nether_bricks",
@@ -5474,8 +5474,8 @@
   {
     "name": "tuff_wall",
     "blockState": "tuff_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/tuff_wall_post",
+    "texture": "minecraft:blocks/tuff"
   },
   {
     "name": "polished_tuff",
@@ -5498,8 +5498,8 @@
   {
     "name": "polished_tuff_wall",
     "blockState": "polished_tuff_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/polished_tuff_wall_post",
+    "texture": "minecraft:blocks/polished_tuff"
   },
   {
     "name": "chiseled_tuff",
@@ -5528,8 +5528,8 @@
   {
     "name": "tuff_brick_wall",
     "blockState": "tuff_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/tuff_brick_wall_post",
+    "texture": "minecraft:blocks/tuff_bricks"
   },
   {
     "name": "chiseled_tuff_bricks",
@@ -5576,8 +5576,8 @@
   {
     "name": "sculk_vein",
     "blockState": "sculk_vein",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/sculk_vein",
+    "texture": "blocks/sculk_vein"
   },
   {
     "name": "sculk_catalyst",
@@ -6092,8 +6092,8 @@
   {
     "name": "pink_petals",
     "blockState": "pink_petals",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/pink_petals_1",
+    "texture": "minecraft:blocks/pink_petals"
   },
   {
     "name": "moss_block",
@@ -6164,8 +6164,8 @@
   {
     "name": "cobbled_deepslate_wall",
     "blockState": "cobbled_deepslate_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/cobbled_deepslate_wall_post",
+    "texture": "minecraft:blocks/cobbled_deepslate"
   },
   {
     "name": "polished_deepslate",
@@ -6188,8 +6188,8 @@
   {
     "name": "polished_deepslate_wall",
     "blockState": "polished_deepslate_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/polished_deepslate_wall_post",
+    "texture": "minecraft:blocks/polished_deepslate"
   },
   {
     "name": "deepslate_tiles",
@@ -6212,8 +6212,8 @@
   {
     "name": "deepslate_tile_wall",
     "blockState": "deepslate_tile_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/deepslate_tile_wall_post",
+    "texture": "minecraft:blocks/deepslate_tiles"
   },
   {
     "name": "deepslate_bricks",
@@ -6236,8 +6236,8 @@
   {
     "name": "deepslate_brick_wall",
     "blockState": "deepslate_brick_wall",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/deepslate_brick_wall_post",
+    "texture": "minecraft:blocks/deepslate_bricks"
   },
   {
     "name": "chiseled_deepslate",
