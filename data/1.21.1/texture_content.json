@@ -6005,7 +6005,7 @@
   },
   {
     "name": "chiseled_bookshelf",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEXOqnHCnWK4lF+vj1WfhE2WdEHLZTheAAAAcElEQVR42iXM0Q3CMAxF0Wur/PslDIALCxAYoFQZAKR2/xEQDABI9AxwAAUmMfSepfeZgX05TjY79QBqX7eQZBZO0vKdEHZCkyV1vNbLbTw7G3MTYRLslr6uyxaiuz0Gan7y1fCIADNzMuLpgtRf+QE5HA+k6rfWnwAAAABJRU5ErkJggg=="
   },
   {
     "name": "mossy_cobblestone",
@@ -6045,7 +6045,7 @@
   },
   {
     "name": "redstone_wire",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAARUlEQVQ4y2NgGAW0A//+/fsPo2/evPmfJM0gDTCNr1+/BrNhBhINQBpBGJlNtCHotpOkGdkAmCZkNllhgRyoFMXIKMAOAIfkbp6o0MyMAAAAAElFTkSuQmCC"
   },
   {
     "name": "diamond_ore",
@@ -6349,7 +6349,7 @@
   },
   {
     "name": "oak_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXCnWK4lF+vj1WfhE2WdEF+YjdnUCyo+21oAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "netherrack",
@@ -6553,19 +6553,19 @@
   },
   {
     "name": "brown_mushroom_block",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEWceVqXclGUbVKNaFAbtcHtAAAAWUlEQVR42gVAsQ1AQBR9S6jsoyf5uBPlJ+eiVBjk4xqq3yol7HGFBcwh2E0QPK7NIbNnKFuCJOWKm+oFSjKBs3cEV8GAesuQq4vYhpMR9TD4tDLwkjo0Bdkfxc4eZ5f7ES0AAAAASUVORK5CYII="
   },
   {
     "name": "red_mushroom_block",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEX/v7//mJjOLSvJKynDKCa+IyHk6O27AAAAZklEQVR42g3MSw3EUAxDUU8RjIqgn1cEDoLEQdCEP5VGsqyzusgOy6KhNZ8Uym9yCB17jAbnpqYI+srIDrCCVpeQJNN/D4JU+X/htaFdAkscEaL5GoM2ySzCss4trKFOX6TQ0izsAzsvHS3ka32iAAAAAElFTkSuQmCC"
   },
   {
     "name": "mushroom_stem",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAgMAAABinRfyAAAADFBMVEXTzMTNxr3HwbTCvKw/fD7aAAAAWUlEQVR42mNgmMDAwODmwODIIBXAwMJkEykixMLq6MrIsP//uv1MhvWC1xkcxHY6MjAwAKWjvh1hZLJmcTzPlCIqJcrw79f/f4yvRFezMj9973GPoYHtJSMA83QXnuyzeq4AAAAASUVORK5CYII="
   },
   {
     "name": "iron_bars",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAADFxcWrrKucnJxyeW5oaGgPdKREAAAAAXRSTlMAQObYZgAAAF1JREFUeNoljcENgCAQBAexARU7OAsgHn9iwp8H9N+K4e43ye7sgrB3GpAIDqcelQLI/ByUraJAY+uIlWMnQU5Lv5RhOzJBiN5RYjUohEoyPbz59p02HouiXzzLavyAUgxXVoAGwwAAAABJRU5ErkJggg=="
   },
   {
     "name": "chain",
@@ -6573,7 +6573,7 @@
   },
   {
     "name": "glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAO0lEQVQ4y2NgwAMuvHr5f8WFm/8ZyAUgzd0Hzw6gASAvUGwARWEw8AaANA+8AQOfDgY+FqrXbR/keQEAkqRqmPUzIe0AAAAASUVORK5CYII="
   },
   {
     "name": "pumpkin",
@@ -6601,11 +6601,11 @@
   },
   {
     "name": "vine",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEUAAACqqqqDg4Nra2tUVFTyZ8/qAAAAAXRSTlMAQObYZgAAAGVJREFUeNoNyMERwyAMAMFDcgE4kwKERQFMogKIoP+awmPvcaC/ntoq4olqVu4+4LWPgHICx7Uc5Ds18E36s0wChrZqfgNkRRtAgKcBHQIgw8obyLOLz6D0aaI7kZiwhkJ8RlwPf3fxDOyFXGtOAAAAAElFTkSuQmCC"
   },
   {
     "name": "glow_lichen",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEUAAACur4xzkoVxhn5ufnhjdW6dVVXZAAAAAXRSTlMAQObYZgAAAGBJREFUeNodzcEJg0AQAMDR3asgKSBgAxcx/yXo/yDafysBp4Exb9TYyJNcYrimRRz5ZE1St0crUTB/au4QHpWdKw02yTFopqKi0F/WPPGNivcPodkHNQ1J0pzjfqrdxx9jrAwYAMl6uwAAAABJRU5ErkJggg=="
   },
   {
     "name": "oak_fence_gate",
@@ -6637,7 +6637,7 @@
   },
   {
     "name": "nether_brick_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAFVBMVEVEJCo+HiQ4GB4wGBwpFRkhERQZDRA8KiTzAAAAZ0lEQVR42l2MUQoDUAzCora9/403SnkwJmi+IvMXJNQCJDUSqXicjUe7HxmQYAkz090zj5xvtyRLZnQHw5H2ompZTvH8R+wGN76aZJzMo6m0s63OkrV/i88E7o3k7NiZJCRVk8sk+QKYNwRKjvC6MwAAAABJRU5ErkJggg=="
   },
   {
     "name": "nether_brick_stairs",
@@ -6653,7 +6653,7 @@
   },
   {
     "name": "brewing_stand",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAS1BMVEUAAAD9///X9/up4OfZzD/Mr6XUtzrVsU7SgzPKYyq8VTHdNDRhYWGpRyWTSzxZWVmCPS+XNxZNTU2zGBg8PDxeLCIxMTGMCAgeHBykdgTwAAAAAXRSTlMAQObYZgAAAIBJREFUeNpVigkOgzAMBDeYIylp0xqz4v8vrY3SCkaWtRoNHINzHaY40Z+gVh0Xf+zBQVqtRh6GgDuUZlTsPXmjcRzZfJxUvxAVLwSP9gyx/MX0mVzMUTQEaRtc5NlFhTOssiUvsosTWVdJvQg8z5YEaYCgJyJQ5kLFlZJxp5Q+vhcSBrfI6YgdAAAAAElFTkSuQmCC"
   },
   {
     "name": "cauldron",
@@ -6745,11 +6745,11 @@
   },
   {
     "name": "cobblestone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEW1tbWmpqaIh4hubW1hYWFSUlLm8qFQAAAAcUlEQVR42gVAARGDMAz8MAMjh4CSLwIWIgDSIGAD/1p2iPk5pTfFOW3QLR3nGrrGQxSLTL1wp2TJ3PF6W/yaOjSV9eEB2y3a4omQPSerG4f6biMXkP0a8X2DMdpytQkuIWuY49CuziJmclhoIcsjUvgH41gVHD61kt4AAAAASUVORK5CYII="
   },
   {
     "name": "mossy_cobblestone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAIVBMVEW1tbWmpqaIh4h6j1VzhVJubW1ieUFabUFhYWFSXTlSUlICJfMUAAAAkElEQVR42gVAMQrCMBR9ujlaxNkGfyV7LiCUiGtA2qxWWrMqiBntYjs20sSsQu8pMEsbxHWzwjDnd8lbhVeqZaMjoSO7Iy8jpt69u23eYCHS8rfObkh8QtbRABadzo1qoT/SZ/I5IRzqE3sEA6ptHAu/Bw+hOvZpgiC0uJRMoTpzqSgStkQjK52B64r4bWfZH4v7LTO2BwrJAAAAAElFTkSuQmCC"
   },
   {
     "name": "flower_pot",
@@ -7097,67 +7097,67 @@
   },
   {
     "name": "white_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAQElEQVQ4y2NgwAP+/fv37MuXL88YyAUgA96+fUuZARS5AKSZYgNArhi4MAC5YGANGHgvDIOUODi88OPHD7wGAADBxnkN2p1blQAAAABJRU5ErkJggg=="
   },
   {
     "name": "orange_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAOu1xs9O19l8IyBXAAy4GSZPmUGUOQCkGaKDQC5YuDCAOSCgTVg4L0wDFLi4PDCpRpDvAYAANnsTEOVzagfAAAAAElFTkSuQmCC"
   },
   {
     "name": "magenta_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAM2+lx/tsrz/DMGcgHIgKXuJykzgCIXgDRTbADIFQMXBiAXDKwBA++FYZASB4cX1npdwmsAAHXLVXiRYDRvAAAAAElFTkSuQmCC"
   },
   {
     "name": "light_blue_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwANSZ1x/ljjp/DMGcgHIgLi+k5QZQJELQJopNgDkioELA5ALBtaAgffCMEiJg8MLyVMu4TUAAGyWVXjT8VAkAAAAAElFTkSuQmCC"
   },
   {
     "name": "yellow_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAOePDF6dvu2wTMGcgHIgKtX9SkzgCIXgDRTbADIFQMXBiAXDKwBA++FYZASB4cX7t83xGsAAOVtWhJbxlLJAAAAAElFTkSuQmCC"
   },
   {
     "name": "lime_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwAPqT0s+qzos8YyBXAAyoGyvOGUGUOQCkGaKDQC5YuDCAOSCgTVg4L0wDFLi4PBCzTH8LgAAlClHtl6R7JgAAAAASUVORK5CYII="
   },
   {
     "name": "pink_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAM+1i999rxq3jMGcgHIgIdlsygzgCIXgDRTbADIFQMXBiAXDKwBA++FYZASB4cXXtcsxGsAAFKDXUKVcDQkAAAAAElFTkSuQmCC"
   },
   {
     "name": "gray_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwAN8fHyeeXp6PmMgF4AMcHd3p8wAilwA0kyxASBXDFwYgFwwsAYMvBeGQUocHF7w8vLCawAAX9Y4YB8nthQAAAAASUVORK5CYII="
   },
   {
     "name": "light_gray_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwANmzJjxbNKkSc8YyAUgA/r6+igzgCIXgDRTbADIFQMXBiAXDKwBA++FYZASB4cXpkyZgtcAAH1WU/8eeaOhAAAAAElFTkSuQmCC"
   },
   {
     "name": "cyan_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwAN86mc886ya9IyBXAAywL2sjzIDKHIBSDPFBoBcMXBhAHLBwBow8F4YBilxcHjBq2YKXgMAjo1HvkXQjz0AAAAASUVORK5CYII="
   },
   {
     "name": "purple_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAPq7Tc+q7Jd9YyBXAAyoMx6KWUGUOQCkGaKDQC5YuDCAOSCgTVg4L0wDFLi4PBCjd1avAYAAI7KSTdjFex+AAAAAElFTkSuQmCC"
   },
   {
     "name": "blue_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAP0lEQVR42mNgwAOMfDY+M/Bc9YyBXAAyQN99KWUGUOQCkGaKDQC5YuDCAOSCgTVg4L0wDFLi4PCCoddavAYAAMP9QXZzZeivAAAAAElFTkSuQmCC"
   },
   {
     "name": "brown_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwANSfYyeJXoaPGMgF4AMiHPXp8wAilwA0kyxASBXDFwYgFwwsAYMvBeGQUocHF5I9jLEawAAJQ44QXFUZ4IAAAAASUVORK5CYII="
   },
   {
     "name": "green_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwANS642eJVYZPGMgF4AMiCvTp8wAilwA0kyxASBXDFwYgFwwsAYMvBeGQUocHF5IrjHEawAAqHU+aprkHnQAAAAASUVORK5CYII="
   },
   {
     "name": "red_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPklEQVR42mNgwANmGBk9m2Rg8IyBXAAyoE9fnzIDKHIBSDPFBoBcMXBhAHLBwBow8F4YBilxcHhhiqEhXgMAXE07TY8WjEcAAAAASUVORK5CYII="
   },
   {
     "name": "black_stained_glass_pane",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAOUlEQVR42mNgwAMkJSWfSUhIPGMgF4AMEBcXp8wAilwA0kyxASBXDFwYgFwwsAYMvBeGQUocGl4AAKWqJc1Obgs3AAAAAElFTkSuQmCC"
   },
   {
     "name": "acacia_stairs",
@@ -7633,35 +7633,35 @@
   },
   {
     "name": "spruce_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEWIZTmCYTp6WjRwUi5hSy5aRCRVOh/7MrZ8AAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "birch_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXXy43XwYXIt3q4qHWun3allGeei2GOL9VAAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "jungle_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEW/jmu4h2SqeVSfcUqXakR4VDdoRi9pw/u1AAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "acacia_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXCbT+6YzetXTKgVjCZUCuPTCqIRyhX8/nHAAAAcElEQVR42g3CARVCIQwF0DctwMYvsM0AfkYDpQHQgPWPoPdcSAH+L7B9lI0DyurR9MKYI9fJjfLGE2Q3VFpvyoJQe7F4INfIXHOjkIGACmH2cO8gizCLipwjz9gJKlTxIMA4/GYxeJPOHoGzz3eczB9ikBUCOPdNbQAAAABJRU5ErkJggg=="
   },
   {
     "name": "cherry_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXnysXnwrvnurTms63hqKHdnZfNhYCx8SuFAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "dark_oak_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEVTOBpPMhhJLxc+KRI6JBEwHg4pGgyUw7h6AAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "mangrove_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEWLTTp/QjR3OTR1MTZvKi1kJCNdHB5hJCK6AAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONOpo6zz3+ciAdiCxT0LIjv6QAAAABJRU5ErkJggg=="
   },
   {
     "name": "bamboo_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXjzGrZwl7Tu1DCtU7IsU23q0m7qEwdCFC1AAAAP0lEQVR42mMwcBJQBmGGQCdHIRBmUFRhZAFhBgW3oBAQZjAQSXQCYQZDNUUjEGZwVFEQBmGGIEcHNxBmoJI5ALsuGI1Q5bz+AAAAAElFTkSuQmCC"
   },
   {
     "name": "spruce_door",
@@ -7701,7 +7701,7 @@
   },
   {
     "name": "chorus_plant",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEWPcY98W3xjRWFbNFtWLlZHIUdAGkA6FDpr8EzZAAAAgUlEQVR42g3LwRGCMBAF0J8J3tHQgNDAxqx4Znbx7hDWAjSkAR3a13d/CLPGc4JDHIsOLQvo9pGQ7Q16lvZg9YVu3SLv2wNqY9T7EsEqdHRtQP+viVyPiCBeOCHomn2+CpJtS2d2AdcvcS0TZjM377kBr3riEj0SeRmyENBNTeBEP+foG6o+C6zZAAAAAElFTkSuQmCC"
   },
   {
     "name": "chorus_flower",
@@ -8369,55 +8369,55 @@
   },
   {
     "name": "brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAG1BMVEWplI2ihn3GaFGxYk2LbmebVkOPUD98RTZzPzGzwO+3AAAAeElEQVR42iXMsQ3DMAwF0T+CDWQCaQROYEALCBST2oWVWoVIl1KTeOyYSHHdw4FKiJQjQXYV2bvgHFc958eQlkfa7hCIb8EFXZ5Na23Ql41L3xMu1pQWUA6Rc/DPIdIOgU2rNrTCH/4CE5dInNHlr/A1Gx5crGnDD0ZzKBGoxix2AAAAAElFTkSuQmCC"
   },
   {
     "name": "prismarine_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABABAMAAADhU+qlAAAAMFBMVEWby795t6t5s7d5t5RepJZepI5enqRehaROhqNoc5ZGiXRGepVBgWosh1VZZYkmekux6woXAAAB8klEQVR42g3GPYiycAAH4N9fl/f7TRARp6NF3IJwFO7ASRwODkfxbhHB5bhFXKSWCFqiRVokwSkcriWElguapCEQx/BoCZc4iEbpeqYHGtHSVvLBQNdmv4iwYbFZE+1B/5MAOasmM3YLRp+rOaPNwGrsNtEgYBPrsbAmKfR83iIb4R4aWKLOdYJ7NmY1bFXEaq7O2DhHqpMkVmcEwgeTCilRoa7VNQT2ljmrk4ckxba10XJVB0zarDrlVxeWuftLKxcZlzNtPln/S6CRjXInX9G19kbTNXeQTflamlBwKaxCOdMVrGbfoS/KI0zItLG3aDzKhWziaqAwGmMnFw0qiy4LY0dD+epWSkUbMM7GGYp8y1626KeywrVzMRvDAnzKj+7CzzYCf/yTko4ijgfKfwv+hUAteuFYPKEdTL267Y8h+uIp9CHhOAkm0oGKENTTO+oovcKHSHnTgMKrOBF9nDxMvNobi5MaUUCFE29MQfpsR1JEefAO3gGSeMtUDKi3MMLp7ujXXgA4xBm1Bu8MXKf3g/BLDssFcV7c3wMg4+xBj1uBcYd2xjg9cA63Gjjgsey7fX5BRnCzYYss+Wc44Ig9dAmeuT7nYGWjb2d2j+tnGLlk0Ld7BPw7M+JHxIa9sBfguVuGnEteBiOsWksns118A5XT0GCLoB2cAAAAAElFTkSuQmCC"
   },
   {
     "name": "red_sandstone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXZezDSdSvLbiTAaCKyYB+sVxKfTgum4QGIAAAAeElEQVR42gVAwRWDIAz9HSFSHMCU3jXgAMrrHSgZQEv2H6EPwONBRBM45iynZJh1G2qGuRIV0oIUo18kCda+KPPbQZJai3pD1ou+lRRtsATmGfoTZ1E2bC+XqHKC7FqivwZacfcp+4EwBSdHeyItnxJsCKRXX33uf6s5HEM0ovNAAAAAAElFTkSuQmCC"
   },
   {
     "name": "mossy_stone_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEWcmZyLiYt6j1V/f39zhVJ4dnhqbWpieUFjY2NabUFaWVpSXTmkhAt0AAAAmUlEQVR42mMQKHFSKVAS0WZgllRRFzY2r2RgtHR3N3acXMXAHDzR1dDUdBYDa2lwsblzmBWD6HTT0JLKydEMYTNTM8tnhloydKzuWLV6944OBiUHBikBBhYlhkJBYStGQ0ERBmFD4yjmwMBiBkNh8yxWU+OJDMbG4VEiysKhDKGp5VFCpsGmDGkzS60ip6aGMXTv3gE0p2M3ADw2J+CeoymwAAAAAElFTkSuQmCC"
   },
   {
     "name": "granite_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAHlBMVEXjwK/Jl4G0m5G0iHepd2Sfa1iSYlF/VkZfQDRNNSz2zedeAAAAfElEQVR42gVAyw2CQBScm5VIByYW8IAzn9m3RzWw6H1npQBIbEBs1+A8K/B7GRG2Ti4viAyTTnFADLyOTSGKL59HnRzMje+pFzS2dGvecJ5fqylhmN3aQsEm5XbwEVbtunPNsFj7j/nAUUQtvCGYnsVmorNlC9YLxipJzH8KCi7lmqTpEAAAAABJRU5ErkJggg=="
   },
   {
     "name": "stone_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEWcmZyLiYt/f394dnhqbWpjY2NaWVo/4AZ+AAAAbUlEQVR42hWJsREDIRDEuC3A7F7gmKMDXK5bIHFLXwHwDWBeo0AzAtOD3rhd8qqEnSUOEqZh29cTMZA1wb0iXy+iIeQNhKpqSBn923/9gCbnOhcXSWMh8jLavTaMeR4dCk97lQlZ4ic8IKlUSX8TNSDr6TM/jQAAAABJRU5ErkJggg=="
   },
   {
     "name": "mud_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAG1BMVEUAAABeSEFpUUZ+XUiMZ0+VcVCdeFyrhmGuj3E3l3raAAAAAXRSTlMAQObYZgAAAGRJREFUGBkFwYFRACEABLEcz9h/wcqabHejfu9G3S1iS3TWUbOYdqkpYhwqYfZ0ZbXKabUzUAf4lEiU7o/e37dRf992q22BzTvtWNKj7UxZnIPerdFW0I5Vr6Jq3yJSmj5hKqR/PVRhEKsAlUMAAAAASUVORK5CYII="
   },
   {
     "name": "nether_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAFVBMVEVEJCo+HiQ4GB4wGBwpFRkhERQZDRA8KiTzAAAAZ0lEQVR42l2MUQoDUAzCora9/403SnkwJmi+IvMXJNQCJDUSqXicjUe7HxmQYAkz090zj5xvtyRLZnQHw5H2ompZTvH8R+wGN76aZJzMo6m0s63OkrV/i88E7o3k7NiZJCRVk8sk+QKYNwRKjvC6MwAAAABJRU5ErkJggg=="
   },
   {
     "name": "andesite_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEWoqpqcnJyKio5/f390dHRoaGiVw0gLAAAAb0lEQVR42gVACxHDIAx9VEETZoCXVgAhAigfAb3b/FvZIR7Gmy1QD5fjnhWLsmfVBtmjnGoXPOVGxgOaafyGwmuKN5HI3F2NBVwfLVYPXFpadCXosbuw4cuZshtRVIzhFxLJk6uB9xQzTxhh7i72B5/VE568GfX/AAAAAElFTkSuQmCC"
   },
   {
     "name": "red_nether_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEVzFxprExdWDhBEBQc5BAU0AQMuAAG5FV0FAAAAa0lEQVR42i3K0RGDIBBF0Wc6IBUk2AF3K4gWgOv4rzDSfwmBSXbnfL2r9j+FadMUcpClAulCyXZbbEftPtqgXsQtvJ+6Zjg7OazOxzSKQTE/cszRReHsihbHbcd1H7/Xq88jFBTSXBFrBSpfTNUg0VG8TlAAAAAASUVORK5CYII="
   },
   {
     "name": "sandstone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEXt68vn5Lvj27Da0qPVxJbRuorGrnFYg2saAAAAeElEQVR42gVAwRWDIAz9HSFSHMCU3jXgAMrrHSgZQEv2H6EPwONBRBM45iynZJh1G2qGuRIV0oIUo18kCda+KPPbQZJai3pD1ou+lRRtsATmGfoTZ1E2bC+XqHKC7FqivwZacfcp+4EwBSdHeyItnxJsCKRXX33uf6s5HEM0ovNAAAAAAElFTkSuQmCC"
   },
   {
     "name": "end_stone_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEXu9sns+6/o9LLd5KXW1pXOzpbCu4iponR2+mHgAAAAdUlEQVR42gVA0RHCIAx9biCZwCTqPwntAJJzAL3jX6tlA1i/h+8FSKAOI0kmsoCMSVhv0OqaEy1wJlfWFcW0VPcVv4jwiI7R9jn3NnE64z4YgLDoJiIQyfQRJiiTvzwpskZ528NRi1234gGPeI6IwPi3PkefB4uYGtKyKat6AAAAAElFTkSuQmCC"
   },
   {
     "name": "diorite_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEXp6enOzs++v8GkoqKLi4t7e3uHPalNAAAAcUlEQVR42gWAyxGDIBBAH58CEClgxzV3WPBuJKkg9F9LhtmlHyHD9fTHJ3cSJS4lG4Gz+qEVmfkWrYEklMPE8JrCm/KjnWaJMNFL2XSrLIZES4WWv0+W+IK4tn5Poe5OXFdjWJ7OibJ/GMmPRhBK2yd/hHEP7nIAWagAAAAASUVORK5CYII="
   },
   {
     "name": "scaffolding",
@@ -8597,11 +8597,11 @@
   },
   {
     "name": "crimson_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEWGPlp+OlZqNEtcMEJLJzdEITE/Hi1M/JxbAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "warped_fence",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEU6jow5g4IocGcuX1EfV1IeQ0ARODVV1y7AAAAAcElEQVR42g3CARXDIAwFwM/DAAk1kGQCVoKDDQeAA+JfQnvvwAV4XyD9CSk5hMS8yYUxR6wTG+WLjKQ3hFtvQgwX/RCbI9aIWHOjJMWrgonMzTqSuqt6RcwRZ+xALqkiJ0DJ7WZWWONO5o6zz3+ciAdixhUFVj2uwQAAAABJRU5ErkJggg=="
   },
   {
     "name": "crimson_trapdoor",
@@ -8669,7 +8669,7 @@
   },
   {
     "name": "composter",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJFBMVEW0dT6jcEOHWC5+TRV4SR9eOQ5cNBFGQAZGMQ5RKwo+JQ4lFAWgE2mhAAAAbklEQVR42lXKwQmDQBSE4dkO8uzAYVqwgcfrIJdUEEghS8S9L2wL2sFWp6AHnYH/9CEBhvRKoB+XE2JIwUD91da+rWLrS55y6XAbRjuCIMMpoV1D6Z+8zluHRrPBRNDlFB9mfU//chq6GSiG82Z2ufUqE+wcwPkAAAAASUVORK5CYII="
   },
   {
     "name": "target",
@@ -8737,7 +8737,7 @@
   },
   {
     "name": "blackstone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEVOS1Q8OUcxLDYnIhwgExwWDxDY/pChAAAAdUlEQVR42hXGwRGDMAwEwBvSACIUEMtQANLRgGU1EJv+W8lkX4vKPEapDVa1a9kmpjNU3onQ2mTlDSvCz6vfEFm87+NBwUne34DysWr7P1GOGQHvjAwlmua8RE6Y1DRsDpWNVAZkPQdbb1iXnCP6BT+eke72A4yWF+8FcBD4AAAAAElFTkSuQmCC"
   },
   {
     "name": "blackstone_slab",
@@ -8769,7 +8769,7 @@
   },
   {
     "name": "polished_blackstone_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEVOS1Q8OUcxLDYnIhwjFh8WDxCEP8KRAAAAbklEQVR42g3D0RUDIQgEwLUDWC//B8YCgnRw2EHsv5Vk3hvcDdKgb5jdOsIvWNNYpi+QVLJP9PDelRPLV4yIRD4ZuZ6NOlX/Bw16hUAwyOtjQoToy0QdajZhVNBjCgfhK1I9A5lVWc/C3qf2+dYPh+8SiaoU7WUAAAAASUVORK5CYII="
   },
   {
     "name": "gilded_blackstone",
@@ -8793,7 +8793,7 @@
   },
   {
     "name": "polished_blackstone_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEVOS1Q8OUcxLDYnIhwfEhsWDxCNZTTQAAAAaklEQVR42iXJwRHDMAhE0cUVwMq5G3AKCKiBWP33FM1k/vzTAxQqEEJcPcg3KIxSuwHnzifAKu5xwLgpYH8q6GUpIyeg3pb52nRZVpwQsZr2GThIT86ERHDkc+OwFfTvCbJ6Pp7I7tXd6wdftw4cw0sMHgAAAABJRU5ErkJggg=="
   },
   {
     "name": "chiseled_nether_bricks",
@@ -8981,7 +8981,7 @@
   },
   {
     "name": "tuff_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAD1BMVEWgopeFg3tqbm9dXVJNUEZq5j8MAAAAaUlEQVR42hXLQQHEIAwEwK2DbnoGkmAAFgMl+Nd09DefwYh8Uy5YiG2lwy2erUHcTK0Ygh+4VUP8dPwGctFtcsI6Q5kdOSPJ01Wm+/rWoKNV4YqHbctBmxUxiH7+lW6YcjwVQg3Ovbr9AT4uEqanfu7KAAAAAElFTkSuQmCC"
   },
   {
     "name": "polished_tuff",
@@ -8997,7 +8997,7 @@
   },
   {
     "name": "polished_tuff_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAGFBMVEWFg3p2d29scWtjbG1bYl5SWlFLUUVFSkI63WUqAAAAb0lEQVR42hXLURXCQAwEwGQR0E0w0BQHhwT8I6GHgianILz+z4Ai9PAXlo/nOOjQ8G1q7Ogs33MJHkd0CRe6rszKglBLg7dJP1iNnuRVJrBR2WcW1v1ZBU6N1FDQwmibQPr8Lv0Z6IPRRsD8Q3/vf4NdMzBZ9G59AAAAAElFTkSuQmCC"
   },
   {
     "name": "chiseled_tuff",
@@ -9017,7 +9017,7 @@
   },
   {
     "name": "tuff_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAHlBMVEWRjoCFg3p2d29scWtjbG1bYl5SWlFLUUVFSkI9QzczfrxYAAAAcklEQVR42gVAsRHCQAyTHPexwwQJGyQFPQ2DsAzLwQz0FPbfUSOODABZN5sbpDwcVxZioiU7q95haGHtIbe9GIvBTkIIM/2uIaQGN/4un1eWdXzz2R2+YwIPwVoDEQGLQqAIXxfKjt68UzgrZz5SzVD/AZHvMAcqRYFeAAAAAElFTkSuQmCC"
   },
   {
     "name": "chiseled_tuff_bricks",
@@ -9049,7 +9049,7 @@
   },
   {
     "name": "sculk_vein",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABABAMAAADhU+qlAAAAG1BMVEUAAAAp3+sAkpUFYl0DQVAFKjILISoRGyENEhcFzG0VAAAAAXRSTlMAQObYZgAAAM1JREFUeNq10UFqwzAQBdC/GN0gB+gm9ATZj4tUZSlkDc5BNIwPIOMeu7iNqCkki4T8A3we/4MRVRcSeDixOmVUKlw4KNIaG+AMVA8zAwKyGNkVANEq5Mzw5BmfXwn6Bi8khJVJLcFB4NrMPoGys7kNAXFJ4Z2KQrY6SIK7EEvClmB5Q2yeulDpno/uqUjrdPXoqXumRzyDs3MbBbElfyD95yndM4SrR3ee4QWe0dmlZfnZ50R6a59R/jyC8usZu0f3nuNTnrzzHEnv/fUNUNd9lw/m4YcAAAAASUVORK5CYII="
   },
   {
     "name": "sculk_catalyst",
@@ -9393,7 +9393,7 @@
   },
   {
     "name": "pink_petals",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAJ1BMVEUAAAD12u/8y+f8u+H3udz5qdn2odTzls31kc3uaKrlY6PrWqHeTYvEl3K7AAAAAXRSTlMAQObYZgAAAGVJREFUeNolzLEJwlAYAOHvBX1gmUzwG4T0ThAEsbWxFysLW/fIDCLu4HYh+dvj7hD0gebIaYRw+H0D9K9HqCR53k2rU+3+WTEBpVVB0y1eKMOwr8u1dJ8WSWzGdJzfWbncANurGVolDggA9Y2YAAAAAElFTkSuQmCC"
   },
   {
     "name": "moss_block",
@@ -9441,7 +9441,7 @@
   },
   {
     "name": "cobbled_deepslate_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEV6enppaWlaWlpKSk8/P0U1NTnf4I6sAAAAdUlEQVR42gVAQRLCIAzc2j7AIT6AAXpXSO7WkLul4f9f6aCdeqB+Enjwn/TImG4n++jQJVUxdyA0txlXBOIrEgoC27kWYvC0I0sW4FUrSzeE0pLaTCBR5UgV2ab3VRoK23PLwjAtDxI32HsLVX4N+3e/+ojLDSfPGK0cTn8xAAAAAElFTkSuQmCC"
   },
   {
     "name": "polished_deepslate",
@@ -9457,7 +9457,7 @@
   },
   {
     "name": "polished_deepslate_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEVubm5YWFhLTE9BQUE4NzctLS0kJCSCr1nNAAAAdUlEQVR42hXJwQ2DMAwF0G+zgH8Q58qO6LlAWAB1hbJBs36bCWiqd3wApLMJwnyQMSvEzPCBDDcxmjQog0zcVZ905MMxljWvETuYnVx6NZO/r2p42kZfMPQpnu4Kg1zApZrKxpQfINPWd9YGhAAN0/mq73rWH4SxE7baQdPiAAAAAElFTkSuQmCC"
   },
   {
     "name": "deepslate_tiles",
@@ -9473,7 +9473,7 @@
   },
   {
     "name": "deepslate_tile_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAElBMVEVYWFhLTE9BQUE4NzctLS0kJCQJbhOCAAAAa0lEQVR42h2NwRGEMAzENh0k7gCHCm5NBawLICT9t3LA6KOXBK2XmfADFWXbwSzNvQcii5l7QGlO8sBaypm5gNrsDgba5jylgNkjVGKmNLUWzrhQYR23Lv+CU8M7qa/zbvFz3xmjwzuDGvwD8j0ZzmPTk6IAAAAASUVORK5CYII="
   },
   {
     "name": "deepslate_bricks",
@@ -9489,7 +9489,7 @@
   },
   {
     "name": "deepslate_brick_wall",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQBAMAAADt3eJSAAAAFVBMVEVubm5YWFhLTE9BQUE4NzctLS0kJCSCr1nNAAAAa0lEQVR42hXBwRHCMBADQJ34g2QKiM8VEB4UCyX4Q2fYbiBMdimc/OK0naYIhAY0SFmhGxirLpUFXvepkCqfkNMedHPLyI2992/v7w+t+2O6mIFjABuIOAQtsFiwfmBVQciFCGO/ZNJ2bbb/Q0UY6660FnUAAAAASUVORK5CYII="
   },
   {
     "name": "chiseled_deepslate",
