@@ -1760,26 +1760,6 @@
       "all": "minecraft:block/bedrock"
     }
   },
-  "bee_nest": {
-    "parent": "minecraft:block/orientable_with_bottom",
-    "textures": {
-      "bottom": "minecraft:block/bee_nest_bottom",
-      "front": "minecraft:block/bee_nest_front",
-      "particle": "minecraft:block/bee_nest_side",
-      "side": "minecraft:block/bee_nest_side",
-      "top": "minecraft:block/bee_nest_top"
-    }
-  },
-  "bee_nest_honey": {
-    "parent": "minecraft:block/orientable_with_bottom",
-    "textures": {
-      "bottom": "minecraft:block/bee_nest_bottom",
-      "front": "minecraft:block/bee_nest_front_honey",
-      "particle": "minecraft:block/bee_nest_side",
-      "side": "minecraft:block/bee_nest_side",
-      "top": "minecraft:block/bee_nest_top"
-    }
-  },
   "beehive": {
     "parent": "minecraft:block/orientable_with_bottom",
     "textures": {
@@ -1822,6 +1802,26 @@
     "parent": "minecraft:block/crop",
     "textures": {
       "crop": "minecraft:block/beetroots_stage3"
+    }
+  },
+  "bee_nest": {
+    "parent": "minecraft:block/orientable_with_bottom",
+    "textures": {
+      "bottom": "minecraft:block/bee_nest_bottom",
+      "front": "minecraft:block/bee_nest_front",
+      "particle": "minecraft:block/bee_nest_side",
+      "side": "minecraft:block/bee_nest_side",
+      "top": "minecraft:block/bee_nest_top"
+    }
+  },
+  "bee_nest_honey": {
+    "parent": "minecraft:block/orientable_with_bottom",
+    "textures": {
+      "bottom": "minecraft:block/bee_nest_bottom",
+      "front": "minecraft:block/bee_nest_front_honey",
+      "particle": "minecraft:block/bee_nest_side",
+      "side": "minecraft:block/bee_nest_side",
+      "top": "minecraft:block/bee_nest_top"
     }
   },
   "bell_between_walls": {
@@ -3345,6 +3345,77 @@
       "side": "minecraft:block/birch_log"
     }
   },
+  "blackstone": {
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone"
+    }
+  },
+  "blackstone_slab": {
+    "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone",
+      "top": "minecraft:block/blackstone_top"
+    }
+  },
+  "blackstone_slab_top": {
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone",
+      "top": "minecraft:block/blackstone_top"
+    }
+  },
+  "blackstone_stairs": {
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone",
+      "top": "minecraft:block/blackstone_top"
+    }
+  },
+  "blackstone_stairs_inner": {
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone",
+      "top": "minecraft:block/blackstone_top"
+    }
+  },
+  "blackstone_stairs_outer": {
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "minecraft:block/blackstone_top",
+      "side": "minecraft:block/blackstone",
+      "top": "minecraft:block/blackstone_top"
+    }
+  },
+  "blackstone_wall_inventory": {
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+      "wall": "minecraft:block/blackstone"
+    }
+  },
+  "blackstone_wall_post": {
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+      "wall": "minecraft:block/blackstone"
+    }
+  },
+  "blackstone_wall_side": {
+    "parent": "minecraft:block/template_wall_side",
+    "textures": {
+      "wall": "minecraft:block/blackstone"
+    }
+  },
+  "blackstone_wall_side_tall": {
+    "parent": "minecraft:block/template_wall_side_tall",
+    "textures": {
+      "wall": "minecraft:block/blackstone"
+    }
+  },
   "black_candle_cake": {
     "parent": "minecraft:block/template_cake_with_candle",
     "textures": {
@@ -3499,77 +3570,6 @@
     "parent": "minecraft:block/cube_all",
     "textures": {
       "all": "minecraft:block/black_wool"
-    }
-  },
-  "blackstone": {
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-      "end": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone"
-    }
-  },
-  "blackstone_slab": {
-    "parent": "minecraft:block/slab",
-    "textures": {
-      "bottom": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone",
-      "top": "minecraft:block/blackstone_top"
-    }
-  },
-  "blackstone_slab_top": {
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone",
-      "top": "minecraft:block/blackstone_top"
-    }
-  },
-  "blackstone_stairs": {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone",
-      "top": "minecraft:block/blackstone_top"
-    }
-  },
-  "blackstone_stairs_inner": {
-    "parent": "minecraft:block/inner_stairs",
-    "textures": {
-      "bottom": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone",
-      "top": "minecraft:block/blackstone_top"
-    }
-  },
-  "blackstone_stairs_outer": {
-    "parent": "minecraft:block/outer_stairs",
-    "textures": {
-      "bottom": "minecraft:block/blackstone_top",
-      "side": "minecraft:block/blackstone",
-      "top": "minecraft:block/blackstone_top"
-    }
-  },
-  "blackstone_wall_inventory": {
-    "parent": "minecraft:block/wall_inventory",
-    "textures": {
-      "wall": "minecraft:block/blackstone"
-    }
-  },
-  "blackstone_wall_post": {
-    "parent": "minecraft:block/template_wall_post",
-    "textures": {
-      "wall": "minecraft:block/blackstone"
-    }
-  },
-  "blackstone_wall_side": {
-    "parent": "minecraft:block/template_wall_side",
-    "textures": {
-      "wall": "minecraft:block/blackstone"
-    }
-  },
-  "blackstone_wall_side_tall": {
-    "parent": "minecraft:block/template_wall_side_tall",
-    "textures": {
-      "wall": "minecraft:block/blackstone"
     }
   },
   "blast_furnace": {
@@ -4461,6 +4461,12 @@
       }
     ]
   },
+  "bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/bricks"
+    }
+  },
   "brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -4523,12 +4529,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/bricks"
-    }
-  },
-  "bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/bricks"
     }
   },
   "brown_candle_cake": {
@@ -14121,6 +14121,12 @@
       "side": "minecraft:block/deepslate"
     }
   },
+  "deepslate_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/deepslate_bricks"
+    }
+  },
   "deepslate_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -14185,12 +14191,6 @@
       "wall": "minecraft:block/deepslate_bricks"
     }
   },
-  "deepslate_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/deepslate_bricks"
-    }
-  },
   "deepslate_coal_ore": {
     "parent": "minecraft:block/cube_all",
     "textures": {
@@ -14244,6 +14244,12 @@
     "parent": "minecraft:block/cube_all",
     "textures": {
       "all": "minecraft:block/deepslate_redstone_ore"
+    }
+  },
+  "deepslate_tiles": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/deepslate_tiles"
     }
   },
   "deepslate_tile_slab": {
@@ -14308,12 +14314,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/deepslate_tiles"
-    }
-  },
-  "deepslate_tiles": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/deepslate_tiles"
     }
   },
   "detector_rail": {
@@ -15849,6 +15849,11 @@
       }
     ]
   },
+  "ender_chest": {
+    "textures": {
+      "particle": "minecraft:block/obsidian"
+    }
+  },
   "end_portal": {
     "textures": {
       "particle": "minecraft:block/obsidian"
@@ -16262,6 +16267,12 @@
       "all": "minecraft:block/end_stone"
     }
   },
+  "end_stone_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/end_stone_bricks"
+    }
+  },
   "end_stone_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -16324,17 +16335,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/end_stone_bricks"
-    }
-  },
-  "end_stone_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/end_stone_bricks"
-    }
-  },
-  "ender_chest": {
-    "textures": {
-      "particle": "minecraft:block/obsidian"
     }
   },
   "exposed_chiseled_copper": {
@@ -17348,656 +17348,6 @@
       "west": "minecraft:block/fletching_table_side"
     }
   },
-  "flower_pot": {
-    "ambientocclusion": false,
-    "textures": {
-      "particle": "block/flower_pot",
-      "flowerpot": "block/flower_pot",
-      "dirt": "block/dirt"
-    },
-    "elements": [
-      {
-        "from": [
-          5,
-          0,
-          5
-        ],
-        "to": [
-          6,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              5,
-              5,
-              6,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              5,
-              5,
-              6,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              10,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              5,
-              10,
-              6,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "west": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "east": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          10,
-          0,
-          5
-        ],
-        "to": [
-          11,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              10,
-              5,
-              11,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              10,
-              5,
-              11,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              5,
-              10,
-              6,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              10,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "west": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "east": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          5
-        ],
-        "to": [
-          10,
-          6,
-          6
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              10,
-              10,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              5,
-              10,
-              6
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          10
-        ],
-        "to": [
-          10,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              5,
-              10,
-              6
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              10,
-              10,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          6
-        ],
-        "to": [
-          10,
-          4,
-          10
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              12,
-              10,
-              16
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              6,
-              10,
-              10
-            ],
-            "texture": "#dirt"
-          }
-        }
-      }
-    ]
-  },
-  "flower_pot_cross": {
-    "ambientocclusion": false,
-    "textures": {
-      "particle": "block/flower_pot",
-      "flowerpot": "block/flower_pot",
-      "dirt": "block/dirt"
-    },
-    "elements": [
-      {
-        "from": [
-          5,
-          0,
-          5
-        ],
-        "to": [
-          6,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              5,
-              5,
-              6,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              5,
-              5,
-              6,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              10,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              5,
-              10,
-              6,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "west": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "east": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          10,
-          0,
-          5
-        ],
-        "to": [
-          11,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              10,
-              5,
-              11,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              10,
-              5,
-              11,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              5,
-              10,
-              6,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              10,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "west": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "east": {
-            "uv": [
-              5,
-              10,
-              11,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          5
-        ],
-        "to": [
-          10,
-          6,
-          6
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              10,
-              10,
-              11
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              5,
-              10,
-              6
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          10
-        ],
-        "to": [
-          10,
-          6,
-          11
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              5,
-              10,
-              6
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              10,
-              10,
-              11
-            ],
-            "texture": "#flowerpot"
-          },
-          "north": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          },
-          "south": {
-            "uv": [
-              6,
-              10,
-              10,
-              16
-            ],
-            "texture": "#flowerpot"
-          }
-        }
-      },
-      {
-        "from": [
-          6,
-          0,
-          6
-        ],
-        "to": [
-          10,
-          4,
-          10
-        ],
-        "faces": {
-          "down": {
-            "uv": [
-              6,
-              12,
-              10,
-              16
-            ],
-            "texture": "#flowerpot",
-            "cullface": "down"
-          },
-          "up": {
-            "uv": [
-              6,
-              6,
-              10,
-              10
-            ],
-            "texture": "#dirt"
-          }
-        }
-      },
-      {
-        "from": [
-          2.6,
-          4,
-          8
-        ],
-        "to": [
-          13.4,
-          16,
-          8
-        ],
-        "rotation": {
-          "origin": [
-            8,
-            8,
-            8
-          ],
-          "axis": "y",
-          "angle": 45,
-          "rescale": true
-        },
-        "faces": {
-          "north": {
-            "uv": [
-              0,
-              0,
-              16,
-              16
-            ],
-            "texture": "#plant"
-          },
-          "south": {
-            "uv": [
-              0,
-              0,
-              16,
-              16
-            ],
-            "texture": "#plant"
-          }
-        }
-      },
-      {
-        "from": [
-          8,
-          4,
-          2.6
-        ],
-        "to": [
-          8,
-          16,
-          13.4
-        ],
-        "rotation": {
-          "origin": [
-            8,
-            8,
-            8
-          ],
-          "axis": "y",
-          "angle": 45,
-          "rescale": true
-        },
-        "faces": {
-          "west": {
-            "uv": [
-              0,
-              0,
-              16,
-              16
-            ],
-            "texture": "#plant"
-          },
-          "east": {
-            "uv": [
-              0,
-              0,
-              16,
-              16
-            ],
-            "texture": "#plant"
-          }
-        }
-      }
-    ]
-  },
   "flowerbed_1": {
     "ambientocclusion": false,
     "textures": {
@@ -18890,6 +18240,656 @@
     "textures": {
       "all": "minecraft:block/flowering_azalea_leaves"
     }
+  },
+  "flower_pot": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "block/flower_pot",
+      "flowerpot": "block/flower_pot",
+      "dirt": "block/dirt"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          5
+        ],
+        "to": [
+          6,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              5,
+              6,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              5,
+              6,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              10,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              5,
+              10,
+              6,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "west": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "east": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          10,
+          0,
+          5
+        ],
+        "to": [
+          11,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              5,
+              11,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              10,
+              5,
+              11,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              5,
+              10,
+              6,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              10,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "west": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "east": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          5
+        ],
+        "to": [
+          10,
+          6,
+          6
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              10,
+              10,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              5,
+              10,
+              6
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          10
+        ],
+        "to": [
+          10,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              5,
+              10,
+              6
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              10,
+              10,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          6
+        ],
+        "to": [
+          10,
+          4,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              12,
+              10,
+              16
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              6,
+              10,
+              10
+            ],
+            "texture": "#dirt"
+          }
+        }
+      }
+    ]
+  },
+  "flower_pot_cross": {
+    "ambientocclusion": false,
+    "textures": {
+      "particle": "block/flower_pot",
+      "flowerpot": "block/flower_pot",
+      "dirt": "block/dirt"
+    },
+    "elements": [
+      {
+        "from": [
+          5,
+          0,
+          5
+        ],
+        "to": [
+          6,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              5,
+              5,
+              6,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              5,
+              5,
+              6,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              10,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              5,
+              10,
+              6,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "west": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "east": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          10,
+          0,
+          5
+        ],
+        "to": [
+          11,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              10,
+              5,
+              11,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              10,
+              5,
+              11,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              5,
+              10,
+              6,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              10,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "west": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "east": {
+            "uv": [
+              5,
+              10,
+              11,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          5
+        ],
+        "to": [
+          10,
+          6,
+          6
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              10,
+              10,
+              11
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              5,
+              10,
+              6
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          10
+        ],
+        "to": [
+          10,
+          6,
+          11
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              5,
+              10,
+              6
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              10,
+              10,
+              11
+            ],
+            "texture": "#flowerpot"
+          },
+          "north": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          },
+          "south": {
+            "uv": [
+              6,
+              10,
+              10,
+              16
+            ],
+            "texture": "#flowerpot"
+          }
+        }
+      },
+      {
+        "from": [
+          6,
+          0,
+          6
+        ],
+        "to": [
+          10,
+          4,
+          10
+        ],
+        "faces": {
+          "down": {
+            "uv": [
+              6,
+              12,
+              10,
+              16
+            ],
+            "texture": "#flowerpot",
+            "cullface": "down"
+          },
+          "up": {
+            "uv": [
+              6,
+              6,
+              10,
+              10
+            ],
+            "texture": "#dirt"
+          }
+        }
+      },
+      {
+        "from": [
+          2.6,
+          4,
+          8
+        ],
+        "to": [
+          13.4,
+          16,
+          8
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#plant"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#plant"
+          }
+        }
+      },
+      {
+        "from": [
+          8,
+          4,
+          2.6
+        ],
+        "to": [
+          8,
+          16,
+          13.4
+        ],
+        "rotation": {
+          "origin": [
+            8,
+            8,
+            8
+          ],
+          "axis": "y",
+          "angle": 45,
+          "rescale": true
+        },
+        "faces": {
+          "west": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#plant"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              16,
+              16
+            ],
+            "texture": "#plant"
+          }
+        }
+      }
+    ]
   },
   "four_dead_sea_pickles": {
     "parent": "block/block",
@@ -20133,6 +20133,12 @@
       "pane": "minecraft:block/glass"
     }
   },
+  "glowstone": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/glowstone"
+    }
+  },
   "glow_item_frame": {
     "parent": "minecraft:block/template_item_frame",
     "textures": {
@@ -20189,12 +20195,6 @@
         }
       }
     ]
-  },
-  "glowstone": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/glowstone"
-    }
   },
   "gold_block": {
     "parent": "minecraft:block/cube_all",
@@ -21252,6 +21252,12 @@
       "texture": "minecraft:block/iron_block"
     }
   },
+  "honeycomb_block": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/honeycomb_block"
+    }
+  },
   "honey_block": {
     "parent": "block/block",
     "textures": {
@@ -21368,12 +21374,6 @@
         }
       }
     ]
-  },
-  "honeycomb_block": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/honeycomb_block"
-    }
   },
   "hopper": {
     "ambientocclusion": false,
@@ -23721,6 +23721,306 @@
       }
     ]
   },
+  "lightning_rod": {
+    "parent": "block/block",
+    "display": {
+      "head": {
+        "rotation": [
+          -180,
+          0,
+          0
+        ],
+        "translation": [
+          8.5,
+          4,
+          0
+        ]
+      },
+      "thirdperson_righthand": {
+        "translation": [
+          0,
+          2,
+          0.5
+        ],
+        "scale": [
+          0.4,
+          0.4,
+          0.4
+        ]
+      }
+    },
+    "textures": {
+      "texture": "block/lightning_rod",
+      "particle": "block/lightning_rod"
+    },
+    "elements": [
+      {
+        "from": [
+          6,
+          12,
+          6
+        ],
+        "to": [
+          10,
+          16,
+          10
+        ],
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          12,
+          9
+        ],
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "down": {
+            "uv": [
+              0,
+              4,
+              2,
+              6
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
+  "lightning_rod_on": {
+    "parent": "block/block",
+    "textures": {
+      "texture": "block/lightning_rod_on",
+      "particle": "block/lightning_rod_on"
+    },
+    "elements": [
+      {
+        "from": [
+          6,
+          12,
+          6
+        ],
+        "to": [
+          10,
+          16,
+          10
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "down": {
+            "uv": [
+              0,
+              0,
+              4,
+              4
+            ],
+            "texture": "#texture"
+          },
+          "up": {
+            "uv": [
+              4,
+              4,
+              0,
+              0
+            ],
+            "texture": "#texture"
+          }
+        }
+      },
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          12,
+          9
+        ],
+        "shade": false,
+        "faces": {
+          "north": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "south": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "west": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "east": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          },
+          "down": {
+            "uv": [
+              0,
+              4,
+              2,
+              16
+            ],
+            "texture": "#texture"
+          }
+        }
+      }
+    ]
+  },
   "light_00": {
     "textures": {
       "particle": "minecraft:item/light_00"
@@ -24124,306 +24424,6 @@
     "textures": {
       "texture": "minecraft:block/gold_block"
     }
-  },
-  "lightning_rod": {
-    "parent": "block/block",
-    "display": {
-      "head": {
-        "rotation": [
-          -180,
-          0,
-          0
-        ],
-        "translation": [
-          8.5,
-          4,
-          0
-        ]
-      },
-      "thirdperson_righthand": {
-        "translation": [
-          0,
-          2,
-          0.5
-        ],
-        "scale": [
-          0.4,
-          0.4,
-          0.4
-        ]
-      }
-    },
-    "textures": {
-      "texture": "block/lightning_rod",
-      "particle": "block/lightning_rod"
-    },
-    "elements": [
-      {
-        "from": [
-          6,
-          12,
-          6
-        ],
-        "to": [
-          10,
-          16,
-          10
-        ],
-        "faces": {
-          "north": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "south": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "west": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "east": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "down": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "up": {
-            "uv": [
-              4,
-              4,
-              0,
-              0
-            ],
-            "texture": "#texture"
-          }
-        }
-      },
-      {
-        "from": [
-          7,
-          0,
-          7
-        ],
-        "to": [
-          9,
-          12,
-          9
-        ],
-        "faces": {
-          "north": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "south": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "west": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "east": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "down": {
-            "uv": [
-              0,
-              4,
-              2,
-              6
-            ],
-            "texture": "#texture"
-          }
-        }
-      }
-    ]
-  },
-  "lightning_rod_on": {
-    "parent": "block/block",
-    "textures": {
-      "texture": "block/lightning_rod_on",
-      "particle": "block/lightning_rod_on"
-    },
-    "elements": [
-      {
-        "from": [
-          6,
-          12,
-          6
-        ],
-        "to": [
-          10,
-          16,
-          10
-        ],
-        "shade": false,
-        "faces": {
-          "north": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "south": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "west": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "east": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "down": {
-            "uv": [
-              0,
-              0,
-              4,
-              4
-            ],
-            "texture": "#texture"
-          },
-          "up": {
-            "uv": [
-              4,
-              4,
-              0,
-              0
-            ],
-            "texture": "#texture"
-          }
-        }
-      },
-      {
-        "from": [
-          7,
-          0,
-          7
-        ],
-        "to": [
-          9,
-          12,
-          9
-        ],
-        "shade": false,
-        "faces": {
-          "north": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "south": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "west": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "east": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          },
-          "down": {
-            "uv": [
-              0,
-              4,
-              2,
-              16
-            ],
-            "texture": "#texture"
-          }
-        }
-      }
-    ]
   },
   "lilac_bottom": {
     "parent": "minecraft:block/cross",
@@ -29115,18 +29115,6 @@
       "stem": "minecraft:block/melon_stem"
     }
   },
-  "moss_block": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/moss_block"
-    }
-  },
-  "moss_carpet": {
-    "parent": "minecraft:block/carpet",
-    "textures": {
-      "wool": "minecraft:block/moss_block"
-    }
-  },
   "mossy_cobblestone": {
     "parent": "minecraft:block/cube_all",
     "textures": {
@@ -29197,6 +29185,12 @@
       "wall": "minecraft:block/mossy_cobblestone"
     }
   },
+  "mossy_stone_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/mossy_stone_bricks"
+    }
+  },
   "mossy_stone_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -29261,10 +29255,16 @@
       "wall": "minecraft:block/mossy_stone_bricks"
     }
   },
-  "mossy_stone_bricks": {
+  "moss_block": {
     "parent": "minecraft:block/cube_all",
     "textures": {
-      "all": "minecraft:block/mossy_stone_bricks"
+      "all": "minecraft:block/moss_block"
+    }
+  },
+  "moss_carpet": {
+    "parent": "minecraft:block/carpet",
+    "textures": {
+      "wool": "minecraft:block/moss_block"
     }
   },
   "moving_piston": {
@@ -29276,6 +29276,25 @@
     "parent": "minecraft:block/cube_all",
     "textures": {
       "all": "minecraft:block/mud"
+    }
+  },
+  "muddy_mangrove_roots": {
+    "parent": "minecraft:block/cube_column",
+    "textures": {
+      "end": "minecraft:block/muddy_mangrove_roots_top",
+      "side": "minecraft:block/muddy_mangrove_roots_side"
+    }
+  },
+  "mud_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/mud_bricks"
+    }
+  },
+  "mud_bricks_north_west_mirrored": {
+    "parent": "minecraft:block/cube_north_west_mirrored_all",
+    "textures": {
+      "all": "minecraft:block/mud_bricks"
     }
   },
   "mud_brick_slab": {
@@ -29342,25 +29361,6 @@
       "wall": "minecraft:block/mud_bricks"
     }
   },
-  "mud_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/mud_bricks"
-    }
-  },
-  "mud_bricks_north_west_mirrored": {
-    "parent": "minecraft:block/cube_north_west_mirrored_all",
-    "textures": {
-      "all": "minecraft:block/mud_bricks"
-    }
-  },
-  "muddy_mangrove_roots": {
-    "parent": "minecraft:block/cube_column",
-    "textures": {
-      "end": "minecraft:block/muddy_mangrove_roots_top",
-      "side": "minecraft:block/muddy_mangrove_roots_side"
-    }
-  },
   "mushroom_block_inside": {
     "parent": "block/template_single_face",
     "textures": {
@@ -29385,6 +29385,24 @@
       "bottom": "minecraft:block/dirt",
       "side": "minecraft:block/mycelium_side",
       "top": "minecraft:block/mycelium_top"
+    }
+  },
+  "netherite_block": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/netherite_block"
+    }
+  },
+  "netherrack": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/netherrack"
+    }
+  },
+  "nether_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/nether_bricks"
     }
   },
   "nether_brick_fence_inventory": {
@@ -29467,12 +29485,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/nether_bricks"
-    }
-  },
-  "nether_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/nether_bricks"
     }
   },
   "nether_gold_ore": {
@@ -29595,18 +29607,6 @@
     "parent": "minecraft:block/crop",
     "textures": {
       "crop": "minecraft:block/nether_wart_stage2"
-    }
-  },
-  "netherite_block": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/netherite_block"
-    }
-  },
-  "netherrack": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/netherrack"
     }
   },
   "note_block": {
@@ -32383,6 +32383,12 @@
       "all": "minecraft:block/polished_blackstone"
     }
   },
+  "polished_blackstone_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/polished_blackstone_bricks"
+    }
+  },
   "polished_blackstone_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -32445,12 +32451,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/polished_blackstone_bricks"
-    }
-  },
-  "polished_blackstone_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/polished_blackstone_bricks"
     }
   },
   "polished_blackstone_button": {
@@ -34378,6 +34378,12 @@
       "all": "minecraft:block/prismarine"
     }
   },
+  "prismarine_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/prismarine_bricks"
+    }
+  },
   "prismarine_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -34416,12 +34422,6 @@
       "bottom": "minecraft:block/prismarine_bricks",
       "side": "minecraft:block/prismarine_bricks",
       "top": "minecraft:block/prismarine_bricks"
-    }
-  },
-  "prismarine_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/prismarine_bricks"
     }
   },
   "prismarine_slab": {
@@ -34967,334 +34967,6 @@
       "all": "minecraft:block/raw_iron_block"
     }
   },
-  "red_candle_cake": {
-    "parent": "minecraft:block/template_cake_with_candle",
-    "textures": {
-      "bottom": "minecraft:block/cake_bottom",
-      "candle": "minecraft:block/red_candle",
-      "particle": "minecraft:block/cake_side",
-      "side": "minecraft:block/cake_side",
-      "top": "minecraft:block/cake_top"
-    }
-  },
-  "red_candle_cake_lit": {
-    "parent": "minecraft:block/template_cake_with_candle",
-    "textures": {
-      "bottom": "minecraft:block/cake_bottom",
-      "candle": "minecraft:block/red_candle_lit",
-      "particle": "minecraft:block/cake_side",
-      "side": "minecraft:block/cake_side",
-      "top": "minecraft:block/cake_top"
-    }
-  },
-  "red_candle_four_candles": {
-    "parent": "minecraft:block/template_four_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle",
-      "particle": "minecraft:block/red_candle"
-    }
-  },
-  "red_candle_four_candles_lit": {
-    "parent": "minecraft:block/template_four_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle_lit",
-      "particle": "minecraft:block/red_candle_lit"
-    }
-  },
-  "red_candle_one_candle": {
-    "parent": "minecraft:block/template_candle",
-    "textures": {
-      "all": "minecraft:block/red_candle",
-      "particle": "minecraft:block/red_candle"
-    }
-  },
-  "red_candle_one_candle_lit": {
-    "parent": "minecraft:block/template_candle",
-    "textures": {
-      "all": "minecraft:block/red_candle_lit",
-      "particle": "minecraft:block/red_candle_lit"
-    }
-  },
-  "red_candle_three_candles": {
-    "parent": "minecraft:block/template_three_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle",
-      "particle": "minecraft:block/red_candle"
-    }
-  },
-  "red_candle_three_candles_lit": {
-    "parent": "minecraft:block/template_three_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle_lit",
-      "particle": "minecraft:block/red_candle_lit"
-    }
-  },
-  "red_candle_two_candles": {
-    "parent": "minecraft:block/template_two_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle",
-      "particle": "minecraft:block/red_candle"
-    }
-  },
-  "red_candle_two_candles_lit": {
-    "parent": "minecraft:block/template_two_candles",
-    "textures": {
-      "all": "minecraft:block/red_candle_lit",
-      "particle": "minecraft:block/red_candle_lit"
-    }
-  },
-  "red_carpet": {
-    "parent": "minecraft:block/carpet",
-    "textures": {
-      "wool": "minecraft:block/red_wool"
-    }
-  },
-  "red_concrete": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_concrete"
-    }
-  },
-  "red_concrete_powder": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_concrete_powder"
-    }
-  },
-  "red_glazed_terracotta": {
-    "parent": "minecraft:block/template_glazed_terracotta",
-    "textures": {
-      "pattern": "minecraft:block/red_glazed_terracotta"
-    }
-  },
-  "red_mushroom": {
-    "parent": "minecraft:block/cross",
-    "textures": {
-      "cross": "minecraft:block/red_mushroom"
-    }
-  },
-  "red_mushroom_block": {
-    "parent": "minecraft:block/template_single_face",
-    "textures": {
-      "texture": "minecraft:block/red_mushroom_block"
-    }
-  },
-  "red_mushroom_block_inventory": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_mushroom_block"
-    }
-  },
-  "red_nether_brick_slab": {
-    "parent": "minecraft:block/slab",
-    "textures": {
-      "bottom": "minecraft:block/red_nether_bricks",
-      "side": "minecraft:block/red_nether_bricks",
-      "top": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_slab_top": {
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "minecraft:block/red_nether_bricks",
-      "side": "minecraft:block/red_nether_bricks",
-      "top": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_stairs": {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_nether_bricks",
-      "side": "minecraft:block/red_nether_bricks",
-      "top": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_stairs_inner": {
-    "parent": "minecraft:block/inner_stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_nether_bricks",
-      "side": "minecraft:block/red_nether_bricks",
-      "top": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_stairs_outer": {
-    "parent": "minecraft:block/outer_stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_nether_bricks",
-      "side": "minecraft:block/red_nether_bricks",
-      "top": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_wall_inventory": {
-    "parent": "minecraft:block/wall_inventory",
-    "textures": {
-      "wall": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_wall_post": {
-    "parent": "minecraft:block/template_wall_post",
-    "textures": {
-      "wall": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_wall_side": {
-    "parent": "minecraft:block/template_wall_side",
-    "textures": {
-      "wall": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_brick_wall_side_tall": {
-    "parent": "minecraft:block/template_wall_side_tall",
-    "textures": {
-      "wall": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_nether_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_nether_bricks"
-    }
-  },
-  "red_sand": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_sand"
-    }
-  },
-  "red_sandstone": {
-    "parent": "minecraft:block/cube_bottom_top",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_slab": {
-    "parent": "minecraft:block/slab",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_slab_top": {
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_stairs": {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_stairs_inner": {
-    "parent": "minecraft:block/inner_stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_stairs_outer": {
-    "parent": "minecraft:block/outer_stairs",
-    "textures": {
-      "bottom": "minecraft:block/red_sandstone_bottom",
-      "side": "minecraft:block/red_sandstone",
-      "top": "minecraft:block/red_sandstone_top"
-    }
-  },
-  "red_sandstone_wall_inventory": {
-    "parent": "minecraft:block/wall_inventory",
-    "textures": {
-      "wall": "minecraft:block/red_sandstone"
-    }
-  },
-  "red_sandstone_wall_post": {
-    "parent": "minecraft:block/template_wall_post",
-    "textures": {
-      "wall": "minecraft:block/red_sandstone"
-    }
-  },
-  "red_sandstone_wall_side": {
-    "parent": "minecraft:block/template_wall_side",
-    "textures": {
-      "wall": "minecraft:block/red_sandstone"
-    }
-  },
-  "red_sandstone_wall_side_tall": {
-    "parent": "minecraft:block/template_wall_side_tall",
-    "textures": {
-      "wall": "minecraft:block/red_sandstone"
-    }
-  },
-  "red_shulker_box": {
-    "textures": {
-      "particle": "minecraft:block/red_shulker_box"
-    }
-  },
-  "red_stained_glass": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_stained_glass_pane_noside": {
-    "parent": "minecraft:block/template_glass_pane_noside",
-    "textures": {
-      "pane": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_stained_glass_pane_noside_alt": {
-    "parent": "minecraft:block/template_glass_pane_noside_alt",
-    "textures": {
-      "pane": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_stained_glass_pane_post": {
-    "parent": "minecraft:block/template_glass_pane_post",
-    "textures": {
-      "edge": "minecraft:block/red_stained_glass_pane_top",
-      "pane": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_stained_glass_pane_side": {
-    "parent": "minecraft:block/template_glass_pane_side",
-    "textures": {
-      "edge": "minecraft:block/red_stained_glass_pane_top",
-      "pane": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_stained_glass_pane_side_alt": {
-    "parent": "minecraft:block/template_glass_pane_side_alt",
-    "textures": {
-      "edge": "minecraft:block/red_stained_glass_pane_top",
-      "pane": "minecraft:block/red_stained_glass"
-    }
-  },
-  "red_terracotta": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_terracotta"
-    }
-  },
-  "red_tulip": {
-    "parent": "minecraft:block/cross",
-    "textures": {
-      "cross": "minecraft:block/red_tulip"
-    }
-  },
-  "red_wool": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/red_wool"
-    }
-  },
   "redstone_block": {
     "parent": "minecraft:block/cube_all",
     "textures": {
@@ -35675,6 +35347,334 @@
     "parent": "minecraft:block/template_torch_wall",
     "textures": {
       "torch": "minecraft:block/redstone_torch_off"
+    }
+  },
+  "red_candle_cake": {
+    "parent": "minecraft:block/template_cake_with_candle",
+    "textures": {
+      "bottom": "minecraft:block/cake_bottom",
+      "candle": "minecraft:block/red_candle",
+      "particle": "minecraft:block/cake_side",
+      "side": "minecraft:block/cake_side",
+      "top": "minecraft:block/cake_top"
+    }
+  },
+  "red_candle_cake_lit": {
+    "parent": "minecraft:block/template_cake_with_candle",
+    "textures": {
+      "bottom": "minecraft:block/cake_bottom",
+      "candle": "minecraft:block/red_candle_lit",
+      "particle": "minecraft:block/cake_side",
+      "side": "minecraft:block/cake_side",
+      "top": "minecraft:block/cake_top"
+    }
+  },
+  "red_candle_four_candles": {
+    "parent": "minecraft:block/template_four_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle",
+      "particle": "minecraft:block/red_candle"
+    }
+  },
+  "red_candle_four_candles_lit": {
+    "parent": "minecraft:block/template_four_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle_lit",
+      "particle": "minecraft:block/red_candle_lit"
+    }
+  },
+  "red_candle_one_candle": {
+    "parent": "minecraft:block/template_candle",
+    "textures": {
+      "all": "minecraft:block/red_candle",
+      "particle": "minecraft:block/red_candle"
+    }
+  },
+  "red_candle_one_candle_lit": {
+    "parent": "minecraft:block/template_candle",
+    "textures": {
+      "all": "minecraft:block/red_candle_lit",
+      "particle": "minecraft:block/red_candle_lit"
+    }
+  },
+  "red_candle_three_candles": {
+    "parent": "minecraft:block/template_three_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle",
+      "particle": "minecraft:block/red_candle"
+    }
+  },
+  "red_candle_three_candles_lit": {
+    "parent": "minecraft:block/template_three_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle_lit",
+      "particle": "minecraft:block/red_candle_lit"
+    }
+  },
+  "red_candle_two_candles": {
+    "parent": "minecraft:block/template_two_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle",
+      "particle": "minecraft:block/red_candle"
+    }
+  },
+  "red_candle_two_candles_lit": {
+    "parent": "minecraft:block/template_two_candles",
+    "textures": {
+      "all": "minecraft:block/red_candle_lit",
+      "particle": "minecraft:block/red_candle_lit"
+    }
+  },
+  "red_carpet": {
+    "parent": "minecraft:block/carpet",
+    "textures": {
+      "wool": "minecraft:block/red_wool"
+    }
+  },
+  "red_concrete": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_concrete"
+    }
+  },
+  "red_concrete_powder": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_concrete_powder"
+    }
+  },
+  "red_glazed_terracotta": {
+    "parent": "minecraft:block/template_glazed_terracotta",
+    "textures": {
+      "pattern": "minecraft:block/red_glazed_terracotta"
+    }
+  },
+  "red_mushroom": {
+    "parent": "minecraft:block/cross",
+    "textures": {
+      "cross": "minecraft:block/red_mushroom"
+    }
+  },
+  "red_mushroom_block": {
+    "parent": "minecraft:block/template_single_face",
+    "textures": {
+      "texture": "minecraft:block/red_mushroom_block"
+    }
+  },
+  "red_mushroom_block_inventory": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_mushroom_block"
+    }
+  },
+  "red_nether_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_slab": {
+    "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "minecraft:block/red_nether_bricks",
+      "side": "minecraft:block/red_nether_bricks",
+      "top": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_slab_top": {
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "minecraft:block/red_nether_bricks",
+      "side": "minecraft:block/red_nether_bricks",
+      "top": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_stairs": {
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_nether_bricks",
+      "side": "minecraft:block/red_nether_bricks",
+      "top": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_stairs_inner": {
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_nether_bricks",
+      "side": "minecraft:block/red_nether_bricks",
+      "top": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_stairs_outer": {
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_nether_bricks",
+      "side": "minecraft:block/red_nether_bricks",
+      "top": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_wall_inventory": {
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+      "wall": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_wall_post": {
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+      "wall": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_wall_side": {
+    "parent": "minecraft:block/template_wall_side",
+    "textures": {
+      "wall": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_nether_brick_wall_side_tall": {
+    "parent": "minecraft:block/template_wall_side_tall",
+    "textures": {
+      "wall": "minecraft:block/red_nether_bricks"
+    }
+  },
+  "red_sand": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_sand"
+    }
+  },
+  "red_sandstone": {
+    "parent": "minecraft:block/cube_bottom_top",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_slab": {
+    "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_slab_top": {
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_stairs": {
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_stairs_inner": {
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_stairs_outer": {
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "minecraft:block/red_sandstone_bottom",
+      "side": "minecraft:block/red_sandstone",
+      "top": "minecraft:block/red_sandstone_top"
+    }
+  },
+  "red_sandstone_wall_inventory": {
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+      "wall": "minecraft:block/red_sandstone"
+    }
+  },
+  "red_sandstone_wall_post": {
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+      "wall": "minecraft:block/red_sandstone"
+    }
+  },
+  "red_sandstone_wall_side": {
+    "parent": "minecraft:block/template_wall_side",
+    "textures": {
+      "wall": "minecraft:block/red_sandstone"
+    }
+  },
+  "red_sandstone_wall_side_tall": {
+    "parent": "minecraft:block/template_wall_side_tall",
+    "textures": {
+      "wall": "minecraft:block/red_sandstone"
+    }
+  },
+  "red_shulker_box": {
+    "textures": {
+      "particle": "minecraft:block/red_shulker_box"
+    }
+  },
+  "red_stained_glass": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_stained_glass_pane_noside": {
+    "parent": "minecraft:block/template_glass_pane_noside",
+    "textures": {
+      "pane": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_stained_glass_pane_noside_alt": {
+    "parent": "minecraft:block/template_glass_pane_noside_alt",
+    "textures": {
+      "pane": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_stained_glass_pane_post": {
+    "parent": "minecraft:block/template_glass_pane_post",
+    "textures": {
+      "edge": "minecraft:block/red_stained_glass_pane_top",
+      "pane": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_stained_glass_pane_side": {
+    "parent": "minecraft:block/template_glass_pane_side",
+    "textures": {
+      "edge": "minecraft:block/red_stained_glass_pane_top",
+      "pane": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_stained_glass_pane_side_alt": {
+    "parent": "minecraft:block/template_glass_pane_side_alt",
+    "textures": {
+      "edge": "minecraft:block/red_stained_glass_pane_top",
+      "pane": "minecraft:block/red_stained_glass"
+    }
+  },
+  "red_terracotta": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_terracotta"
+    }
+  },
+  "red_tulip": {
+    "parent": "minecraft:block/cross",
+    "textures": {
+      "cross": "minecraft:block/red_tulip"
+    }
+  },
+  "red_wool": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/red_wool"
     }
   },
   "reinforced_deepslate": {
@@ -40717,6 +40717,12 @@
       }
     ]
   },
+  "seagrass": {
+    "parent": "minecraft:block/template_seagrass",
+    "textures": {
+      "texture": "minecraft:block/seagrass"
+    }
+  },
   "sea_lantern": {
     "parent": "minecraft:block/cube_all",
     "textures": {
@@ -40909,12 +40915,6 @@
         }
       }
     ]
-  },
-  "seagrass": {
-    "parent": "minecraft:block/template_seagrass",
-    "textures": {
-      "texture": "minecraft:block/seagrass"
-    }
   },
   "short_grass": {
     "parent": "minecraft:block/tinted_cross",
@@ -44257,152 +44257,6 @@
       "all": "minecraft:block/stone"
     }
   },
-  "stone_brick_slab": {
-    "parent": "minecraft:block/slab",
-    "textures": {
-      "bottom": "minecraft:block/stone_bricks",
-      "side": "minecraft:block/stone_bricks",
-      "top": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_slab_top": {
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "minecraft:block/stone_bricks",
-      "side": "minecraft:block/stone_bricks",
-      "top": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_stairs": {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone_bricks",
-      "side": "minecraft:block/stone_bricks",
-      "top": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_stairs_inner": {
-    "parent": "minecraft:block/inner_stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone_bricks",
-      "side": "minecraft:block/stone_bricks",
-      "top": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_stairs_outer": {
-    "parent": "minecraft:block/outer_stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone_bricks",
-      "side": "minecraft:block/stone_bricks",
-      "top": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_wall_inventory": {
-    "parent": "minecraft:block/wall_inventory",
-    "textures": {
-      "wall": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_wall_post": {
-    "parent": "minecraft:block/template_wall_post",
-    "textures": {
-      "wall": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_wall_side": {
-    "parent": "minecraft:block/template_wall_side",
-    "textures": {
-      "wall": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_brick_wall_side_tall": {
-    "parent": "minecraft:block/template_wall_side_tall",
-    "textures": {
-      "wall": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/stone_bricks"
-    }
-  },
-  "stone_button": {
-    "parent": "minecraft:block/button",
-    "textures": {
-      "texture": "minecraft:block/stone"
-    }
-  },
-  "stone_button_inventory": {
-    "parent": "minecraft:block/button_inventory",
-    "textures": {
-      "texture": "minecraft:block/stone"
-    }
-  },
-  "stone_button_pressed": {
-    "parent": "minecraft:block/button_pressed",
-    "textures": {
-      "texture": "minecraft:block/stone"
-    }
-  },
-  "stone_mirrored": {
-    "parent": "minecraft:block/cube_mirrored_all",
-    "textures": {
-      "all": "minecraft:block/stone"
-    }
-  },
-  "stone_pressure_plate": {
-    "parent": "minecraft:block/pressure_plate_up",
-    "textures": {
-      "texture": "minecraft:block/stone"
-    }
-  },
-  "stone_pressure_plate_down": {
-    "parent": "minecraft:block/pressure_plate_down",
-    "textures": {
-      "texture": "minecraft:block/stone"
-    }
-  },
-  "stone_slab": {
-    "parent": "minecraft:block/slab",
-    "textures": {
-      "bottom": "minecraft:block/stone",
-      "side": "minecraft:block/stone",
-      "top": "minecraft:block/stone"
-    }
-  },
-  "stone_slab_top": {
-    "parent": "minecraft:block/slab_top",
-    "textures": {
-      "bottom": "minecraft:block/stone",
-      "side": "minecraft:block/stone",
-      "top": "minecraft:block/stone"
-    }
-  },
-  "stone_stairs": {
-    "parent": "minecraft:block/stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone",
-      "side": "minecraft:block/stone",
-      "top": "minecraft:block/stone"
-    }
-  },
-  "stone_stairs_inner": {
-    "parent": "minecraft:block/inner_stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone",
-      "side": "minecraft:block/stone",
-      "top": "minecraft:block/stone"
-    }
-  },
-  "stone_stairs_outer": {
-    "parent": "minecraft:block/outer_stairs",
-    "textures": {
-      "bottom": "minecraft:block/stone",
-      "side": "minecraft:block/stone",
-      "top": "minecraft:block/stone"
-    }
-  },
   "stonecutter": {
     "parent": "block/block",
     "textures": {
@@ -44521,6 +44375,152 @@
         }
       }
     ]
+  },
+  "stone_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_slab": {
+    "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "minecraft:block/stone_bricks",
+      "side": "minecraft:block/stone_bricks",
+      "top": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_slab_top": {
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "minecraft:block/stone_bricks",
+      "side": "minecraft:block/stone_bricks",
+      "top": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_stairs": {
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone_bricks",
+      "side": "minecraft:block/stone_bricks",
+      "top": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_stairs_inner": {
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone_bricks",
+      "side": "minecraft:block/stone_bricks",
+      "top": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_stairs_outer": {
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone_bricks",
+      "side": "minecraft:block/stone_bricks",
+      "top": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_wall_inventory": {
+    "parent": "minecraft:block/wall_inventory",
+    "textures": {
+      "wall": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_wall_post": {
+    "parent": "minecraft:block/template_wall_post",
+    "textures": {
+      "wall": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_wall_side": {
+    "parent": "minecraft:block/template_wall_side",
+    "textures": {
+      "wall": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_brick_wall_side_tall": {
+    "parent": "minecraft:block/template_wall_side_tall",
+    "textures": {
+      "wall": "minecraft:block/stone_bricks"
+    }
+  },
+  "stone_button": {
+    "parent": "minecraft:block/button",
+    "textures": {
+      "texture": "minecraft:block/stone"
+    }
+  },
+  "stone_button_inventory": {
+    "parent": "minecraft:block/button_inventory",
+    "textures": {
+      "texture": "minecraft:block/stone"
+    }
+  },
+  "stone_button_pressed": {
+    "parent": "minecraft:block/button_pressed",
+    "textures": {
+      "texture": "minecraft:block/stone"
+    }
+  },
+  "stone_mirrored": {
+    "parent": "minecraft:block/cube_mirrored_all",
+    "textures": {
+      "all": "minecraft:block/stone"
+    }
+  },
+  "stone_pressure_plate": {
+    "parent": "minecraft:block/pressure_plate_up",
+    "textures": {
+      "texture": "minecraft:block/stone"
+    }
+  },
+  "stone_pressure_plate_down": {
+    "parent": "minecraft:block/pressure_plate_down",
+    "textures": {
+      "texture": "minecraft:block/stone"
+    }
+  },
+  "stone_slab": {
+    "parent": "minecraft:block/slab",
+    "textures": {
+      "bottom": "minecraft:block/stone",
+      "side": "minecraft:block/stone",
+      "top": "minecraft:block/stone"
+    }
+  },
+  "stone_slab_top": {
+    "parent": "minecraft:block/slab_top",
+    "textures": {
+      "bottom": "minecraft:block/stone",
+      "side": "minecraft:block/stone",
+      "top": "minecraft:block/stone"
+    }
+  },
+  "stone_stairs": {
+    "parent": "minecraft:block/stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone",
+      "side": "minecraft:block/stone",
+      "top": "minecraft:block/stone"
+    }
+  },
+  "stone_stairs_inner": {
+    "parent": "minecraft:block/inner_stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone",
+      "side": "minecraft:block/stone",
+      "top": "minecraft:block/stone"
+    }
+  },
+  "stone_stairs_outer": {
+    "parent": "minecraft:block/outer_stairs",
+    "textures": {
+      "bottom": "minecraft:block/stone",
+      "side": "minecraft:block/stone",
+      "top": "minecraft:block/stone"
+    }
   },
   "stripped_acacia_log": {
     "parent": "minecraft:block/cube_column",
@@ -63291,6 +63291,12 @@
       "all": "minecraft:block/tuff"
     }
   },
+  "tuff_bricks": {
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "minecraft:block/tuff_bricks"
+    }
+  },
   "tuff_brick_slab": {
     "parent": "minecraft:block/slab",
     "textures": {
@@ -63353,12 +63359,6 @@
     "parent": "minecraft:block/template_wall_side_tall",
     "textures": {
       "wall": "minecraft:block/tuff_bricks"
-    }
-  },
-  "tuff_bricks": {
-    "parent": "minecraft:block/cube_all",
-    "textures": {
-      "all": "minecraft:block/tuff_bricks"
     }
   },
   "tuff_slab": {

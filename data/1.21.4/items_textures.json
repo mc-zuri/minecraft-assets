@@ -215,6 +215,11 @@
     "texture": "minecraft:block/dark_oak_planks"
   },
   {
+    "name": "pale_oak_planks",
+    "model": "pale_oak_planks",
+    "texture": "minecraft:block/pale_oak_planks"
+  },
+  {
     "name": "mangrove_planks",
     "model": "mangrove_planks",
     "texture": "minecraft:block/mangrove_planks"
@@ -273,6 +278,11 @@
     "name": "dark_oak_sapling",
     "model": "dark_oak_sapling",
     "texture": "minecraft:block/dark_oak_sapling"
+  },
+  {
+    "name": "pale_oak_sapling",
+    "model": "pale_oak_sapling",
+    "texture": "minecraft:block/pale_oak_sapling"
   },
   {
     "name": "mangrove_propagule",
@@ -690,6 +700,11 @@
     "texture": "minecraft:block/cherry_log_top"
   },
   {
+    "name": "pale_oak_log",
+    "model": "pale_oak_log",
+    "texture": "minecraft:block/pale_oak_log_top"
+  },
+  {
     "name": "dark_oak_log",
     "model": "dark_oak_log",
     "texture": "minecraft:block/dark_oak_log_top"
@@ -760,6 +775,11 @@
     "texture": "minecraft:block/stripped_dark_oak_log_top"
   },
   {
+    "name": "stripped_pale_oak_log",
+    "model": "stripped_pale_oak_log",
+    "texture": "minecraft:block/stripped_pale_oak_log_top"
+  },
+  {
     "name": "stripped_mangrove_log",
     "model": "stripped_mangrove_log",
     "texture": "minecraft:block/stripped_mangrove_log_top"
@@ -810,6 +830,11 @@
     "texture": "minecraft:block/stripped_dark_oak_log"
   },
   {
+    "name": "stripped_pale_oak_wood",
+    "model": "stripped_pale_oak_wood",
+    "texture": "minecraft:block/stripped_pale_oak_log"
+  },
+  {
     "name": "stripped_mangrove_wood",
     "model": "stripped_mangrove_wood",
     "texture": "minecraft:block/stripped_mangrove_log"
@@ -858,6 +883,11 @@
     "name": "cherry_wood",
     "model": "cherry_wood",
     "texture": "minecraft:block/cherry_log"
+  },
+  {
+    "name": "pale_oak_wood",
+    "model": "pale_oak_wood",
+    "texture": "minecraft:block/pale_oak_log"
   },
   {
     "name": "dark_oak_wood",
@@ -913,6 +943,11 @@
     "name": "dark_oak_leaves",
     "model": "dark_oak_leaves",
     "texture": "minecraft:block/dark_oak_leaves"
+  },
+  {
+    "name": "pale_oak_leaves",
+    "model": "pale_oak_leaves",
+    "texture": "minecraft:block/pale_oak_leaves"
   },
   {
     "name": "mangrove_leaves",
@@ -1095,6 +1130,16 @@
     "texture": "minecraft:block/dandelion"
   },
   {
+    "name": "open_eyeblossom",
+    "model": "open_eyeblossom",
+    "texture": "minecraft:block/open_eyeblossom"
+  },
+  {
+    "name": "closed_eyeblossom",
+    "model": "closed_eyeblossom",
+    "texture": "minecraft:block/closed_eyeblossom"
+  },
+  {
     "name": "poppy",
     "model": "poppy",
     "texture": "minecraft:block/poppy"
@@ -1225,19 +1270,34 @@
     "texture": "minecraft:items/kelp"
   },
   {
-    "name": "moss_carpet",
-    "model": "moss_carpet",
-    "texture": "minecraft:block/moss_block"
-  },
-  {
     "name": "pink_petals",
     "model": "pink_petals",
     "texture": "minecraft:items/pink_petals"
   },
   {
+    "name": "moss_carpet",
+    "model": "moss_carpet",
+    "texture": "minecraft:block/moss_block"
+  },
+  {
     "name": "moss_block",
     "model": "moss_block",
     "texture": "minecraft:block/moss_block"
+  },
+  {
+    "name": "pale_moss_carpet",
+    "model": "pale_moss_carpet",
+    "texture": "minecraft:block/pale_moss_carpet"
+  },
+  {
+    "name": "pale_hanging_moss",
+    "model": "pale_hanging_moss",
+    "texture": "minecraft:block/pale_hanging_moss"
+  },
+  {
+    "name": "pale_moss_block",
+    "model": "pale_moss_block",
+    "texture": "minecraft:block/pale_moss_block"
   },
   {
     "name": "hanging_roots",
@@ -1293,6 +1353,11 @@
     "name": "dark_oak_slab",
     "model": "dark_oak_slab",
     "texture": "minecraft:block/dark_oak_planks"
+  },
+  {
+    "name": "pale_oak_slab",
+    "model": "pale_oak_slab",
+    "texture": "minecraft:block/pale_oak_planks"
   },
   {
     "name": "mangrove_slab",
@@ -1495,6 +1560,11 @@
     "texture": "minecraft:block/spawner"
   },
   {
+    "name": "creaking_heart",
+    "model": "creaking_heart",
+    "texture": "minecraft:block/creaking_heart_top"
+  },
+  {
     "name": "chest",
     "model": "chest",
     "texture": "minecraft:block/oak_planks"
@@ -1588,6 +1658,11 @@
     "name": "dark_oak_fence",
     "model": "dark_oak_fence",
     "texture": "minecraft:block/dark_oak_planks"
+  },
+  {
+    "name": "pale_oak_fence",
+    "model": "pale_oak_fence",
+    "texture": "minecraft:block/pale_oak_planks"
   },
   {
     "name": "mangrove_fence",
@@ -1805,6 +1880,41 @@
     "texture": "minecraft:block/glow_lichen"
   },
   {
+    "name": "resin_clump",
+    "model": "resin_clump",
+    "texture": "minecraft:items/resin_clump"
+  },
+  {
+    "name": "resin_block",
+    "model": "resin_block",
+    "texture": "minecraft:block/resin_block"
+  },
+  {
+    "name": "resin_bricks",
+    "model": "resin_bricks",
+    "texture": "minecraft:block/resin_bricks"
+  },
+  {
+    "name": "resin_brick_stairs",
+    "model": "resin_brick_stairs",
+    "texture": "minecraft:block/resin_bricks"
+  },
+  {
+    "name": "resin_brick_slab",
+    "model": "resin_brick_slab",
+    "texture": "minecraft:block/resin_bricks"
+  },
+  {
+    "name": "resin_brick_wall",
+    "model": "resin_brick_wall",
+    "texture": "minecraft:block/resin_bricks"
+  },
+  {
+    "name": "chiseled_resin_bricks",
+    "model": "chiseled_resin_bricks",
+    "texture": "minecraft:block/chiseled_resin_bricks"
+  },
+  {
     "name": "brick_stairs",
     "model": "brick_stairs",
     "texture": "minecraft:block/bricks"
@@ -1948,6 +2058,11 @@
     "name": "dark_oak_stairs",
     "model": "dark_oak_stairs",
     "texture": "minecraft:block/dark_oak_planks"
+  },
+  {
+    "name": "pale_oak_stairs",
+    "model": "pale_oak_stairs",
+    "texture": "minecraft:block/pale_oak_planks"
   },
   {
     "name": "mangrove_stairs",
@@ -3455,6 +3570,11 @@
     "texture": "minecraft:block/dark_oak_planks"
   },
   {
+    "name": "pale_oak_button",
+    "model": "pale_oak_button",
+    "texture": "minecraft:block/pale_oak_planks"
+  },
+  {
     "name": "mangrove_button",
     "model": "mangrove_button",
     "texture": "minecraft:block/mangrove_planks"
@@ -3530,6 +3650,11 @@
     "texture": "minecraft:block/dark_oak_planks"
   },
   {
+    "name": "pale_oak_pressure_plate",
+    "model": "pale_oak_pressure_plate",
+    "texture": "minecraft:block/pale_oak_planks"
+  },
+  {
     "name": "mangrove_pressure_plate",
     "model": "mangrove_pressure_plate",
     "texture": "minecraft:block/mangrove_planks"
@@ -3588,6 +3713,11 @@
     "name": "dark_oak_door",
     "model": "dark_oak_door",
     "texture": "minecraft:items/dark_oak_door"
+  },
+  {
+    "name": "pale_oak_door",
+    "model": "pale_oak_door",
+    "texture": "minecraft:items/pale_oak_door"
   },
   {
     "name": "mangrove_door",
@@ -3690,6 +3820,11 @@
     "texture": "minecraft:block/dark_oak_trapdoor"
   },
   {
+    "name": "pale_oak_trapdoor",
+    "model": "pale_oak_trapdoor",
+    "texture": "minecraft:block/pale_oak_trapdoor"
+  },
+  {
     "name": "mangrove_trapdoor",
     "model": "mangrove_trapdoor",
     "texture": "minecraft:block/mangrove_trapdoor"
@@ -3785,6 +3920,11 @@
     "texture": "minecraft:block/dark_oak_planks"
   },
   {
+    "name": "pale_oak_fence_gate",
+    "model": "pale_oak_fence_gate",
+    "texture": "minecraft:block/pale_oak_planks"
+  },
+  {
     "name": "mangrove_fence_gate",
     "model": "mangrove_fence_gate",
     "texture": "minecraft:block/mangrove_planks"
@@ -3865,6 +4005,11 @@
     "texture": "minecraft:items/warped_fungus_on_a_stick"
   },
   {
+    "name": "phantom_membrane",
+    "model": "phantom_membrane",
+    "texture": "minecraft:items/phantom_membrane"
+  },
+  {
     "name": "elytra",
     "model": "elytra",
     "texture": "minecraft:items/elytra"
@@ -3938,6 +4083,16 @@
     "name": "dark_oak_chest_boat",
     "model": "dark_oak_chest_boat",
     "texture": "minecraft:items/dark_oak_chest_boat"
+  },
+  {
+    "name": "pale_oak_boat",
+    "model": "pale_oak_boat",
+    "texture": "minecraft:items/pale_oak_boat"
+  },
+  {
+    "name": "pale_oak_chest_boat",
+    "model": "pale_oak_chest_boat",
+    "texture": "minecraft:items/pale_oak_chest_boat"
   },
   {
     "name": "mangrove_boat",
@@ -4465,6 +4620,11 @@
     "texture": "minecraft:items/dark_oak_sign"
   },
   {
+    "name": "pale_oak_sign",
+    "model": "pale_oak_sign",
+    "texture": "minecraft:items/pale_oak_sign"
+  },
+  {
     "name": "mangrove_sign",
     "model": "mangrove_sign",
     "texture": "minecraft:items/mangrove_sign"
@@ -4518,6 +4678,11 @@
     "name": "dark_oak_hanging_sign",
     "model": "dark_oak_hanging_sign",
     "texture": "minecraft:items/dark_oak_hanging_sign"
+  },
+  {
+    "name": "pale_oak_hanging_sign",
+    "model": "pale_oak_hanging_sign",
+    "texture": "minecraft:items/pale_oak_hanging_sign"
   },
   {
     "name": "mangrove_hanging_sign",
@@ -4653,6 +4818,86 @@
     "name": "bundle",
     "model": "bundle",
     "texture": "minecraft:items/bundle"
+  },
+  {
+    "name": "white_bundle",
+    "model": "white_bundle",
+    "texture": "minecraft:items/white_bundle"
+  },
+  {
+    "name": "orange_bundle",
+    "model": "orange_bundle",
+    "texture": "minecraft:items/orange_bundle"
+  },
+  {
+    "name": "magenta_bundle",
+    "model": "magenta_bundle",
+    "texture": "minecraft:items/magenta_bundle"
+  },
+  {
+    "name": "light_blue_bundle",
+    "model": "light_blue_bundle",
+    "texture": "minecraft:items/light_blue_bundle"
+  },
+  {
+    "name": "yellow_bundle",
+    "model": "yellow_bundle",
+    "texture": "minecraft:items/yellow_bundle"
+  },
+  {
+    "name": "lime_bundle",
+    "model": "lime_bundle",
+    "texture": "minecraft:items/lime_bundle"
+  },
+  {
+    "name": "pink_bundle",
+    "model": "pink_bundle",
+    "texture": "minecraft:items/pink_bundle"
+  },
+  {
+    "name": "gray_bundle",
+    "model": "gray_bundle",
+    "texture": "minecraft:items/gray_bundle"
+  },
+  {
+    "name": "light_gray_bundle",
+    "model": "light_gray_bundle",
+    "texture": "minecraft:items/light_gray_bundle"
+  },
+  {
+    "name": "cyan_bundle",
+    "model": "cyan_bundle",
+    "texture": "minecraft:items/cyan_bundle"
+  },
+  {
+    "name": "purple_bundle",
+    "model": "purple_bundle",
+    "texture": "minecraft:items/purple_bundle"
+  },
+  {
+    "name": "blue_bundle",
+    "model": "blue_bundle",
+    "texture": "minecraft:items/blue_bundle"
+  },
+  {
+    "name": "brown_bundle",
+    "model": "brown_bundle",
+    "texture": "minecraft:items/brown_bundle"
+  },
+  {
+    "name": "green_bundle",
+    "model": "green_bundle",
+    "texture": "minecraft:items/green_bundle"
+  },
+  {
+    "name": "red_bundle",
+    "model": "red_bundle",
+    "texture": "minecraft:items/red_bundle"
+  },
+  {
+    "name": "black_bundle",
+    "model": "black_bundle",
+    "texture": "minecraft:items/black_bundle"
   },
   {
     "name": "fishing_rod",
@@ -4990,14 +5235,14 @@
     "texture": "minecraft:items/nether_wart"
   },
   {
-    "name": "potion",
-    "model": "potion",
-    "texture": "minecraft:items/potion_overlay"
-  },
-  {
     "name": "glass_bottle",
     "model": "glass_bottle",
     "texture": "minecraft:items/glass_bottle"
+  },
+  {
+    "name": "potion",
+    "model": "potion",
+    "texture": "minecraft:items/potion_overlay"
   },
   {
     "name": "spider_eye",
@@ -5420,6 +5665,11 @@
     "texture": "items/spawn_egg"
   },
   {
+    "name": "creaking_spawn_egg",
+    "model": "creaking_spawn_egg",
+    "texture": "items/spawn_egg"
+  },
+  {
     "name": "zombie_spawn_egg",
     "model": "zombie_spawn_egg",
     "texture": "items/spawn_egg"
@@ -5463,6 +5713,11 @@
     "name": "written_book",
     "model": "written_book",
     "texture": "minecraft:items/written_book"
+  },
+  {
+    "name": "breeze_rod",
+    "model": "breeze_rod",
+    "texture": "minecraft:items/breeze_rod"
   },
   {
     "name": "mace",
@@ -5578,6 +5833,11 @@
     "name": "nether_brick",
     "model": "nether_brick",
     "texture": "minecraft:items/nether_brick"
+  },
+  {
+    "name": "resin_brick",
+    "model": "resin_brick",
+    "texture": "minecraft:items/resin_brick"
   },
   {
     "name": "prismarine_shard",
@@ -5945,11 +6205,6 @@
     "texture": "minecraft:items/trident"
   },
   {
-    "name": "phantom_membrane",
-    "model": "phantom_membrane",
-    "texture": "minecraft:items/phantom_membrane"
-  },
-  {
     "name": "nautilus_shell",
     "model": "nautilus_shell",
     "texture": "minecraft:items/nautilus_shell"
@@ -6013,6 +6268,16 @@
     "name": "guster_banner_pattern",
     "model": "guster_banner_pattern",
     "texture": "minecraft:items/guster_banner_pattern"
+  },
+  {
+    "name": "field_masoned_banner_pattern",
+    "model": "field_masoned_banner_pattern",
+    "texture": "minecraft:items/field_masoned_banner_pattern"
+  },
+  {
+    "name": "bordure_indented_banner_pattern",
+    "model": "bordure_indented_banner_pattern",
+    "texture": "minecraft:items/bordure_indented_banner_pattern"
   },
   {
     "name": "goat_horn",
@@ -6658,10 +6923,5 @@
     "name": "ominous_bottle",
     "model": "ominous_bottle",
     "texture": "minecraft:items/ominous_bottle"
-  },
-  {
-    "name": "breeze_rod",
-    "model": "breeze_rod",
-    "texture": "minecraft:items/breeze_rod"
   }
 ]
