@@ -1,0 +1,250 @@
+{
+  "grass": {
+    "data": [],
+    "default": 16777215
+  },
+  "foliage": {
+    "data": [],
+    "default": 16777215
+  },
+  "birch": {
+    "data": [],
+    "default": 16777215
+  },
+  "evergreen": {
+    "data": [],
+    "default": 16777215
+  },
+  "dry": {
+    "data": [],
+    "default": 16777215
+  },
+  "water": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "dark_forest",
+          "dark_forest_hills",
+          "deep_ocean",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "flower_forest",
+          "forest",
+          "frozen_ocean",
+          "frozen_river",
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills",
+          "gravelly_mountains",
+          "ice_spikes",
+          "jungle",
+          "jungle_edge",
+          "jungle_hills",
+          "modified_badlands_plateau",
+          "modified_gravelly_mountains",
+          "modified_jungle",
+          "modified_jungle_edge",
+          "modified_wooded_badlands_plateau",
+          "mountain_edge",
+          "mountains",
+          "mushroom_field_shore",
+          "mushroom_fields",
+          "nether_wastes",
+          "ocean",
+          "plains",
+          "river",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "snowy_beach",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra",
+          "stone_shore",
+          "sunflower_plains",
+          "swamp",
+          "swamp_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains",
+          "tall_birch_forest",
+          "tall_birch_hills",
+          "the_end",
+          "wooded_badlands_plateau",
+          "wooded_hills",
+          "wooded_mountains"
+        ],
+        "color": 4501493
+      }
+    ],
+    "default": 4501493
+  },
+  "redstone": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 5046272
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 7340032
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 7995392
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 8716288
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 9371648
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10027008
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 10682368
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 11337728
+      },
+      {
+        "keys": [
+          "8"
+        ],
+        "color": 12058624
+      },
+      {
+        "keys": [
+          "9"
+        ],
+        "color": 12713984
+      },
+      {
+        "keys": [
+          "10"
+        ],
+        "color": 13369344
+      },
+      {
+        "keys": [
+          "11"
+        ],
+        "color": 14024704
+      },
+      {
+        "keys": [
+          "12"
+        ],
+        "color": 14680064
+      },
+      {
+        "keys": [
+          "13"
+        ],
+        "color": 15402752
+      },
+      {
+        "keys": [
+          "14"
+        ],
+        "color": 16063488
+      },
+      {
+        "keys": [
+          "15"
+        ],
+        "color": 16724736
+      }
+    ],
+    "default": 5046272
+  },
+  "stem": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 65280
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 2160388
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 4255496
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 6350604
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 8445712
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10540820
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 12635928
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 14731036
+      }
+    ],
+    "default": 14731036
+  },
+  "constant": {
+    "data": []
+  }
+}

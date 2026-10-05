@@ -1,0 +1,3167 @@
+{
+  "format": 1,
+  "blocks": {
+    "cyan_terracotta": {
+      "cube": true
+    },
+    "hard_pink_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "dark_oak_wood": {
+      "cube": true
+    },
+    "polished_basalt": {
+      "cube": true
+    },
+    "nether_gold_ore": {
+      "cube": true
+    },
+    "warped_door": {
+      "layer": "cutout"
+    },
+    "light_blue_concrete_powder": {
+      "cube": true
+    },
+    "bamboo_block": {
+      "cube": true
+    },
+    "waxed_oxidized_chiseled_copper": {
+      "cube": true
+    },
+    "wet_sponge": {
+      "cube": true
+    },
+    "granite": {
+      "cube": true
+    },
+    "blue_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "powder_snow": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "deepslate_copper_ore": {
+      "cube": true
+    },
+    "chiseled_stone_bricks": {
+      "cube": true
+    },
+    "nether_brick_stairs": {
+      "connect": "stairs"
+    },
+    "yellow_shulker_box": {
+      "cube": true
+    },
+    "blackstone_double_slab": {
+      "cube": true
+    },
+    "lime_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "red_wool": {
+      "cube": true
+    },
+    "spruce_stairs": {
+      "connect": "stairs"
+    },
+    "hard_green_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "diorite": {
+      "cube": true
+    },
+    "cherry_hanging_sign": {
+      "layer": "cutout"
+    },
+    "yellow_wool": {
+      "cube": true
+    },
+    "yellow_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "end_gateway": {
+      "layer": "invisible",
+      "cube": true
+    },
+    "azure_bluet": {
+      "layer": "cutout"
+    },
+    "beacon": {
+      "layer": "blend",
+      "cube": true
+    },
+    "red_nether_brick": {
+      "cube": true
+    },
+    "cobbled_deepslate_stairs": {
+      "connect": "stairs"
+    },
+    "smooth_sandstone": {
+      "cube": true
+    },
+    "brick_double_slab": {
+      "cube": true
+    },
+    "mud_brick_double_slab": {
+      "cube": true
+    },
+    "hanging_roots": {
+      "layer": "cutout"
+    },
+    "prismarine_bricks_stairs": {
+      "connect": "stairs"
+    },
+    "waxed_oxidized_cut_copper": {
+      "cube": true
+    },
+    "calcite": {
+      "cube": true
+    },
+    "stripped_dark_oak_log": {
+      "cube": true
+    },
+    "hard_orange_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "dead_bubble_coral_fan": {
+      "layer": "cutout"
+    },
+    "jungle_log": {
+      "cube": true
+    },
+    "bubble_coral_fan": {
+      "layer": "cutout"
+    },
+    "hard_brown_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "sculk_shrieker": {
+      "layer": "cutout"
+    },
+    "gray_wool": {
+      "cube": true
+    },
+    "orange_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "hard_black_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "lily_of_the_valley": {
+      "layer": "cutout"
+    },
+    "lime_glazed_terracotta": {
+      "cube": true
+    },
+    "trapdoor": {
+      "layer": "cutout"
+    },
+    "dead_brain_coral_fan": {
+      "layer": "cutout"
+    },
+    "info_update": {
+      "cube": true
+    },
+    "seagrass": {
+      "layer": "cutout"
+    },
+    "tube_coral_fan": {
+      "layer": "cutout"
+    },
+    "redstone_lamp": {
+      "cube": true
+    },
+    "mossy_cobblestone": {
+      "cube": true
+    },
+    "deepslate": {
+      "cube": true
+    },
+    "pitcher_crop": {
+      "layer": "cutout"
+    },
+    "brown_wool": {
+      "cube": true
+    },
+    "waxed_exposed_chiseled_copper": {
+      "cube": true
+    },
+    "stripped_acacia_wood": {
+      "cube": true
+    },
+    "diamond_block": {
+      "cube": true
+    },
+    "dark_prismarine_double_slab": {
+      "cube": true
+    },
+    "oak_stairs": {
+      "connect": "stairs"
+    },
+    "hard_gray_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "oak_log": {
+      "cube": true
+    },
+    "brown_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "end_bricks": {
+      "cube": true
+    },
+    "magenta_shulker_box": {
+      "cube": true
+    },
+    "packed_ice": {
+      "cube": true
+    },
+    "packed_mud": {
+      "cube": true
+    },
+    "warped_fungus": {
+      "layer": "cutout"
+    },
+    "bamboo_door": {
+      "layer": "cutout"
+    },
+    "amethyst_block": {
+      "cube": true
+    },
+    "dead_bubble_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "gold_block": {
+      "cube": true
+    },
+    "flower_pot": {
+      "layer": "cutout"
+    },
+    "chiseled_bookshelf": {
+      "cube": true
+    },
+    "polished_deepslate_stairs": {
+      "connect": "stairs"
+    },
+    "lime_shulker_box": {
+      "cube": true
+    },
+    "weathered_chiseled_copper": {
+      "cube": true
+    },
+    "small_amethyst_bud": {
+      "layer": "cutout"
+    },
+    "activator_rail": {
+      "layer": "blend"
+    },
+    "iron_trapdoor": {
+      "layer": "cutout"
+    },
+    "potatoes": {
+      "layer": "cutout"
+    },
+    "muddy_mangrove_roots": {
+      "cube": true
+    },
+    "stripped_jungle_wood": {
+      "cube": true
+    },
+    "noteblock": {
+      "cube": true
+    },
+    "tuff": {
+      "cube": true
+    },
+    "mangrove_log": {
+      "cube": true
+    },
+    "oxidized_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "deepslate_tile_double_slab": {
+      "cube": true
+    },
+    "raw_gold_block": {
+      "cube": true
+    },
+    "allium": {
+      "layer": "cutout"
+    },
+    "white_shulker_box": {
+      "cube": true
+    },
+    "copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "black_wool": {
+      "cube": true
+    },
+    "powered_comparator": {
+      "layer": "cutout"
+    },
+    "jungle_fence": {
+      "connect": "fence"
+    },
+    "cut_sandstone_double_slab": {
+      "cube": true
+    },
+    "spruce_fence": {
+      "connect": "fence"
+    },
+    "dark_oak_sapling": {
+      "layer": "cutout"
+    },
+    "melon_block": {
+      "cube": true
+    },
+    "black_concrete_powder": {
+      "cube": true
+    },
+    "sandstone_double_slab": {
+      "cube": true
+    },
+    "waxed_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "mob_spawner": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "polished_granite": {
+      "cube": true
+    },
+    "soul_fire": {
+      "layer": "cutout"
+    },
+    "mangrove_double_slab": {
+      "cube": true
+    },
+    "smooth_quartz_double_slab": {
+      "cube": true
+    },
+    "light_gray_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "obsidian": {
+      "cube": true
+    },
+    "light_gray_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "waxed_exposed_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "oxidized_double_cut_copper_slab": {
+      "cube": true
+    },
+    "exposed_copper": {
+      "cube": true
+    },
+    "polished_deepslate_double_slab": {
+      "cube": true
+    },
+    "red_nether_brick_double_slab": {
+      "cube": true
+    },
+    "waxed_copper_bulb": {
+      "cube": true
+    },
+    "sponge": {
+      "cube": true
+    },
+    "exposed_double_cut_copper_slab": {
+      "cube": true
+    },
+    "bamboo_fence": {
+      "connect": "fence"
+    },
+    "normal_stone_stairs": {
+      "connect": "stairs"
+    },
+    "diorite_double_slab": {
+      "cube": true
+    },
+    "hardened_clay": {
+      "cube": true
+    },
+    "birch_hanging_sign": {
+      "layer": "cutout"
+    },
+    "stripped_jungle_log": {
+      "cube": true
+    },
+    "light_block_9": {
+      "layer": "invisible"
+    },
+    "light_block_8": {
+      "layer": "invisible"
+    },
+    "light_block_7": {
+      "layer": "invisible"
+    },
+    "light_block_6": {
+      "layer": "invisible"
+    },
+    "light_block_5": {
+      "layer": "invisible"
+    },
+    "light_block_4": {
+      "layer": "invisible"
+    },
+    "light_block_3": {
+      "layer": "invisible"
+    },
+    "light_block_2": {
+      "layer": "invisible"
+    },
+    "light_block_1": {
+      "layer": "invisible"
+    },
+    "light_block_0": {
+      "layer": "invisible"
+    },
+    "oak_sapling": {
+      "layer": "cutout"
+    },
+    "polished_blackstone_double_slab": {
+      "cube": true
+    },
+    "light_gray_terracotta": {
+      "cube": true
+    },
+    "smoker": {
+      "cube": true
+    },
+    "brown_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "andesite": {
+      "cube": true
+    },
+    "fire_coral": {
+      "layer": "cutout"
+    },
+    "stone": {
+      "cube": true
+    },
+    "birch_log": {
+      "cube": true
+    },
+    "hard_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "brain_coral": {
+      "layer": "cutout"
+    },
+    "stripped_spruce_wood": {
+      "cube": true
+    },
+    "orange_wool": {
+      "cube": true
+    },
+    "polished_blackstone_brick_double_slab": {
+      "cube": true
+    },
+    "crimson_double_slab": {
+      "cube": true
+    },
+    "respawn_anchor": {
+      "cube": true
+    },
+    "light_gray_concrete": {
+      "cube": true
+    },
+    "waxed_exposed_copper": {
+      "cube": true
+    },
+    "red_sandstone_double_slab": {
+      "cube": true
+    },
+    "birch_wood": {
+      "cube": true
+    },
+    "red_sand": {
+      "cube": true
+    },
+    "hay_block": {
+      "cube": true
+    },
+    "jungle_wood": {
+      "cube": true
+    },
+    "waxed_weathered_copper": {
+      "cube": true
+    },
+    "infested_cracked_stone_bricks": {
+      "cube": true
+    },
+    "oak_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "brain_coral_fan": {
+      "layer": "cutout"
+    },
+    "bamboo_stairs": {
+      "connect": "stairs"
+    },
+    "infested_mossy_stone_bricks": {
+      "cube": true
+    },
+    "torch": {
+      "layer": "cutout"
+    },
+    "honey_block": {
+      "layer": "blend"
+    },
+    "underwater_tnt": {
+      "cube": true
+    },
+    "dripstone_block": {
+      "cube": true
+    },
+    "vine": {
+      "layer": "cutout",
+      "tint": "foliage"
+    },
+    "cherry_trapdoor": {
+      "layer": "cutout"
+    },
+    "gold_ore": {
+      "cube": true
+    },
+    "yellow_glazed_terracotta": {
+      "cube": true
+    },
+    "stonecutter": {
+      "cube": true
+    },
+    "warped_planks": {
+      "cube": true
+    },
+    "piston": {
+      "cube": true
+    },
+    "stone_brick_stairs": {
+      "connect": "stairs"
+    },
+    "dead_bubble_coral_block": {
+      "cube": true
+    },
+    "cherry_fence": {
+      "connect": "fence"
+    },
+    "mangrove_planks": {
+      "cube": true
+    },
+    "red_terracotta": {
+      "cube": true
+    },
+    "dead_fire_coral_block": {
+      "cube": true
+    },
+    "oxidized_copper_bulb": {
+      "cube": true
+    },
+    "magenta_wool": {
+      "cube": true
+    },
+    "magenta_glazed_terracotta": {
+      "cube": true
+    },
+    "quartz_double_slab": {
+      "cube": true
+    },
+    "orange_glazed_terracotta": {
+      "cube": true
+    },
+    "hard_brown_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "smooth_basalt": {
+      "cube": true
+    },
+    "waterlily": {
+      "layer": "cutout",
+      "tint": "#208030"
+    },
+    "hard_light_blue_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "emerald_block": {
+      "cube": true
+    },
+    "suspicious_sand": {
+      "cube": true
+    },
+    "purple_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "acacia_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "black_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "underwater_torch": {
+      "layer": "cutout"
+    },
+    "deepslate_brick_double_slab": {
+      "cube": true
+    },
+    "spruce_double_slab": {
+      "cube": true
+    },
+    "dark_oak_log": {
+      "cube": true
+    },
+    "acacia_hanging_sign": {
+      "layer": "cutout"
+    },
+    "ochre_froglight": {
+      "cube": true
+    },
+    "observer": {
+      "cube": true
+    },
+    "redstone_torch": {
+      "layer": "cutout"
+    },
+    "silver_glazed_terracotta": {
+      "cube": true
+    },
+    "granite_stairs": {
+      "connect": "stairs"
+    },
+    "pink_concrete": {
+      "cube": true
+    },
+    "dark_oak_hanging_sign": {
+      "layer": "cutout"
+    },
+    "glowingobsidian": {
+      "cube": true
+    },
+    "brown_mushroom": {
+      "layer": "cutout"
+    },
+    "cyan_concrete_powder": {
+      "cube": true
+    },
+    "dead_fire_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "brown_glazed_terracotta": {
+      "cube": true
+    },
+    "waxed_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "oxidized_copper": {
+      "cube": true
+    },
+    "copper_ore": {
+      "cube": true
+    },
+    "dark_oak_planks": {
+      "cube": true
+    },
+    "scaffolding": {
+      "layer": "cutout"
+    },
+    "sandstone_stairs": {
+      "connect": "stairs"
+    },
+    "stripped_bamboo_block": {
+      "cube": true
+    },
+    "red_mushroom_block": {
+      "cube": true
+    },
+    "cracked_stone_bricks": {
+      "cube": true
+    },
+    "sculk_catalyst": {
+      "cube": true
+    },
+    "cobblestone": {
+      "cube": true
+    },
+    "horn_coral": {
+      "layer": "cutout"
+    },
+    "yellow_concrete": {
+      "cube": true
+    },
+    "oak_double_slab": {
+      "cube": true
+    },
+    "smooth_sandstone_stairs": {
+      "connect": "stairs"
+    },
+    "double_cut_copper_slab": {
+      "cube": true
+    },
+    "blue_terracotta": {
+      "cube": true
+    },
+    "sandstone": {
+      "cube": true
+    },
+    "undyed_shulker_box": {
+      "cube": true
+    },
+    "polished_blackstone": {
+      "cube": true
+    },
+    "mycelium": {
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "bamboo": {
+      "layer": "cutout"
+    },
+    "quartz_block": {
+      "cube": true
+    },
+    "stone_stairs": {
+      "connect": "stairs"
+    },
+    "waxed_weathered_chiseled_copper": {
+      "cube": true
+    },
+    "gray_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "green_terracotta": {
+      "cube": true
+    },
+    "warped_stairs": {
+      "connect": "stairs"
+    },
+    "smithing_table": {
+      "cube": true
+    },
+    "weathered_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "poppy": {
+      "layer": "cutout"
+    },
+    "mossy_stone_bricks": {
+      "cube": true
+    },
+    "green_wool": {
+      "cube": true
+    },
+    "wooden_door": {
+      "layer": "cutout"
+    },
+    "pitcher_plant": {
+      "layer": "cutout"
+    },
+    "compound_creator": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "netherite_block": {
+      "cube": true
+    },
+    "pink_wool": {
+      "cube": true
+    },
+    "redstone_block": {
+      "cube": true
+    },
+    "redstone_wire": {
+      "layer": "cutout",
+      "tint": "redstone",
+      "connect": "redstone",
+      "defaults": {
+        "bedrock:redstone_north": "side",
+        "bedrock:redstone_east": "side",
+        "bedrock:redstone_south": "side",
+        "bedrock:redstone_west": "side"
+      }
+    },
+    "quartz_pillar": {
+      "cube": true
+    },
+    "waxed_exposed_cut_copper": {
+      "cube": true
+    },
+    "lava": {
+      "liquid": "lava"
+    },
+    "jungle_hanging_sign": {
+      "layer": "cutout"
+    },
+    "loom": {
+      "cube": true
+    },
+    "dead_tube_coral_block": {
+      "cube": true
+    },
+    "end_stone": {
+      "cube": true
+    },
+    "polished_tuff_double_slab": {
+      "cube": true
+    },
+    "crimson_door": {
+      "layer": "cutout"
+    },
+    "light_blue_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "glowstone": {
+      "cube": true
+    },
+    "waxed_exposed_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "hard_white_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "dead_brain_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "cut_red_sandstone": {
+      "cube": true
+    },
+    "rail": {
+      "layer": "blend"
+    },
+    "stone_bricks": {
+      "cube": true
+    },
+    "mossy_cobblestone_stairs": {
+      "connect": "stairs"
+    },
+    "hard_magenta_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "detector_rail": {
+      "layer": "blend"
+    },
+    "blue_orchid": {
+      "layer": "cutout"
+    },
+    "green_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "polished_granite_stairs": {
+      "connect": "stairs"
+    },
+    "birch_leaves": {
+      "layer": "cutout",
+      "tint": "birch",
+      "cube": true
+    },
+    "pink_terracotta": {
+      "cube": true
+    },
+    "dark_oak_double_slab": {
+      "cube": true
+    },
+    "infested_cobblestone": {
+      "cube": true
+    },
+    "cracked_deepslate_tiles": {
+      "cube": true
+    },
+    "brain_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "mangrove_wood": {
+      "cube": true
+    },
+    "red_glazed_terracotta": {
+      "cube": true
+    },
+    "bamboo_mosaic_double_slab": {
+      "cube": true
+    },
+    "crimson_nylium": {
+      "cube": true
+    },
+    "structure_void": {
+      "layer": "invisible"
+    },
+    "purple_concrete": {
+      "cube": true
+    },
+    "waxed_exposed_copper_bulb": {
+      "cube": true
+    },
+    "hard_yellow_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "spruce_sapling": {
+      "layer": "cutout"
+    },
+    "yellow_terracotta": {
+      "cube": true
+    },
+    "snow": {
+      "cube": true
+    },
+    "sand": {
+      "cube": true
+    },
+    "stripped_mangrove_wood": {
+      "cube": true
+    },
+    "slime": {
+      "layer": "blend",
+      "cube": true
+    },
+    "bone_block": {
+      "cube": true
+    },
+    "spruce_log": {
+      "cube": true
+    },
+    "lapis_block": {
+      "cube": true
+    },
+    "coal_ore": {
+      "cube": true
+    },
+    "mossy_stone_brick_double_slab": {
+      "cube": true
+    },
+    "cut_red_sandstone_double_slab": {
+      "cube": true
+    },
+    "client_request_placeholder_block": {
+      "cube": true
+    },
+    "redstone_ore": {
+      "cube": true
+    },
+    "bamboo_double_slab": {
+      "cube": true
+    },
+    "green_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "bubble_coral_block": {
+      "cube": true
+    },
+    "infested_chiseled_stone_bricks": {
+      "cube": true
+    },
+    "nether_brick_fence": {
+      "connect": "fence"
+    },
+    "pink_tulip": {
+      "layer": "cutout"
+    },
+    "pink_concrete_powder": {
+      "cube": true
+    },
+    "dead_tube_coral": {
+      "layer": "cutout"
+    },
+    "nether_wart_block": {
+      "cube": true
+    },
+    "prismarine_double_slab": {
+      "cube": true
+    },
+    "cherry_door": {
+      "layer": "cutout"
+    },
+    "colored_torch_blue": {
+      "layer": "cutout"
+    },
+    "crimson_hyphae": {
+      "cube": true
+    },
+    "polished_blackstone_stairs": {
+      "connect": "stairs"
+    },
+    "weathered_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "small_dripleaf_block": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "pink_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "waxed_weathered_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "acacia_log": {
+      "cube": true
+    },
+    "crimson_trapdoor": {
+      "layer": "cutout"
+    },
+    "basalt": {
+      "cube": true
+    },
+    "hard_cyan_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "normal_stone_double_slab": {
+      "cube": true
+    },
+    "stone_brick_double_slab": {
+      "cube": true
+    },
+    "light_blue_terracotta": {
+      "cube": true
+    },
+    "lit_redstone_lamp": {
+      "cube": true
+    },
+    "hard_blue_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "hard_purple_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "diamond_ore": {
+      "cube": true
+    },
+    "warped_roots": {
+      "layer": "cutout"
+    },
+    "magenta_concrete": {
+      "cube": true
+    },
+    "dark_prismarine": {
+      "cube": true
+    },
+    "sticky_piston": {
+      "cube": true
+    },
+    "medium_amethyst_bud": {
+      "layer": "cutout"
+    },
+    "pink_shulker_box": {
+      "cube": true
+    },
+    "warped_double_slab": {
+      "cube": true
+    },
+    "sculk_sensor": {
+      "layer": "cutout"
+    },
+    "copper_bulb": {
+      "cube": true
+    },
+    "diorite_stairs": {
+      "connect": "stairs"
+    },
+    "spruce_leaves": {
+      "layer": "cutout",
+      "tint": "evergreen",
+      "cube": true
+    },
+    "frog_spawn": {
+      "layer": "blend"
+    },
+    "acacia_door": {
+      "layer": "cutout"
+    },
+    "smooth_sandstone_double_slab": {
+      "cube": true
+    },
+    "red_shulker_box": {
+      "cube": true
+    },
+    "stripped_cherry_log": {
+      "cube": true
+    },
+    "acacia_planks": {
+      "cube": true
+    },
+    "fire_coral_block": {
+      "cube": true
+    },
+    "magenta_concrete_powder": {
+      "cube": true
+    },
+    "iron_door": {
+      "layer": "cutout"
+    },
+    "honeycomb_block": {
+      "cube": true
+    },
+    "polished_blackstone_brick_stairs": {
+      "connect": "stairs"
+    },
+    "mangrove_trapdoor": {
+      "layer": "cutout"
+    },
+    "quartz_ore": {
+      "cube": true
+    },
+    "barrel": {
+      "cube": true
+    },
+    "smooth_quartz": {
+      "cube": true
+    },
+    "coarse_dirt": {
+      "cube": true
+    },
+    "chorus_flower": {
+      "cube": true
+    },
+    "orange_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "white_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "stripped_birch_wood": {
+      "cube": true
+    },
+    "cracked_nether_bricks": {
+      "cube": true
+    },
+    "powered_repeater": {
+      "layer": "cutout"
+    },
+    "hard_lime_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "pumpkin": {
+      "cube": true
+    },
+    "element_constructor": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "deepslate_tiles": {
+      "cube": true
+    },
+    "smooth_stone": {
+      "cube": true
+    },
+    "hard_light_gray_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "gray_terracotta": {
+      "cube": true
+    },
+    "oxidized_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "white_tulip": {
+      "layer": "cutout"
+    },
+    "lime_concrete": {
+      "cube": true
+    },
+    "red_mushroom": {
+      "layer": "cutout"
+    },
+    "gilded_blackstone": {
+      "cube": true
+    },
+    "hard_yellow_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "magenta_terracotta": {
+      "cube": true
+    },
+    "exposed_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "mangrove_stairs": {
+      "connect": "stairs"
+    },
+    "reserved6": {
+      "cube": true
+    },
+    "cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "unknown": {
+      "cube": true
+    },
+    "lab_table": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "sunflower": {
+      "layer": "cutout"
+    },
+    "pink_petals": {
+      "layer": "cutout"
+    },
+    "bamboo_hanging_sign": {
+      "layer": "cutout"
+    },
+    "infested_deepslate": {
+      "cube": true
+    },
+    "soul_torch": {
+      "layer": "cutout"
+    },
+    "podzol": {
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "copper_block": {
+      "cube": true
+    },
+    "lit_redstone_ore": {
+      "cube": true
+    },
+    "deepslate_tile_stairs": {
+      "connect": "stairs"
+    },
+    "deadbush": {
+      "layer": "cutout"
+    },
+    "waxed_weathered_double_cut_copper_slab": {
+      "cube": true
+    },
+    "polished_blackstone_bricks": {
+      "cube": true
+    },
+    "cut_copper": {
+      "cube": true
+    },
+    "iron_ore": {
+      "cube": true
+    },
+    "spruce_door": {
+      "layer": "cutout"
+    },
+    "frosted_ice": {
+      "layer": "blend",
+      "cube": true
+    },
+    "chipped_anvil": {
+      "layer": "cutout"
+    },
+    "large_amethyst_bud": {
+      "layer": "cutout"
+    },
+    "exposed_copper_door": {
+      "layer": "cutout"
+    },
+    "suspicious_gravel": {
+      "cube": true
+    },
+    "warped_trapdoor": {
+      "layer": "cutout"
+    },
+    "flowing_water": {
+      "layer": "blend",
+      "tint": "water",
+      "liquid": "water"
+    },
+    "brick_block": {
+      "cube": true
+    },
+    "hard_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "waxed_weathered_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "quartz_stairs": {
+      "connect": "stairs"
+    },
+    "cave_vines": {
+      "layer": "cutout"
+    },
+    "magenta_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "iron_bars": {
+      "layer": "cutout",
+      "connect": "pane"
+    },
+    "white_terracotta": {
+      "cube": true
+    },
+    "stripped_oak_wood": {
+      "cube": true
+    },
+    "oak_hanging_sign": {
+      "layer": "cutout"
+    },
+    "white_concrete_powder": {
+      "cube": true
+    },
+    "melon_stem": {
+      "layer": "cutout",
+      "tint": "stem"
+    },
+    "crimson_planks": {
+      "cube": true
+    },
+    "stripped_dark_oak_wood": {
+      "cube": true
+    },
+    "waxed_weathered_cut_copper": {
+      "cube": true
+    },
+    "white_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "horn_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "oak_wood": {
+      "cube": true
+    },
+    "purple_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "waxed_oxidized_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "jukebox": {
+      "cube": true
+    },
+    "stripped_cherry_wood": {
+      "cube": true
+    },
+    "jigsaw": {
+      "cube": true
+    },
+    "shroomlight": {
+      "cube": true
+    },
+    "cornflower": {
+      "layer": "cutout"
+    },
+    "chiseled_polished_blackstone": {
+      "cube": true
+    },
+    "dark_oak_stairs": {
+      "connect": "stairs"
+    },
+    "glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "chiseled_deepslate": {
+      "cube": true
+    },
+    "red_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "infested_stone_bricks": {
+      "cube": true
+    },
+    "bamboo_trapdoor": {
+      "layer": "cutout"
+    },
+    "oxidized_chiseled_copper": {
+      "cube": true
+    },
+    "raw_copper_block": {
+      "cube": true
+    },
+    "horn_coral_block": {
+      "cube": true
+    },
+    "beetroot": {
+      "layer": "cutout"
+    },
+    "skull": {
+      "connect": "skull",
+      "defaults": {
+        "bedrock:rotation": "0",
+        "bedrock:skull_type": "0"
+      }
+    },
+    "andesite_stairs": {
+      "connect": "stairs"
+    },
+    "birch_planks": {
+      "cube": true
+    },
+    "golden_rail": {
+      "layer": "blend"
+    },
+    "cyan_wool": {
+      "cube": true
+    },
+    "petrified_oak_double_slab": {
+      "cube": true
+    },
+    "deprecated_anvil": {
+      "layer": "cutout"
+    },
+    "jungle_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "gray_shulker_box": {
+      "cube": true
+    },
+    "red_sandstone_stairs": {
+      "connect": "stairs"
+    },
+    "cyan_glazed_terracotta": {
+      "cube": true
+    },
+    "cracked_deepslate_bricks": {
+      "cube": true
+    },
+    "fire_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "exposed_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "waxed_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "hard_light_blue_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "jungle_trapdoor": {
+      "layer": "cutout"
+    },
+    "dirt_with_roots": {
+      "cube": true
+    },
+    "coal_block": {
+      "cube": true
+    },
+    "white_wool": {
+      "cube": true
+    },
+    "composter": {
+      "layer": "cutout"
+    },
+    "waxed_double_cut_copper_slab": {
+      "cube": true
+    },
+    "kelp": {
+      "layer": "cutout",
+      "connect": "tip",
+      "defaults": {
+        "bedrock:tip": "1"
+      }
+    },
+    "waxed_exposed_copper_door": {
+      "layer": "cutout"
+    },
+    "deepslate_bricks": {
+      "cube": true
+    },
+    "blue_glazed_terracotta": {
+      "cube": true
+    },
+    "light_blue_glazed_terracotta": {
+      "cube": true
+    },
+    "rose_bush": {
+      "layer": "cutout"
+    },
+    "flowering_azalea": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "oxidized_cut_copper": {
+      "cube": true
+    },
+    "blue_wool": {
+      "cube": true
+    },
+    "weeping_vines": {
+      "layer": "cutout",
+      "connect": "tip",
+      "defaults": {
+        "bedrock:tip": "1"
+      }
+    },
+    "chorus_plant": {
+      "connect": "chorus",
+      "defaults": {
+        "bedrock:chorus_north": "0",
+        "bedrock:chorus_south": "0",
+        "bedrock:chorus_west": "0",
+        "bedrock:chorus_east": "0",
+        "bedrock:chorus_up": "0",
+        "bedrock:chorus_down": "0"
+      }
+    },
+    "water": {
+      "layer": "blend",
+      "tint": "water",
+      "liquid": "water"
+    },
+    "mud_brick_stairs": {
+      "connect": "stairs"
+    },
+    "unpowered_repeater": {
+      "layer": "cutout"
+    },
+    "smooth_red_sandstone_stairs": {
+      "connect": "stairs"
+    },
+    "element_100": {
+      "cube": true
+    },
+    "element_101": {
+      "cube": true
+    },
+    "element_102": {
+      "cube": true
+    },
+    "element_103": {
+      "cube": true
+    },
+    "element_104": {
+      "cube": true
+    },
+    "element_105": {
+      "cube": true
+    },
+    "element_106": {
+      "cube": true
+    },
+    "element_107": {
+      "cube": true
+    },
+    "element_108": {
+      "cube": true
+    },
+    "element_109": {
+      "cube": true
+    },
+    "element_113": {
+      "cube": true
+    },
+    "element_112": {
+      "cube": true
+    },
+    "element_111": {
+      "cube": true
+    },
+    "element_110": {
+      "cube": true
+    },
+    "element_117": {
+      "cube": true
+    },
+    "element_116": {
+      "cube": true
+    },
+    "element_115": {
+      "cube": true
+    },
+    "element_114": {
+      "cube": true
+    },
+    "element_118": {
+      "cube": true
+    },
+    "white_glazed_terracotta": {
+      "cube": true
+    },
+    "stripped_warped_hyphae": {
+      "cube": true
+    },
+    "moving_block": {
+      "layer": "cutout"
+    },
+    "trapped_chest": {
+      "connect": "chest",
+      "defaults": {
+        "bedrock:chest": "single"
+      }
+    },
+    "acacia_trapdoor": {
+      "layer": "cutout"
+    },
+    "brain_coral_block": {
+      "cube": true
+    },
+    "bamboo_planks": {
+      "cube": true
+    },
+    "glow_lichen": {
+      "layer": "cutout"
+    },
+    "purpur_pillar": {
+      "cube": true
+    },
+    "wall_banner": {
+      "connect": "banner",
+      "defaults": {
+        "bedrock:color": "15"
+      }
+    },
+    "twisting_vines": {
+      "layer": "cutout",
+      "connect": "tip",
+      "defaults": {
+        "bedrock:tip": "1"
+      }
+    },
+    "chiseled_copper": {
+      "cube": true
+    },
+    "acacia_double_slab": {
+      "cube": true
+    },
+    "dark_oak_door": {
+      "layer": "cutout"
+    },
+    "oak_fence": {
+      "connect": "fence"
+    },
+    "soul_lantern": {
+      "layer": "cutout"
+    },
+    "dirt": {
+      "cube": true
+    },
+    "blue_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "deny": {
+      "cube": true
+    },
+    "bee_nest": {
+      "cube": true
+    },
+    "bubble_column": {
+      "layer": "cutout",
+      "tint": "water",
+      "liquid": "water"
+    },
+    "campfire": {
+      "layer": "cutout"
+    },
+    "smooth_stone_double_slab": {
+      "cube": true
+    },
+    "light_blue_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "soul_soil": {
+      "cube": true
+    },
+    "spruce_hanging_sign": {
+      "layer": "cutout"
+    },
+    "polished_diorite": {
+      "cube": true
+    },
+    "reinforced_deepslate": {
+      "cube": true
+    },
+    "fletching_table": {
+      "cube": true
+    },
+    "cherry_leaves": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "black_glazed_terracotta": {
+      "cube": true
+    },
+    "waxed_oxidized_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "waxed_weathered_copper_bulb": {
+      "cube": true
+    },
+    "calibrated_sculk_sensor": {
+      "layer": "cutout"
+    },
+    "copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "stripped_acacia_log": {
+      "cube": true
+    },
+    "cobbled_deepslate_double_slab": {
+      "cube": true
+    },
+    "warped_fence": {
+      "connect": "fence"
+    },
+    "crafting_table": {
+      "cube": true
+    },
+    "sea_pickle": {
+      "layer": "cutout"
+    },
+    "brown_concrete_powder": {
+      "cube": true
+    },
+    "mangrove_hanging_sign": {
+      "layer": "cutout"
+    },
+    "waxed_exposed_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "mossy_stone_brick_stairs": {
+      "connect": "stairs"
+    },
+    "crimson_stem": {
+      "cube": true
+    },
+    "green_concrete": {
+      "cube": true
+    },
+    "tuff_brick_double_slab": {
+      "cube": true
+    },
+    "warped_hyphae": {
+      "cube": true
+    },
+    "warped_wart_block": {
+      "cube": true
+    },
+    "light_gray_shulker_box": {
+      "cube": true
+    },
+    "carrots": {
+      "layer": "cutout"
+    },
+    "tuff_stairs": {
+      "connect": "stairs"
+    },
+    "cyan_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "black_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "waxed_oxidized_copper_door": {
+      "layer": "cutout"
+    },
+    "dead_horn_coral": {
+      "layer": "cutout"
+    },
+    "andesite_double_slab": {
+      "cube": true
+    },
+    "grass_block": {
+      "tint": "grass",
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "tripwire_hook": {
+      "layer": "cutout"
+    },
+    "cave_vines_body_with_berries": {
+      "layer": "cutout"
+    },
+    "copper_door": {
+      "layer": "cutout"
+    },
+    "hard_black_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "stripped_birch_log": {
+      "cube": true
+    },
+    "tinted_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "big_dripleaf": {
+      "layer": "cutout"
+    },
+    "cut_sandstone": {
+      "cube": true
+    },
+    "warped_hanging_sign": {
+      "layer": "cutout"
+    },
+    "lime_wool": {
+      "cube": true
+    },
+    "sweet_berry_bush": {
+      "layer": "cutout"
+    },
+    "reeds": {
+      "layer": "cutout"
+    },
+    "black_shulker_box": {
+      "cube": true
+    },
+    "jungle_sapling": {
+      "layer": "cutout"
+    },
+    "chiseled_sandstone": {
+      "cube": true
+    },
+    "barrier": {
+      "layer": "invisible"
+    },
+    "torchflower_crop": {
+      "layer": "cutout"
+    },
+    "cherry_double_slab": {
+      "cube": true
+    },
+    "dark_oak_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "fire": {
+      "layer": "cutout"
+    },
+    "fern": {
+      "layer": "cutout",
+      "tint": "grass"
+    },
+    "purpur_double_slab": {
+      "cube": true
+    },
+    "torchflower": {
+      "layer": "cutout"
+    },
+    "infested_stone": {
+      "cube": true
+    },
+    "prismarine": {
+      "cube": true
+    },
+    "exposed_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "black_terracotta": {
+      "cube": true
+    },
+    "deepslate_gold_ore": {
+      "cube": true
+    },
+    "ancient_debris": {
+      "cube": true
+    },
+    "vault": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "beehive": {
+      "cube": true
+    },
+    "hard_orange_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "jungle_door": {
+      "layer": "cutout"
+    },
+    "glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "wither_rose": {
+      "layer": "cutout"
+    },
+    "nether_brick_double_slab": {
+      "cube": true
+    },
+    "exposed_cut_copper": {
+      "cube": true
+    },
+    "waxed_weathered_cut_copper_stairs": {
+      "connect": "stairs"
+    },
+    "mangrove_roots": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "acacia_stairs": {
+      "connect": "stairs"
+    },
+    "bamboo_mosaic_stairs": {
+      "connect": "stairs"
+    },
+    "brown_concrete": {
+      "cube": true
+    },
+    "bubble_coral": {
+      "layer": "cutout"
+    },
+    "orange_shulker_box": {
+      "cube": true
+    },
+    "smooth_red_sandstone_double_slab": {
+      "cube": true
+    },
+    "tuff_brick_stairs": {
+      "connect": "stairs"
+    },
+    "blue_shulker_box": {
+      "cube": true
+    },
+    "exposed_copper_bulb": {
+      "cube": true
+    },
+    "dead_fire_coral": {
+      "layer": "cutout"
+    },
+    "crimson_stairs": {
+      "connect": "stairs"
+    },
+    "stripped_spruce_log": {
+      "cube": true
+    },
+    "waxed_oxidized_copper_bulb": {
+      "cube": true
+    },
+    "pumpkin_stem": {
+      "layer": "cutout",
+      "tint": "stem"
+    },
+    "azalea_leaves_flowered": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "hard_magenta_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "warped_nylium": {
+      "cube": true
+    },
+    "deepslate_emerald_ore": {
+      "cube": true
+    },
+    "acacia_sapling": {
+      "layer": "cutout"
+    },
+    "quartz_bricks": {
+      "cube": true
+    },
+    "unpowered_comparator": {
+      "layer": "cutout"
+    },
+    "structure_block": {
+      "cube": true
+    },
+    "end_brick_stairs": {
+      "connect": "stairs"
+    },
+    "purple_terracotta": {
+      "cube": true
+    },
+    "target": {
+      "cube": true
+    },
+    "mangrove_door": {
+      "layer": "cutout"
+    },
+    "end_stone_brick_double_slab": {
+      "cube": true
+    },
+    "hard_lime_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "weathered_copper_door": {
+      "layer": "cutout"
+    },
+    "pearlescent_froglight": {
+      "cube": true
+    },
+    "tall_grass": {
+      "layer": "cutout",
+      "tint": "grass"
+    },
+    "light_block_12": {
+      "layer": "invisible"
+    },
+    "light_block_13": {
+      "layer": "invisible"
+    },
+    "light_block_10": {
+      "layer": "invisible"
+    },
+    "light_block_11": {
+      "layer": "invisible"
+    },
+    "light_block_14": {
+      "layer": "invisible"
+    },
+    "light_block_15": {
+      "layer": "invisible"
+    },
+    "nether_sprouts": {
+      "layer": "cutout"
+    },
+    "cyan_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "dead_horn_coral_block": {
+      "cube": true
+    },
+    "verdant_froglight": {
+      "cube": true
+    },
+    "hard_gray_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "warped_stem": {
+      "cube": true
+    },
+    "horn_coral_fan": {
+      "layer": "cutout"
+    },
+    "green_shulker_box": {
+      "cube": true
+    },
+    "large_fern": {
+      "layer": "cutout",
+      "tint": "grass"
+    },
+    "stripped_crimson_hyphae": {
+      "cube": true
+    },
+    "cocoa": {
+      "layer": "cutout"
+    },
+    "lever": {
+      "layer": "cutout"
+    },
+    "hard_green_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "brick_stairs": {
+      "connect": "stairs"
+    },
+    "colored_torch_green": {
+      "layer": "cutout"
+    },
+    "weathered_copper_trapdoor": {
+      "layer": "cutout"
+    },
+    "moss_block": {
+      "cube": true
+    },
+    "purple_concrete_powder": {
+      "cube": true
+    },
+    "pink_glazed_terracotta": {
+      "cube": true
+    },
+    "short_grass": {
+      "layer": "cutout",
+      "tint": "grass"
+    },
+    "fire_coral_fan": {
+      "layer": "cutout"
+    },
+    "spruce_trapdoor": {
+      "layer": "cutout"
+    },
+    "chain_command_block": {
+      "cube": true
+    },
+    "red_sandstone": {
+      "cube": true
+    },
+    "exposed_chiseled_copper": {
+      "cube": true
+    },
+    "red_nether_brick_stairs": {
+      "connect": "stairs"
+    },
+    "green_glazed_terracotta": {
+      "cube": true
+    },
+    "jungle_planks": {
+      "cube": true
+    },
+    "deepslate_redstone_ore": {
+      "cube": true
+    },
+    "dead_brain_coral_block": {
+      "cube": true
+    },
+    "mangrove_fence": {
+      "connect": "fence"
+    },
+    "oxidized_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "anvil": {
+      "layer": "cutout"
+    },
+    "birch_trapdoor": {
+      "layer": "cutout"
+    },
+    "tuff_bricks": {
+      "cube": true
+    },
+    "mangrove_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "cobbled_deepslate": {
+      "cube": true
+    },
+    "bookshelf": {
+      "cube": true
+    },
+    "lit_pumpkin": {
+      "cube": true
+    },
+    "ice": {
+      "layer": "blend",
+      "cube": true
+    },
+    "bed": {
+      "layer": "cutout",
+      "connect": "bed",
+      "defaults": {
+        "bedrock:color": "14"
+      }
+    },
+    "black_concrete": {
+      "cube": true
+    },
+    "tnt": {
+      "cube": true
+    },
+    "web": {
+      "layer": "cutout"
+    },
+    "dead_tube_coral_fan": {
+      "layer": "cutout"
+    },
+    "polished_diorite_stairs": {
+      "connect": "stairs"
+    },
+    "blue_concrete_powder": {
+      "cube": true
+    },
+    "orange_concrete": {
+      "cube": true
+    },
+    "crying_obsidian": {
+      "cube": true
+    },
+    "dead_fire_coral_fan": {
+      "layer": "cutout"
+    },
+    "granite_double_slab": {
+      "cube": true
+    },
+    "waxed_exposed_double_cut_copper_slab": {
+      "cube": true
+    },
+    "bubble_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "orange_tulip": {
+      "layer": "cutout"
+    },
+    "brown_shulker_box": {
+      "cube": true
+    },
+    "azalea": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "mud_bricks": {
+      "cube": true
+    },
+    "acacia_wood": {
+      "cube": true
+    },
+    "gray_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "hopper": {
+      "layer": "cutout"
+    },
+    "hard_red_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "stripped_crimson_stem": {
+      "cube": true
+    },
+    "standing_banner": {
+      "connect": "banner",
+      "defaults": {
+        "bedrock:color": "15"
+      }
+    },
+    "light_blue_shulker_box": {
+      "cube": true
+    },
+    "jungle_stairs": {
+      "connect": "stairs"
+    },
+    "mangrove_propagule": {
+      "layer": "cutout"
+    },
+    "cactus": {
+      "layer": "cutout"
+    },
+    "budding_amethyst": {
+      "cube": true
+    },
+    "polished_diorite_double_slab": {
+      "cube": true
+    },
+    "birch_stairs": {
+      "connect": "stairs"
+    },
+    "purple_glazed_terracotta": {
+      "cube": true
+    },
+    "green_concrete_powder": {
+      "cube": true
+    },
+    "bedrock": {
+      "cube": true
+    },
+    "blackstone_stairs": {
+      "connect": "stairs"
+    },
+    "blue_ice": {
+      "cube": true
+    },
+    "cyan_shulker_box": {
+      "cube": true
+    },
+    "hard_red_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "polished_andesite_stairs": {
+      "connect": "stairs"
+    },
+    "dead_horn_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "sculk": {
+      "cube": true
+    },
+    "hard_purple_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "netherrack": {
+      "cube": true
+    },
+    "dead_horn_coral_fan": {
+      "layer": "cutout"
+    },
+    "lantern": {
+      "layer": "cutout"
+    },
+    "waxed_weathered_copper_door": {
+      "layer": "cutout"
+    },
+    "red_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "lit_blast_furnace": {
+      "cube": true
+    },
+    "pink_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "light_blue_wool": {
+      "cube": true
+    },
+    "allow": {
+      "cube": true
+    },
+    "dark_oak_fence": {
+      "connect": "fence"
+    },
+    "deprecated_purpur_block_2": {
+      "cube": true
+    },
+    "deprecated_purpur_block_1": {
+      "cube": true
+    },
+    "birch_door": {
+      "layer": "cutout"
+    },
+    "chest": {
+      "connect": "chest",
+      "defaults": {
+        "bedrock:chest": "single"
+      }
+    },
+    "cherry_wood": {
+      "cube": true
+    },
+    "chain": {
+      "layer": "cutout"
+    },
+    "clay": {
+      "cube": true
+    },
+    "cherry_stairs": {
+      "connect": "stairs"
+    },
+    "crimson_hanging_sign": {
+      "layer": "cutout"
+    },
+    "sculk_vein": {
+      "layer": "cutout"
+    },
+    "dead_brain_coral": {
+      "layer": "cutout"
+    },
+    "deepslate_coal_ore": {
+      "cube": true
+    },
+    "weathered_cut_copper": {
+      "cube": true
+    },
+    "polished_andesite_double_slab": {
+      "cube": true
+    },
+    "cracked_polished_blackstone_bricks": {
+      "cube": true
+    },
+    "flowing_lava": {
+      "liquid": "lava"
+    },
+    "polished_tuff": {
+      "cube": true
+    },
+    "magenta_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "hard_white_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "hard_cyan_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "lit_furnace": {
+      "cube": true
+    },
+    "chiseled_nether_bricks": {
+      "cube": true
+    },
+    "red_concrete_powder": {
+      "cube": true
+    },
+    "light_gray_concrete_powder": {
+      "cube": true
+    },
+    "deepslate_lapis_ore": {
+      "cube": true
+    },
+    "dead_bubble_coral": {
+      "layer": "cutout"
+    },
+    "cherry_sapling": {
+      "layer": "cutout"
+    },
+    "cherry_log": {
+      "cube": true
+    },
+    "prismarine_stairs": {
+      "connect": "stairs"
+    },
+    "cyan_concrete": {
+      "cube": true
+    },
+    "polished_tuff_stairs": {
+      "connect": "stairs"
+    },
+    "dragon_egg": {
+      "cube": true
+    },
+    "blue_concrete": {
+      "cube": true
+    },
+    "nether_brick": {
+      "cube": true
+    },
+    "deepslate_iron_ore": {
+      "cube": true
+    },
+    "element_1": {
+      "cube": true
+    },
+    "element_0": {
+      "cube": true
+    },
+    "element_3": {
+      "cube": true
+    },
+    "element_2": {
+      "cube": true
+    },
+    "element_5": {
+      "cube": true
+    },
+    "element_4": {
+      "cube": true
+    },
+    "element_7": {
+      "cube": true
+    },
+    "element_6": {
+      "cube": true
+    },
+    "element_9": {
+      "cube": true
+    },
+    "element_8": {
+      "cube": true
+    },
+    "oxeye_daisy": {
+      "layer": "cutout"
+    },
+    "camera": {
+      "cube": true
+    },
+    "wheat": {
+      "layer": "cutout"
+    },
+    "waxed_cut_copper": {
+      "cube": true
+    },
+    "lilac": {
+      "layer": "cutout"
+    },
+    "chiseled_quartz_block": {
+      "cube": true
+    },
+    "spore_blossom": {
+      "layer": "cutout"
+    },
+    "weathered_double_cut_copper_slab": {
+      "cube": true
+    },
+    "emerald_ore": {
+      "cube": true
+    },
+    "brown_mushroom_block": {
+      "cube": true
+    },
+    "gray_concrete_powder": {
+      "cube": true
+    },
+    "gray_concrete": {
+      "cube": true
+    },
+    "purple_shulker_box": {
+      "cube": true
+    },
+    "carved_pumpkin": {
+      "cube": true
+    },
+    "dropper": {
+      "cube": true
+    },
+    "stripped_warped_stem": {
+      "cube": true
+    },
+    "pointed_dripstone": {
+      "layer": "cutout"
+    },
+    "netherreactor": {
+      "cube": true
+    },
+    "deepslate_brick_stairs": {
+      "connect": "stairs"
+    },
+    "dark_prismarine_stairs": {
+      "connect": "stairs"
+    },
+    "chiseled_tuff_bricks": {
+      "cube": true
+    },
+    "light_blue_concrete": {
+      "cube": true
+    },
+    "red_tulip": {
+      "layer": "cutout"
+    },
+    "chemical_heat": {
+      "layer": "blend",
+      "cube": true
+    },
+    "trip_wire": {
+      "layer": "cutout",
+      "connect": "tripwire",
+      "defaults": {
+        "minecraft:connection_north": "0",
+        "minecraft:connection_east": "0",
+        "minecraft:connection_south": "0",
+        "minecraft:connection_west": "0"
+      }
+    },
+    "cauldron": {
+      "tint": "water"
+    },
+    "cave_vines_head_with_berries": {
+      "layer": "cutout"
+    },
+    "tube_coral_block": {
+      "cube": true
+    },
+    "chiseled_red_sandstone": {
+      "cube": true
+    },
+    "dead_tube_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "birch_sapling": {
+      "layer": "cutout"
+    },
+    "dark_oak_trapdoor": {
+      "layer": "cutout"
+    },
+    "hard_pink_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "orange_terracotta": {
+      "cube": true
+    },
+    "waxed_oxidized_copper": {
+      "cube": true
+    },
+    "oak_planks": {
+      "cube": true
+    },
+    "stripped_oak_log": {
+      "cube": true
+    },
+    "polished_andesite": {
+      "cube": true
+    },
+    "sea_lantern": {
+      "cube": true
+    },
+    "brewing_stand": {
+      "layer": "cutout"
+    },
+    "bamboo_sapling": {
+      "layer": "cutout"
+    },
+    "weathered_copper_bulb": {
+      "cube": true
+    },
+    "blast_furnace": {
+      "cube": true
+    },
+    "crimson_roots": {
+      "layer": "cutout"
+    },
+    "stonecutter_block": {
+      "layer": "cutout"
+    },
+    "yellow_concrete_powder": {
+      "cube": true
+    },
+    "lime_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "end_portal": {
+      "layer": "invisible"
+    },
+    "yellow_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "jungle_double_slab": {
+      "cube": true
+    },
+    "polished_granite_double_slab": {
+      "cube": true
+    },
+    "spruce_wood": {
+      "cube": true
+    },
+    "blackstone": {
+      "cube": true
+    },
+    "lit_deepslate_redstone_ore": {
+      "cube": true
+    },
+    "element_10": {
+      "cube": true
+    },
+    "element_11": {
+      "cube": true
+    },
+    "element_12": {
+      "cube": true
+    },
+    "element_13": {
+      "cube": true
+    },
+    "element_14": {
+      "cube": true
+    },
+    "element_15": {
+      "cube": true
+    },
+    "element_16": {
+      "cube": true
+    },
+    "element_17": {
+      "cube": true
+    },
+    "element_18": {
+      "cube": true
+    },
+    "element_19": {
+      "cube": true
+    },
+    "element_36": {
+      "cube": true
+    },
+    "element_37": {
+      "cube": true
+    },
+    "element_34": {
+      "cube": true
+    },
+    "element_35": {
+      "cube": true
+    },
+    "element_32": {
+      "cube": true
+    },
+    "element_33": {
+      "cube": true
+    },
+    "element_30": {
+      "cube": true
+    },
+    "element_31": {
+      "cube": true
+    },
+    "element_38": {
+      "cube": true
+    },
+    "element_39": {
+      "cube": true
+    },
+    "element_29": {
+      "cube": true
+    },
+    "element_28": {
+      "cube": true
+    },
+    "element_21": {
+      "cube": true
+    },
+    "element_20": {
+      "cube": true
+    },
+    "element_23": {
+      "cube": true
+    },
+    "element_22": {
+      "cube": true
+    },
+    "element_25": {
+      "cube": true
+    },
+    "element_24": {
+      "cube": true
+    },
+    "element_27": {
+      "cube": true
+    },
+    "element_26": {
+      "cube": true
+    },
+    "element_58": {
+      "cube": true
+    },
+    "element_59": {
+      "cube": true
+    },
+    "element_54": {
+      "cube": true
+    },
+    "element_55": {
+      "cube": true
+    },
+    "element_56": {
+      "cube": true
+    },
+    "element_57": {
+      "cube": true
+    },
+    "element_50": {
+      "cube": true
+    },
+    "element_51": {
+      "cube": true
+    },
+    "element_52": {
+      "cube": true
+    },
+    "element_53": {
+      "cube": true
+    },
+    "element_49": {
+      "cube": true
+    },
+    "element_48": {
+      "cube": true
+    },
+    "element_47": {
+      "cube": true
+    },
+    "element_46": {
+      "cube": true
+    },
+    "element_45": {
+      "cube": true
+    },
+    "element_44": {
+      "cube": true
+    },
+    "element_43": {
+      "cube": true
+    },
+    "element_42": {
+      "cube": true
+    },
+    "element_41": {
+      "cube": true
+    },
+    "element_40": {
+      "cube": true
+    },
+    "element_72": {
+      "cube": true
+    },
+    "element_73": {
+      "cube": true
+    },
+    "element_70": {
+      "cube": true
+    },
+    "element_71": {
+      "cube": true
+    },
+    "element_76": {
+      "cube": true
+    },
+    "element_77": {
+      "cube": true
+    },
+    "element_74": {
+      "cube": true
+    },
+    "element_75": {
+      "cube": true
+    },
+    "element_78": {
+      "cube": true
+    },
+    "element_79": {
+      "cube": true
+    },
+    "element_65": {
+      "cube": true
+    },
+    "element_64": {
+      "cube": true
+    },
+    "element_67": {
+      "cube": true
+    },
+    "element_66": {
+      "cube": true
+    },
+    "element_61": {
+      "cube": true
+    },
+    "element_60": {
+      "cube": true
+    },
+    "element_63": {
+      "cube": true
+    },
+    "element_62": {
+      "cube": true
+    },
+    "element_69": {
+      "cube": true
+    },
+    "element_68": {
+      "cube": true
+    },
+    "element_98": {
+      "cube": true
+    },
+    "element_99": {
+      "cube": true
+    },
+    "element_90": {
+      "cube": true
+    },
+    "element_91": {
+      "cube": true
+    },
+    "element_92": {
+      "cube": true
+    },
+    "element_93": {
+      "cube": true
+    },
+    "element_94": {
+      "cube": true
+    },
+    "element_95": {
+      "cube": true
+    },
+    "element_96": {
+      "cube": true
+    },
+    "element_97": {
+      "cube": true
+    },
+    "element_89": {
+      "cube": true
+    },
+    "element_88": {
+      "cube": true
+    },
+    "element_83": {
+      "cube": true
+    },
+    "element_82": {
+      "cube": true
+    },
+    "element_81": {
+      "cube": true
+    },
+    "element_80": {
+      "cube": true
+    },
+    "element_87": {
+      "cube": true
+    },
+    "element_86": {
+      "cube": true
+    },
+    "element_85": {
+      "cube": true
+    },
+    "element_84": {
+      "cube": true
+    },
+    "lit_smoker": {
+      "cube": true
+    },
+    "lapis_ore": {
+      "cube": true
+    },
+    "red_concrete": {
+      "cube": true
+    },
+    "smooth_quartz_stairs": {
+      "connect": "stairs"
+    },
+    "azalea_leaves": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "purpur_block": {
+      "cube": true
+    },
+    "waxed_copper": {
+      "cube": true
+    },
+    "repeating_command_block": {
+      "cube": true
+    },
+    "colored_torch_purple": {
+      "layer": "cutout"
+    },
+    "nether_wart": {
+      "layer": "cutout"
+    },
+    "waxed_oxidized_double_cut_copper_slab": {
+      "cube": true
+    },
+    "crimson_fungus": {
+      "layer": "cutout"
+    },
+    "cherry_planks": {
+      "cube": true
+    },
+    "polished_deepslate": {
+      "cube": true
+    },
+    "tuff_double_slab": {
+      "cube": true
+    },
+    "smooth_red_sandstone": {
+      "cube": true
+    },
+    "purpur_stairs": {
+      "connect": "stairs"
+    },
+    "tube_coral": {
+      "layer": "cutout"
+    },
+    "waxed_copper_door": {
+      "layer": "cutout"
+    },
+    "portal": {
+      "layer": "blend",
+      "cube": true
+    },
+    "peony": {
+      "layer": "cutout"
+    },
+    "command_block": {
+      "cube": true
+    },
+    "crafter": {
+      "cube": true
+    },
+    "spruce_planks": {
+      "cube": true
+    },
+    "mossy_cobblestone_double_slab": {
+      "cube": true
+    },
+    "furnace": {
+      "cube": true
+    },
+    "info_update2": {
+      "cube": true
+    },
+    "amethyst_cluster": {
+      "layer": "cutout"
+    },
+    "waxed_chiseled_copper": {
+      "cube": true
+    },
+    "prismarine_brick_double_slab": {
+      "cube": true
+    },
+    "dried_kelp_block": {
+      "cube": true
+    },
+    "hard_light_gray_stained_glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "crimson_fence": {
+      "connect": "fence"
+    },
+    "chiseled_tuff": {
+      "cube": true
+    },
+    "lime_concrete_powder": {
+      "cube": true
+    },
+    "magma": {
+      "cube": true
+    },
+    "dispenser": {
+      "cube": true
+    },
+    "brown_terracotta": {
+      "cube": true
+    },
+    "cobblestone_double_slab": {
+      "cube": true
+    },
+    "deepslate_diamond_ore": {
+      "cube": true
+    },
+    "light_gray_wool": {
+      "cube": true
+    },
+    "soul_campfire": {
+      "layer": "cutout"
+    },
+    "prismarine_bricks": {
+      "cube": true
+    },
+    "birch_fence": {
+      "connect": "fence"
+    },
+    "waxed_oxidized_copper_grate": {
+      "layer": "blend",
+      "cube": true
+    },
+    "damaged_anvil": {
+      "layer": "cutout"
+    },
+    "birch_double_slab": {
+      "cube": true
+    },
+    "white_concrete": {
+      "cube": true
+    },
+    "material_reducer": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "trial_spawner": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "acacia_fence": {
+      "connect": "fence"
+    },
+    "orange_concrete_powder": {
+      "cube": true
+    },
+    "weathered_copper": {
+      "cube": true
+    },
+    "unlit_redstone_torch": {
+      "layer": "cutout"
+    },
+    "lime_terracotta": {
+      "cube": true
+    },
+    "gray_glazed_terracotta": {
+      "cube": true
+    },
+    "colored_torch_red": {
+      "layer": "cutout"
+    },
+    "lodestone": {
+      "cube": true
+    },
+    "bamboo_mosaic": {
+      "cube": true
+    },
+    "hard_blue_stained_glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "raw_iron_block": {
+      "cube": true
+    },
+    "purple_wool": {
+      "cube": true
+    },
+    "iron_block": {
+      "cube": true
+    },
+    "ladder": {
+      "layer": "cutout"
+    },
+    "stripped_mangrove_log": {
+      "cube": true
+    },
+    "gravel": {
+      "cube": true
+    },
+    "cartography_table": {
+      "cube": true
+    },
+    "oxidized_copper_door": {
+      "layer": "cutout"
+    },
+    "tube_coral_wall_fan": {
+      "layer": "cutout"
+    },
+    "dandelion": {
+      "layer": "cutout"
+    }
+  },
+  "liquid": {
+    "water": {
+      "opacity": 0.65
+    }
+  }
+}

@@ -1,0 +1,1030 @@
+{
+  "grass": {
+    "data": [
+      {
+        "keys": [
+          "bamboo_jungle",
+          "bamboo_jungle_hills",
+          "jungle",
+          "jungle_hills",
+          "jungle_mutated"
+        ],
+        "color": 5819196
+      },
+      {
+        "keys": [
+          "basalt_deltas",
+          "crimson_forest",
+          "desert",
+          "desert_hills",
+          "desert_mutated",
+          "hell",
+          "mesa",
+          "mesa_bryce",
+          "mesa_plateau",
+          "mesa_plateau_mutated",
+          "mesa_plateau_stone",
+          "mesa_plateau_stone_mutated",
+          "savanna",
+          "savanna_plateau",
+          "soulsand_valley",
+          "warped_forest"
+        ],
+        "color": 12498516
+      },
+      {
+        "keys": [
+          "beach",
+          "plains",
+          "sunflower_plains"
+        ],
+        "color": 9616472
+      },
+      {
+        "keys": [
+          "birch_forest",
+          "birch_forest_hills"
+        ],
+        "color": 8960614
+      },
+      {
+        "keys": [
+          "birch_forest_hills_mutated",
+          "birch_forest_mutated",
+          "flower_forest",
+          "forest",
+          "forest_hills",
+          "roofed_forest",
+          "roofed_forest_mutated"
+        ],
+        "color": 7978842
+      },
+      {
+        "keys": [
+          "cold_beach"
+        ],
+        "color": 8565907
+      },
+      {
+        "keys": [
+          "cold_ocean",
+          "deep_cold_ocean",
+          "deep_lukewarm_ocean",
+          "deep_ocean",
+          "deep_warm_ocean",
+          "lukewarm_ocean",
+          "ocean",
+          "river",
+          "the_end",
+          "warm_ocean"
+        ],
+        "color": 9287792
+      },
+      {
+        "keys": [
+          "cold_taiga",
+          "cold_taiga_hills",
+          "cold_taiga_mutated",
+          "deep_frozen_ocean",
+          "frozen_ocean",
+          "frozen_peaks",
+          "frozen_river",
+          "grove",
+          "ice_mountains",
+          "ice_plains",
+          "ice_plains_spikes",
+          "jagged_peaks",
+          "legacy_frozen_ocean",
+          "snowy_slopes"
+        ],
+        "color": 8434838
+      },
+      {
+        "keys": [
+          "dripstone_caves"
+        ],
+        "color": 9221257
+      },
+      {
+        "keys": [
+          "extreme_hills",
+          "extreme_hills_edge",
+          "extreme_hills_mutated",
+          "extreme_hills_plus_trees",
+          "extreme_hills_plus_trees_mutated",
+          "stone_beach"
+        ],
+        "color": 9090184
+      },
+      {
+        "keys": [
+          "jungle_edge",
+          "jungle_edge_mutated"
+        ],
+        "color": 6604863
+      },
+      {
+        "keys": [
+          "lush_caves"
+        ],
+        "color": 12105051
+      },
+      {
+        "keys": [
+          "meadow",
+          "mega_taiga",
+          "mega_taiga_hills",
+          "redwood_taiga_hills_mutated"
+        ],
+        "color": 8828543
+      },
+      {
+        "keys": [
+          "mushroom_island",
+          "mushroom_island_shore"
+        ],
+        "color": 5622335
+      },
+      {
+        "keys": [
+          "redwood_taiga_mutated",
+          "taiga",
+          "taiga_hills",
+          "taiga_mutated"
+        ],
+        "color": 8828291
+      },
+      {
+        "keys": [
+          "savanna_mutated",
+          "savanna_plateau_mutated"
+        ],
+        "color": 8569667
+      },
+      {
+        "keys": [
+          "stony_peaks"
+        ],
+        "color": 10141002
+      },
+      {
+        "keys": [
+          "swampland",
+          "swampland_mutated"
+        ],
+        "color": 5011004
+      }
+    ],
+    "default": 9616472
+  },
+  "foliage": {
+    "data": [
+      {
+        "keys": [
+          "bamboo_jungle",
+          "bamboo_jungle_hills",
+          "jungle",
+          "jungle_hills",
+          "jungle_mutated"
+        ],
+        "color": 3193611
+      },
+      {
+        "keys": [
+          "basalt_deltas",
+          "crimson_forest",
+          "desert",
+          "desert_hills",
+          "desert_mutated",
+          "hell",
+          "mesa",
+          "mesa_bryce",
+          "mesa_plateau",
+          "mesa_plateau_mutated",
+          "mesa_plateau_stone",
+          "mesa_plateau_stone_mutated",
+          "savanna",
+          "savanna_plateau",
+          "soulsand_valley",
+          "warped_forest"
+        ],
+        "color": 11445290
+      },
+      {
+        "keys": [
+          "beach",
+          "plains",
+          "sunflower_plains"
+        ],
+        "color": 7842607
+      },
+      {
+        "keys": [
+          "birch_forest",
+          "birch_forest_hills"
+        ],
+        "color": 7055680
+      },
+      {
+        "keys": [
+          "birch_forest_hills_mutated",
+          "birch_forest_mutated",
+          "flower_forest",
+          "forest",
+          "forest_hills",
+          "roofed_forest",
+          "roofed_forest_mutated"
+        ],
+        "color": 5877296
+      },
+      {
+        "keys": [
+          "cold_beach"
+        ],
+        "color": 6595192
+      },
+      {
+        "keys": [
+          "cold_ocean",
+          "deep_cold_ocean",
+          "deep_lukewarm_ocean",
+          "deep_ocean",
+          "deep_warm_ocean",
+          "lukewarm_ocean",
+          "ocean",
+          "river",
+          "the_end",
+          "warm_ocean"
+        ],
+        "color": 7448397
+      },
+      {
+        "keys": [
+          "cold_taiga",
+          "cold_taiga_hills",
+          "cold_taiga_mutated",
+          "deep_frozen_ocean",
+          "frozen_ocean",
+          "frozen_peaks",
+          "frozen_river",
+          "grove",
+          "ice_mountains",
+          "ice_plains",
+          "ice_plains_spikes",
+          "jagged_peaks",
+          "legacy_frozen_ocean",
+          "snowy_slopes"
+        ],
+        "color": 6332795
+      },
+      {
+        "keys": [
+          "dripstone_caves"
+        ],
+        "color": 7381612
+      },
+      {
+        "keys": [
+          "extreme_hills",
+          "extreme_hills_edge",
+          "extreme_hills_mutated",
+          "extreme_hills_plus_trees",
+          "extreme_hills_plus_trees_mutated",
+          "stone_beach"
+        ],
+        "color": 7185259
+      },
+      {
+        "keys": [
+          "jungle_edge",
+          "jungle_edge_mutated"
+        ],
+        "color": 4110351
+      },
+      {
+        "keys": [
+          "lush_caves"
+        ],
+        "color": 10921010
+      },
+      {
+        "keys": [
+          "meadow",
+          "mega_taiga",
+          "mega_taiga_hills",
+          "redwood_taiga_hills_mutated"
+        ],
+        "color": 6858079
+      },
+      {
+        "keys": [
+          "mushroom_island",
+          "mushroom_island_shore"
+        ],
+        "color": 2865935
+      },
+      {
+        "keys": [
+          "redwood_taiga_mutated",
+          "taiga",
+          "taiga_hills",
+          "taiga_mutated"
+        ],
+        "color": 6857828
+      },
+      {
+        "keys": [
+          "savanna_mutated",
+          "savanna_plateau_mutated"
+        ],
+        "color": 6599190
+      },
+      {
+        "keys": [
+          "stony_peaks"
+        ],
+        "color": 8563742
+      },
+      {
+        "keys": [
+          "swampland",
+          "swampland_mutated"
+        ],
+        "color": 6975545
+      }
+    ],
+    "default": 7842607
+  },
+  "birch": {
+    "data": [
+      {
+        "keys": [
+          "bamboo_jungle",
+          "bamboo_jungle_hills",
+          "basalt_deltas",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "birch_forest_hills_mutated",
+          "birch_forest_mutated",
+          "cold_beach",
+          "cold_ocean",
+          "cold_taiga",
+          "cold_taiga_hills",
+          "cold_taiga_mutated",
+          "crimson_forest",
+          "deep_cold_ocean",
+          "deep_frozen_ocean",
+          "deep_lukewarm_ocean",
+          "deep_ocean",
+          "deep_warm_ocean",
+          "desert",
+          "desert_hills",
+          "desert_mutated",
+          "dripstone_caves",
+          "extreme_hills",
+          "extreme_hills_edge",
+          "extreme_hills_mutated",
+          "extreme_hills_plus_trees",
+          "extreme_hills_plus_trees_mutated",
+          "flower_forest",
+          "forest",
+          "forest_hills",
+          "frozen_ocean",
+          "frozen_peaks",
+          "frozen_river",
+          "grove",
+          "hell",
+          "ice_mountains",
+          "ice_plains",
+          "ice_plains_spikes",
+          "jagged_peaks",
+          "jungle",
+          "jungle_edge",
+          "jungle_edge_mutated",
+          "jungle_hills",
+          "jungle_mutated",
+          "legacy_frozen_ocean",
+          "lukewarm_ocean",
+          "lush_caves",
+          "meadow",
+          "mega_taiga",
+          "mega_taiga_hills",
+          "mesa",
+          "mesa_bryce",
+          "mesa_plateau",
+          "mesa_plateau_mutated",
+          "mesa_plateau_stone",
+          "mesa_plateau_stone_mutated",
+          "mushroom_island",
+          "mushroom_island_shore",
+          "ocean",
+          "plains",
+          "redwood_taiga_hills_mutated",
+          "redwood_taiga_mutated",
+          "river",
+          "roofed_forest",
+          "roofed_forest_mutated",
+          "savanna",
+          "savanna_mutated",
+          "savanna_plateau",
+          "savanna_plateau_mutated",
+          "snowy_slopes",
+          "soulsand_valley",
+          "stone_beach",
+          "stony_peaks",
+          "sunflower_plains",
+          "swampland",
+          "swampland_mutated",
+          "taiga",
+          "taiga_hills",
+          "taiga_mutated",
+          "the_end",
+          "warm_ocean",
+          "warped_forest"
+        ],
+        "color": 8431445
+      }
+    ],
+    "default": 8431445
+  },
+  "evergreen": {
+    "data": [
+      {
+        "keys": [
+          "bamboo_jungle",
+          "bamboo_jungle_hills",
+          "basalt_deltas",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "birch_forest_hills_mutated",
+          "birch_forest_mutated",
+          "cold_beach",
+          "cold_ocean",
+          "cold_taiga",
+          "cold_taiga_hills",
+          "cold_taiga_mutated",
+          "crimson_forest",
+          "deep_cold_ocean",
+          "deep_frozen_ocean",
+          "deep_lukewarm_ocean",
+          "deep_ocean",
+          "deep_warm_ocean",
+          "desert",
+          "desert_hills",
+          "desert_mutated",
+          "dripstone_caves",
+          "extreme_hills",
+          "extreme_hills_edge",
+          "extreme_hills_mutated",
+          "extreme_hills_plus_trees",
+          "extreme_hills_plus_trees_mutated",
+          "flower_forest",
+          "forest",
+          "forest_hills",
+          "frozen_ocean",
+          "frozen_peaks",
+          "frozen_river",
+          "grove",
+          "hell",
+          "ice_mountains",
+          "ice_plains",
+          "ice_plains_spikes",
+          "jagged_peaks",
+          "jungle",
+          "jungle_edge",
+          "jungle_edge_mutated",
+          "jungle_hills",
+          "jungle_mutated",
+          "legacy_frozen_ocean",
+          "lukewarm_ocean",
+          "lush_caves",
+          "meadow",
+          "mega_taiga",
+          "mega_taiga_hills",
+          "mesa",
+          "mesa_bryce",
+          "mesa_plateau",
+          "mesa_plateau_mutated",
+          "mesa_plateau_stone",
+          "mesa_plateau_stone_mutated",
+          "mushroom_island",
+          "mushroom_island_shore",
+          "ocean",
+          "plains",
+          "redwood_taiga_hills_mutated",
+          "redwood_taiga_mutated",
+          "river",
+          "roofed_forest",
+          "roofed_forest_mutated",
+          "savanna",
+          "savanna_mutated",
+          "savanna_plateau",
+          "savanna_plateau_mutated",
+          "snowy_slopes",
+          "soulsand_valley",
+          "stone_beach",
+          "stony_peaks",
+          "sunflower_plains",
+          "swampland",
+          "swampland_mutated",
+          "taiga",
+          "taiga_hills",
+          "taiga_mutated",
+          "the_end",
+          "warm_ocean",
+          "warped_forest"
+        ],
+        "color": 6396257
+      }
+    ],
+    "default": 6396257
+  },
+  "dry": {
+    "data": [],
+    "default": 16777215
+  },
+  "water": {
+    "data": [
+      {
+        "keys": [
+          "bamboo_jungle",
+          "jungle"
+        ],
+        "color": 1352389
+      },
+      {
+        "keys": [
+          "bamboo_jungle_hills",
+          "jungle_hills",
+          "jungle_mutated"
+        ],
+        "color": 1810136
+      },
+      {
+        "keys": [
+          "basalt_deltas"
+        ],
+        "color": 4159204
+      },
+      {
+        "keys": [
+          "beach"
+        ],
+        "color": 1408171
+      },
+      {
+        "keys": [
+          "birch_forest"
+        ],
+        "color": 423886
+      },
+      {
+        "keys": [
+          "birch_forest_hills"
+        ],
+        "color": 685252
+      },
+      {
+        "keys": [
+          "birch_forest_hills_mutated",
+          "birch_forest_mutated",
+          "desert_mutated",
+          "dripstone_caves",
+          "frozen_peaks",
+          "grove",
+          "jagged_peaks",
+          "jungle_edge_mutated",
+          "legacy_frozen_ocean",
+          "lush_caves",
+          "meadow",
+          "mesa_plateau_mutated",
+          "mesa_plateau_stone_mutated",
+          "plains",
+          "redwood_taiga_hills_mutated",
+          "redwood_taiga_mutated",
+          "roofed_forest_mutated",
+          "savanna_plateau_mutated",
+          "snowy_slopes",
+          "stony_peaks",
+          "sunflower_plains"
+        ],
+        "color": 4501493
+      },
+      {
+        "keys": [
+          "cold_beach"
+        ],
+        "color": 1336229
+      },
+      {
+        "keys": [
+          "cold_ocean",
+          "deep_cold_ocean"
+        ],
+        "color": 2130121
+      },
+      {
+        "keys": [
+          "cold_taiga",
+          "cold_taiga_mutated"
+        ],
+        "color": 2121347
+      },
+      {
+        "keys": [
+          "cold_taiga_hills"
+        ],
+        "color": 2382712
+      },
+      {
+        "keys": [
+          "crimson_forest",
+          "hell",
+          "soulsand_valley",
+          "warped_forest"
+        ],
+        "color": 9460055
+      },
+      {
+        "keys": [
+          "deep_frozen_ocean",
+          "frozen_ocean"
+        ],
+        "color": 2453685
+      },
+      {
+        "keys": [
+          "deep_lukewarm_ocean",
+          "lukewarm_ocean"
+        ],
+        "color": 890587
+      },
+      {
+        "keys": [
+          "deep_ocean",
+          "ocean"
+        ],
+        "color": 1542100
+      },
+      {
+        "keys": [
+          "deep_warm_ocean",
+          "warm_ocean"
+        ],
+        "color": 176357
+      },
+      {
+        "keys": [
+          "desert"
+        ],
+        "color": 3319192
+      },
+      {
+        "keys": [
+          "desert_hills"
+        ],
+        "color": 1735329
+      },
+      {
+        "keys": [
+          "extreme_hills"
+        ],
+        "color": 31735
+      },
+      {
+        "keys": [
+          "extreme_hills_edge"
+        ],
+        "color": 285909
+      },
+      {
+        "keys": [
+          "extreme_hills_mutated",
+          "extreme_hills_plus_trees",
+          "extreme_hills_plus_trees_mutated"
+        ],
+        "color": 943019
+      },
+      {
+        "keys": [
+          "flower_forest"
+        ],
+        "color": 2139084
+      },
+      {
+        "keys": [
+          "forest"
+        ],
+        "color": 2004978
+      },
+      {
+        "keys": [
+          "forest_hills"
+        ],
+        "color": 355281
+      },
+      {
+        "keys": [
+          "frozen_river"
+        ],
+        "color": 1594256
+      },
+      {
+        "keys": [
+          "ice_mountains"
+        ],
+        "color": 1136295
+      },
+      {
+        "keys": [
+          "ice_plains",
+          "ice_plains_spikes"
+        ],
+        "color": 1332635
+      },
+      {
+        "keys": [
+          "jungle_edge"
+        ],
+        "color": 887523
+      },
+      {
+        "keys": [
+          "mega_taiga"
+        ],
+        "color": 2977143
+      },
+      {
+        "keys": [
+          "mega_taiga_hills"
+        ],
+        "color": 2646904
+      },
+      {
+        "keys": [
+          "mesa"
+        ],
+        "color": 5144449
+      },
+      {
+        "keys": [
+          "mesa_bryce"
+        ],
+        "color": 4816793
+      },
+      {
+        "keys": [
+          "mesa_plateau",
+          "mesa_plateau_stone"
+        ],
+        "color": 5603486
+      },
+      {
+        "keys": [
+          "mushroom_island"
+        ],
+        "color": 9079191
+      },
+      {
+        "keys": [
+          "mushroom_island_shore"
+        ],
+        "color": 8487315
+      },
+      {
+        "keys": [
+          "river"
+        ],
+        "color": 34047
+      },
+      {
+        "keys": [
+          "roofed_forest"
+        ],
+        "color": 3894481
+      },
+      {
+        "keys": [
+          "savanna"
+        ],
+        "color": 2919324
+      },
+      {
+        "keys": [
+          "savanna_mutated",
+          "savanna_plateau"
+        ],
+        "color": 2461864
+      },
+      {
+        "keys": [
+          "stone_beach"
+        ],
+        "color": 878523
+      },
+      {
+        "keys": [
+          "swampland"
+        ],
+        "color": 5006681
+      },
+      {
+        "keys": [
+          "swampland_mutated"
+        ],
+        "color": 5005654
+      },
+      {
+        "keys": [
+          "taiga"
+        ],
+        "color": 2650242
+      },
+      {
+        "keys": [
+          "taiga_hills"
+        ],
+        "color": 2319747
+      },
+      {
+        "keys": [
+          "taiga_mutated"
+        ],
+        "color": 1993602
+      },
+      {
+        "keys": [
+          "the_end"
+        ],
+        "color": 6443678
+      }
+    ],
+    "default": 4501493
+  },
+  "redstone": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 5046272
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 7340032
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 7995392
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 8716288
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 9371648
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10027008
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 10682368
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 11337728
+      },
+      {
+        "keys": [
+          "8"
+        ],
+        "color": 12058624
+      },
+      {
+        "keys": [
+          "9"
+        ],
+        "color": 12713984
+      },
+      {
+        "keys": [
+          "10"
+        ],
+        "color": 13369344
+      },
+      {
+        "keys": [
+          "11"
+        ],
+        "color": 14024704
+      },
+      {
+        "keys": [
+          "12"
+        ],
+        "color": 14680064
+      },
+      {
+        "keys": [
+          "13"
+        ],
+        "color": 15402752
+      },
+      {
+        "keys": [
+          "14"
+        ],
+        "color": 16063488
+      },
+      {
+        "keys": [
+          "15"
+        ],
+        "color": 16724736
+      }
+    ],
+    "default": 5046272
+  },
+  "stem": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 65280
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 2160388
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 4255496
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 6350604
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 8445712
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10540820
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 12635928
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 14731036
+      }
+    ],
+    "default": 14731036
+  },
+  "constant": {
+    "data": [
+      {
+        "keys": [
+          "waterlily"
+        ],
+        "color": 2129968
+      }
+    ]
+  }
+}

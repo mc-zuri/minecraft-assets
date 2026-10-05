@@ -8,6 +8,15 @@ Generated using [image_names.js](https://github.com/PrismarineJS/minecraft-jar-e
 
 This repository supports automated updates via workflow dispatch. When a new Minecraft version is released, the assets can be automatically generated and a pull request created by triggering the `handle-mcdata-update` workflow with the new version number.
 
+A Bedrock version is added to `data/bedrock/` by the `handle-bedrock-update` workflow: it exports the version with [minecraft-bedrock-extractor](https://github.com/PrismarineJS/minecraft-bedrock-extractor) from its release of [Mojang/bedrock-samples](https://github.com/Mojang/bedrock-samples) (or of its hotfix family), and opens a pull request from the branch `bedrock-<version>`. minecraft-data must know the version. To run it locally, or with other sources (installed clients, a minecraft-data checkout):
+
+```
+cd .github/commands && npm install
+node bump-bedrock.js 1.26.60 --extractor <clone> [--commit] [-- <extractor options>]
+```
+
+Without `--commit` it leaves the export in the working tree.
+
 ## Wrappers
 
 Minecraft-assets is language independent, you can use it with these language specific modules :

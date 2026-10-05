@@ -1,0 +1,648 @@
+{
+  "grass": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "modified_badlands_plateau",
+          "modified_wooded_badlands_plateau",
+          "nether_wastes",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "wooded_badlands_plateau"
+        ],
+        "color": 12498516
+      },
+      {
+        "keys": [
+          "beach",
+          "plains",
+          "sunflower_plains"
+        ],
+        "color": 9616472
+      },
+      {
+        "keys": [
+          "birch_forest",
+          "birch_forest_hills",
+          "tall_birch_forest",
+          "tall_birch_hills"
+        ],
+        "color": 8960615
+      },
+      {
+        "keys": [
+          "dark_forest",
+          "dark_forest_hills",
+          "flower_forest",
+          "forest",
+          "wooded_hills"
+        ],
+        "color": 7978842
+      },
+      {
+        "keys": [
+          "deep_ocean",
+          "ocean",
+          "river",
+          "the_end"
+        ],
+        "color": 9287792
+      },
+      {
+        "keys": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_spikes",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra"
+        ],
+        "color": 8434838
+      },
+      {
+        "keys": [
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains"
+        ],
+        "color": 8828291
+      },
+      {
+        "keys": [
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills"
+        ],
+        "color": 8828543
+      },
+      {
+        "keys": [
+          "gravelly_mountains",
+          "modified_gravelly_mountains",
+          "mountain_edge",
+          "mountains",
+          "stone_shore",
+          "wooded_mountains"
+        ],
+        "color": 9090184
+      },
+      {
+        "keys": [
+          "jungle",
+          "jungle_hills",
+          "modified_jungle"
+        ],
+        "color": 5819196
+      },
+      {
+        "keys": [
+          "jungle_edge",
+          "modified_jungle_edge"
+        ],
+        "color": 6604863
+      },
+      {
+        "keys": [
+          "mushroom_field_shore",
+          "mushroom_fields"
+        ],
+        "color": 5622335
+      },
+      {
+        "keys": [
+          "snowy_beach"
+        ],
+        "color": 8565907
+      },
+      {
+        "keys": [
+          "swamp",
+          "swamp_hills"
+        ],
+        "color": 6997069
+      }
+    ],
+    "default": 9616472
+  },
+  "foliage": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "modified_badlands_plateau",
+          "modified_wooded_badlands_plateau",
+          "nether_wastes",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "wooded_badlands_plateau"
+        ],
+        "color": 11445290
+      },
+      {
+        "keys": [
+          "beach",
+          "plains",
+          "sunflower_plains"
+        ],
+        "color": 7842607
+      },
+      {
+        "keys": [
+          "birch_forest",
+          "birch_forest_hills",
+          "tall_birch_forest",
+          "tall_birch_hills"
+        ],
+        "color": 7055681
+      },
+      {
+        "keys": [
+          "dark_forest",
+          "dark_forest_hills",
+          "flower_forest",
+          "forest",
+          "wooded_hills"
+        ],
+        "color": 5877296
+      },
+      {
+        "keys": [
+          "deep_ocean",
+          "ocean",
+          "river",
+          "the_end"
+        ],
+        "color": 7448397
+      },
+      {
+        "keys": [
+          "frozen_ocean",
+          "frozen_river",
+          "ice_spikes",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra"
+        ],
+        "color": 6332795
+      },
+      {
+        "keys": [
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains"
+        ],
+        "color": 6857828
+      },
+      {
+        "keys": [
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills"
+        ],
+        "color": 6858079
+      },
+      {
+        "keys": [
+          "gravelly_mountains",
+          "modified_gravelly_mountains",
+          "mountain_edge",
+          "mountains",
+          "stone_shore",
+          "wooded_mountains"
+        ],
+        "color": 7185259
+      },
+      {
+        "keys": [
+          "jungle",
+          "jungle_hills",
+          "modified_jungle"
+        ],
+        "color": 3193611
+      },
+      {
+        "keys": [
+          "jungle_edge",
+          "modified_jungle_edge"
+        ],
+        "color": 4110351
+      },
+      {
+        "keys": [
+          "mushroom_field_shore",
+          "mushroom_fields"
+        ],
+        "color": 2865935
+      },
+      {
+        "keys": [
+          "snowy_beach"
+        ],
+        "color": 6595192
+      },
+      {
+        "keys": [
+          "swamp",
+          "swamp_hills"
+        ],
+        "color": 4568097
+      }
+    ],
+    "default": 7842607
+  },
+  "birch": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "dark_forest",
+          "dark_forest_hills",
+          "deep_ocean",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "flower_forest",
+          "forest",
+          "frozen_ocean",
+          "frozen_river",
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills",
+          "gravelly_mountains",
+          "ice_spikes",
+          "jungle",
+          "jungle_edge",
+          "jungle_hills",
+          "modified_badlands_plateau",
+          "modified_gravelly_mountains",
+          "modified_jungle",
+          "modified_jungle_edge",
+          "modified_wooded_badlands_plateau",
+          "mountain_edge",
+          "mountains",
+          "mushroom_field_shore",
+          "mushroom_fields",
+          "nether_wastes",
+          "ocean",
+          "plains",
+          "river",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "snowy_beach",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra",
+          "stone_shore",
+          "sunflower_plains",
+          "swamp",
+          "swamp_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains",
+          "tall_birch_forest",
+          "tall_birch_hills",
+          "the_end",
+          "wooded_badlands_plateau",
+          "wooded_hills",
+          "wooded_mountains"
+        ],
+        "color": 8431445
+      }
+    ],
+    "default": 8431445
+  },
+  "evergreen": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "dark_forest",
+          "dark_forest_hills",
+          "deep_ocean",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "flower_forest",
+          "forest",
+          "frozen_ocean",
+          "frozen_river",
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills",
+          "gravelly_mountains",
+          "ice_spikes",
+          "jungle",
+          "jungle_edge",
+          "jungle_hills",
+          "modified_badlands_plateau",
+          "modified_gravelly_mountains",
+          "modified_jungle",
+          "modified_jungle_edge",
+          "modified_wooded_badlands_plateau",
+          "mountain_edge",
+          "mountains",
+          "mushroom_field_shore",
+          "mushroom_fields",
+          "nether_wastes",
+          "ocean",
+          "plains",
+          "river",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "snowy_beach",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra",
+          "stone_shore",
+          "sunflower_plains",
+          "swamp",
+          "swamp_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains",
+          "tall_birch_forest",
+          "tall_birch_hills",
+          "the_end",
+          "wooded_badlands_plateau",
+          "wooded_hills",
+          "wooded_mountains"
+        ],
+        "color": 6396257
+      }
+    ],
+    "default": 6396257
+  },
+  "dry": {
+    "data": [],
+    "default": 16777215
+  },
+  "water": {
+    "data": [
+      {
+        "keys": [
+          "badlands",
+          "badlands_plateau",
+          "beach",
+          "birch_forest",
+          "birch_forest_hills",
+          "dark_forest",
+          "dark_forest_hills",
+          "deep_ocean",
+          "desert",
+          "desert_hills",
+          "desert_lakes",
+          "eroded_badlands",
+          "flower_forest",
+          "forest",
+          "frozen_ocean",
+          "frozen_river",
+          "giant_spruce_taiga",
+          "giant_spruce_taiga_hills",
+          "giant_tree_taiga",
+          "giant_tree_taiga_hills",
+          "gravelly_mountains",
+          "ice_spikes",
+          "jungle",
+          "jungle_edge",
+          "jungle_hills",
+          "modified_badlands_plateau",
+          "modified_gravelly_mountains",
+          "modified_jungle",
+          "modified_jungle_edge",
+          "modified_wooded_badlands_plateau",
+          "mountain_edge",
+          "mountains",
+          "mushroom_field_shore",
+          "mushroom_fields",
+          "nether_wastes",
+          "ocean",
+          "plains",
+          "river",
+          "savanna",
+          "savanna_plateau",
+          "shattered_savanna",
+          "shattered_savanna_plateau",
+          "snowy_beach",
+          "snowy_mountains",
+          "snowy_taiga",
+          "snowy_taiga_hills",
+          "snowy_taiga_mountains",
+          "snowy_tundra",
+          "stone_shore",
+          "sunflower_plains",
+          "swamp",
+          "swamp_hills",
+          "taiga",
+          "taiga_hills",
+          "taiga_mountains",
+          "tall_birch_forest",
+          "tall_birch_hills",
+          "the_end",
+          "wooded_badlands_plateau",
+          "wooded_hills",
+          "wooded_mountains"
+        ],
+        "color": 4501493
+      }
+    ],
+    "default": 4501493
+  },
+  "redstone": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 5046272
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 7340032
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 7995392
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 8716288
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 9371648
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10027008
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 10682368
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 11337728
+      },
+      {
+        "keys": [
+          "8"
+        ],
+        "color": 12058624
+      },
+      {
+        "keys": [
+          "9"
+        ],
+        "color": 12713984
+      },
+      {
+        "keys": [
+          "10"
+        ],
+        "color": 13369344
+      },
+      {
+        "keys": [
+          "11"
+        ],
+        "color": 14024704
+      },
+      {
+        "keys": [
+          "12"
+        ],
+        "color": 14680064
+      },
+      {
+        "keys": [
+          "13"
+        ],
+        "color": 15402752
+      },
+      {
+        "keys": [
+          "14"
+        ],
+        "color": 16063488
+      },
+      {
+        "keys": [
+          "15"
+        ],
+        "color": 16724736
+      }
+    ],
+    "default": 5046272
+  },
+  "stem": {
+    "data": [
+      {
+        "keys": [
+          "0"
+        ],
+        "color": 65280
+      },
+      {
+        "keys": [
+          "1"
+        ],
+        "color": 2160388
+      },
+      {
+        "keys": [
+          "2"
+        ],
+        "color": 4255496
+      },
+      {
+        "keys": [
+          "3"
+        ],
+        "color": 6350604
+      },
+      {
+        "keys": [
+          "4"
+        ],
+        "color": 8445712
+      },
+      {
+        "keys": [
+          "5"
+        ],
+        "color": 10540820
+      },
+      {
+        "keys": [
+          "6"
+        ],
+        "color": 12635928
+      },
+      {
+        "keys": [
+          "7"
+        ],
+        "color": 14731036
+      }
+    ],
+    "default": 14731036
+  },
+  "constant": {
+    "data": []
+  }
+}

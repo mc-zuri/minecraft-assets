@@ -1,0 +1,389 @@
+{
+  "format": 1,
+  "blocks": {
+    "stone": {
+      "cube": true
+    },
+    "grass_block": {
+      "tint": "grass",
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "dirt": {
+      "cube": true
+    },
+    "cobblestone": {
+      "cube": true
+    },
+    "sapling": {
+      "layer": "cutout"
+    },
+    "bedrock": {
+      "cube": true
+    },
+    "water": {
+      "layer": "blend",
+      "tint": "water",
+      "liquid": "water"
+    },
+    "lava": {
+      "liquid": "lava"
+    },
+    "sand": {
+      "cube": true
+    },
+    "gravel": {
+      "cube": true
+    },
+    "gold_ore": {
+      "cube": true
+    },
+    "iron_ore": {
+      "cube": true
+    },
+    "coal_ore": {
+      "cube": true
+    },
+    "wood": {
+      "cube": true
+    },
+    "leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "sponge": {
+      "cube": true
+    },
+    "glass": {
+      "layer": "blend",
+      "cube": true
+    },
+    "dispenser": {
+      "cube": true
+    },
+    "sandstone": {
+      "cube": true
+    },
+    "bed": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "detector_rail": {
+      "layer": "blend"
+    },
+    "sticky_piston": {
+      "cube": true
+    },
+    "tall_grass": {
+      "layer": "cutout"
+    },
+    "piston": {
+      "cube": true
+    },
+    "wool": {
+      "cube": true
+    },
+    "dandelion": {
+      "layer": "cutout"
+    },
+    "brown_mushroom": {
+      "layer": "cutout"
+    },
+    "red_mushroom": {
+      "layer": "cutout"
+    },
+    "double_stone_slab": {
+      "cube": true
+    },
+    "stone_slab": {
+      "cube": true
+    },
+    "tnt": {
+      "cube": true
+    },
+    "bookshelf": {
+      "cube": true
+    },
+    "obsidian": {
+      "cube": true
+    },
+    "torch": {
+      "layer": "cutout"
+    },
+    "fire": {
+      "layer": "cutout"
+    },
+    "chest": {
+      "connect": "chest",
+      "defaults": {
+        "bedrock:chest": "single"
+      }
+    },
+    "redstone_wire": {
+      "layer": "cutout",
+      "tint": "redstone",
+      "connect": "redstone",
+      "defaults": {
+        "bedrock:redstone_north": "side",
+        "bedrock:redstone_east": "side",
+        "bedrock:redstone_south": "side",
+        "bedrock:redstone_west": "side"
+      }
+    },
+    "diamond_ore": {
+      "cube": true
+    },
+    "crafting_table": {
+      "cube": true
+    },
+    "farmland": {
+      "cube": true
+    },
+    "furnace": {
+      "cube": true
+    },
+    "wooden_door": {
+      "layer": "cutout"
+    },
+    "ladder": {
+      "layer": "cutout"
+    },
+    "rail": {
+      "layer": "blend"
+    },
+    "lever": {
+      "layer": "cutout"
+    },
+    "stone_pressure_plate": {
+      "cube": true
+    },
+    "iron_door": {
+      "layer": "cutout"
+    },
+    "wooden_pressure_plate": {
+      "cube": true
+    },
+    "redstone_ore": {
+      "cube": true
+    },
+    "redstone_torch": {
+      "layer": "cutout"
+    },
+    "stone_button": {
+      "cube": true
+    },
+    "ice": {
+      "layer": "blend",
+      "cube": true
+    },
+    "snow": {
+      "cube": true
+    },
+    "cactus": {
+      "layer": "cutout"
+    },
+    "clay": {
+      "cube": true
+    },
+    "fence": {
+      "connect": "fence"
+    },
+    "pumpkin": {
+      "cube": true
+    },
+    "netherrack": {
+      "cube": true
+    },
+    "soul_sand": {
+      "cube": true
+    },
+    "glowstone": {
+      "cube": true
+    },
+    "portal": {
+      "layer": "blend",
+      "cube": true
+    },
+    "cake": {
+      "cube": true
+    },
+    "trapdoor": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "monster_egg": {
+      "cube": true
+    },
+    "iron_bars": {
+      "layer": "cutout",
+      "connect": "pane"
+    },
+    "glass_pane": {
+      "layer": "blend",
+      "connect": "pane"
+    },
+    "pumpkin_stem": {
+      "layer": "cutout",
+      "tint": "stem"
+    },
+    "melon_stem": {
+      "layer": "cutout",
+      "tint": "stem"
+    },
+    "brick_stairs": {
+      "cube": true
+    },
+    "stone_brick_stairs": {
+      "cube": true
+    },
+    "mycelium": {
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "nether_brick": {
+      "cube": true
+    },
+    "nether_brick_fence": {
+      "connect": "fence"
+    },
+    "nether_brick_stairs": {
+      "cube": true
+    },
+    "nether_wart": {
+      "layer": "cutout"
+    },
+    "brewing_stand": {
+      "layer": "cutout"
+    },
+    "end_stone": {
+      "cube": true
+    },
+    "redstone_lamp": {
+      "cube": true
+    },
+    "dropper": {
+      "cube": true
+    },
+    "activator_rail": {
+      "layer": "blend"
+    },
+    "cocoa": {
+      "layer": "cutout"
+    },
+    "sandstone_stairs": {
+      "cube": true
+    },
+    "emerald_ore": {
+      "cube": true
+    },
+    "tripwire_hook": {
+      "layer": "cutout"
+    },
+    "flower_pot": {
+      "layer": "cutout"
+    },
+    "carrots": {
+      "layer": "cutout"
+    },
+    "wooden_button": {
+      "cube": true
+    },
+    "anvil": {
+      "layer": "cutout"
+    },
+    "trapped_chest": {
+      "connect": "chest",
+      "defaults": {
+        "bedrock:chest": "single"
+      }
+    },
+    "hopper": {
+      "layer": "cutout"
+    },
+    "quartz_stairs": {
+      "cube": true
+    },
+    "wooden_slab": {
+      "cube": true
+    },
+    "acacia_leaves": {
+      "layer": "cutout",
+      "tint": "foliage",
+      "cube": true
+    },
+    "acacia_wood": {
+      "cube": true
+    },
+    "iron_trapdoor": {
+      "layer": "cutout",
+      "cube": true
+    },
+    "carpet": {
+      "cube": true
+    },
+    "hardened_clay": {
+      "cube": true
+    },
+    "packed_ice": {
+      "cube": true
+    },
+    "sunflower": {
+      "layer": "cutout"
+    },
+    "red_sandstone": {
+      "cube": true
+    },
+    "red_sandstone_stairs": {
+      "cube": true
+    },
+    "red_sandstone_slab": {
+      "cube": true
+    },
+    "spruce_door": {
+      "layer": "cutout"
+    },
+    "birch_door": {
+      "layer": "cutout"
+    },
+    "jungle_door": {
+      "layer": "cutout"
+    },
+    "acacia_door": {
+      "layer": "cutout"
+    },
+    "dark_oak_door": {
+      "layer": "cutout"
+    },
+    "grass_path": {
+      "cube": true
+    },
+    "podzol": {
+      "cube": true,
+      "connect": "snowy",
+      "defaults": {
+        "bedrock:snowy": "0"
+      }
+    },
+    "beetroot": {
+      "layer": "cutout"
+    },
+    "stonecutter": {
+      "cube": true
+    },
+    "observer": {
+      "cube": true
+    }
+  },
+  "liquid": {
+    "water": {
+      "opacity": 0.65
+    }
+  }
+}

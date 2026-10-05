@@ -1,0 +1,49 @@
+name: handle-bedrock-update
+# Adds a Bedrock version to data/bedrock, from its release of Mojang/bedrock-samples, and opens a pull request of it
+# (from the branch bedrock-<version> to the branch the workflow runs on): .github/commands/bump-bedrock.js
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'The Bedrock version, like `1.26.60` (minecraft-data must know it)'
+        required: true
+      minecraft_data:
+        description: 'The minecraft-data to read it with (npm version)'
+        default: 'latest'
+      extractor:
+        description: 'The minecraft-bedrock-extractor to export it with (npm install spec)'
+        default: 'PrismarineJS/minecraft-bedrock-extractor'
+      allow_older:
+        description: 'Export it from an older release of bedrock-samples when it has none of its own (or of its hotfix family)'
+        type: boolean
+        default: false
+jobs:
+  bump-bedrock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install && npm install --no-save "$EXTRACTOR" "minecraft-data@$MINECRAFT_DATA"
+        working-directory: .github/commands
+        env:
+          EXTRACTOR: ${{ inputs.extractor }}
+          MINECRAFT_DATA: ${{ inputs.minecraft_data }}
+      # the blobless clone of bedrock-samples the extractor reads the packs from
+      - uses: actions/cache@v4
+        with:
+          path: .github/commands/.cache
+          key: bedrock-samples-${{ github.run_id }}
+          restore-keys: bedrock-samples-
+      # the runner has no git identity: the bot commits
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - run: node bump-bedrock.js "$VERSION" --push --base "$BASE" $ALLOW_OLDER
+        working-directory: .github/commands
+        env:
+          VERSION: ${{ inputs.version }}
+          BASE: ${{ github.ref_name }}
+          ALLOW_OLDER: ${{ inputs.allow_older && '--allow-older' || '' }}
+          GITHUB_TOKEN: ${{ secrets.PAT_PASSWORD || secrets.GITHUB_TOKEN }}
