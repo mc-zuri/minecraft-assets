@@ -638,8 +638,8 @@
   {
     "name": "sulfur_spike",
     "blockState": "sulfur_spike",
-    "model": "minecraft:blocks/sulfur_spike_6",
-    "texture": "minecraft:blocks/sulfur_spike_down_base"
+    "model": "minecraft:blocks/sulfur_spike",
+    "texture": "minecraft:blocks/sulfur_spike_down_tip"
   },
   {
     "name": "end_bricks",
@@ -1533,7 +1533,7 @@
     "name": "piston",
     "blockState": "piston",
     "model": "minecraft:blocks/piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "brown_carpet",
@@ -2864,7 +2864,7 @@
   {
     "name": "small_dripleaf_block",
     "blockState": "small_dripleaf_block",
-    "model": "minecraft:blocks/small_dripleaf_block",
+    "model": "minecraft:blocks/small_dripleaf_block_2",
     "texture": "minecraft:blocks/small_dripleaf_top"
   },
   {
@@ -2984,8 +2984,8 @@
   {
     "name": "sticky_piston",
     "blockState": "sticky_piston",
-    "model": "minecraft:blocks/piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "model": "minecraft:blocks/sticky_piston",
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "ender_chest",
@@ -4791,7 +4791,7 @@
     "name": "big_dripleaf",
     "blockState": "big_dripleaf",
     "model": "minecraft:blocks/big_dripleaf_2",
-    "texture": "minecraft:blocks/big_dripleaf_side2"
+    "texture": "minecraft:blocks/big_dripleaf_top"
   },
   {
     "name": "cut_sandstone",
@@ -6759,7 +6759,7 @@
     "name": "pointed_dripstone",
     "blockState": "pointed_dripstone",
     "model": "minecraft:blocks/pointed_dripstone_6",
-    "texture": "minecraft:blocks/pointed_dripstone_down_base"
+    "texture": "minecraft:blocks/pointed_dripstone_down_tip"
   },
   {
     "name": "red_carpet",

@@ -26265,6 +26265,84 @@
   },
   "piston": {
     "variants": {
+      "facing_direction=0,block_entity.Progress=0": {
+        "model": "minecraft:block/piston",
+        "x": 180
+      },
+      "facing_direction=0,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2",
+        "x": 180
+      },
+      "facing_direction=0,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3",
+        "x": 180
+      },
+      "facing_direction=1,block_entity.Progress=0": {
+        "model": "minecraft:block/piston"
+      },
+      "facing_direction=1,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2"
+      },
+      "facing_direction=1,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3"
+      },
+      "facing_direction=2,block_entity.Progress=0": {
+        "model": "minecraft:block/piston",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=2,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=2,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=3,block_entity.Progress=0": {
+        "model": "minecraft:block/piston",
+        "x": 90
+      },
+      "facing_direction=3,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2",
+        "x": 90
+      },
+      "facing_direction=3,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3",
+        "x": 90
+      },
+      "facing_direction=4,block_entity.Progress=0": {
+        "model": "minecraft:block/piston",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=4,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=4,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=5,block_entity.Progress=0": {
+        "model": "minecraft:block/piston",
+        "x": 90,
+        "y": 270
+      },
+      "facing_direction=5,block_entity.Progress=0.5": {
+        "model": "minecraft:block/piston_2",
+        "x": 90,
+        "y": 270
+      },
+      "facing_direction=5,block_entity.Progress=1": {
+        "model": "minecraft:block/piston_3",
+        "x": 90,
+        "y": 270
+      },
       "facing_direction=0": {
         "model": "minecraft:block/piston",
         "x": 180
@@ -26274,22 +26352,22 @@
       },
       "facing_direction=2": {
         "model": "minecraft:block/piston",
-        "x": 90
+        "x": 90,
+        "y": 180
       },
       "facing_direction=3": {
         "model": "minecraft:block/piston",
-        "x": 90,
-        "y": 180
+        "x": 90
       },
       "facing_direction=4": {
         "model": "minecraft:block/piston",
         "x": 90,
-        "y": 270
+        "y": 90
       },
       "facing_direction=5": {
         "model": "minecraft:block/piston",
         "x": 90,
-        "y": 90
+        "y": 270
       }
     }
   },
@@ -40623,8 +40701,29 @@
   },
   "sea_pickle": {
     "variants": {
-      "": {
+      "cluster_count=0,dead_bit=0": {
         "model": "minecraft:block/sea_pickle"
+      },
+      "cluster_count=1,dead_bit=0": {
+        "model": "minecraft:block/sea_pickle_2"
+      },
+      "cluster_count=2,dead_bit=0": {
+        "model": "minecraft:block/sea_pickle_3"
+      },
+      "cluster_count=3,dead_bit=0": {
+        "model": "minecraft:block/sea_pickle_4"
+      },
+      "cluster_count=0,dead_bit=1": {
+        "model": "minecraft:block/sea_pickle_5"
+      },
+      "cluster_count=1,dead_bit=1": {
+        "model": "minecraft:block/sea_pickle_6"
+      },
+      "cluster_count=2,dead_bit=1": {
+        "model": "minecraft:block/sea_pickle_7"
+      },
+      "cluster_count=3,dead_bit=1": {
+        "model": "minecraft:block/sea_pickle_8"
       }
     }
   },
@@ -50134,31 +50233,109 @@
   },
   "sticky_piston": {
     "variants": {
-      "facing_direction=0": {
-        "model": "minecraft:block/piston",
+      "facing_direction=0,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston",
         "x": 180
       },
-      "facing_direction=1": {
-        "model": "minecraft:block/piston"
+      "facing_direction=0,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2",
+        "x": 180
       },
-      "facing_direction=2": {
-        "model": "minecraft:block/piston",
-        "x": 90
+      "facing_direction=0,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3",
+        "x": 180
       },
-      "facing_direction=3": {
-        "model": "minecraft:block/piston",
+      "facing_direction=1,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston"
+      },
+      "facing_direction=1,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2"
+      },
+      "facing_direction=1,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3"
+      },
+      "facing_direction=2,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston",
         "x": 90,
         "y": 180
       },
-      "facing_direction=4": {
-        "model": "minecraft:block/piston",
+      "facing_direction=2,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=2,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=3,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 90
+      },
+      "facing_direction=3,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2",
+        "x": 90
+      },
+      "facing_direction=3,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3",
+        "x": 90
+      },
+      "facing_direction=4,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=4,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=4,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3",
+        "x": 90,
+        "y": 90
+      },
+      "facing_direction=5,block_entity.Progress=0": {
+        "model": "minecraft:block/sticky_piston",
         "x": 90,
         "y": 270
       },
-      "facing_direction=5": {
-        "model": "minecraft:block/piston",
+      "facing_direction=5,block_entity.Progress=0.5": {
+        "model": "minecraft:block/sticky_piston_2",
+        "x": 90,
+        "y": 270
+      },
+      "facing_direction=5,block_entity.Progress=1": {
+        "model": "minecraft:block/sticky_piston_3",
+        "x": 90,
+        "y": 270
+      },
+      "facing_direction=0": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 180
+      },
+      "facing_direction=1": {
+        "model": "minecraft:block/sticky_piston"
+      },
+      "facing_direction=2": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 90,
+        "y": 180
+      },
+      "facing_direction=3": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 90
+      },
+      "facing_direction=4": {
+        "model": "minecraft:block/sticky_piston",
         "x": 90,
         "y": 90
+      },
+      "facing_direction=5": {
+        "model": "minecraft:block/sticky_piston",
+        "x": 90,
+        "y": 270
       }
     }
   },

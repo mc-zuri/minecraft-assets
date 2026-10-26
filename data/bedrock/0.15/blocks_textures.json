@@ -177,7 +177,7 @@
     "name": "sticky_piston",
     "blockState": "sticky_piston",
     "model": "minecraft:blocks/sticky_piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "cobweb",
@@ -200,8 +200,8 @@
   {
     "name": "piston",
     "blockState": "piston",
-    "model": "minecraft:blocks/sticky_piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "model": "minecraft:blocks/piston",
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "piston_head",

@@ -2283,7 +2283,7 @@
     "name": "piston",
     "blockState": "piston",
     "model": "minecraft:blocks/piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "pistonArmCollision",
@@ -2852,8 +2852,8 @@
   {
     "name": "sticky_piston",
     "blockState": "sticky_piston",
-    "model": "minecraft:blocks/piston",
-    "texture": "minecraft:blocks/piston_inner"
+    "model": "minecraft:blocks/sticky_piston",
+    "texture": "minecraft:blocks/piston_side"
   },
   {
     "name": "stickyPistonArmCollision",
