@@ -22,6 +22,18 @@
   "items": 1748,
   "itemTextures": 540,
   "itemsWithoutIcon": [],
+  "entities": 118,
+  "entitiesNotDrawn": [
+    "boat",
+    "breeze_wind_charge_projectile",
+    "chest_boat",
+    "decorated_pot",
+    "evocation_fang",
+    "trial_spawner",
+    "wind_charge_projectile"
+  ],
+  "attachables": 25,
+  "particles": 169,
   "shapes": {
     "Block": 1146,
     "Candle": 136,

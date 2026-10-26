@@ -22,6 +22,14 @@
   "items": 1106,
   "itemTextures": 406,
   "itemsWithoutIcon": [],
+  "entities": 112,
+  "entitiesNotDrawn": [
+    "boat",
+    "chest_boat",
+    "evocation_fang"
+  ],
+  "attachables": 25,
+  "particles": 138,
   "shapes": {
     "Candle": 136,
     "Sign": 176,

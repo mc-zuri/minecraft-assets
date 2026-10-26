@@ -22,6 +22,18 @@
   "items": 914,
   "itemTextures": 360,
   "itemsWithoutIcon": [],
+  "entities": 100,
+  "entitiesNotDrawn": [
+    "boat",
+    "donkey",
+    "evocation_fang",
+    "horse",
+    "mule",
+    "skeleton_horse",
+    "zombie_horse"
+  ],
+  "attachables": 25,
+  "particles": 121,
   "shapes": {
     "Block": 865,
     "Door": 288,

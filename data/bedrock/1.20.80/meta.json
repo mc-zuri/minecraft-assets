@@ -22,6 +22,16 @@
   "items": 1568,
   "itemTextures": 503,
   "itemsWithoutIcon": [],
+  "entities": 120,
+  "entitiesNotDrawn": [
+    "boat",
+    "chest_boat",
+    "decorated_pot",
+    "evocation_fang",
+    "trial_spawner"
+  ],
+  "attachables": 25,
+  "particles": 149,
   "shapes": {
     "Block": 1125,
     "Candle": 136,
