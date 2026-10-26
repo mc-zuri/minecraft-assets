@@ -15899,99 +15899,6 @@
       "particle": "minecraft:block/log_birch_top"
     }
   },
-  "geometry_121": {
-    "elements": [
-      {
-        "from": [
-          7,
-          0,
-          7
-        ],
-        "to": [
-          9,
-          16,
-          9
-        ],
-        "faces": {
-          "down": {
-            "texture": "#edge",
-            "cullface": "down"
-          },
-          "up": {
-            "texture": "#edge",
-            "cullface": "up"
-          },
-          "north": {
-            "texture": "#pane"
-          },
-          "south": {
-            "texture": "#pane"
-          },
-          "west": {
-            "texture": "#pane"
-          },
-          "east": {
-            "texture": "#pane"
-          }
-        }
-      }
-    ]
-  },
-  "hard_glass_pane": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass",
-      "edge": "minecraft:block/hard_glass",
-      "particle": "minecraft:block/hard_glass"
-    }
-  },
-  "geometry_122": {
-    "elements": [
-      {
-        "from": [
-          7,
-          0,
-          0
-        ],
-        "to": [
-          9,
-          16,
-          7
-        ],
-        "faces": {
-          "down": {
-            "texture": "#edge",
-            "cullface": "down"
-          },
-          "up": {
-            "texture": "#edge",
-            "cullface": "up"
-          },
-          "north": {
-            "texture": "#pane",
-            "cullface": "north"
-          },
-          "south": {
-            "texture": "#pane"
-          },
-          "west": {
-            "texture": "#pane"
-          },
-          "east": {
-            "texture": "#pane"
-          }
-        }
-      }
-    ]
-  },
-  "hard_glass_pane_2": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass",
-      "edge": "minecraft:block/hard_glass",
-      "particle": "minecraft:block/hard_glass"
-    }
-  },
   "orange_wool": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -16622,7 +16529,7 @@
       "particle": "minecraft:block/bamboo_planks"
     }
   },
-  "geometry_123": {
+  "geometry_121": {
     "elements": [
       {
         "from": [
@@ -16697,13 +16604,13 @@
     "ambientocclusion": false
   },
   "torch": {
-    "parent": "minecraft:block/geometry_123",
+    "parent": "minecraft:block/geometry_121",
     "textures": {
       "torch": "minecraft:block/torch_on",
       "particle": "minecraft:block/torch_on"
     }
   },
-  "geometry_124": {
+  "geometry_122": {
     "elements": [
       {
         "from": [
@@ -16787,7 +16694,7 @@
     "ambientocclusion": false
   },
   "torch_2": {
-    "parent": "minecraft:block/geometry_124",
+    "parent": "minecraft:block/geometry_122",
     "textures": {
       "torch": "minecraft:block/torch_on",
       "particle": "minecraft:block/torch_on"
@@ -16829,7 +16736,7 @@
       "particle": "minecraft:block/mud_bricks"
     }
   },
-  "geometry_125": {
+  "geometry_123": {
     "elements": [
       {
         "from": [
@@ -16868,7 +16775,7 @@
     ]
   },
   "honey_block": {
-    "parent": "minecraft:block/geometry_125",
+    "parent": "minecraft:block/geometry_123",
     "textures": {
       "down": "minecraft:block/honey_bottom",
       "up": "minecraft:block/honey_top",
@@ -16891,7 +16798,7 @@
       "particle": "minecraft:block/dripstone_block"
     }
   },
-  "geometry_126": {
+  "geometry_124": {
     "elements": [
       {
         "from": [
@@ -16919,13 +16826,13 @@
     "ambientocclusion": false
   },
   "vine": {
-    "parent": "minecraft:block/geometry_126",
+    "parent": "minecraft:block/geometry_124",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_127": {
+  "geometry_125": {
     "elements": [
       {
         "from": [
@@ -16953,13 +16860,13 @@
     "ambientocclusion": false
   },
   "vine_2": {
-    "parent": "minecraft:block/geometry_127",
+    "parent": "minecraft:block/geometry_125",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_128": {
+  "geometry_126": {
     "elements": [
       {
         "from": [
@@ -16987,13 +16894,13 @@
     "ambientocclusion": false
   },
   "vine_3": {
-    "parent": "minecraft:block/geometry_128",
+    "parent": "minecraft:block/geometry_126",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_129": {
+  "geometry_127": {
     "elements": [
       {
         "from": [
@@ -17043,13 +16950,13 @@
     "ambientocclusion": false
   },
   "vine_4": {
-    "parent": "minecraft:block/geometry_129",
+    "parent": "minecraft:block/geometry_127",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_130": {
+  "geometry_128": {
     "elements": [
       {
         "from": [
@@ -17077,13 +16984,13 @@
     "ambientocclusion": false
   },
   "vine_5": {
-    "parent": "minecraft:block/geometry_130",
+    "parent": "minecraft:block/geometry_128",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_131": {
+  "geometry_129": {
     "elements": [
       {
         "from": [
@@ -17133,13 +17040,13 @@
     "ambientocclusion": false
   },
   "vine_6": {
-    "parent": "minecraft:block/geometry_131",
+    "parent": "minecraft:block/geometry_129",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_132": {
+  "geometry_130": {
     "elements": [
       {
         "from": [
@@ -17189,13 +17096,13 @@
     "ambientocclusion": false
   },
   "vine_7": {
-    "parent": "minecraft:block/geometry_132",
+    "parent": "minecraft:block/geometry_130",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_133": {
+  "geometry_131": {
     "elements": [
       {
         "from": [
@@ -17267,13 +17174,13 @@
     "ambientocclusion": false
   },
   "vine_8": {
-    "parent": "minecraft:block/geometry_133",
+    "parent": "minecraft:block/geometry_131",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_134": {
+  "geometry_132": {
     "elements": [
       {
         "from": [
@@ -17301,13 +17208,13 @@
     "ambientocclusion": false
   },
   "vine_9": {
-    "parent": "minecraft:block/geometry_134",
+    "parent": "minecraft:block/geometry_132",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_135": {
+  "geometry_133": {
     "elements": [
       {
         "from": [
@@ -17357,13 +17264,13 @@
     "ambientocclusion": false
   },
   "vine_10": {
-    "parent": "minecraft:block/geometry_135",
+    "parent": "minecraft:block/geometry_133",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_136": {
+  "geometry_134": {
     "elements": [
       {
         "from": [
@@ -17413,13 +17320,13 @@
     "ambientocclusion": false
   },
   "vine_11": {
-    "parent": "minecraft:block/geometry_136",
+    "parent": "minecraft:block/geometry_134",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_137": {
+  "geometry_135": {
     "elements": [
       {
         "from": [
@@ -17491,13 +17398,13 @@
     "ambientocclusion": false
   },
   "vine_12": {
-    "parent": "minecraft:block/geometry_137",
+    "parent": "minecraft:block/geometry_135",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_138": {
+  "geometry_136": {
     "elements": [
       {
         "from": [
@@ -17547,13 +17454,13 @@
     "ambientocclusion": false
   },
   "vine_13": {
-    "parent": "minecraft:block/geometry_138",
+    "parent": "minecraft:block/geometry_136",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_139": {
+  "geometry_137": {
     "elements": [
       {
         "from": [
@@ -17625,13 +17532,13 @@
     "ambientocclusion": false
   },
   "vine_14": {
-    "parent": "minecraft:block/geometry_139",
+    "parent": "minecraft:block/geometry_137",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_140": {
+  "geometry_138": {
     "elements": [
       {
         "from": [
@@ -17703,13 +17610,13 @@
     "ambientocclusion": false
   },
   "vine_15": {
-    "parent": "minecraft:block/geometry_140",
+    "parent": "minecraft:block/geometry_138",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
     }
   },
-  "geometry_141": {
+  "geometry_139": {
     "elements": [
       {
         "from": [
@@ -17803,7 +17710,7 @@
     "ambientocclusion": false
   },
   "vine_16": {
-    "parent": "minecraft:block/geometry_141",
+    "parent": "minecraft:block/geometry_139",
     "textures": {
       "vine": "minecraft:block/vine",
       "particle": "minecraft:block/vine"
@@ -17953,7 +17860,7 @@
       "particle": "minecraft:block/warped_planks"
     }
   },
-  "geometry_142": {
+  "geometry_140": {
     "elements": [
       {
         "from": [
@@ -18081,7 +17988,7 @@
     "ambientocclusion": false
   },
   "piston": {
-    "parent": "minecraft:block/geometry_142",
+    "parent": "minecraft:block/geometry_140",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -18091,7 +17998,7 @@
       "particle": "minecraft:block/piston_side"
     }
   },
-  "geometry_143": {
+  "geometry_141": {
     "elements": [
       {
         "from": [
@@ -18268,7 +18175,7 @@
     "ambientocclusion": false
   },
   "piston_2": {
-    "parent": "minecraft:block/geometry_143",
+    "parent": "minecraft:block/geometry_141",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -18278,7 +18185,7 @@
       "particle": "minecraft:block/piston_side"
     }
   },
-  "geometry_144": {
+  "geometry_142": {
     "elements": [
       {
         "from": [
@@ -18455,7 +18362,7 @@
     "ambientocclusion": false
   },
   "piston_3": {
-    "parent": "minecraft:block/geometry_144",
+    "parent": "minecraft:block/geometry_142",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -18465,7 +18372,7 @@
       "particle": "minecraft:block/piston_side"
     }
   },
-  "geometry_145": {
+  "geometry_143": {
     "elements": [
       {
         "from": [
@@ -18559,14 +18466,14 @@
     "ambientocclusion": false
   },
   "tallgrass": {
-    "parent": "minecraft:block/geometry_145",
+    "parent": "minecraft:block/geometry_143",
     "textures": {
       "cross": "minecraft:block/tallgrass",
       "particle": "minecraft:block/tallgrass"
     }
   },
   "tallgrass_2": {
-    "parent": "minecraft:block/geometry_145",
+    "parent": "minecraft:block/geometry_143",
     "textures": {
       "cross": "minecraft:block/fern",
       "particle": "minecraft:block/fern"
@@ -19532,7 +19439,7 @@
       "particle": "minecraft:block/smooth_basalt"
     }
   },
-  "geometry_146": {
+  "geometry_144": {
     "elements": [
       {
         "from": [
@@ -19571,7 +19478,7 @@
     "ambientocclusion": false
   },
   "waterlily": {
-    "parent": "minecraft:block/geometry_146",
+    "parent": "minecraft:block/geometry_144",
     "textures": {
       "pad": "minecraft:block/waterlily",
       "particle": "minecraft:block/waterlily",
@@ -19662,7 +19569,7 @@
       "particle": "minecraft:block/iron_block"
     }
   },
-  "geometry_147": {
+  "geometry_145": {
     "elements": [
       {
         "from": [
@@ -19701,7 +19608,7 @@
     ]
   },
   "lightning_rod": {
-    "parent": "minecraft:block/geometry_147",
+    "parent": "minecraft:block/geometry_145",
     "textures": {
       "down": "minecraft:block/lightning_rod",
       "up": "minecraft:block/lightning_rod",
@@ -19712,7 +19619,7 @@
       "particle": "minecraft:block/lightning_rod"
     }
   },
-  "geometry_148": {
+  "geometry_146": {
     "elements": [
       {
         "from": [
@@ -19751,7 +19658,7 @@
     ]
   },
   "lightning_rod_2": {
-    "parent": "minecraft:block/geometry_148",
+    "parent": "minecraft:block/geometry_146",
     "textures": {
       "down": "minecraft:block/lightning_rod",
       "up": "minecraft:block/lightning_rod",
@@ -19762,7 +19669,7 @@
       "particle": "minecraft:block/lightning_rod"
     }
   },
-  "geometry_149": {
+  "geometry_147": {
     "elements": [
       {
         "from": [
@@ -19801,7 +19708,7 @@
     ]
   },
   "lightning_rod_3": {
-    "parent": "minecraft:block/geometry_149",
+    "parent": "minecraft:block/geometry_147",
     "textures": {
       "down": "minecraft:block/lightning_rod",
       "up": "minecraft:block/lightning_rod",
@@ -20316,20 +20223,6 @@
       "particle": "minecraft:block/red_nether_brick"
     }
   },
-  "underwater_torch": {
-    "parent": "minecraft:block/geometry_123",
-    "textures": {
-      "torch": "minecraft:block/torch_underwater",
-      "particle": "minecraft:block/torch_underwater"
-    }
-  },
-  "underwater_torch_2": {
-    "parent": "minecraft:block/geometry_124",
-    "textures": {
-      "torch": "minecraft:block/torch_underwater",
-      "particle": "minecraft:block/torch_underwater"
-    }
-  },
   "deepslate_brick_double_slab": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -20517,14 +20410,14 @@
     }
   },
   "redstone_torch": {
-    "parent": "minecraft:block/geometry_123",
+    "parent": "minecraft:block/geometry_121",
     "textures": {
       "torch": "minecraft:block/redstone_torch_on",
       "particle": "minecraft:block/redstone_torch_on"
     }
   },
   "redstone_torch_2": {
-    "parent": "minecraft:block/geometry_124",
+    "parent": "minecraft:block/geometry_122",
     "textures": {
       "torch": "minecraft:block/redstone_torch_on",
       "particle": "minecraft:block/redstone_torch_on"
@@ -22247,7 +22140,7 @@
       "particle": "minecraft:block/mycelium_top"
     }
   },
-  "geometry_150": {
+  "geometry_148": {
     "elements": [
       {
         "from": [
@@ -22286,7 +22179,7 @@
     ]
   },
   "bamboo": {
-    "parent": "minecraft:block/geometry_150",
+    "parent": "minecraft:block/geometry_148",
     "textures": {
       "down": "minecraft:block/bamboo_sapling",
       "up": "minecraft:block/bamboo_leaf",
@@ -22297,7 +22190,7 @@
       "particle": "minecraft:block/bamboo_leaf"
     }
   },
-  "geometry_151": {
+  "geometry_149": {
     "elements": [
       {
         "from": [
@@ -22336,7 +22229,7 @@
     ]
   },
   "bamboo_2": {
-    "parent": "minecraft:block/geometry_151",
+    "parent": "minecraft:block/geometry_149",
     "textures": {
       "down": "minecraft:block/bamboo_sapling",
       "up": "minecraft:block/bamboo_leaf",
@@ -23355,7 +23248,7 @@
       "particle": "minecraft:block/planks_birch"
     }
   },
-  "geometry_152": {
+  "geometry_150": {
     "elements": [
       {
         "from": [
@@ -23394,7 +23287,7 @@
     "ambientocclusion": false
   },
   "redstone_wire": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23402,7 +23295,7 @@
       "cross_tinted": "minecraft:block/redstone_dust_cross_4d0000"
     }
   },
-  "geometry_153": {
+  "geometry_151": {
     "elements": [
       {
         "from": [
@@ -23441,7 +23334,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_2": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23449,7 +23342,7 @@
       "line_tinted": "minecraft:block/redstone_dust_line_4d0000"
     }
   },
-  "geometry_154": {
+  "geometry_152": {
     "elements": [
       {
         "from": [
@@ -23490,7 +23383,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_3": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23498,7 +23391,7 @@
       "line_tinted": "minecraft:block/redstone_dust_line_4d0000"
     }
   },
-  "geometry_155": {
+  "geometry_153": {
     "elements": [
       {
         "from": [
@@ -23537,7 +23430,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_4": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23545,7 +23438,7 @@
       "cross_tinted": "minecraft:block/redstone_dust_cross_4d0000"
     }
   },
-  "geometry_156": {
+  "geometry_154": {
     "elements": [
       {
         "from": [
@@ -23584,7 +23477,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_5": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23592,7 +23485,7 @@
       "cross_tinted": "minecraft:block/redstone_dust_cross_4d0000"
     }
   },
-  "geometry_157": {
+  "geometry_155": {
     "elements": [
       {
         "from": [
@@ -23631,7 +23524,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_6": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23640,7 +23533,7 @@
     }
   },
   "redstone_wire_7": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23649,7 +23542,7 @@
       "line_tinted": "minecraft:block/redstone_dust_line_4d0000"
     }
   },
-  "geometry_158": {
+  "geometry_156": {
     "elements": [
       {
         "from": [
@@ -23688,7 +23581,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_8": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23696,7 +23589,7 @@
       "cross_tinted": "minecraft:block/redstone_dust_cross_4d0000"
     }
   },
-  "geometry_159": {
+  "geometry_157": {
     "elements": [
       {
         "from": [
@@ -23735,7 +23628,7 @@
     "ambientocclusion": false
   },
   "redstone_wire_9": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23744,7 +23637,7 @@
     }
   },
   "redstone_wire_10": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23753,7 +23646,7 @@
     }
   },
   "redstone_wire_11": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23762,7 +23655,7 @@
     }
   },
   "redstone_wire_12": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23771,7 +23664,7 @@
     }
   },
   "redstone_wire_13": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23780,7 +23673,7 @@
     }
   },
   "redstone_wire_14": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23789,7 +23682,7 @@
     }
   },
   "redstone_wire_15": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23798,7 +23691,7 @@
     }
   },
   "redstone_wire_16": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23808,7 +23701,7 @@
     }
   },
   "redstone_wire_17": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23817,7 +23710,7 @@
     }
   },
   "redstone_wire_18": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23826,7 +23719,7 @@
     }
   },
   "redstone_wire_19": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23835,7 +23728,7 @@
     }
   },
   "redstone_wire_20": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23844,7 +23737,7 @@
     }
   },
   "redstone_wire_21": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23853,7 +23746,7 @@
     }
   },
   "redstone_wire_22": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23862,7 +23755,7 @@
     }
   },
   "redstone_wire_23": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23871,7 +23764,7 @@
     }
   },
   "redstone_wire_24": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23880,7 +23773,7 @@
     }
   },
   "redstone_wire_25": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23890,7 +23783,7 @@
     }
   },
   "redstone_wire_26": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23899,7 +23792,7 @@
     }
   },
   "redstone_wire_27": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23908,7 +23801,7 @@
     }
   },
   "redstone_wire_28": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23917,7 +23810,7 @@
     }
   },
   "redstone_wire_29": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23926,7 +23819,7 @@
     }
   },
   "redstone_wire_30": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23935,7 +23828,7 @@
     }
   },
   "redstone_wire_31": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23944,7 +23837,7 @@
     }
   },
   "redstone_wire_32": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23953,7 +23846,7 @@
     }
   },
   "redstone_wire_33": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23962,7 +23855,7 @@
     }
   },
   "redstone_wire_34": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23972,7 +23865,7 @@
     }
   },
   "redstone_wire_35": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23981,7 +23874,7 @@
     }
   },
   "redstone_wire_36": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23990,7 +23883,7 @@
     }
   },
   "redstone_wire_37": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -23999,7 +23892,7 @@
     }
   },
   "redstone_wire_38": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24008,7 +23901,7 @@
     }
   },
   "redstone_wire_39": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24017,7 +23910,7 @@
     }
   },
   "redstone_wire_40": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24026,7 +23919,7 @@
     }
   },
   "redstone_wire_41": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24035,7 +23928,7 @@
     }
   },
   "redstone_wire_42": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24044,7 +23937,7 @@
     }
   },
   "redstone_wire_43": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24054,7 +23947,7 @@
     }
   },
   "redstone_wire_44": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24063,7 +23956,7 @@
     }
   },
   "redstone_wire_45": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24072,7 +23965,7 @@
     }
   },
   "redstone_wire_46": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24081,7 +23974,7 @@
     }
   },
   "redstone_wire_47": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24090,7 +23983,7 @@
     }
   },
   "redstone_wire_48": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24099,7 +23992,7 @@
     }
   },
   "redstone_wire_49": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24108,7 +24001,7 @@
     }
   },
   "redstone_wire_50": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24117,7 +24010,7 @@
     }
   },
   "redstone_wire_51": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24126,7 +24019,7 @@
     }
   },
   "redstone_wire_52": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24136,7 +24029,7 @@
     }
   },
   "redstone_wire_53": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24145,7 +24038,7 @@
     }
   },
   "redstone_wire_54": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24154,7 +24047,7 @@
     }
   },
   "redstone_wire_55": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24163,7 +24056,7 @@
     }
   },
   "redstone_wire_56": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24172,7 +24065,7 @@
     }
   },
   "redstone_wire_57": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24181,7 +24074,7 @@
     }
   },
   "redstone_wire_58": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24190,7 +24083,7 @@
     }
   },
   "redstone_wire_59": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24199,7 +24092,7 @@
     }
   },
   "redstone_wire_60": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24208,7 +24101,7 @@
     }
   },
   "redstone_wire_61": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24218,7 +24111,7 @@
     }
   },
   "redstone_wire_62": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24227,7 +24120,7 @@
     }
   },
   "redstone_wire_63": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24236,7 +24129,7 @@
     }
   },
   "redstone_wire_64": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24245,7 +24138,7 @@
     }
   },
   "redstone_wire_65": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24254,7 +24147,7 @@
     }
   },
   "redstone_wire_66": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24263,7 +24156,7 @@
     }
   },
   "redstone_wire_67": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24272,7 +24165,7 @@
     }
   },
   "redstone_wire_68": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24281,7 +24174,7 @@
     }
   },
   "redstone_wire_69": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24290,7 +24183,7 @@
     }
   },
   "redstone_wire_70": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24300,7 +24193,7 @@
     }
   },
   "redstone_wire_71": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24309,7 +24202,7 @@
     }
   },
   "redstone_wire_72": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24318,7 +24211,7 @@
     }
   },
   "redstone_wire_73": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24327,7 +24220,7 @@
     }
   },
   "redstone_wire_74": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24336,7 +24229,7 @@
     }
   },
   "redstone_wire_75": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24345,7 +24238,7 @@
     }
   },
   "redstone_wire_76": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24354,7 +24247,7 @@
     }
   },
   "redstone_wire_77": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24363,7 +24256,7 @@
     }
   },
   "redstone_wire_78": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24372,7 +24265,7 @@
     }
   },
   "redstone_wire_79": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24382,7 +24275,7 @@
     }
   },
   "redstone_wire_80": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24391,7 +24284,7 @@
     }
   },
   "redstone_wire_81": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24400,7 +24293,7 @@
     }
   },
   "redstone_wire_82": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24409,7 +24302,7 @@
     }
   },
   "redstone_wire_83": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24418,7 +24311,7 @@
     }
   },
   "redstone_wire_84": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24427,7 +24320,7 @@
     }
   },
   "redstone_wire_85": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24436,7 +24329,7 @@
     }
   },
   "redstone_wire_86": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24445,7 +24338,7 @@
     }
   },
   "redstone_wire_87": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24454,7 +24347,7 @@
     }
   },
   "redstone_wire_88": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24464,7 +24357,7 @@
     }
   },
   "redstone_wire_89": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24473,7 +24366,7 @@
     }
   },
   "redstone_wire_90": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24482,7 +24375,7 @@
     }
   },
   "redstone_wire_91": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24491,7 +24384,7 @@
     }
   },
   "redstone_wire_92": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24500,7 +24393,7 @@
     }
   },
   "redstone_wire_93": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24509,7 +24402,7 @@
     }
   },
   "redstone_wire_94": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24518,7 +24411,7 @@
     }
   },
   "redstone_wire_95": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24527,7 +24420,7 @@
     }
   },
   "redstone_wire_96": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24536,7 +24429,7 @@
     }
   },
   "redstone_wire_97": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24546,7 +24439,7 @@
     }
   },
   "redstone_wire_98": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24555,7 +24448,7 @@
     }
   },
   "redstone_wire_99": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24564,7 +24457,7 @@
     }
   },
   "redstone_wire_100": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24573,7 +24466,7 @@
     }
   },
   "redstone_wire_101": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24582,7 +24475,7 @@
     }
   },
   "redstone_wire_102": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24591,7 +24484,7 @@
     }
   },
   "redstone_wire_103": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24600,7 +24493,7 @@
     }
   },
   "redstone_wire_104": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24609,7 +24502,7 @@
     }
   },
   "redstone_wire_105": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24618,7 +24511,7 @@
     }
   },
   "redstone_wire_106": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24628,7 +24521,7 @@
     }
   },
   "redstone_wire_107": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24637,7 +24530,7 @@
     }
   },
   "redstone_wire_108": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24646,7 +24539,7 @@
     }
   },
   "redstone_wire_109": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24655,7 +24548,7 @@
     }
   },
   "redstone_wire_110": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24664,7 +24557,7 @@
     }
   },
   "redstone_wire_111": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24673,7 +24566,7 @@
     }
   },
   "redstone_wire_112": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24682,7 +24575,7 @@
     }
   },
   "redstone_wire_113": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24691,7 +24584,7 @@
     }
   },
   "redstone_wire_114": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24700,7 +24593,7 @@
     }
   },
   "redstone_wire_115": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24710,7 +24603,7 @@
     }
   },
   "redstone_wire_116": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24719,7 +24612,7 @@
     }
   },
   "redstone_wire_117": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24728,7 +24621,7 @@
     }
   },
   "redstone_wire_118": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24737,7 +24630,7 @@
     }
   },
   "redstone_wire_119": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24746,7 +24639,7 @@
     }
   },
   "redstone_wire_120": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24755,7 +24648,7 @@
     }
   },
   "redstone_wire_121": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24764,7 +24657,7 @@
     }
   },
   "redstone_wire_122": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24773,7 +24666,7 @@
     }
   },
   "redstone_wire_123": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24782,7 +24675,7 @@
     }
   },
   "redstone_wire_124": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24792,7 +24685,7 @@
     }
   },
   "redstone_wire_125": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24801,7 +24694,7 @@
     }
   },
   "redstone_wire_126": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24810,7 +24703,7 @@
     }
   },
   "redstone_wire_127": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24819,7 +24712,7 @@
     }
   },
   "redstone_wire_128": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24828,7 +24721,7 @@
     }
   },
   "redstone_wire_129": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24837,7 +24730,7 @@
     }
   },
   "redstone_wire_130": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24846,7 +24739,7 @@
     }
   },
   "redstone_wire_131": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24855,7 +24748,7 @@
     }
   },
   "redstone_wire_132": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24864,7 +24757,7 @@
     }
   },
   "redstone_wire_133": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24874,7 +24767,7 @@
     }
   },
   "redstone_wire_134": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24883,7 +24776,7 @@
     }
   },
   "redstone_wire_135": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24892,7 +24785,7 @@
     }
   },
   "redstone_wire_136": {
-    "parent": "minecraft:block/geometry_152",
+    "parent": "minecraft:block/geometry_150",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24901,7 +24794,7 @@
     }
   },
   "redstone_wire_137": {
-    "parent": "minecraft:block/geometry_153",
+    "parent": "minecraft:block/geometry_151",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24910,7 +24803,7 @@
     }
   },
   "redstone_wire_138": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24919,7 +24812,7 @@
     }
   },
   "redstone_wire_139": {
-    "parent": "minecraft:block/geometry_155",
+    "parent": "minecraft:block/geometry_153",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24928,7 +24821,7 @@
     }
   },
   "redstone_wire_140": {
-    "parent": "minecraft:block/geometry_156",
+    "parent": "minecraft:block/geometry_154",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24937,7 +24830,7 @@
     }
   },
   "redstone_wire_141": {
-    "parent": "minecraft:block/geometry_157",
+    "parent": "minecraft:block/geometry_155",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24946,7 +24839,7 @@
     }
   },
   "redstone_wire_142": {
-    "parent": "minecraft:block/geometry_154",
+    "parent": "minecraft:block/geometry_152",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24956,7 +24849,7 @@
     }
   },
   "redstone_wire_143": {
-    "parent": "minecraft:block/geometry_158",
+    "parent": "minecraft:block/geometry_156",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24965,7 +24858,7 @@
     }
   },
   "redstone_wire_144": {
-    "parent": "minecraft:block/geometry_159",
+    "parent": "minecraft:block/geometry_157",
     "textures": {
       "cross": "minecraft:block/redstone_dust_cross",
       "line": "minecraft:block/redstone_dust_line",
@@ -24973,11 +24866,11 @@
       "cross_tinted": "minecraft:block/redstone_dust_cross_ff3300"
     }
   },
-  "geometry_160": {
+  "geometry_158": {
     "elements": []
   },
   "lava": {
-    "parent": "minecraft:block/geometry_160",
+    "parent": "minecraft:block/geometry_158",
     "textures": {
       "particle": "minecraft:block/lava_still",
       "flow": "minecraft:block/lava_flow"
@@ -25573,7 +25466,7 @@
       "particle": "minecraft:block/mud_bricks"
     }
   },
-  "geometry_161": {
+  "geometry_159": {
     "elements": [
       {
         "from": [
@@ -25615,7 +25508,7 @@
     ]
   },
   "farmland": {
-    "parent": "minecraft:block/geometry_161",
+    "parent": "minecraft:block/geometry_159",
     "textures": {
       "down": "minecraft:block/dirt",
       "up": "minecraft:block/farmland_wet",
@@ -25627,7 +25520,7 @@
     }
   },
   "farmland_2": {
-    "parent": "minecraft:block/geometry_161",
+    "parent": "minecraft:block/geometry_159",
     "textures": {
       "down": "minecraft:block/dirt",
       "up": "minecraft:block/farmland_dry",
@@ -26741,7 +26634,7 @@
       "particle": "minecraft:block/stripped_mangrove_log_side"
     }
   },
-  "geometry_162": {
+  "geometry_160": {
     "elements": [
       {
         "from": [
@@ -26779,7 +26672,7 @@
     ]
   },
   "conduit": {
-    "parent": "minecraft:block/geometry_162",
+    "parent": "minecraft:block/geometry_160",
     "textures": {
       "down": "minecraft:block/conduit_base",
       "up": "minecraft:block/conduit_base",
@@ -28022,7 +27915,7 @@
       "particle": "minecraft:block/weathered_cut_copper"
     }
   },
-  "geometry_163": {
+  "geometry_161": {
     "elements": [
       {
         "from": [
@@ -28112,7 +28005,7 @@
     "ambientocclusion": false
   },
   "small_dripleaf_block": {
-    "parent": "minecraft:block/geometry_163",
+    "parent": "minecraft:block/geometry_161",
     "textures": {
       "side": "minecraft:block/small_dripleaf_side",
       "top": "minecraft:block/small_dripleaf_top",
@@ -28120,7 +28013,7 @@
       "particle": "minecraft:block/small_dripleaf_top"
     }
   },
-  "geometry_164": {
+  "geometry_162": {
     "elements": [
       {
         "from": [
@@ -28464,7 +28357,7 @@
     "ambientocclusion": false
   },
   "small_dripleaf_block_2": {
-    "parent": "minecraft:block/geometry_164",
+    "parent": "minecraft:block/geometry_162",
     "textures": {
       "side": "minecraft:block/small_dripleaf_side",
       "top": "minecraft:block/small_dripleaf_top",
@@ -28724,7 +28617,7 @@
       "particle": "minecraft:block/redstone_lamp_on"
     }
   },
-  "geometry_165": {
+  "geometry_163": {
     "elements": [
       {
         "from": [
@@ -28773,7 +28666,7 @@
     ]
   },
   "leaves2": {
-    "parent": "minecraft:block/geometry_165",
+    "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/leaves_acacia",
       "up": "minecraft:block/leaves_acacia",
@@ -28785,7 +28678,7 @@
     }
   },
   "leaves2_2": {
-    "parent": "minecraft:block/geometry_165",
+    "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/leaves_big_oak",
       "up": "minecraft:block/leaves_big_oak",
@@ -28816,7 +28709,7 @@
     }
   },
   "sticky_piston": {
-    "parent": "minecraft:block/geometry_142",
+    "parent": "minecraft:block/geometry_140",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -28827,7 +28720,7 @@
     }
   },
   "sticky_piston_2": {
-    "parent": "minecraft:block/geometry_143",
+    "parent": "minecraft:block/geometry_141",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -28838,7 +28731,7 @@
     }
   },
   "sticky_piston_3": {
-    "parent": "minecraft:block/geometry_144",
+    "parent": "minecraft:block/geometry_142",
     "textures": {
       "bottom": "minecraft:block/piston_bottom",
       "inner": "minecraft:block/piston_inner",
@@ -28848,7 +28741,7 @@
       "particle": "minecraft:block/piston_side"
     }
   },
-  "geometry_166": {
+  "geometry_164": {
     "elements": [
       {
         "from": [
@@ -29057,13 +28950,13 @@
     ]
   },
   "ender_chest": {
-    "parent": "minecraft:block/geometry_166",
+    "parent": "minecraft:block/geometry_164",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_167": {
+  "geometry_165": {
     "elements": [
       {
         "from": [
@@ -29290,13 +29183,13 @@
     ]
   },
   "ender_chest_2": {
-    "parent": "minecraft:block/geometry_167",
+    "parent": "minecraft:block/geometry_165",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_168": {
+  "geometry_166": {
     "elements": [
       {
         "from": [
@@ -29523,13 +29416,13 @@
     ]
   },
   "ender_chest_3": {
-    "parent": "minecraft:block/geometry_168",
+    "parent": "minecraft:block/geometry_166",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_169": {
+  "geometry_167": {
     "elements": [
       {
         "from": [
@@ -29756,13 +29649,13 @@
     ]
   },
   "ender_chest_4": {
-    "parent": "minecraft:block/geometry_169",
+    "parent": "minecraft:block/geometry_167",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_170": {
+  "geometry_168": {
     "elements": [
       {
         "from": [
@@ -29989,13 +29882,13 @@
     ]
   },
   "ender_chest_5": {
-    "parent": "minecraft:block/geometry_170",
+    "parent": "minecraft:block/geometry_168",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_171": {
+  "geometry_169": {
     "elements": [
       {
         "from": [
@@ -30222,13 +30115,13 @@
     ]
   },
   "ender_chest_6": {
-    "parent": "minecraft:block/geometry_171",
+    "parent": "minecraft:block/geometry_169",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_172": {
+  "geometry_170": {
     "elements": [
       {
         "from": [
@@ -30455,13 +30348,13 @@
     ]
   },
   "ender_chest_7": {
-    "parent": "minecraft:block/geometry_172",
+    "parent": "minecraft:block/geometry_170",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_173": {
+  "geometry_171": {
     "elements": [
       {
         "from": [
@@ -30688,13 +30581,13 @@
     ]
   },
   "ender_chest_8": {
-    "parent": "minecraft:block/geometry_173",
+    "parent": "minecraft:block/geometry_171",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_174": {
+  "geometry_172": {
     "elements": [
       {
         "from": [
@@ -30921,13 +30814,13 @@
     ]
   },
   "ender_chest_9": {
-    "parent": "minecraft:block/geometry_174",
+    "parent": "minecraft:block/geometry_172",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_175": {
+  "geometry_173": {
     "elements": [
       {
         "from": [
@@ -31154,13 +31047,13 @@
     ]
   },
   "ender_chest_10": {
-    "parent": "minecraft:block/geometry_175",
+    "parent": "minecraft:block/geometry_173",
     "textures": {
       "chest": "minecraft:block/entity__chest__ender",
       "particle": "minecraft:block/entity__chest__ender"
     }
   },
-  "geometry_176": {
+  "geometry_174": {
     "elements": [
       {
         "from": [
@@ -31198,7 +31091,7 @@
     ]
   },
   "medium_amethyst_bud": {
-    "parent": "minecraft:block/geometry_176",
+    "parent": "minecraft:block/geometry_174",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31209,7 +31102,7 @@
       "particle": "minecraft:block/medium_amethyst_bud"
     }
   },
-  "geometry_177": {
+  "geometry_175": {
     "elements": [
       {
         "from": [
@@ -31247,7 +31140,7 @@
     ]
   },
   "medium_amethyst_bud_2": {
-    "parent": "minecraft:block/geometry_177",
+    "parent": "minecraft:block/geometry_175",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31258,7 +31151,7 @@
       "particle": "minecraft:block/medium_amethyst_bud"
     }
   },
-  "geometry_178": {
+  "geometry_176": {
     "elements": [
       {
         "from": [
@@ -31296,7 +31189,7 @@
     ]
   },
   "medium_amethyst_bud_3": {
-    "parent": "minecraft:block/geometry_178",
+    "parent": "minecraft:block/geometry_176",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31307,7 +31200,7 @@
       "particle": "minecraft:block/medium_amethyst_bud"
     }
   },
-  "geometry_179": {
+  "geometry_177": {
     "elements": [
       {
         "from": [
@@ -31345,7 +31238,7 @@
     ]
   },
   "medium_amethyst_bud_4": {
-    "parent": "minecraft:block/geometry_179",
+    "parent": "minecraft:block/geometry_177",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31356,7 +31249,7 @@
       "particle": "minecraft:block/medium_amethyst_bud"
     }
   },
-  "geometry_180": {
+  "geometry_178": {
     "elements": [
       {
         "from": [
@@ -31394,7 +31287,7 @@
     ]
   },
   "medium_amethyst_bud_5": {
-    "parent": "minecraft:block/geometry_180",
+    "parent": "minecraft:block/geometry_178",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31405,7 +31298,7 @@
       "particle": "minecraft:block/medium_amethyst_bud"
     }
   },
-  "geometry_181": {
+  "geometry_179": {
     "elements": [
       {
         "from": [
@@ -31443,7 +31336,7 @@
     ]
   },
   "medium_amethyst_bud_6": {
-    "parent": "minecraft:block/geometry_181",
+    "parent": "minecraft:block/geometry_179",
     "textures": {
       "down": "minecraft:block/medium_amethyst_bud",
       "up": "minecraft:block/medium_amethyst_bud",
@@ -31857,7 +31750,7 @@
       "particle": "minecraft:block/stone_diorite"
     }
   },
-  "geometry_182": {
+  "geometry_180": {
     "elements": [
       {
         "from": [
@@ -31899,7 +31792,7 @@
     ]
   },
   "frog_spawn": {
-    "parent": "minecraft:block/geometry_182",
+    "parent": "minecraft:block/geometry_180",
     "textures": {
       "down": "minecraft:block/frogspawn",
       "up": "minecraft:block/frogspawn",
@@ -32725,7 +32618,7 @@
       "particle": "minecraft:block/cracked_nether_bricks"
     }
   },
-  "geometry_183": {
+  "geometry_181": {
     "elements": [
       {
         "from": [
@@ -32905,7 +32798,7 @@
     ]
   },
   "powered_repeater": {
-    "parent": "minecraft:block/geometry_183",
+    "parent": "minecraft:block/geometry_181",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_on",
@@ -32919,7 +32812,7 @@
       "torch_off": "minecraft:block/redstone_torch_off"
     }
   },
-  "geometry_184": {
+  "geometry_182": {
     "elements": [
       {
         "from": [
@@ -33099,7 +32992,7 @@
     ]
   },
   "powered_repeater_2": {
-    "parent": "minecraft:block/geometry_184",
+    "parent": "minecraft:block/geometry_182",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_on",
@@ -33113,7 +33006,7 @@
       "torch_off": "minecraft:block/redstone_torch_off"
     }
   },
-  "geometry_185": {
+  "geometry_183": {
     "elements": [
       {
         "from": [
@@ -33293,7 +33186,7 @@
     ]
   },
   "powered_repeater_3": {
-    "parent": "minecraft:block/geometry_185",
+    "parent": "minecraft:block/geometry_183",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_on",
@@ -33307,7 +33200,7 @@
       "torch_off": "minecraft:block/redstone_torch_off"
     }
   },
-  "geometry_186": {
+  "geometry_184": {
     "elements": [
       {
         "from": [
@@ -33487,7 +33380,7 @@
     ]
   },
   "powered_repeater_4": {
-    "parent": "minecraft:block/geometry_186",
+    "parent": "minecraft:block/geometry_184",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_on",
@@ -34174,7 +34067,7 @@
       "particle": "minecraft:block/mangrove_planks"
     }
   },
-  "geometry_187": {
+  "geometry_185": {
     "elements": [
       {
         "from": [
@@ -34213,7 +34106,7 @@
     "ambientocclusion": false
   },
   "pink_petals": {
-    "parent": "minecraft:block/geometry_187",
+    "parent": "minecraft:block/geometry_185",
     "textures": {
       "top": "minecraft:block/pink_petals",
       "particle": "minecraft:block/pink_petals"
@@ -34262,14 +34155,14 @@
     }
   },
   "soul_torch": {
-    "parent": "minecraft:block/geometry_123",
+    "parent": "minecraft:block/geometry_121",
     "textures": {
       "torch": "minecraft:block/soul_torch",
       "particle": "minecraft:block/soul_torch"
     }
   },
   "soul_torch_2": {
-    "parent": "minecraft:block/geometry_124",
+    "parent": "minecraft:block/geometry_122",
     "textures": {
       "torch": "minecraft:block/soul_torch",
       "particle": "minecraft:block/soul_torch"
@@ -34906,7 +34799,7 @@
       "particle": "minecraft:block/frosted_ice_3"
     }
   },
-  "geometry_188": {
+  "geometry_186": {
     "elements": [
       {
         "from": [
@@ -34944,7 +34837,7 @@
     ]
   },
   "large_amethyst_bud": {
-    "parent": "minecraft:block/geometry_188",
+    "parent": "minecraft:block/geometry_186",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -34955,7 +34848,7 @@
       "particle": "minecraft:block/large_amethyst_bud"
     }
   },
-  "geometry_189": {
+  "geometry_187": {
     "elements": [
       {
         "from": [
@@ -34993,7 +34886,7 @@
     ]
   },
   "large_amethyst_bud_2": {
-    "parent": "minecraft:block/geometry_189",
+    "parent": "minecraft:block/geometry_187",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -35004,7 +34897,7 @@
       "particle": "minecraft:block/large_amethyst_bud"
     }
   },
-  "geometry_190": {
+  "geometry_188": {
     "elements": [
       {
         "from": [
@@ -35042,7 +34935,7 @@
     ]
   },
   "large_amethyst_bud_3": {
-    "parent": "minecraft:block/geometry_190",
+    "parent": "minecraft:block/geometry_188",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -35053,7 +34946,7 @@
       "particle": "minecraft:block/large_amethyst_bud"
     }
   },
-  "geometry_191": {
+  "geometry_189": {
     "elements": [
       {
         "from": [
@@ -35091,7 +34984,7 @@
     ]
   },
   "large_amethyst_bud_4": {
-    "parent": "minecraft:block/geometry_191",
+    "parent": "minecraft:block/geometry_189",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -35102,7 +34995,7 @@
       "particle": "minecraft:block/large_amethyst_bud"
     }
   },
-  "geometry_192": {
+  "geometry_190": {
     "elements": [
       {
         "from": [
@@ -35140,7 +35033,7 @@
     ]
   },
   "large_amethyst_bud_5": {
-    "parent": "minecraft:block/geometry_192",
+    "parent": "minecraft:block/geometry_190",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -35151,7 +35044,7 @@
       "particle": "minecraft:block/large_amethyst_bud"
     }
   },
-  "geometry_193": {
+  "geometry_191": {
     "elements": [
       {
         "from": [
@@ -35189,7 +35082,7 @@
     ]
   },
   "large_amethyst_bud_6": {
-    "parent": "minecraft:block/geometry_193",
+    "parent": "minecraft:block/geometry_191",
     "textures": {
       "down": "minecraft:block/large_amethyst_bud",
       "up": "minecraft:block/large_amethyst_bud",
@@ -35321,7 +35214,7 @@
     }
   },
   "flowing_water": {
-    "parent": "minecraft:block/geometry_160",
+    "parent": "minecraft:block/geometry_158",
     "textures": {
       "particle": "minecraft:block/water_still_grey",
       "flow": "minecraft:block/water_flow_grey"
@@ -35337,18 +35230,6 @@
       "west": "minecraft:block/brick",
       "east": "minecraft:block/brick",
       "particle": "minecraft:block/brick"
-    }
-  },
-  "hard_glass": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass",
-      "up": "minecraft:block/hard_glass",
-      "north": "minecraft:block/hard_glass",
-      "south": "minecraft:block/hard_glass",
-      "west": "minecraft:block/hard_glass",
-      "east": "minecraft:block/hard_glass",
-      "particle": "minecraft:block/hard_glass"
     }
   },
   "quartz_stairs": {
@@ -35749,16 +35630,93 @@
       "particle": "minecraft:block/cave_vines_body_berries"
     }
   },
+  "geometry_192": {
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          7
+        ],
+        "to": [
+          9,
+          16,
+          9
+        ],
+        "faces": {
+          "down": {
+            "texture": "#edge",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#edge",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#pane"
+          },
+          "south": {
+            "texture": "#pane"
+          },
+          "west": {
+            "texture": "#pane"
+          },
+          "east": {
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
+  },
   "iron_bars": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/iron_bars",
       "edge": "minecraft:block/iron_bars",
       "particle": "minecraft:block/iron_bars"
     }
   },
+  "geometry_193": {
+    "elements": [
+      {
+        "from": [
+          7,
+          0,
+          0
+        ],
+        "to": [
+          9,
+          16,
+          7
+        ],
+        "faces": {
+          "down": {
+            "texture": "#edge",
+            "cullface": "down"
+          },
+          "up": {
+            "texture": "#edge",
+            "cullface": "up"
+          },
+          "north": {
+            "texture": "#pane",
+            "cullface": "north"
+          },
+          "south": {
+            "texture": "#pane"
+          },
+          "west": {
+            "texture": "#pane"
+          },
+          "east": {
+            "texture": "#pane"
+          }
+        }
+      }
+    ]
+  },
   "iron_bars_2": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/iron_bars",
       "edge": "minecraft:block/iron_bars",
@@ -35961,7 +35919,7 @@
     }
   },
   "stained_glass_pane": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_white",
       "edge": "minecraft:block/glass_white",
@@ -35969,7 +35927,7 @@
     }
   },
   "stained_glass_pane_2": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_white",
       "edge": "minecraft:block/glass_white",
@@ -35977,7 +35935,7 @@
     }
   },
   "stained_glass_pane_3": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_orange",
       "edge": "minecraft:block/glass_orange",
@@ -35985,7 +35943,7 @@
     }
   },
   "stained_glass_pane_4": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_orange",
       "edge": "minecraft:block/glass_orange",
@@ -35993,7 +35951,7 @@
     }
   },
   "stained_glass_pane_5": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_magenta",
       "edge": "minecraft:block/glass_magenta",
@@ -36001,7 +35959,7 @@
     }
   },
   "stained_glass_pane_6": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_magenta",
       "edge": "minecraft:block/glass_magenta",
@@ -36009,7 +35967,7 @@
     }
   },
   "stained_glass_pane_7": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_light_blue",
       "edge": "minecraft:block/glass_light_blue",
@@ -36017,7 +35975,7 @@
     }
   },
   "stained_glass_pane_8": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_light_blue",
       "edge": "minecraft:block/glass_light_blue",
@@ -36025,7 +35983,7 @@
     }
   },
   "stained_glass_pane_9": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_yellow",
       "edge": "minecraft:block/glass_yellow",
@@ -36033,7 +35991,7 @@
     }
   },
   "stained_glass_pane_10": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_yellow",
       "edge": "minecraft:block/glass_yellow",
@@ -36041,7 +35999,7 @@
     }
   },
   "stained_glass_pane_11": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_lime",
       "edge": "minecraft:block/glass_lime",
@@ -36049,7 +36007,7 @@
     }
   },
   "stained_glass_pane_12": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_lime",
       "edge": "minecraft:block/glass_lime",
@@ -36057,7 +36015,7 @@
     }
   },
   "stained_glass_pane_13": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_pink",
       "edge": "minecraft:block/glass_pink",
@@ -36065,7 +36023,7 @@
     }
   },
   "stained_glass_pane_14": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_pink",
       "edge": "minecraft:block/glass_pink",
@@ -36073,7 +36031,7 @@
     }
   },
   "stained_glass_pane_15": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_gray",
       "edge": "minecraft:block/glass_gray",
@@ -36081,7 +36039,7 @@
     }
   },
   "stained_glass_pane_16": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_gray",
       "edge": "minecraft:block/glass_gray",
@@ -36089,7 +36047,7 @@
     }
   },
   "stained_glass_pane_17": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_silver",
       "edge": "minecraft:block/glass_silver",
@@ -36097,7 +36055,7 @@
     }
   },
   "stained_glass_pane_18": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_silver",
       "edge": "minecraft:block/glass_silver",
@@ -36105,7 +36063,7 @@
     }
   },
   "stained_glass_pane_19": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_cyan",
       "edge": "minecraft:block/glass_cyan",
@@ -36113,7 +36071,7 @@
     }
   },
   "stained_glass_pane_20": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_cyan",
       "edge": "minecraft:block/glass_cyan",
@@ -36121,7 +36079,7 @@
     }
   },
   "stained_glass_pane_21": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_purple",
       "edge": "minecraft:block/glass_purple",
@@ -36129,7 +36087,7 @@
     }
   },
   "stained_glass_pane_22": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_purple",
       "edge": "minecraft:block/glass_purple",
@@ -36137,7 +36095,7 @@
     }
   },
   "stained_glass_pane_23": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_blue",
       "edge": "minecraft:block/glass_blue",
@@ -36145,7 +36103,7 @@
     }
   },
   "stained_glass_pane_24": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_blue",
       "edge": "minecraft:block/glass_blue",
@@ -36153,7 +36111,7 @@
     }
   },
   "stained_glass_pane_25": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_brown",
       "edge": "minecraft:block/glass_brown",
@@ -36161,7 +36119,7 @@
     }
   },
   "stained_glass_pane_26": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_brown",
       "edge": "minecraft:block/glass_brown",
@@ -36169,7 +36127,7 @@
     }
   },
   "stained_glass_pane_27": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_green",
       "edge": "minecraft:block/glass_green",
@@ -36177,7 +36135,7 @@
     }
   },
   "stained_glass_pane_28": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_green",
       "edge": "minecraft:block/glass_green",
@@ -36185,7 +36143,7 @@
     }
   },
   "stained_glass_pane_29": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_red",
       "edge": "minecraft:block/glass_red",
@@ -36193,7 +36151,7 @@
     }
   },
   "stained_glass_pane_30": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_red",
       "edge": "minecraft:block/glass_red",
@@ -36201,7 +36159,7 @@
     }
   },
   "stained_glass_pane_31": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass_black",
       "edge": "minecraft:block/glass_black",
@@ -36209,7 +36167,7 @@
     }
   },
   "stained_glass_pane_32": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass_black",
       "edge": "minecraft:block/glass_black",
@@ -36768,7 +36726,7 @@
     }
   },
   "glass_pane": {
-    "parent": "minecraft:block/geometry_121",
+    "parent": "minecraft:block/geometry_192",
     "textures": {
       "pane": "minecraft:block/glass",
       "edge": "minecraft:block/glass",
@@ -36776,7 +36734,7 @@
     }
   },
   "glass_pane_2": {
-    "parent": "minecraft:block/geometry_122",
+    "parent": "minecraft:block/geometry_193",
     "textures": {
       "pane": "minecraft:block/glass",
       "edge": "minecraft:block/glass",
@@ -38866,7 +38824,7 @@
     }
   },
   "skull_25": {
-    "parent": "minecraft:block/geometry_162",
+    "parent": "minecraft:block/geometry_160",
     "textures": {
       "down": "minecraft:block/soul_sand",
       "up": "minecraft:block/soul_sand",
@@ -42352,14 +42310,14 @@
     }
   },
   "double_plant_3": {
-    "parent": "minecraft:block/geometry_145",
+    "parent": "minecraft:block/geometry_143",
     "textures": {
       "cross": "minecraft:block/double_plant_grass_bottom",
       "particle": "minecraft:block/double_plant_grass_bottom"
     }
   },
   "double_plant_4": {
-    "parent": "minecraft:block/geometry_145",
+    "parent": "minecraft:block/geometry_143",
     "textures": {
       "cross": "minecraft:block/double_plant_fern_bottom",
       "particle": "minecraft:block/double_plant_fern_bottom"
@@ -43125,7 +43083,7 @@
     }
   },
   "unpowered_repeater": {
-    "parent": "minecraft:block/geometry_183",
+    "parent": "minecraft:block/geometry_181",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_off",
@@ -43140,7 +43098,7 @@
     }
   },
   "unpowered_repeater_2": {
-    "parent": "minecraft:block/geometry_184",
+    "parent": "minecraft:block/geometry_182",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_off",
@@ -43155,7 +43113,7 @@
     }
   },
   "unpowered_repeater_3": {
-    "parent": "minecraft:block/geometry_185",
+    "parent": "minecraft:block/geometry_183",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_off",
@@ -43170,7 +43128,7 @@
     }
   },
   "unpowered_repeater_4": {
-    "parent": "minecraft:block/geometry_186",
+    "parent": "minecraft:block/geometry_184",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
       "up": "minecraft:block/repeater_off",
@@ -43568,234 +43526,6 @@
       "particle": "minecraft:block/red_sandstone_top"
     }
   },
-  "element_100": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_100_fm",
-      "up": "minecraft:block/element_100_fm",
-      "north": "minecraft:block/element_100_fm",
-      "south": "minecraft:block/element_100_fm",
-      "west": "minecraft:block/element_100_fm",
-      "east": "minecraft:block/element_100_fm",
-      "particle": "minecraft:block/element_100_fm"
-    }
-  },
-  "element_101": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_101_md",
-      "up": "minecraft:block/element_101_md",
-      "north": "minecraft:block/element_101_md",
-      "south": "minecraft:block/element_101_md",
-      "west": "minecraft:block/element_101_md",
-      "east": "minecraft:block/element_101_md",
-      "particle": "minecraft:block/element_101_md"
-    }
-  },
-  "element_102": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_102_no",
-      "up": "minecraft:block/element_102_no",
-      "north": "minecraft:block/element_102_no",
-      "south": "minecraft:block/element_102_no",
-      "west": "minecraft:block/element_102_no",
-      "east": "minecraft:block/element_102_no",
-      "particle": "minecraft:block/element_102_no"
-    }
-  },
-  "element_103": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_103_lr",
-      "up": "minecraft:block/element_103_lr",
-      "north": "minecraft:block/element_103_lr",
-      "south": "minecraft:block/element_103_lr",
-      "west": "minecraft:block/element_103_lr",
-      "east": "minecraft:block/element_103_lr",
-      "particle": "minecraft:block/element_103_lr"
-    }
-  },
-  "element_104": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_104_rf",
-      "up": "minecraft:block/element_104_rf",
-      "north": "minecraft:block/element_104_rf",
-      "south": "minecraft:block/element_104_rf",
-      "west": "minecraft:block/element_104_rf",
-      "east": "minecraft:block/element_104_rf",
-      "particle": "minecraft:block/element_104_rf"
-    }
-  },
-  "element_105": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_105_db",
-      "up": "minecraft:block/element_105_db",
-      "north": "minecraft:block/element_105_db",
-      "south": "minecraft:block/element_105_db",
-      "west": "minecraft:block/element_105_db",
-      "east": "minecraft:block/element_105_db",
-      "particle": "minecraft:block/element_105_db"
-    }
-  },
-  "element_106": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_106_sg",
-      "up": "minecraft:block/element_106_sg",
-      "north": "minecraft:block/element_106_sg",
-      "south": "minecraft:block/element_106_sg",
-      "west": "minecraft:block/element_106_sg",
-      "east": "minecraft:block/element_106_sg",
-      "particle": "minecraft:block/element_106_sg"
-    }
-  },
-  "element_107": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_107_bh",
-      "up": "minecraft:block/element_107_bh",
-      "north": "minecraft:block/element_107_bh",
-      "south": "minecraft:block/element_107_bh",
-      "west": "minecraft:block/element_107_bh",
-      "east": "minecraft:block/element_107_bh",
-      "particle": "minecraft:block/element_107_bh"
-    }
-  },
-  "element_108": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_108_hs",
-      "up": "minecraft:block/element_108_hs",
-      "north": "minecraft:block/element_108_hs",
-      "south": "minecraft:block/element_108_hs",
-      "west": "minecraft:block/element_108_hs",
-      "east": "minecraft:block/element_108_hs",
-      "particle": "minecraft:block/element_108_hs"
-    }
-  },
-  "element_109": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_109_mt",
-      "up": "minecraft:block/element_109_mt",
-      "north": "minecraft:block/element_109_mt",
-      "south": "minecraft:block/element_109_mt",
-      "west": "minecraft:block/element_109_mt",
-      "east": "minecraft:block/element_109_mt",
-      "particle": "minecraft:block/element_109_mt"
-    }
-  },
-  "element_113": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_113_nh",
-      "up": "minecraft:block/element_113_nh",
-      "north": "minecraft:block/element_113_nh",
-      "south": "minecraft:block/element_113_nh",
-      "west": "minecraft:block/element_113_nh",
-      "east": "minecraft:block/element_113_nh",
-      "particle": "minecraft:block/element_113_nh"
-    }
-  },
-  "element_112": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_112_cn",
-      "up": "minecraft:block/element_112_cn",
-      "north": "minecraft:block/element_112_cn",
-      "south": "minecraft:block/element_112_cn",
-      "west": "minecraft:block/element_112_cn",
-      "east": "minecraft:block/element_112_cn",
-      "particle": "minecraft:block/element_112_cn"
-    }
-  },
-  "element_111": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_111_rg",
-      "up": "minecraft:block/element_111_rg",
-      "north": "minecraft:block/element_111_rg",
-      "south": "minecraft:block/element_111_rg",
-      "west": "minecraft:block/element_111_rg",
-      "east": "minecraft:block/element_111_rg",
-      "particle": "minecraft:block/element_111_rg"
-    }
-  },
-  "element_110": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_110_ds",
-      "up": "minecraft:block/element_110_ds",
-      "north": "minecraft:block/element_110_ds",
-      "south": "minecraft:block/element_110_ds",
-      "west": "minecraft:block/element_110_ds",
-      "east": "minecraft:block/element_110_ds",
-      "particle": "minecraft:block/element_110_ds"
-    }
-  },
-  "element_117": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_117_ts",
-      "up": "minecraft:block/element_117_ts",
-      "north": "minecraft:block/element_117_ts",
-      "south": "minecraft:block/element_117_ts",
-      "west": "minecraft:block/element_117_ts",
-      "east": "minecraft:block/element_117_ts",
-      "particle": "minecraft:block/element_117_ts"
-    }
-  },
-  "element_116": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_116_lv",
-      "up": "minecraft:block/element_116_lv",
-      "north": "minecraft:block/element_116_lv",
-      "south": "minecraft:block/element_116_lv",
-      "west": "minecraft:block/element_116_lv",
-      "east": "minecraft:block/element_116_lv",
-      "particle": "minecraft:block/element_116_lv"
-    }
-  },
-  "element_115": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_115_mc",
-      "up": "minecraft:block/element_115_mc",
-      "north": "minecraft:block/element_115_mc",
-      "south": "minecraft:block/element_115_mc",
-      "west": "minecraft:block/element_115_mc",
-      "east": "minecraft:block/element_115_mc",
-      "particle": "minecraft:block/element_115_mc"
-    }
-  },
-  "element_114": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_114_fl",
-      "up": "minecraft:block/element_114_fl",
-      "north": "minecraft:block/element_114_fl",
-      "south": "minecraft:block/element_114_fl",
-      "west": "minecraft:block/element_114_fl",
-      "east": "minecraft:block/element_114_fl",
-      "particle": "minecraft:block/element_114_fl"
-    }
-  },
-  "element_118": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_118_og",
-      "up": "minecraft:block/element_118_og",
-      "north": "minecraft:block/element_118_og",
-      "south": "minecraft:block/element_118_og",
-      "west": "minecraft:block/element_118_og",
-      "east": "minecraft:block/element_118_og",
-      "particle": "minecraft:block/element_118_og"
-    }
-  },
   "white_glazed_terracotta": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -43821,70 +43551,70 @@
     }
   },
   "trapped_chest": {
-    "parent": "minecraft:block/geometry_166",
+    "parent": "minecraft:block/geometry_164",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_2": {
-    "parent": "minecraft:block/geometry_167",
+    "parent": "minecraft:block/geometry_165",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_3": {
-    "parent": "minecraft:block/geometry_168",
+    "parent": "minecraft:block/geometry_166",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_4": {
-    "parent": "minecraft:block/geometry_169",
+    "parent": "minecraft:block/geometry_167",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_5": {
-    "parent": "minecraft:block/geometry_170",
+    "parent": "minecraft:block/geometry_168",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_6": {
-    "parent": "minecraft:block/geometry_171",
+    "parent": "minecraft:block/geometry_169",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_7": {
-    "parent": "minecraft:block/geometry_172",
+    "parent": "minecraft:block/geometry_170",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_8": {
-    "parent": "minecraft:block/geometry_173",
+    "parent": "minecraft:block/geometry_171",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_9": {
-    "parent": "minecraft:block/geometry_174",
+    "parent": "minecraft:block/geometry_172",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
     }
   },
   "trapped_chest_10": {
-    "parent": "minecraft:block/geometry_175",
+    "parent": "minecraft:block/geometry_173",
     "textures": {
       "chest": "minecraft:block/entity__chest__trapped",
       "particle": "minecraft:block/entity__chest__trapped"
@@ -56910,7 +56640,7 @@
     }
   },
   "end_rod": {
-    "parent": "minecraft:block/geometry_147",
+    "parent": "minecraft:block/geometry_145",
     "textures": {
       "down": "minecraft:block/end_rod",
       "up": "minecraft:block/end_rod",
@@ -56922,7 +56652,7 @@
     }
   },
   "end_rod_2": {
-    "parent": "minecraft:block/geometry_148",
+    "parent": "minecraft:block/geometry_146",
     "textures": {
       "down": "minecraft:block/end_rod",
       "up": "minecraft:block/end_rod",
@@ -56934,7 +56664,7 @@
     }
   },
   "end_rod_3": {
-    "parent": "minecraft:block/geometry_149",
+    "parent": "minecraft:block/geometry_147",
     "textures": {
       "down": "minecraft:block/end_rod",
       "up": "minecraft:block/end_rod",
@@ -58439,7 +58169,7 @@
     }
   },
   "leaves": {
-    "parent": "minecraft:block/geometry_165",
+    "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/leaves_oak",
       "up": "minecraft:block/leaves_oak",
@@ -58529,7 +58259,7 @@
     }
   },
   "leaves_4": {
-    "parent": "minecraft:block/geometry_165",
+    "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/leaves_jungle",
       "up": "minecraft:block/leaves_jungle",
@@ -59681,198 +59411,6 @@
       "west": "minecraft:block/bamboo_mosaic",
       "east": "minecraft:block/bamboo_mosaic",
       "particle": "minecraft:block/bamboo_mosaic"
-    }
-  },
-  "hard_stained_glass": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_white",
-      "up": "minecraft:block/hard_glass_white",
-      "north": "minecraft:block/hard_glass_white",
-      "south": "minecraft:block/hard_glass_white",
-      "west": "minecraft:block/hard_glass_white",
-      "east": "minecraft:block/hard_glass_white",
-      "particle": "minecraft:block/hard_glass_white"
-    }
-  },
-  "hard_stained_glass_2": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_orange",
-      "up": "minecraft:block/hard_glass_orange",
-      "north": "minecraft:block/hard_glass_orange",
-      "south": "minecraft:block/hard_glass_orange",
-      "west": "minecraft:block/hard_glass_orange",
-      "east": "minecraft:block/hard_glass_orange",
-      "particle": "minecraft:block/hard_glass_orange"
-    }
-  },
-  "hard_stained_glass_3": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_magenta",
-      "up": "minecraft:block/hard_glass_magenta",
-      "north": "minecraft:block/hard_glass_magenta",
-      "south": "minecraft:block/hard_glass_magenta",
-      "west": "minecraft:block/hard_glass_magenta",
-      "east": "minecraft:block/hard_glass_magenta",
-      "particle": "minecraft:block/hard_glass_magenta"
-    }
-  },
-  "hard_stained_glass_4": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_light_blue",
-      "up": "minecraft:block/hard_glass_light_blue",
-      "north": "minecraft:block/hard_glass_light_blue",
-      "south": "minecraft:block/hard_glass_light_blue",
-      "west": "minecraft:block/hard_glass_light_blue",
-      "east": "minecraft:block/hard_glass_light_blue",
-      "particle": "minecraft:block/hard_glass_light_blue"
-    }
-  },
-  "hard_stained_glass_5": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_yellow",
-      "up": "minecraft:block/hard_glass_yellow",
-      "north": "minecraft:block/hard_glass_yellow",
-      "south": "minecraft:block/hard_glass_yellow",
-      "west": "minecraft:block/hard_glass_yellow",
-      "east": "minecraft:block/hard_glass_yellow",
-      "particle": "minecraft:block/hard_glass_yellow"
-    }
-  },
-  "hard_stained_glass_6": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_lime",
-      "up": "minecraft:block/hard_glass_lime",
-      "north": "minecraft:block/hard_glass_lime",
-      "south": "minecraft:block/hard_glass_lime",
-      "west": "minecraft:block/hard_glass_lime",
-      "east": "minecraft:block/hard_glass_lime",
-      "particle": "minecraft:block/hard_glass_lime"
-    }
-  },
-  "hard_stained_glass_7": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_pink",
-      "up": "minecraft:block/hard_glass_pink",
-      "north": "minecraft:block/hard_glass_pink",
-      "south": "minecraft:block/hard_glass_pink",
-      "west": "minecraft:block/hard_glass_pink",
-      "east": "minecraft:block/hard_glass_pink",
-      "particle": "minecraft:block/hard_glass_pink"
-    }
-  },
-  "hard_stained_glass_8": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_gray",
-      "up": "minecraft:block/hard_glass_gray",
-      "north": "minecraft:block/hard_glass_gray",
-      "south": "minecraft:block/hard_glass_gray",
-      "west": "minecraft:block/hard_glass_gray",
-      "east": "minecraft:block/hard_glass_gray",
-      "particle": "minecraft:block/hard_glass_gray"
-    }
-  },
-  "hard_stained_glass_9": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_silver",
-      "up": "minecraft:block/hard_glass_silver",
-      "north": "minecraft:block/hard_glass_silver",
-      "south": "minecraft:block/hard_glass_silver",
-      "west": "minecraft:block/hard_glass_silver",
-      "east": "minecraft:block/hard_glass_silver",
-      "particle": "minecraft:block/hard_glass_silver"
-    }
-  },
-  "hard_stained_glass_10": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_cyan",
-      "up": "minecraft:block/hard_glass_cyan",
-      "north": "minecraft:block/hard_glass_cyan",
-      "south": "minecraft:block/hard_glass_cyan",
-      "west": "minecraft:block/hard_glass_cyan",
-      "east": "minecraft:block/hard_glass_cyan",
-      "particle": "minecraft:block/hard_glass_cyan"
-    }
-  },
-  "hard_stained_glass_11": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_purple",
-      "up": "minecraft:block/hard_glass_purple",
-      "north": "minecraft:block/hard_glass_purple",
-      "south": "minecraft:block/hard_glass_purple",
-      "west": "minecraft:block/hard_glass_purple",
-      "east": "minecraft:block/hard_glass_purple",
-      "particle": "minecraft:block/hard_glass_purple"
-    }
-  },
-  "hard_stained_glass_12": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_blue",
-      "up": "minecraft:block/hard_glass_blue",
-      "north": "minecraft:block/hard_glass_blue",
-      "south": "minecraft:block/hard_glass_blue",
-      "west": "minecraft:block/hard_glass_blue",
-      "east": "minecraft:block/hard_glass_blue",
-      "particle": "minecraft:block/hard_glass_blue"
-    }
-  },
-  "hard_stained_glass_13": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_brown",
-      "up": "minecraft:block/hard_glass_brown",
-      "north": "minecraft:block/hard_glass_brown",
-      "south": "minecraft:block/hard_glass_brown",
-      "west": "minecraft:block/hard_glass_brown",
-      "east": "minecraft:block/hard_glass_brown",
-      "particle": "minecraft:block/hard_glass_brown"
-    }
-  },
-  "hard_stained_glass_14": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_green",
-      "up": "minecraft:block/hard_glass_green",
-      "north": "minecraft:block/hard_glass_green",
-      "south": "minecraft:block/hard_glass_green",
-      "west": "minecraft:block/hard_glass_green",
-      "east": "minecraft:block/hard_glass_green",
-      "particle": "minecraft:block/hard_glass_green"
-    }
-  },
-  "hard_stained_glass_15": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_red",
-      "up": "minecraft:block/hard_glass_red",
-      "north": "minecraft:block/hard_glass_red",
-      "south": "minecraft:block/hard_glass_red",
-      "west": "minecraft:block/hard_glass_red",
-      "east": "minecraft:block/hard_glass_red",
-      "particle": "minecraft:block/hard_glass_red"
-    }
-  },
-  "hard_stained_glass_16": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/hard_glass_black",
-      "up": "minecraft:block/hard_glass_black",
-      "north": "minecraft:block/hard_glass_black",
-      "south": "minecraft:block/hard_glass_black",
-      "west": "minecraft:block/hard_glass_black",
-      "east": "minecraft:block/hard_glass_black",
-      "particle": "minecraft:block/hard_glass_black"
     }
   },
   "cherry_slab": {
@@ -63851,7 +63389,7 @@
     }
   },
   "mangrove_leaves": {
-    "parent": "minecraft:block/geometry_165",
+    "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/mangrove_leaves",
       "up": "minecraft:block/mangrove_leaves",
@@ -67798,7 +67336,7 @@
     }
   },
   "cactus": {
-    "parent": "minecraft:block/geometry_125",
+    "parent": "minecraft:block/geometry_123",
     "textures": {
       "down": "minecraft:block/cactus_bottom",
       "up": "minecraft:block/cactus_top",
@@ -69396,70 +68934,70 @@
     }
   },
   "chest": {
-    "parent": "minecraft:block/geometry_166",
+    "parent": "minecraft:block/geometry_164",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_2": {
-    "parent": "minecraft:block/geometry_167",
+    "parent": "minecraft:block/geometry_165",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_3": {
-    "parent": "minecraft:block/geometry_168",
+    "parent": "minecraft:block/geometry_166",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_4": {
-    "parent": "minecraft:block/geometry_169",
+    "parent": "minecraft:block/geometry_167",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_5": {
-    "parent": "minecraft:block/geometry_170",
+    "parent": "minecraft:block/geometry_168",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_6": {
-    "parent": "minecraft:block/geometry_171",
+    "parent": "minecraft:block/geometry_169",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_7": {
-    "parent": "minecraft:block/geometry_172",
+    "parent": "minecraft:block/geometry_170",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_8": {
-    "parent": "minecraft:block/geometry_173",
+    "parent": "minecraft:block/geometry_171",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_9": {
-    "parent": "minecraft:block/geometry_174",
+    "parent": "minecraft:block/geometry_172",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
     }
   },
   "chest_10": {
-    "parent": "minecraft:block/geometry_175",
+    "parent": "minecraft:block/geometry_173",
     "textures": {
       "chest": "minecraft:block/entity__chest__normal",
       "particle": "minecraft:block/entity__chest__normal"
@@ -71671,126 +71209,6 @@
       "particle": "minecraft:block/deepslate_iron_ore"
     }
   },
-  "element_1": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_001_h",
-      "up": "minecraft:block/element_001_h",
-      "north": "minecraft:block/element_001_h",
-      "south": "minecraft:block/element_001_h",
-      "west": "minecraft:block/element_001_h",
-      "east": "minecraft:block/element_001_h",
-      "particle": "minecraft:block/element_001_h"
-    }
-  },
-  "element_0": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_000_unknown",
-      "up": "minecraft:block/element_000_unknown",
-      "north": "minecraft:block/element_000_unknown",
-      "south": "minecraft:block/element_000_unknown",
-      "west": "minecraft:block/element_000_unknown",
-      "east": "minecraft:block/element_000_unknown",
-      "particle": "minecraft:block/element_000_unknown"
-    }
-  },
-  "element_3": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_003_li",
-      "up": "minecraft:block/element_003_li",
-      "north": "minecraft:block/element_003_li",
-      "south": "minecraft:block/element_003_li",
-      "west": "minecraft:block/element_003_li",
-      "east": "minecraft:block/element_003_li",
-      "particle": "minecraft:block/element_003_li"
-    }
-  },
-  "element_2": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_002_he",
-      "up": "minecraft:block/element_002_he",
-      "north": "minecraft:block/element_002_he",
-      "south": "minecraft:block/element_002_he",
-      "west": "minecraft:block/element_002_he",
-      "east": "minecraft:block/element_002_he",
-      "particle": "minecraft:block/element_002_he"
-    }
-  },
-  "element_5": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_005_b",
-      "up": "minecraft:block/element_005_b",
-      "north": "minecraft:block/element_005_b",
-      "south": "minecraft:block/element_005_b",
-      "west": "minecraft:block/element_005_b",
-      "east": "minecraft:block/element_005_b",
-      "particle": "minecraft:block/element_005_b"
-    }
-  },
-  "element_4": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_004_be",
-      "up": "minecraft:block/element_004_be",
-      "north": "minecraft:block/element_004_be",
-      "south": "minecraft:block/element_004_be",
-      "west": "minecraft:block/element_004_be",
-      "east": "minecraft:block/element_004_be",
-      "particle": "minecraft:block/element_004_be"
-    }
-  },
-  "element_7": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_007_n",
-      "up": "minecraft:block/element_007_n",
-      "north": "minecraft:block/element_007_n",
-      "south": "minecraft:block/element_007_n",
-      "west": "minecraft:block/element_007_n",
-      "east": "minecraft:block/element_007_n",
-      "particle": "minecraft:block/element_007_n"
-    }
-  },
-  "element_6": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_006_c",
-      "up": "minecraft:block/element_006_c",
-      "north": "minecraft:block/element_006_c",
-      "south": "minecraft:block/element_006_c",
-      "west": "minecraft:block/element_006_c",
-      "east": "minecraft:block/element_006_c",
-      "particle": "minecraft:block/element_006_c"
-    }
-  },
-  "element_9": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_009_f",
-      "up": "minecraft:block/element_009_f",
-      "north": "minecraft:block/element_009_f",
-      "south": "minecraft:block/element_009_f",
-      "west": "minecraft:block/element_009_f",
-      "east": "minecraft:block/element_009_f",
-      "particle": "minecraft:block/element_009_f"
-    }
-  },
-  "element_8": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_008_o",
-      "up": "minecraft:block/element_008_o",
-      "north": "minecraft:block/element_008_o",
-      "south": "minecraft:block/element_008_o",
-      "west": "minecraft:block/element_008_o",
-      "east": "minecraft:block/element_008_o",
-      "particle": "minecraft:block/element_008_o"
-    }
-  },
   "camera": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -71857,18 +71275,6 @@
     "textures": {
       "crop": "minecraft:block/wheat_stage_7",
       "particle": "minecraft:block/wheat_stage_7"
-    }
-  },
-  "chemistry_table": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/compound_creator_inside_bottom",
-      "up": "minecraft:block/compound_creator_top",
-      "north": "minecraft:block/compound_creator_side_b",
-      "south": "minecraft:block/compound_creator_inside",
-      "west": "minecraft:block/compound_creator_side_c",
-      "east": "minecraft:block/compound_creator_side_a",
-      "particle": "minecraft:block/compound_creator_top"
     }
   },
   "cobbled_deepslate_slab": {
@@ -73103,18 +72509,6 @@
       "particle": "minecraft:block/prismarine_dark"
     }
   },
-  "chemical_heat": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/chemical_heat",
-      "up": "minecraft:block/chemical_heat",
-      "north": "minecraft:block/chemical_heat",
-      "south": "minecraft:block/chemical_heat",
-      "west": "minecraft:block/chemical_heat",
-      "east": "minecraft:block/chemical_heat",
-      "particle": "minecraft:block/chemical_heat"
-    }
-  },
   "geometry_371": {
     "elements": [
       {
@@ -73525,20 +72919,6 @@
       "particle": "minecraft:block/dark_oak_trapdoor"
     }
   },
-  "colored_torch_bp": {
-    "parent": "minecraft:block/geometry_123",
-    "textures": {
-      "torch": "minecraft:block/torch_red",
-      "particle": "minecraft:block/torch_red"
-    }
-  },
-  "colored_torch_bp_2": {
-    "parent": "minecraft:block/geometry_124",
-    "textures": {
-      "torch": "minecraft:block/torch_red",
-      "particle": "minecraft:block/torch_red"
-    }
-  },
   "stripped_oak_log": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -73778,1086 +73158,6 @@
     "textures": {
       "gate": "minecraft:block/planks_acacia",
       "particle": "minecraft:block/planks_acacia"
-    }
-  },
-  "element_10": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_010_ne",
-      "up": "minecraft:block/element_010_ne",
-      "north": "minecraft:block/element_010_ne",
-      "south": "minecraft:block/element_010_ne",
-      "west": "minecraft:block/element_010_ne",
-      "east": "minecraft:block/element_010_ne",
-      "particle": "minecraft:block/element_010_ne"
-    }
-  },
-  "element_11": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_011_na",
-      "up": "minecraft:block/element_011_na",
-      "north": "minecraft:block/element_011_na",
-      "south": "minecraft:block/element_011_na",
-      "west": "minecraft:block/element_011_na",
-      "east": "minecraft:block/element_011_na",
-      "particle": "minecraft:block/element_011_na"
-    }
-  },
-  "element_12": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_012_mg",
-      "up": "minecraft:block/element_012_mg",
-      "north": "minecraft:block/element_012_mg",
-      "south": "minecraft:block/element_012_mg",
-      "west": "minecraft:block/element_012_mg",
-      "east": "minecraft:block/element_012_mg",
-      "particle": "minecraft:block/element_012_mg"
-    }
-  },
-  "element_13": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_013_al",
-      "up": "minecraft:block/element_013_al",
-      "north": "minecraft:block/element_013_al",
-      "south": "minecraft:block/element_013_al",
-      "west": "minecraft:block/element_013_al",
-      "east": "minecraft:block/element_013_al",
-      "particle": "minecraft:block/element_013_al"
-    }
-  },
-  "element_14": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_014_si",
-      "up": "minecraft:block/element_014_si",
-      "north": "minecraft:block/element_014_si",
-      "south": "minecraft:block/element_014_si",
-      "west": "minecraft:block/element_014_si",
-      "east": "minecraft:block/element_014_si",
-      "particle": "minecraft:block/element_014_si"
-    }
-  },
-  "element_15": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_015_p",
-      "up": "minecraft:block/element_015_p",
-      "north": "minecraft:block/element_015_p",
-      "south": "minecraft:block/element_015_p",
-      "west": "minecraft:block/element_015_p",
-      "east": "minecraft:block/element_015_p",
-      "particle": "minecraft:block/element_015_p"
-    }
-  },
-  "element_16": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_016_s",
-      "up": "minecraft:block/element_016_s",
-      "north": "minecraft:block/element_016_s",
-      "south": "minecraft:block/element_016_s",
-      "west": "minecraft:block/element_016_s",
-      "east": "minecraft:block/element_016_s",
-      "particle": "minecraft:block/element_016_s"
-    }
-  },
-  "element_17": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_017_cl",
-      "up": "minecraft:block/element_017_cl",
-      "north": "minecraft:block/element_017_cl",
-      "south": "minecraft:block/element_017_cl",
-      "west": "minecraft:block/element_017_cl",
-      "east": "minecraft:block/element_017_cl",
-      "particle": "minecraft:block/element_017_cl"
-    }
-  },
-  "element_18": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_018_ar",
-      "up": "minecraft:block/element_018_ar",
-      "north": "minecraft:block/element_018_ar",
-      "south": "minecraft:block/element_018_ar",
-      "west": "minecraft:block/element_018_ar",
-      "east": "minecraft:block/element_018_ar",
-      "particle": "minecraft:block/element_018_ar"
-    }
-  },
-  "element_19": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_019_k",
-      "up": "minecraft:block/element_019_k",
-      "north": "minecraft:block/element_019_k",
-      "south": "minecraft:block/element_019_k",
-      "west": "minecraft:block/element_019_k",
-      "east": "minecraft:block/element_019_k",
-      "particle": "minecraft:block/element_019_k"
-    }
-  },
-  "element_36": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_036_kr",
-      "up": "minecraft:block/element_036_kr",
-      "north": "minecraft:block/element_036_kr",
-      "south": "minecraft:block/element_036_kr",
-      "west": "minecraft:block/element_036_kr",
-      "east": "minecraft:block/element_036_kr",
-      "particle": "minecraft:block/element_036_kr"
-    }
-  },
-  "element_37": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_037_rb",
-      "up": "minecraft:block/element_037_rb",
-      "north": "minecraft:block/element_037_rb",
-      "south": "minecraft:block/element_037_rb",
-      "west": "minecraft:block/element_037_rb",
-      "east": "minecraft:block/element_037_rb",
-      "particle": "minecraft:block/element_037_rb"
-    }
-  },
-  "element_34": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_034_se",
-      "up": "minecraft:block/element_034_se",
-      "north": "minecraft:block/element_034_se",
-      "south": "minecraft:block/element_034_se",
-      "west": "minecraft:block/element_034_se",
-      "east": "minecraft:block/element_034_se",
-      "particle": "minecraft:block/element_034_se"
-    }
-  },
-  "element_35": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_035_br",
-      "up": "minecraft:block/element_035_br",
-      "north": "minecraft:block/element_035_br",
-      "south": "minecraft:block/element_035_br",
-      "west": "minecraft:block/element_035_br",
-      "east": "minecraft:block/element_035_br",
-      "particle": "minecraft:block/element_035_br"
-    }
-  },
-  "element_32": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_032_ge",
-      "up": "minecraft:block/element_032_ge",
-      "north": "minecraft:block/element_032_ge",
-      "south": "minecraft:block/element_032_ge",
-      "west": "minecraft:block/element_032_ge",
-      "east": "minecraft:block/element_032_ge",
-      "particle": "minecraft:block/element_032_ge"
-    }
-  },
-  "element_33": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_033_as",
-      "up": "minecraft:block/element_033_as",
-      "north": "minecraft:block/element_033_as",
-      "south": "minecraft:block/element_033_as",
-      "west": "minecraft:block/element_033_as",
-      "east": "minecraft:block/element_033_as",
-      "particle": "minecraft:block/element_033_as"
-    }
-  },
-  "element_30": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_030_zn",
-      "up": "minecraft:block/element_030_zn",
-      "north": "minecraft:block/element_030_zn",
-      "south": "minecraft:block/element_030_zn",
-      "west": "minecraft:block/element_030_zn",
-      "east": "minecraft:block/element_030_zn",
-      "particle": "minecraft:block/element_030_zn"
-    }
-  },
-  "element_31": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_031_ga",
-      "up": "minecraft:block/element_031_ga",
-      "north": "minecraft:block/element_031_ga",
-      "south": "minecraft:block/element_031_ga",
-      "west": "minecraft:block/element_031_ga",
-      "east": "minecraft:block/element_031_ga",
-      "particle": "minecraft:block/element_031_ga"
-    }
-  },
-  "element_38": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_038_sr",
-      "up": "minecraft:block/element_038_sr",
-      "north": "minecraft:block/element_038_sr",
-      "south": "minecraft:block/element_038_sr",
-      "west": "minecraft:block/element_038_sr",
-      "east": "minecraft:block/element_038_sr",
-      "particle": "minecraft:block/element_038_sr"
-    }
-  },
-  "element_39": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_039_y",
-      "up": "minecraft:block/element_039_y",
-      "north": "minecraft:block/element_039_y",
-      "south": "minecraft:block/element_039_y",
-      "west": "minecraft:block/element_039_y",
-      "east": "minecraft:block/element_039_y",
-      "particle": "minecraft:block/element_039_y"
-    }
-  },
-  "element_29": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_029_cu",
-      "up": "minecraft:block/element_029_cu",
-      "north": "minecraft:block/element_029_cu",
-      "south": "minecraft:block/element_029_cu",
-      "west": "minecraft:block/element_029_cu",
-      "east": "minecraft:block/element_029_cu",
-      "particle": "minecraft:block/element_029_cu"
-    }
-  },
-  "element_28": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_028_ni",
-      "up": "minecraft:block/element_028_ni",
-      "north": "minecraft:block/element_028_ni",
-      "south": "minecraft:block/element_028_ni",
-      "west": "minecraft:block/element_028_ni",
-      "east": "minecraft:block/element_028_ni",
-      "particle": "minecraft:block/element_028_ni"
-    }
-  },
-  "element_21": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_021_sc",
-      "up": "minecraft:block/element_021_sc",
-      "north": "minecraft:block/element_021_sc",
-      "south": "minecraft:block/element_021_sc",
-      "west": "minecraft:block/element_021_sc",
-      "east": "minecraft:block/element_021_sc",
-      "particle": "minecraft:block/element_021_sc"
-    }
-  },
-  "element_20": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_020_ca",
-      "up": "minecraft:block/element_020_ca",
-      "north": "minecraft:block/element_020_ca",
-      "south": "minecraft:block/element_020_ca",
-      "west": "minecraft:block/element_020_ca",
-      "east": "minecraft:block/element_020_ca",
-      "particle": "minecraft:block/element_020_ca"
-    }
-  },
-  "element_23": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_023_v",
-      "up": "minecraft:block/element_023_v",
-      "north": "minecraft:block/element_023_v",
-      "south": "minecraft:block/element_023_v",
-      "west": "minecraft:block/element_023_v",
-      "east": "minecraft:block/element_023_v",
-      "particle": "minecraft:block/element_023_v"
-    }
-  },
-  "element_22": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_022_ti",
-      "up": "minecraft:block/element_022_ti",
-      "north": "minecraft:block/element_022_ti",
-      "south": "minecraft:block/element_022_ti",
-      "west": "minecraft:block/element_022_ti",
-      "east": "minecraft:block/element_022_ti",
-      "particle": "minecraft:block/element_022_ti"
-    }
-  },
-  "element_25": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_025_mn",
-      "up": "minecraft:block/element_025_mn",
-      "north": "minecraft:block/element_025_mn",
-      "south": "minecraft:block/element_025_mn",
-      "west": "minecraft:block/element_025_mn",
-      "east": "minecraft:block/element_025_mn",
-      "particle": "minecraft:block/element_025_mn"
-    }
-  },
-  "element_24": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_024_cr",
-      "up": "minecraft:block/element_024_cr",
-      "north": "minecraft:block/element_024_cr",
-      "south": "minecraft:block/element_024_cr",
-      "west": "minecraft:block/element_024_cr",
-      "east": "minecraft:block/element_024_cr",
-      "particle": "minecraft:block/element_024_cr"
-    }
-  },
-  "element_27": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_027_co",
-      "up": "minecraft:block/element_027_co",
-      "north": "minecraft:block/element_027_co",
-      "south": "minecraft:block/element_027_co",
-      "west": "minecraft:block/element_027_co",
-      "east": "minecraft:block/element_027_co",
-      "particle": "minecraft:block/element_027_co"
-    }
-  },
-  "element_26": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_026_fe",
-      "up": "minecraft:block/element_026_fe",
-      "north": "minecraft:block/element_026_fe",
-      "south": "minecraft:block/element_026_fe",
-      "west": "minecraft:block/element_026_fe",
-      "east": "minecraft:block/element_026_fe",
-      "particle": "minecraft:block/element_026_fe"
-    }
-  },
-  "element_58": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_058_ce",
-      "up": "minecraft:block/element_058_ce",
-      "north": "minecraft:block/element_058_ce",
-      "south": "minecraft:block/element_058_ce",
-      "west": "minecraft:block/element_058_ce",
-      "east": "minecraft:block/element_058_ce",
-      "particle": "minecraft:block/element_058_ce"
-    }
-  },
-  "element_59": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_059_pr",
-      "up": "minecraft:block/element_059_pr",
-      "north": "minecraft:block/element_059_pr",
-      "south": "minecraft:block/element_059_pr",
-      "west": "minecraft:block/element_059_pr",
-      "east": "minecraft:block/element_059_pr",
-      "particle": "minecraft:block/element_059_pr"
-    }
-  },
-  "element_54": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_054_xe",
-      "up": "minecraft:block/element_054_xe",
-      "north": "minecraft:block/element_054_xe",
-      "south": "minecraft:block/element_054_xe",
-      "west": "minecraft:block/element_054_xe",
-      "east": "minecraft:block/element_054_xe",
-      "particle": "minecraft:block/element_054_xe"
-    }
-  },
-  "element_55": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_055_cs",
-      "up": "minecraft:block/element_055_cs",
-      "north": "minecraft:block/element_055_cs",
-      "south": "minecraft:block/element_055_cs",
-      "west": "minecraft:block/element_055_cs",
-      "east": "minecraft:block/element_055_cs",
-      "particle": "minecraft:block/element_055_cs"
-    }
-  },
-  "element_56": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_056_ba",
-      "up": "minecraft:block/element_056_ba",
-      "north": "minecraft:block/element_056_ba",
-      "south": "minecraft:block/element_056_ba",
-      "west": "minecraft:block/element_056_ba",
-      "east": "minecraft:block/element_056_ba",
-      "particle": "minecraft:block/element_056_ba"
-    }
-  },
-  "element_57": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_057_la",
-      "up": "minecraft:block/element_057_la",
-      "north": "minecraft:block/element_057_la",
-      "south": "minecraft:block/element_057_la",
-      "west": "minecraft:block/element_057_la",
-      "east": "minecraft:block/element_057_la",
-      "particle": "minecraft:block/element_057_la"
-    }
-  },
-  "element_50": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_050_sn",
-      "up": "minecraft:block/element_050_sn",
-      "north": "minecraft:block/element_050_sn",
-      "south": "minecraft:block/element_050_sn",
-      "west": "minecraft:block/element_050_sn",
-      "east": "minecraft:block/element_050_sn",
-      "particle": "minecraft:block/element_050_sn"
-    }
-  },
-  "element_51": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_051_sb",
-      "up": "minecraft:block/element_051_sb",
-      "north": "minecraft:block/element_051_sb",
-      "south": "minecraft:block/element_051_sb",
-      "west": "minecraft:block/element_051_sb",
-      "east": "minecraft:block/element_051_sb",
-      "particle": "minecraft:block/element_051_sb"
-    }
-  },
-  "element_52": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_052_te",
-      "up": "minecraft:block/element_052_te",
-      "north": "minecraft:block/element_052_te",
-      "south": "minecraft:block/element_052_te",
-      "west": "minecraft:block/element_052_te",
-      "east": "minecraft:block/element_052_te",
-      "particle": "minecraft:block/element_052_te"
-    }
-  },
-  "element_53": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_053_i",
-      "up": "minecraft:block/element_053_i",
-      "north": "minecraft:block/element_053_i",
-      "south": "minecraft:block/element_053_i",
-      "west": "minecraft:block/element_053_i",
-      "east": "minecraft:block/element_053_i",
-      "particle": "minecraft:block/element_053_i"
-    }
-  },
-  "element_49": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_049_in",
-      "up": "minecraft:block/element_049_in",
-      "north": "minecraft:block/element_049_in",
-      "south": "minecraft:block/element_049_in",
-      "west": "minecraft:block/element_049_in",
-      "east": "minecraft:block/element_049_in",
-      "particle": "minecraft:block/element_049_in"
-    }
-  },
-  "element_48": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_048_cd",
-      "up": "minecraft:block/element_048_cd",
-      "north": "minecraft:block/element_048_cd",
-      "south": "minecraft:block/element_048_cd",
-      "west": "minecraft:block/element_048_cd",
-      "east": "minecraft:block/element_048_cd",
-      "particle": "minecraft:block/element_048_cd"
-    }
-  },
-  "element_47": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_047_ag",
-      "up": "minecraft:block/element_047_ag",
-      "north": "minecraft:block/element_047_ag",
-      "south": "minecraft:block/element_047_ag",
-      "west": "minecraft:block/element_047_ag",
-      "east": "minecraft:block/element_047_ag",
-      "particle": "minecraft:block/element_047_ag"
-    }
-  },
-  "element_46": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_046_pd",
-      "up": "minecraft:block/element_046_pd",
-      "north": "minecraft:block/element_046_pd",
-      "south": "minecraft:block/element_046_pd",
-      "west": "minecraft:block/element_046_pd",
-      "east": "minecraft:block/element_046_pd",
-      "particle": "minecraft:block/element_046_pd"
-    }
-  },
-  "element_45": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_045_rh",
-      "up": "minecraft:block/element_045_rh",
-      "north": "minecraft:block/element_045_rh",
-      "south": "minecraft:block/element_045_rh",
-      "west": "minecraft:block/element_045_rh",
-      "east": "minecraft:block/element_045_rh",
-      "particle": "minecraft:block/element_045_rh"
-    }
-  },
-  "element_44": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_044_ru",
-      "up": "minecraft:block/element_044_ru",
-      "north": "minecraft:block/element_044_ru",
-      "south": "minecraft:block/element_044_ru",
-      "west": "minecraft:block/element_044_ru",
-      "east": "minecraft:block/element_044_ru",
-      "particle": "minecraft:block/element_044_ru"
-    }
-  },
-  "element_43": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_043_tc",
-      "up": "minecraft:block/element_043_tc",
-      "north": "minecraft:block/element_043_tc",
-      "south": "minecraft:block/element_043_tc",
-      "west": "minecraft:block/element_043_tc",
-      "east": "minecraft:block/element_043_tc",
-      "particle": "minecraft:block/element_043_tc"
-    }
-  },
-  "element_42": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_042_mo",
-      "up": "minecraft:block/element_042_mo",
-      "north": "minecraft:block/element_042_mo",
-      "south": "minecraft:block/element_042_mo",
-      "west": "minecraft:block/element_042_mo",
-      "east": "minecraft:block/element_042_mo",
-      "particle": "minecraft:block/element_042_mo"
-    }
-  },
-  "element_41": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_041_nb",
-      "up": "minecraft:block/element_041_nb",
-      "north": "minecraft:block/element_041_nb",
-      "south": "minecraft:block/element_041_nb",
-      "west": "minecraft:block/element_041_nb",
-      "east": "minecraft:block/element_041_nb",
-      "particle": "minecraft:block/element_041_nb"
-    }
-  },
-  "element_40": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_040_zr",
-      "up": "minecraft:block/element_040_zr",
-      "north": "minecraft:block/element_040_zr",
-      "south": "minecraft:block/element_040_zr",
-      "west": "minecraft:block/element_040_zr",
-      "east": "minecraft:block/element_040_zr",
-      "particle": "minecraft:block/element_040_zr"
-    }
-  },
-  "element_72": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_072_hf",
-      "up": "minecraft:block/element_072_hf",
-      "north": "minecraft:block/element_072_hf",
-      "south": "minecraft:block/element_072_hf",
-      "west": "minecraft:block/element_072_hf",
-      "east": "minecraft:block/element_072_hf",
-      "particle": "minecraft:block/element_072_hf"
-    }
-  },
-  "element_73": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_073_ta",
-      "up": "minecraft:block/element_073_ta",
-      "north": "minecraft:block/element_073_ta",
-      "south": "minecraft:block/element_073_ta",
-      "west": "minecraft:block/element_073_ta",
-      "east": "minecraft:block/element_073_ta",
-      "particle": "minecraft:block/element_073_ta"
-    }
-  },
-  "element_70": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_070_yb",
-      "up": "minecraft:block/element_070_yb",
-      "north": "minecraft:block/element_070_yb",
-      "south": "minecraft:block/element_070_yb",
-      "west": "minecraft:block/element_070_yb",
-      "east": "minecraft:block/element_070_yb",
-      "particle": "minecraft:block/element_070_yb"
-    }
-  },
-  "element_71": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_071_lu",
-      "up": "minecraft:block/element_071_lu",
-      "north": "minecraft:block/element_071_lu",
-      "south": "minecraft:block/element_071_lu",
-      "west": "minecraft:block/element_071_lu",
-      "east": "minecraft:block/element_071_lu",
-      "particle": "minecraft:block/element_071_lu"
-    }
-  },
-  "element_76": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_076_os",
-      "up": "minecraft:block/element_076_os",
-      "north": "minecraft:block/element_076_os",
-      "south": "minecraft:block/element_076_os",
-      "west": "minecraft:block/element_076_os",
-      "east": "minecraft:block/element_076_os",
-      "particle": "minecraft:block/element_076_os"
-    }
-  },
-  "element_77": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_077_ir",
-      "up": "minecraft:block/element_077_ir",
-      "north": "minecraft:block/element_077_ir",
-      "south": "minecraft:block/element_077_ir",
-      "west": "minecraft:block/element_077_ir",
-      "east": "minecraft:block/element_077_ir",
-      "particle": "minecraft:block/element_077_ir"
-    }
-  },
-  "element_74": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_074_w",
-      "up": "minecraft:block/element_074_w",
-      "north": "minecraft:block/element_074_w",
-      "south": "minecraft:block/element_074_w",
-      "west": "minecraft:block/element_074_w",
-      "east": "minecraft:block/element_074_w",
-      "particle": "minecraft:block/element_074_w"
-    }
-  },
-  "element_75": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_075_re",
-      "up": "minecraft:block/element_075_re",
-      "north": "minecraft:block/element_075_re",
-      "south": "minecraft:block/element_075_re",
-      "west": "minecraft:block/element_075_re",
-      "east": "minecraft:block/element_075_re",
-      "particle": "minecraft:block/element_075_re"
-    }
-  },
-  "element_78": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_078_pt",
-      "up": "minecraft:block/element_078_pt",
-      "north": "minecraft:block/element_078_pt",
-      "south": "minecraft:block/element_078_pt",
-      "west": "minecraft:block/element_078_pt",
-      "east": "minecraft:block/element_078_pt",
-      "particle": "minecraft:block/element_078_pt"
-    }
-  },
-  "element_79": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_079_au",
-      "up": "minecraft:block/element_079_au",
-      "north": "minecraft:block/element_079_au",
-      "south": "minecraft:block/element_079_au",
-      "west": "minecraft:block/element_079_au",
-      "east": "minecraft:block/element_079_au",
-      "particle": "minecraft:block/element_079_au"
-    }
-  },
-  "element_65": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_065_tb",
-      "up": "minecraft:block/element_065_tb",
-      "north": "minecraft:block/element_065_tb",
-      "south": "minecraft:block/element_065_tb",
-      "west": "minecraft:block/element_065_tb",
-      "east": "minecraft:block/element_065_tb",
-      "particle": "minecraft:block/element_065_tb"
-    }
-  },
-  "element_64": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_064_gd",
-      "up": "minecraft:block/element_064_gd",
-      "north": "minecraft:block/element_064_gd",
-      "south": "minecraft:block/element_064_gd",
-      "west": "minecraft:block/element_064_gd",
-      "east": "minecraft:block/element_064_gd",
-      "particle": "minecraft:block/element_064_gd"
-    }
-  },
-  "element_67": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_067_ho",
-      "up": "minecraft:block/element_067_ho",
-      "north": "minecraft:block/element_067_ho",
-      "south": "minecraft:block/element_067_ho",
-      "west": "minecraft:block/element_067_ho",
-      "east": "minecraft:block/element_067_ho",
-      "particle": "minecraft:block/element_067_ho"
-    }
-  },
-  "element_66": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_066_dy",
-      "up": "minecraft:block/element_066_dy",
-      "north": "minecraft:block/element_066_dy",
-      "south": "minecraft:block/element_066_dy",
-      "west": "minecraft:block/element_066_dy",
-      "east": "minecraft:block/element_066_dy",
-      "particle": "minecraft:block/element_066_dy"
-    }
-  },
-  "element_61": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_061_pm",
-      "up": "minecraft:block/element_061_pm",
-      "north": "minecraft:block/element_061_pm",
-      "south": "minecraft:block/element_061_pm",
-      "west": "minecraft:block/element_061_pm",
-      "east": "minecraft:block/element_061_pm",
-      "particle": "minecraft:block/element_061_pm"
-    }
-  },
-  "element_60": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_060_nd",
-      "up": "minecraft:block/element_060_nd",
-      "north": "minecraft:block/element_060_nd",
-      "south": "minecraft:block/element_060_nd",
-      "west": "minecraft:block/element_060_nd",
-      "east": "minecraft:block/element_060_nd",
-      "particle": "minecraft:block/element_060_nd"
-    }
-  },
-  "element_63": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_063_eu",
-      "up": "minecraft:block/element_063_eu",
-      "north": "minecraft:block/element_063_eu",
-      "south": "minecraft:block/element_063_eu",
-      "west": "minecraft:block/element_063_eu",
-      "east": "minecraft:block/element_063_eu",
-      "particle": "minecraft:block/element_063_eu"
-    }
-  },
-  "element_62": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_062_sm",
-      "up": "minecraft:block/element_062_sm",
-      "north": "minecraft:block/element_062_sm",
-      "south": "minecraft:block/element_062_sm",
-      "west": "minecraft:block/element_062_sm",
-      "east": "minecraft:block/element_062_sm",
-      "particle": "minecraft:block/element_062_sm"
-    }
-  },
-  "element_69": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_069_tm",
-      "up": "minecraft:block/element_069_tm",
-      "north": "minecraft:block/element_069_tm",
-      "south": "minecraft:block/element_069_tm",
-      "west": "minecraft:block/element_069_tm",
-      "east": "minecraft:block/element_069_tm",
-      "particle": "minecraft:block/element_069_tm"
-    }
-  },
-  "element_68": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_068_er",
-      "up": "minecraft:block/element_068_er",
-      "north": "minecraft:block/element_068_er",
-      "south": "minecraft:block/element_068_er",
-      "west": "minecraft:block/element_068_er",
-      "east": "minecraft:block/element_068_er",
-      "particle": "minecraft:block/element_068_er"
-    }
-  },
-  "element_98": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_098_cf",
-      "up": "minecraft:block/element_098_cf",
-      "north": "minecraft:block/element_098_cf",
-      "south": "minecraft:block/element_098_cf",
-      "west": "minecraft:block/element_098_cf",
-      "east": "minecraft:block/element_098_cf",
-      "particle": "minecraft:block/element_098_cf"
-    }
-  },
-  "element_99": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_099_es",
-      "up": "minecraft:block/element_099_es",
-      "north": "minecraft:block/element_099_es",
-      "south": "minecraft:block/element_099_es",
-      "west": "minecraft:block/element_099_es",
-      "east": "minecraft:block/element_099_es",
-      "particle": "minecraft:block/element_099_es"
-    }
-  },
-  "element_90": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_090_th",
-      "up": "minecraft:block/element_090_th",
-      "north": "minecraft:block/element_090_th",
-      "south": "minecraft:block/element_090_th",
-      "west": "minecraft:block/element_090_th",
-      "east": "minecraft:block/element_090_th",
-      "particle": "minecraft:block/element_090_th"
-    }
-  },
-  "element_91": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_091_pa",
-      "up": "minecraft:block/element_091_pa",
-      "north": "minecraft:block/element_091_pa",
-      "south": "minecraft:block/element_091_pa",
-      "west": "minecraft:block/element_091_pa",
-      "east": "minecraft:block/element_091_pa",
-      "particle": "minecraft:block/element_091_pa"
-    }
-  },
-  "element_92": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_092_u",
-      "up": "minecraft:block/element_092_u",
-      "north": "minecraft:block/element_092_u",
-      "south": "minecraft:block/element_092_u",
-      "west": "minecraft:block/element_092_u",
-      "east": "minecraft:block/element_092_u",
-      "particle": "minecraft:block/element_092_u"
-    }
-  },
-  "element_93": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_093_np",
-      "up": "minecraft:block/element_093_np",
-      "north": "minecraft:block/element_093_np",
-      "south": "minecraft:block/element_093_np",
-      "west": "minecraft:block/element_093_np",
-      "east": "minecraft:block/element_093_np",
-      "particle": "minecraft:block/element_093_np"
-    }
-  },
-  "element_94": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_094_pu",
-      "up": "minecraft:block/element_094_pu",
-      "north": "minecraft:block/element_094_pu",
-      "south": "minecraft:block/element_094_pu",
-      "west": "minecraft:block/element_094_pu",
-      "east": "minecraft:block/element_094_pu",
-      "particle": "minecraft:block/element_094_pu"
-    }
-  },
-  "element_95": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_095_am",
-      "up": "minecraft:block/element_095_am",
-      "north": "minecraft:block/element_095_am",
-      "south": "minecraft:block/element_095_am",
-      "west": "minecraft:block/element_095_am",
-      "east": "minecraft:block/element_095_am",
-      "particle": "minecraft:block/element_095_am"
-    }
-  },
-  "element_96": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_096_cm",
-      "up": "minecraft:block/element_096_cm",
-      "north": "minecraft:block/element_096_cm",
-      "south": "minecraft:block/element_096_cm",
-      "west": "minecraft:block/element_096_cm",
-      "east": "minecraft:block/element_096_cm",
-      "particle": "minecraft:block/element_096_cm"
-    }
-  },
-  "element_97": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_097_bk",
-      "up": "minecraft:block/element_097_bk",
-      "north": "minecraft:block/element_097_bk",
-      "south": "minecraft:block/element_097_bk",
-      "west": "minecraft:block/element_097_bk",
-      "east": "minecraft:block/element_097_bk",
-      "particle": "minecraft:block/element_097_bk"
-    }
-  },
-  "element_89": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_089_ac",
-      "up": "minecraft:block/element_089_ac",
-      "north": "minecraft:block/element_089_ac",
-      "south": "minecraft:block/element_089_ac",
-      "west": "minecraft:block/element_089_ac",
-      "east": "minecraft:block/element_089_ac",
-      "particle": "minecraft:block/element_089_ac"
-    }
-  },
-  "element_88": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_088_ra",
-      "up": "minecraft:block/element_088_ra",
-      "north": "minecraft:block/element_088_ra",
-      "south": "minecraft:block/element_088_ra",
-      "west": "minecraft:block/element_088_ra",
-      "east": "minecraft:block/element_088_ra",
-      "particle": "minecraft:block/element_088_ra"
-    }
-  },
-  "element_83": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_083_bi",
-      "up": "minecraft:block/element_083_bi",
-      "north": "minecraft:block/element_083_bi",
-      "south": "minecraft:block/element_083_bi",
-      "west": "minecraft:block/element_083_bi",
-      "east": "minecraft:block/element_083_bi",
-      "particle": "minecraft:block/element_083_bi"
-    }
-  },
-  "element_82": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_082_pb",
-      "up": "minecraft:block/element_082_pb",
-      "north": "minecraft:block/element_082_pb",
-      "south": "minecraft:block/element_082_pb",
-      "west": "minecraft:block/element_082_pb",
-      "east": "minecraft:block/element_082_pb",
-      "particle": "minecraft:block/element_082_pb"
-    }
-  },
-  "element_81": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_081_tl",
-      "up": "minecraft:block/element_081_tl",
-      "north": "minecraft:block/element_081_tl",
-      "south": "minecraft:block/element_081_tl",
-      "west": "minecraft:block/element_081_tl",
-      "east": "minecraft:block/element_081_tl",
-      "particle": "minecraft:block/element_081_tl"
-    }
-  },
-  "element_80": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_080_hg",
-      "up": "minecraft:block/element_080_hg",
-      "north": "minecraft:block/element_080_hg",
-      "south": "minecraft:block/element_080_hg",
-      "west": "minecraft:block/element_080_hg",
-      "east": "minecraft:block/element_080_hg",
-      "particle": "minecraft:block/element_080_hg"
-    }
-  },
-  "element_87": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_087_fr",
-      "up": "minecraft:block/element_087_fr",
-      "north": "minecraft:block/element_087_fr",
-      "south": "minecraft:block/element_087_fr",
-      "west": "minecraft:block/element_087_fr",
-      "east": "minecraft:block/element_087_fr",
-      "particle": "minecraft:block/element_087_fr"
-    }
-  },
-  "element_86": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_086_rn",
-      "up": "minecraft:block/element_086_rn",
-      "north": "minecraft:block/element_086_rn",
-      "south": "minecraft:block/element_086_rn",
-      "west": "minecraft:block/element_086_rn",
-      "east": "minecraft:block/element_086_rn",
-      "particle": "minecraft:block/element_086_rn"
-    }
-  },
-  "element_85": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_085_at",
-      "up": "minecraft:block/element_085_at",
-      "north": "minecraft:block/element_085_at",
-      "south": "minecraft:block/element_085_at",
-      "west": "minecraft:block/element_085_at",
-      "east": "minecraft:block/element_085_at",
-      "particle": "minecraft:block/element_085_at"
-    }
-  },
-  "element_84": {
-    "parent": "minecraft:block/geometry_8",
-    "textures": {
-      "down": "minecraft:block/element_084_po",
-      "up": "minecraft:block/element_084_po",
-      "north": "minecraft:block/element_084_po",
-      "south": "minecraft:block/element_084_po",
-      "west": "minecraft:block/element_084_po",
-      "east": "minecraft:block/element_084_po",
-      "particle": "minecraft:block/element_084_po"
     }
   },
   "lit_smoker": {
@@ -76582,262 +74882,6 @@
       "particle": "minecraft:block/furnace_top"
     }
   },
-  "hard_stained_glass_pane": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_white",
-      "edge": "minecraft:block/hard_glass_white",
-      "particle": "minecraft:block/hard_glass_white"
-    }
-  },
-  "hard_stained_glass_pane_2": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_white",
-      "edge": "minecraft:block/hard_glass_white",
-      "particle": "minecraft:block/hard_glass_white"
-    }
-  },
-  "hard_stained_glass_pane_3": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_orange",
-      "edge": "minecraft:block/hard_glass_orange",
-      "particle": "minecraft:block/hard_glass_orange"
-    }
-  },
-  "hard_stained_glass_pane_4": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_orange",
-      "edge": "minecraft:block/hard_glass_orange",
-      "particle": "minecraft:block/hard_glass_orange"
-    }
-  },
-  "hard_stained_glass_pane_5": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_magenta",
-      "edge": "minecraft:block/hard_glass_magenta",
-      "particle": "minecraft:block/hard_glass_magenta"
-    }
-  },
-  "hard_stained_glass_pane_6": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_magenta",
-      "edge": "minecraft:block/hard_glass_magenta",
-      "particle": "minecraft:block/hard_glass_magenta"
-    }
-  },
-  "hard_stained_glass_pane_7": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_light_blue",
-      "edge": "minecraft:block/hard_glass_light_blue",
-      "particle": "minecraft:block/hard_glass_light_blue"
-    }
-  },
-  "hard_stained_glass_pane_8": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_light_blue",
-      "edge": "minecraft:block/hard_glass_light_blue",
-      "particle": "minecraft:block/hard_glass_light_blue"
-    }
-  },
-  "hard_stained_glass_pane_9": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_yellow",
-      "edge": "minecraft:block/hard_glass_yellow",
-      "particle": "minecraft:block/hard_glass_yellow"
-    }
-  },
-  "hard_stained_glass_pane_10": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_yellow",
-      "edge": "minecraft:block/hard_glass_yellow",
-      "particle": "minecraft:block/hard_glass_yellow"
-    }
-  },
-  "hard_stained_glass_pane_11": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_lime",
-      "edge": "minecraft:block/hard_glass_lime",
-      "particle": "minecraft:block/hard_glass_lime"
-    }
-  },
-  "hard_stained_glass_pane_12": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_lime",
-      "edge": "minecraft:block/hard_glass_lime",
-      "particle": "minecraft:block/hard_glass_lime"
-    }
-  },
-  "hard_stained_glass_pane_13": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_pink",
-      "edge": "minecraft:block/hard_glass_pink",
-      "particle": "minecraft:block/hard_glass_pink"
-    }
-  },
-  "hard_stained_glass_pane_14": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_pink",
-      "edge": "minecraft:block/hard_glass_pink",
-      "particle": "minecraft:block/hard_glass_pink"
-    }
-  },
-  "hard_stained_glass_pane_15": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_gray",
-      "edge": "minecraft:block/hard_glass_gray",
-      "particle": "minecraft:block/hard_glass_gray"
-    }
-  },
-  "hard_stained_glass_pane_16": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_gray",
-      "edge": "minecraft:block/hard_glass_gray",
-      "particle": "minecraft:block/hard_glass_gray"
-    }
-  },
-  "hard_stained_glass_pane_17": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_silver",
-      "edge": "minecraft:block/hard_glass_silver",
-      "particle": "minecraft:block/hard_glass_silver"
-    }
-  },
-  "hard_stained_glass_pane_18": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_silver",
-      "edge": "minecraft:block/hard_glass_silver",
-      "particle": "minecraft:block/hard_glass_silver"
-    }
-  },
-  "hard_stained_glass_pane_19": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_cyan",
-      "edge": "minecraft:block/hard_glass_cyan",
-      "particle": "minecraft:block/hard_glass_cyan"
-    }
-  },
-  "hard_stained_glass_pane_20": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_cyan",
-      "edge": "minecraft:block/hard_glass_cyan",
-      "particle": "minecraft:block/hard_glass_cyan"
-    }
-  },
-  "hard_stained_glass_pane_21": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_purple",
-      "edge": "minecraft:block/hard_glass_purple",
-      "particle": "minecraft:block/hard_glass_purple"
-    }
-  },
-  "hard_stained_glass_pane_22": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_purple",
-      "edge": "minecraft:block/hard_glass_purple",
-      "particle": "minecraft:block/hard_glass_purple"
-    }
-  },
-  "hard_stained_glass_pane_23": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_blue",
-      "edge": "minecraft:block/hard_glass_blue",
-      "particle": "minecraft:block/hard_glass_blue"
-    }
-  },
-  "hard_stained_glass_pane_24": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_blue",
-      "edge": "minecraft:block/hard_glass_blue",
-      "particle": "minecraft:block/hard_glass_blue"
-    }
-  },
-  "hard_stained_glass_pane_25": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_brown",
-      "edge": "minecraft:block/hard_glass_brown",
-      "particle": "minecraft:block/hard_glass_brown"
-    }
-  },
-  "hard_stained_glass_pane_26": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_brown",
-      "edge": "minecraft:block/hard_glass_brown",
-      "particle": "minecraft:block/hard_glass_brown"
-    }
-  },
-  "hard_stained_glass_pane_27": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_green",
-      "edge": "minecraft:block/hard_glass_green",
-      "particle": "minecraft:block/hard_glass_green"
-    }
-  },
-  "hard_stained_glass_pane_28": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_green",
-      "edge": "minecraft:block/hard_glass_green",
-      "particle": "minecraft:block/hard_glass_green"
-    }
-  },
-  "hard_stained_glass_pane_29": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_red",
-      "edge": "minecraft:block/hard_glass_red",
-      "particle": "minecraft:block/hard_glass_red"
-    }
-  },
-  "hard_stained_glass_pane_30": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_red",
-      "edge": "minecraft:block/hard_glass_red",
-      "particle": "minecraft:block/hard_glass_red"
-    }
-  },
-  "hard_stained_glass_pane_31": {
-    "parent": "minecraft:block/geometry_121",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_black",
-      "edge": "minecraft:block/hard_glass_black",
-      "particle": "minecraft:block/hard_glass_black"
-    }
-  },
-  "hard_stained_glass_pane_32": {
-    "parent": "minecraft:block/geometry_122",
-    "textures": {
-      "pane": "minecraft:block/hard_glass_black",
-      "edge": "minecraft:block/hard_glass_black",
-      "particle": "minecraft:block/hard_glass_black"
-    }
-  },
   "deepslate_diamond_ore": {
     "parent": "minecraft:block/geometry_8",
     "textures": {
@@ -77097,7 +75141,7 @@
     }
   },
   "grass_path": {
-    "parent": "minecraft:block/geometry_161",
+    "parent": "minecraft:block/geometry_159",
     "textures": {
       "down": "minecraft:block/dirt",
       "up": "minecraft:block/grass_path_top",
@@ -77145,14 +75189,14 @@
     }
   },
   "unlit_redstone_torch": {
-    "parent": "minecraft:block/geometry_123",
+    "parent": "minecraft:block/geometry_121",
     "textures": {
       "torch": "minecraft:block/redstone_torch_off",
       "particle": "minecraft:block/redstone_torch_off"
     }
   },
   "unlit_redstone_torch_2": {
-    "parent": "minecraft:block/geometry_124",
+    "parent": "minecraft:block/geometry_122",
     "textures": {
       "torch": "minecraft:block/redstone_torch_off",
       "particle": "minecraft:block/redstone_torch_off"
