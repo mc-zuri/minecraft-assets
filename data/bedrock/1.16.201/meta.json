@@ -22,18 +22,24 @@
   "items": 914,
   "itemTextures": 360,
   "itemsWithoutIcon": [],
-  "entities": 100,
-  "entitiesNotDrawn": [
-    "boat",
-    "donkey",
-    "evocation_fang",
-    "horse",
-    "mule",
-    "skeleton_horse",
-    "zombie_horse"
-  ],
-  "attachables": 25,
+  "entities": 106,
+  "entitiesMissing": {
+    "geometry": [
+      "geometry.boat"
+    ],
+    "render_controllers": [],
+    "animations": [
+      "controller.animation.player.base"
+    ]
+  },
+  "entityTexturesMissing": [],
+  "attachables": 0,
+  "animations": 338,
   "particles": 121,
+  "particlesCompiled": {
+    "from": null,
+    "unmatched": 0
+  },
   "shapes": {
     "Block": 865,
     "Door": 288,

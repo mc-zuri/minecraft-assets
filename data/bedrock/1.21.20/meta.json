@@ -22,18 +22,26 @@
   "items": 1698,
   "itemTextures": 523,
   "itemsWithoutIcon": [],
-  "entities": 118,
-  "entitiesNotDrawn": [
-    "boat",
-    "breeze_wind_charge_projectile",
-    "chest_boat",
-    "decorated_pot",
-    "evocation_fang",
-    "trial_spawner",
-    "wind_charge_projectile"
-  ],
-  "attachables": 25,
+  "entities": 124,
+  "entitiesMissing": {
+    "geometry": [
+      "geometry.boat",
+      "geometry.chest_boat"
+    ],
+    "render_controllers": [],
+    "animations": [
+      "animation.camel.look_at_target",
+      "controller.animation.player.base"
+    ]
+  },
+  "entityTexturesMissing": [],
+  "attachables": 4,
+  "animations": 467,
   "particles": 167,
+  "particlesCompiled": {
+    "from": null,
+    "unmatched": 0
+  },
   "shapes": {
     "Block": 1130,
     "Candle": 136,

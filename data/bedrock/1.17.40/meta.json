@@ -22,13 +22,24 @@
   "items": 1079,
   "itemTextures": 392,
   "itemsWithoutIcon": [],
-  "entities": 108,
-  "entitiesNotDrawn": [
-    "boat",
-    "evocation_fang"
-  ],
-  "attachables": 25,
+  "entities": 109,
+  "entitiesMissing": {
+    "geometry": [
+      "geometry.boat"
+    ],
+    "render_controllers": [],
+    "animations": [
+      "controller.animation.player.base"
+    ]
+  },
+  "entityTexturesMissing": [],
+  "attachables": 1,
+  "animations": 398,
   "particles": 134,
+  "particlesCompiled": {
+    "from": null,
+    "unmatched": 0
+  },
   "shapes": {
     "Block": 947,
     "Door": 288,
