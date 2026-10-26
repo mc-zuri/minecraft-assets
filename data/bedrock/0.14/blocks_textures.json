@@ -48,15 +48,27 @@
     "texture": "minecraft:blocks/bedrock"
   },
   {
+    "name": "flowing_water",
+    "blockState": "flowing_water",
+    "model": "minecraft:blocks/flowing_water",
+    "texture": "minecraft:blocks/still_water"
+  },
+  {
     "name": "water",
     "blockState": "water",
-    "model": "minecraft:blocks/water",
+    "model": "minecraft:blocks/flowing_water",
     "texture": "minecraft:blocks/still_water"
+  },
+  {
+    "name": "flowing_lava",
+    "blockState": "flowing_lava",
+    "model": "minecraft:blocks/flowing_lava",
+    "texture": "minecraft:blocks/still_lava"
   },
   {
     "name": "lava",
     "blockState": "lava",
-    "model": "minecraft:blocks/lava",
+    "model": "minecraft:blocks/flowing_lava",
     "texture": "minecraft:blocks/still_lava"
   },
   {
@@ -200,13 +212,13 @@
   {
     "name": "brown_mushroom",
     "blockState": "brown_mushroom",
-    "model": "minecraft:blocks/brown_mushroom_2",
+    "model": "minecraft:blocks/brown_mushroom",
     "texture": "minecraft:blocks/mushroom_brown"
   },
   {
     "name": "red_mushroom",
     "blockState": "red_mushroom",
-    "model": "minecraft:blocks/red_mushroom_2",
+    "model": "minecraft:blocks/red_mushroom",
     "texture": "minecraft:blocks/mushroom_red"
   },
   {
@@ -336,9 +348,15 @@
     "texture": "minecraft:blocks/furnace_top"
   },
   {
-    "name": "sign",
-    "blockState": "sign",
-    "model": "minecraft:blocks/sign_5",
+    "name": "lit_furnace",
+    "blockState": "lit_furnace",
+    "model": "minecraft:blocks/furnace",
+    "texture": "minecraft:blocks/furnace_top"
+  },
+  {
+    "name": "standing_sign",
+    "blockState": "standing_sign",
+    "model": "minecraft:blocks/standing_sign",
     "texture": "minecraft:blocks/entity__sign"
   },
   {
@@ -364,6 +382,12 @@
     "blockState": "cobblestone_stairs",
     "model": "minecraft:blocks/cobblestone_stairs_5",
     "texture": "minecraft:blocks/cobblestone"
+  },
+  {
+    "name": "wall_sign",
+    "blockState": "wall_sign",
+    "model": "minecraft:blocks/wall_sign",
+    "texture": "minecraft:blocks/entity__sign"
   },
   {
     "name": "lever",
@@ -396,10 +420,22 @@
     "texture": "minecraft:blocks/redstone_ore"
   },
   {
+    "name": "lit_redstone_ore",
+    "blockState": "lit_redstone_ore",
+    "model": "minecraft:blocks/redstone_ore",
+    "texture": "minecraft:blocks/redstone_ore"
+  },
+  {
+    "name": "unlit_redstone_torch",
+    "blockState": "unlit_redstone_torch",
+    "model": "minecraft:blocks/unlit_redstone_torch",
+    "texture": "minecraft:blocks/redstone_torch_off"
+  },
+  {
     "name": "redstone_torch",
     "blockState": "redstone_torch",
     "model": "minecraft:blocks/redstone_torch",
-    "texture": "minecraft:blocks/redstone_torch_off"
+    "texture": "minecraft:blocks/redstone_torch_on"
   },
   {
     "name": "stone_button",
@@ -492,10 +528,16 @@
     "texture": "minecraft:blocks/cake_top"
   },
   {
-    "name": "redstone_repeater",
-    "blockState": "redstone_repeater",
-    "model": "minecraft:blocks/redstone_repeater_5",
+    "name": "unpowered_repeater",
+    "blockState": "unpowered_repeater",
+    "model": "minecraft:blocks/unpowered_repeater",
     "texture": "minecraft:blocks/repeater_off"
+  },
+  {
+    "name": "powered_repeater",
+    "blockState": "powered_repeater",
+    "model": "minecraft:blocks/powered_repeater",
+    "texture": "minecraft:blocks/repeater_on"
   },
   {
     "name": "invisible_bedrock",
@@ -520,6 +562,18 @@
     "blockState": "stone_brick",
     "model": "minecraft:blocks/double_stone_slab_5",
     "texture": "minecraft:blocks/stonebrick"
+  },
+  {
+    "name": "brown_mushroom_block",
+    "blockState": "brown_mushroom_block",
+    "model": "minecraft:blocks/brown_mushroom_block",
+    "texture": "minecraft:blocks/mushroom_block_inside"
+  },
+  {
+    "name": "red_mushroom_block",
+    "blockState": "red_mushroom_block",
+    "model": "minecraft:blocks/brown_mushroom_block",
+    "texture": "minecraft:blocks/mushroom_block_inside"
   },
   {
     "name": "iron_bars",
@@ -645,7 +699,13 @@
     "name": "redstone_lamp",
     "blockState": "redstone_lamp",
     "model": "minecraft:blocks/redstone_lamp",
-    "texture": "minecraft:blocks/dragon_egg"
+    "texture": "minecraft:blocks/redstone_lamp_off"
+  },
+  {
+    "name": "lit_redstone_lamp",
+    "blockState": "lit_redstone_lamp",
+    "model": "minecraft:blocks/lit_redstone_lamp",
+    "texture": "minecraft:blocks/redstone_lamp_on"
   },
   {
     "name": "activator_rail",
@@ -756,10 +816,16 @@
     "texture": "minecraft:blocks/entity__chest__trapped"
   },
   {
-    "name": "weighted_pressure_plate",
-    "blockState": "weighted_pressure_plate",
-    "model": "minecraft:blocks/weighted_pressure_plate",
+    "name": "light_weighted_pressure_plate",
+    "blockState": "light_weighted_pressure_plate",
+    "model": "minecraft:blocks/light_weighted_pressure_plate",
     "texture": "minecraft:blocks/gold_block"
+  },
+  {
+    "name": "heavy_weighted_pressure_plate",
+    "blockState": "heavy_weighted_pressure_plate",
+    "model": "minecraft:blocks/heavy_weighted_pressure_plate",
+    "texture": "minecraft:blocks/iron_block"
   },
   {
     "name": "daylight_sensor",
@@ -954,15 +1020,21 @@
     "texture": "minecraft:blocks/reactor_core"
   },
   {
-    "name": "update_game_block",
-    "blockState": "update_game_block",
-    "model": "minecraft:blocks/update_game_block",
+    "name": "info_update",
+    "blockState": "info_update",
+    "model": "minecraft:blocks/info_update",
+    "texture": "minecraft:blocks/missing_tile"
+  },
+  {
+    "name": "info_update2",
+    "blockState": "info_update2",
+    "model": "minecraft:blocks/info_update",
     "texture": "minecraft:blocks/missing_tile"
   },
   {
     "name": "info_reserved6",
     "blockState": "info_reserved6",
-    "model": "minecraft:blocks/update_game_block",
+    "model": "minecraft:blocks/info_update",
     "texture": "minecraft:blocks/missing_tile"
   }
 ]

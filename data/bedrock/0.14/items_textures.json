@@ -312,7 +312,7 @@
   {
     "name": "redstone_torch",
     "model": "redstone_torch",
-    "texture": "minecraft:block/redstone_torch_off"
+    "texture": "minecraft:block/redstone_torch_on"
   },
   {
     "name": "stone_button",
@@ -472,7 +472,7 @@
   {
     "name": "redstone_lamp",
     "model": "redstone_lamp",
-    "texture": "minecraft:block/dragon_egg"
+    "texture": "minecraft:block/redstone_lamp_off"
   },
   {
     "name": "activator_rail",
@@ -1197,7 +1197,7 @@
   {
     "name": "redstone_repeater",
     "model": "redstone_repeater",
-    "texture": "minecraft:items/blocks__stone_slab_top"
+    "texture": "minecraft:items/repeater"
   },
   {
     "name": "cookie",

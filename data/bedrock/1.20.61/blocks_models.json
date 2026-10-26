@@ -13491,12 +13491,12 @@
     "parent": "minecraft:block/geometry_108",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/comparator_off",
+      "up": "minecraft:block/comparator_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/comparator_off",
+      "particle": "minecraft:block/comparator_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -13754,12 +13754,12 @@
     "parent": "minecraft:block/geometry_109",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/comparator_off",
+      "up": "minecraft:block/comparator_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/comparator_off",
+      "particle": "minecraft:block/comparator_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -29709,12 +29709,12 @@
     "parent": "minecraft:block/geometry_161",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/repeater_off",
+      "up": "minecraft:block/repeater_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/repeater_off",
+      "particle": "minecraft:block/repeater_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -29903,12 +29903,12 @@
     "parent": "minecraft:block/geometry_162",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/repeater_off",
+      "up": "minecraft:block/repeater_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/repeater_off",
+      "particle": "minecraft:block/repeater_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -30097,12 +30097,12 @@
     "parent": "minecraft:block/geometry_163",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/repeater_off",
+      "up": "minecraft:block/repeater_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/repeater_off",
+      "particle": "minecraft:block/repeater_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -30291,12 +30291,12 @@
     "parent": "minecraft:block/geometry_164",
     "textures": {
       "down": "minecraft:block/stone_slab_top",
-      "up": "minecraft:block/repeater_off",
+      "up": "minecraft:block/repeater_on",
       "north": "minecraft:block/stone_slab_top",
       "south": "minecraft:block/stone_slab_top",
       "west": "minecraft:block/stone_slab_top",
       "east": "minecraft:block/stone_slab_top",
-      "particle": "minecraft:block/repeater_off",
+      "particle": "minecraft:block/repeater_on",
       "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
@@ -51832,6 +51832,36 @@
       "east": "minecraft:block/stone_slab_top",
       "particle": "minecraft:block/comparator_off",
       "torch": "minecraft:block/redstone_torch_off",
+      "torch_on": "minecraft:block/redstone_torch_on",
+      "torch_off": "minecraft:block/redstone_torch_off"
+    }
+  },
+  "unpowered_comparator_3": {
+    "parent": "minecraft:block/geometry_108",
+    "textures": {
+      "down": "minecraft:block/stone_slab_top",
+      "up": "minecraft:block/comparator_off",
+      "north": "minecraft:block/stone_slab_top",
+      "south": "minecraft:block/stone_slab_top",
+      "west": "minecraft:block/stone_slab_top",
+      "east": "minecraft:block/stone_slab_top",
+      "particle": "minecraft:block/comparator_off",
+      "torch": "minecraft:block/redstone_torch_on",
+      "torch_on": "minecraft:block/redstone_torch_on",
+      "torch_off": "minecraft:block/redstone_torch_off"
+    }
+  },
+  "unpowered_comparator_4": {
+    "parent": "minecraft:block/geometry_109",
+    "textures": {
+      "down": "minecraft:block/stone_slab_top",
+      "up": "minecraft:block/comparator_off",
+      "north": "minecraft:block/stone_slab_top",
+      "south": "minecraft:block/stone_slab_top",
+      "west": "minecraft:block/stone_slab_top",
+      "east": "minecraft:block/stone_slab_top",
+      "particle": "minecraft:block/comparator_off",
+      "torch": "minecraft:block/redstone_torch_on",
       "torch_on": "minecraft:block/redstone_torch_on",
       "torch_off": "minecraft:block/redstone_torch_off"
     }

@@ -327,7 +327,7 @@
   {
     "name": "redstone_torch",
     "model": "redstone_torch",
-    "texture": "minecraft:block/redstone_torch_off"
+    "texture": "minecraft:block/redstone_torch_on"
   },
   {
     "name": "stone_button",
@@ -597,7 +597,7 @@
   {
     "name": "redstone_comparator",
     "model": "redstone_comparator",
-    "texture": "minecraft:block/stone_slab_top"
+    "texture": "minecraft:items/comparator"
   },
   {
     "name": "daylight_sensor",
@@ -1347,7 +1347,7 @@
   {
     "name": "redstone_repeater",
     "model": "redstone_repeater",
-    "texture": "minecraft:block/stone_slab_top"
+    "texture": "minecraft:items/repeater"
   },
   {
     "name": "cookie",

@@ -417,7 +417,7 @@
     "name": "powered_comparator",
     "blockState": "powered_comparator",
     "model": "minecraft:blocks/powered_comparator",
-    "texture": "minecraft:blocks/comparator_off"
+    "texture": "minecraft:blocks/comparator_on"
   },
   {
     "name": "warped_wall_sign",
@@ -1575,7 +1575,7 @@
     "name": "powered_repeater",
     "blockState": "powered_repeater",
     "model": "minecraft:blocks/powered_repeater",
-    "texture": "minecraft:blocks/repeater_off"
+    "texture": "minecraft:blocks/repeater_on"
   },
   {
     "name": "light_blue_candle",

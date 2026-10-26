@@ -121,17 +121,31 @@
       }
     }
   },
+  "flowing_water": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/flowing_water"
+      }
+    }
+  },
   "water": {
     "variants": {
       "": {
-        "model": "minecraft:block/water"
+        "model": "minecraft:block/flowing_water"
+      }
+    }
+  },
+  "flowing_lava": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/flowing_lava"
       }
     }
   },
   "lava": {
     "variants": {
       "": {
-        "model": "minecraft:block/lava"
+        "model": "minecraft:block/flowing_lava"
       }
     }
   },
@@ -11721,70 +11735,92 @@
       }
     }
   },
-  "sign": {
+  "lit_furnace": {
+    "variants": {
+      "facing_direction=0": {
+        "model": "minecraft:block/lit_furnace"
+      },
+      "facing_direction=1": {
+        "model": "minecraft:block/lit_furnace"
+      },
+      "facing_direction=2": {
+        "model": "minecraft:block/lit_furnace",
+        "y": 270
+      },
+      "facing_direction=3": {
+        "model": "minecraft:block/lit_furnace",
+        "y": 90
+      },
+      "facing_direction=4": {
+        "model": "minecraft:block/lit_furnace",
+        "y": 180
+      },
+      "facing_direction=5": {
+        "model": "minecraft:block/lit_furnace"
+      }
+    }
+  },
+  "standing_sign": {
     "variants": {
       "ground_sign_direction=0": {
-        "model": "minecraft:block/sign",
+        "model": "minecraft:block/standing_sign",
         "y": 180
       },
       "ground_sign_direction=1": {
-        "model": "minecraft:block/sign_2",
+        "model": "minecraft:block/standing_sign_2",
         "y": 180
       },
       "ground_sign_direction=2": {
-        "model": "minecraft:block/sign_3",
+        "model": "minecraft:block/standing_sign_3",
         "y": 180
       },
       "ground_sign_direction=3": {
-        "model": "minecraft:block/sign_4",
+        "model": "minecraft:block/standing_sign_4",
         "y": 180
       },
       "ground_sign_direction=4": {
-        "model": "minecraft:block/sign",
+        "model": "minecraft:block/standing_sign",
         "y": 270
       },
       "ground_sign_direction=5": {
-        "model": "minecraft:block/sign_2",
+        "model": "minecraft:block/standing_sign_2",
         "y": 270
       },
       "ground_sign_direction=6": {
-        "model": "minecraft:block/sign_3",
+        "model": "minecraft:block/standing_sign_3",
         "y": 270
       },
       "ground_sign_direction=7": {
-        "model": "minecraft:block/sign_4",
+        "model": "minecraft:block/standing_sign_4",
         "y": 270
       },
       "ground_sign_direction=8": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/standing_sign"
       },
       "ground_sign_direction=9": {
-        "model": "minecraft:block/sign_2"
+        "model": "minecraft:block/standing_sign_2"
       },
       "ground_sign_direction=10": {
-        "model": "minecraft:block/sign_3"
+        "model": "minecraft:block/standing_sign_3"
       },
       "ground_sign_direction=11": {
-        "model": "minecraft:block/sign_4"
+        "model": "minecraft:block/standing_sign_4"
       },
       "ground_sign_direction=12": {
-        "model": "minecraft:block/sign",
+        "model": "minecraft:block/standing_sign",
         "y": 90
       },
       "ground_sign_direction=13": {
-        "model": "minecraft:block/sign_2",
+        "model": "minecraft:block/standing_sign_2",
         "y": 90
       },
       "ground_sign_direction=14": {
-        "model": "minecraft:block/sign_3",
+        "model": "minecraft:block/standing_sign_3",
         "y": 90
       },
       "ground_sign_direction=15": {
-        "model": "minecraft:block/sign_4",
+        "model": "minecraft:block/standing_sign_4",
         "y": 90
-      },
-      "ground_sign_direction=undefined": {
-        "model": "minecraft:block/sign_5"
       }
     }
   },
@@ -11985,6 +12021,31 @@
       }
     }
   },
+  "wall_sign": {
+    "variants": {
+      "facing_direction=0": {
+        "model": "minecraft:block/wall_sign"
+      },
+      "facing_direction=1": {
+        "model": "minecraft:block/wall_sign"
+      },
+      "facing_direction=2": {
+        "model": "minecraft:block/wall_sign"
+      },
+      "facing_direction=3": {
+        "model": "minecraft:block/wall_sign",
+        "y": 180
+      },
+      "facing_direction=4": {
+        "model": "minecraft:block/wall_sign",
+        "y": 270
+      },
+      "facing_direction=5": {
+        "model": "minecraft:block/wall_sign",
+        "y": 90
+      }
+    }
+  },
   "lever": {
     "variants": {
       "lever_direction=down_east_west,open_bit=0": {
@@ -12177,6 +12238,38 @@
     "variants": {
       "": {
         "model": "minecraft:block/redstone_ore"
+      }
+    }
+  },
+  "lit_redstone_ore": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/redstone_ore"
+      }
+    }
+  },
+  "unlit_redstone_torch": {
+    "variants": {
+      "torch_facing_direction=unknown": {
+        "model": "minecraft:block/unlit_redstone_torch"
+      },
+      "torch_facing_direction=west": {
+        "model": "minecraft:block/unlit_redstone_torch_2"
+      },
+      "torch_facing_direction=east": {
+        "model": "minecraft:block/unlit_redstone_torch_2",
+        "y": 180
+      },
+      "torch_facing_direction=north": {
+        "model": "minecraft:block/unlit_redstone_torch_2",
+        "y": 90
+      },
+      "torch_facing_direction=south": {
+        "model": "minecraft:block/unlit_redstone_torch_2",
+        "y": 270
+      },
+      "torch_facing_direction=top": {
+        "model": "minecraft:block/unlit_redstone_torch"
       }
     }
   },
@@ -12685,66 +12778,130 @@
       }
     }
   },
-  "redstone_repeater": {
+  "unpowered_repeater": {
     "variants": {
       "direction=0,repeater_delay=0": {
-        "model": "minecraft:block/redstone_repeater",
+        "model": "minecraft:block/unpowered_repeater",
         "y": 180
       },
       "direction=1,repeater_delay=0": {
-        "model": "minecraft:block/redstone_repeater",
+        "model": "minecraft:block/unpowered_repeater",
         "y": 270
       },
       "direction=2,repeater_delay=0": {
-        "model": "minecraft:block/redstone_repeater"
+        "model": "minecraft:block/unpowered_repeater"
       },
       "direction=3,repeater_delay=0": {
-        "model": "minecraft:block/redstone_repeater",
+        "model": "minecraft:block/unpowered_repeater",
         "y": 90
       },
       "direction=0,repeater_delay=1": {
-        "model": "minecraft:block/redstone_repeater_2",
+        "model": "minecraft:block/unpowered_repeater_2",
         "y": 180
       },
       "direction=1,repeater_delay=1": {
-        "model": "minecraft:block/redstone_repeater_2",
+        "model": "minecraft:block/unpowered_repeater_2",
         "y": 270
       },
       "direction=2,repeater_delay=1": {
-        "model": "minecraft:block/redstone_repeater_2"
+        "model": "minecraft:block/unpowered_repeater_2"
       },
       "direction=3,repeater_delay=1": {
-        "model": "minecraft:block/redstone_repeater_2",
+        "model": "minecraft:block/unpowered_repeater_2",
         "y": 90
       },
       "direction=0,repeater_delay=2": {
-        "model": "minecraft:block/redstone_repeater_3",
+        "model": "minecraft:block/unpowered_repeater_3",
         "y": 180
       },
       "direction=1,repeater_delay=2": {
-        "model": "minecraft:block/redstone_repeater_3",
+        "model": "minecraft:block/unpowered_repeater_3",
         "y": 270
       },
       "direction=2,repeater_delay=2": {
-        "model": "minecraft:block/redstone_repeater_3"
+        "model": "minecraft:block/unpowered_repeater_3"
       },
       "direction=3,repeater_delay=2": {
-        "model": "minecraft:block/redstone_repeater_3",
+        "model": "minecraft:block/unpowered_repeater_3",
         "y": 90
       },
       "direction=0,repeater_delay=3": {
-        "model": "minecraft:block/redstone_repeater_4",
+        "model": "minecraft:block/unpowered_repeater_4",
         "y": 180
       },
       "direction=1,repeater_delay=3": {
-        "model": "minecraft:block/redstone_repeater_4",
+        "model": "minecraft:block/unpowered_repeater_4",
         "y": 270
       },
       "direction=2,repeater_delay=3": {
-        "model": "minecraft:block/redstone_repeater_4"
+        "model": "minecraft:block/unpowered_repeater_4"
       },
       "direction=3,repeater_delay=3": {
-        "model": "minecraft:block/redstone_repeater_4",
+        "model": "minecraft:block/unpowered_repeater_4",
+        "y": 90
+      }
+    }
+  },
+  "powered_repeater": {
+    "variants": {
+      "direction=0,repeater_delay=0": {
+        "model": "minecraft:block/powered_repeater",
+        "y": 180
+      },
+      "direction=1,repeater_delay=0": {
+        "model": "minecraft:block/powered_repeater",
+        "y": 270
+      },
+      "direction=2,repeater_delay=0": {
+        "model": "minecraft:block/powered_repeater"
+      },
+      "direction=3,repeater_delay=0": {
+        "model": "minecraft:block/powered_repeater",
+        "y": 90
+      },
+      "direction=0,repeater_delay=1": {
+        "model": "minecraft:block/powered_repeater_2",
+        "y": 180
+      },
+      "direction=1,repeater_delay=1": {
+        "model": "minecraft:block/powered_repeater_2",
+        "y": 270
+      },
+      "direction=2,repeater_delay=1": {
+        "model": "minecraft:block/powered_repeater_2"
+      },
+      "direction=3,repeater_delay=1": {
+        "model": "minecraft:block/powered_repeater_2",
+        "y": 90
+      },
+      "direction=0,repeater_delay=2": {
+        "model": "minecraft:block/powered_repeater_3",
+        "y": 180
+      },
+      "direction=1,repeater_delay=2": {
+        "model": "minecraft:block/powered_repeater_3",
+        "y": 270
+      },
+      "direction=2,repeater_delay=2": {
+        "model": "minecraft:block/powered_repeater_3"
+      },
+      "direction=3,repeater_delay=2": {
+        "model": "minecraft:block/powered_repeater_3",
+        "y": 90
+      },
+      "direction=0,repeater_delay=3": {
+        "model": "minecraft:block/powered_repeater_4",
+        "y": 180
+      },
+      "direction=1,repeater_delay=3": {
+        "model": "minecraft:block/powered_repeater_4",
+        "y": 270
+      },
+      "direction=2,repeater_delay=3": {
+        "model": "minecraft:block/powered_repeater_4"
+      },
+      "direction=3,repeater_delay=3": {
+        "model": "minecraft:block/powered_repeater_4",
         "y": 90
       }
     }
@@ -12846,6 +13003,110 @@
       },
       "stone_brick_type=smooth": {
         "model": "minecraft:block/double_stone_slab_4"
+      }
+    }
+  },
+  "brown_mushroom_block": {
+    "variants": {
+      "huge_mushroom_bits=0": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=1": {
+        "model": "minecraft:block/brown_mushroom_block_2"
+      },
+      "huge_mushroom_bits=2": {
+        "model": "minecraft:block/brown_mushroom_block_3"
+      },
+      "huge_mushroom_bits=3": {
+        "model": "minecraft:block/brown_mushroom_block_4"
+      },
+      "huge_mushroom_bits=4": {
+        "model": "minecraft:block/brown_mushroom_block_5"
+      },
+      "huge_mushroom_bits=5": {
+        "model": "minecraft:block/brown_mushroom_block_6"
+      },
+      "huge_mushroom_bits=6": {
+        "model": "minecraft:block/brown_mushroom_block_7"
+      },
+      "huge_mushroom_bits=7": {
+        "model": "minecraft:block/brown_mushroom_block_8"
+      },
+      "huge_mushroom_bits=8": {
+        "model": "minecraft:block/brown_mushroom_block_9"
+      },
+      "huge_mushroom_bits=9": {
+        "model": "minecraft:block/brown_mushroom_block_10"
+      },
+      "huge_mushroom_bits=10": {
+        "model": "minecraft:block/brown_mushroom_block_11"
+      },
+      "huge_mushroom_bits=11": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=12": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=13": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=14": {
+        "model": "minecraft:block/brown_mushroom_block_12"
+      },
+      "huge_mushroom_bits=15": {
+        "model": "minecraft:block/brown_mushroom_block_13"
+      }
+    }
+  },
+  "red_mushroom_block": {
+    "variants": {
+      "huge_mushroom_bits=0": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=1": {
+        "model": "minecraft:block/red_mushroom_block"
+      },
+      "huge_mushroom_bits=2": {
+        "model": "minecraft:block/red_mushroom_block_2"
+      },
+      "huge_mushroom_bits=3": {
+        "model": "minecraft:block/red_mushroom_block_3"
+      },
+      "huge_mushroom_bits=4": {
+        "model": "minecraft:block/red_mushroom_block_4"
+      },
+      "huge_mushroom_bits=5": {
+        "model": "minecraft:block/red_mushroom_block_5"
+      },
+      "huge_mushroom_bits=6": {
+        "model": "minecraft:block/red_mushroom_block_6"
+      },
+      "huge_mushroom_bits=7": {
+        "model": "minecraft:block/red_mushroom_block_7"
+      },
+      "huge_mushroom_bits=8": {
+        "model": "minecraft:block/red_mushroom_block_8"
+      },
+      "huge_mushroom_bits=9": {
+        "model": "minecraft:block/red_mushroom_block_9"
+      },
+      "huge_mushroom_bits=10": {
+        "model": "minecraft:block/brown_mushroom_block_11"
+      },
+      "huge_mushroom_bits=11": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=12": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=13": {
+        "model": "minecraft:block/brown_mushroom_block"
+      },
+      "huge_mushroom_bits=14": {
+        "model": "minecraft:block/red_mushroom_block_10"
+      },
+      "huge_mushroom_bits=15": {
+        "model": "minecraft:block/brown_mushroom_block_13"
       }
     }
   },
@@ -13915,6 +14176,13 @@
       }
     }
   },
+  "lit_redstone_lamp": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/lit_redstone_lamp"
+      }
+    }
+  },
   "dropper": {
     "variants": {
       "facing_direction=0": {
@@ -14801,118 +15069,204 @@
       }
     }
   },
-  "weighted_pressure_plate": {
+  "light_weighted_pressure_plate": {
     "variants": {
       "redstone_signal=0": {
-        "model": "minecraft:block/weighted_pressure_plate"
+        "model": "minecraft:block/light_weighted_pressure_plate"
       },
       "redstone_signal=1": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=2": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=3": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=4": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=5": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=6": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=7": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=8": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=9": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=10": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=11": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=12": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=13": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=14": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       },
       "redstone_signal=15": {
-        "model": "minecraft:block/weighted_pressure_plate_2"
+        "model": "minecraft:block/light_weighted_pressure_plate_2"
       }
     }
   },
-  "redstone_comparator": {
+  "heavy_weighted_pressure_plate": {
+    "variants": {
+      "redstone_signal=0": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate"
+      },
+      "redstone_signal=1": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=2": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=3": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=4": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=5": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=6": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=7": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=8": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=9": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=10": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=11": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=12": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=13": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=14": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      },
+      "redstone_signal=15": {
+        "model": "minecraft:block/heavy_weighted_pressure_plate_2"
+      }
+    }
+  },
+  "unpowered_comparator": {
     "variants": {
       "direction=0,output_lit_bit=0,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator",
+        "model": "minecraft:block/unpowered_comparator",
         "y": 180
       },
       "direction=1,output_lit_bit=0,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator",
+        "model": "minecraft:block/unpowered_comparator",
         "y": 270
       },
       "direction=2,output_lit_bit=0,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator"
+        "model": "minecraft:block/unpowered_comparator"
       },
       "direction=3,output_lit_bit=0,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator",
+        "model": "minecraft:block/unpowered_comparator",
         "y": 90
       },
       "direction=0,output_lit_bit=0,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_2",
         "y": 180
       },
       "direction=1,output_lit_bit=0,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_2",
         "y": 270
       },
       "direction=2,output_lit_bit=0,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_2"
+        "model": "minecraft:block/unpowered_comparator_2"
       },
       "direction=3,output_lit_bit=0,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_2",
         "y": 90
       },
       "direction=0,output_lit_bit=1,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator_3",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 180
       },
       "direction=1,output_lit_bit=1,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator_3",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 270
       },
       "direction=2,output_lit_bit=1,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator_3"
+        "model": "minecraft:block/unpowered_comparator_3"
       },
       "direction=3,output_lit_bit=1,output_subtract_bit=0": {
-        "model": "minecraft:block/redstone_comparator_3",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 90
       },
       "direction=0,output_lit_bit=1,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_4",
+        "model": "minecraft:block/unpowered_comparator_4",
         "y": 180
       },
       "direction=1,output_lit_bit=1,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_4",
+        "model": "minecraft:block/unpowered_comparator_4",
         "y": 270
       },
       "direction=2,output_lit_bit=1,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_4"
+        "model": "minecraft:block/unpowered_comparator_4"
       },
       "direction=3,output_lit_bit=1,output_subtract_bit=1": {
-        "model": "minecraft:block/redstone_comparator_4",
+        "model": "minecraft:block/unpowered_comparator_4",
+        "y": 90
+      }
+    }
+  },
+  "powered_comparator": {
+    "variants": {
+      "direction=0,output_subtract_bit=0": {
+        "model": "minecraft:block/powered_comparator",
+        "y": 180
+      },
+      "direction=1,output_subtract_bit=0": {
+        "model": "minecraft:block/powered_comparator",
+        "y": 270
+      },
+      "direction=2,output_subtract_bit=0": {
+        "model": "minecraft:block/powered_comparator"
+      },
+      "direction=3,output_subtract_bit=0": {
+        "model": "minecraft:block/powered_comparator",
+        "y": 90
+      },
+      "direction=0,output_subtract_bit=1": {
+        "model": "minecraft:block/powered_comparator_2",
+        "y": 180
+      },
+      "direction=1,output_subtract_bit=1": {
+        "model": "minecraft:block/powered_comparator_2",
+        "y": 270
+      },
+      "direction=2,output_subtract_bit=1": {
+        "model": "minecraft:block/powered_comparator_2"
+      },
+      "direction=3,output_subtract_bit=1": {
+        "model": "minecraft:block/powered_comparator_2",
         "y": 90
       }
     }
@@ -16872,10 +17226,17 @@
       }
     }
   },
-  "update_game_block": {
+  "info_update": {
     "variants": {
       "": {
-        "model": "minecraft:block/update_game_block"
+        "model": "minecraft:block/info_update"
+      }
+    }
+  },
+  "info_update2": {
+    "variants": {
+      "": {
+        "model": "minecraft:block/info_update"
       }
     }
   },
@@ -16916,7 +17277,7 @@
   "reserved6": {
     "variants": {
       "": {
-        "model": "minecraft:block/update_game_block"
+        "model": "minecraft:block/info_update"
       }
     }
   },

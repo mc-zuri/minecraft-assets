@@ -59123,33 +59123,33 @@
         "y": 90
       },
       "output_subtract_bit=0,output_lit_bit=1,direction=0": {
-        "model": "minecraft:block/powered_comparator",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 180
       },
       "output_subtract_bit=0,output_lit_bit=1,direction=1": {
-        "model": "minecraft:block/powered_comparator",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 270
       },
       "output_subtract_bit=0,output_lit_bit=1,direction=2": {
-        "model": "minecraft:block/powered_comparator"
+        "model": "minecraft:block/unpowered_comparator_3"
       },
       "output_subtract_bit=0,output_lit_bit=1,direction=3": {
-        "model": "minecraft:block/powered_comparator",
+        "model": "minecraft:block/unpowered_comparator_3",
         "y": 90
       },
       "output_subtract_bit=1,output_lit_bit=1,direction=0": {
-        "model": "minecraft:block/powered_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_4",
         "y": 180
       },
       "output_subtract_bit=1,output_lit_bit=1,direction=1": {
-        "model": "minecraft:block/powered_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_4",
         "y": 270
       },
       "output_subtract_bit=1,output_lit_bit=1,direction=2": {
-        "model": "minecraft:block/powered_comparator_2"
+        "model": "minecraft:block/unpowered_comparator_4"
       },
       "output_subtract_bit=1,output_lit_bit=1,direction=3": {
-        "model": "minecraft:block/powered_comparator_2",
+        "model": "minecraft:block/unpowered_comparator_4",
         "y": 90
       }
     }
