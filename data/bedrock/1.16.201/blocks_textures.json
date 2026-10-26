@@ -2576,7 +2576,7 @@
   {
     "name": "redstone_wire",
     "blockState": "redstone_wire",
-    "model": "minecraft:blocks/redstone_wire",
+    "model": "minecraft:blocks/redstone_wire_4",
     "texture": "minecraft:blocks/redstone_dust_cross"
   },
   {
@@ -2840,8 +2840,8 @@
   {
     "name": "standing_banner",
     "blockState": "standing_banner",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/standing_banner",
+    "texture": "minecraft:blocks/entity__banner__banner_base"
   },
   {
     "name": "standing_sign",
@@ -3116,8 +3116,8 @@
   {
     "name": "wall_banner",
     "blockState": "wall_banner",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/wall_banner",
+    "texture": "minecraft:blocks/entity__banner__banner_base"
   },
   {
     "name": "wall_sign",

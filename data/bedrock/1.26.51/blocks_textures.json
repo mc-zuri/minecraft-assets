@@ -267,7 +267,7 @@
     "name": "cherry_hanging_sign",
     "blockState": "cherry_hanging_sign",
     "model": "minecraft:blocks/cherry_hanging_sign",
-    "texture": "minecraft:blocks/cherry_planks"
+    "texture": "minecraft:blocks/entity__cherry_hanging_sign"
   },
   {
     "name": "yellow_wool",
@@ -1197,7 +1197,7 @@
     "name": "birch_hanging_sign",
     "blockState": "birch_hanging_sign",
     "model": "minecraft:blocks/birch_hanging_sign",
-    "texture": "minecraft:blocks/planks_birch"
+    "texture": "minecraft:blocks/entity__birch_hanging_sign"
   },
   {
     "name": "stripped_jungle_log",
@@ -1209,7 +1209,7 @@
     "name": "oxidized_copper_golem_statue",
     "blockState": "oxidized_copper_golem_statue",
     "model": "minecraft:blocks/oxidized_copper_golem_statue",
-    "texture": "minecraft:blocks/oxidized_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_oxidized"
   },
   {
     "name": "light_block_9",
@@ -1833,7 +1833,7 @@
     "name": "poplar_hanging_sign",
     "blockState": "poplar_hanging_sign",
     "model": "minecraft:blocks/poplar_hanging_sign",
-    "texture": "minecraft:blocks/poplar_planks"
+    "texture": "minecraft:blocks/entity__poplar_hanging_sign"
   },
   {
     "name": "purple_stained_glass",
@@ -1905,7 +1905,7 @@
     "name": "acacia_hanging_sign",
     "blockState": "acacia_hanging_sign",
     "model": "minecraft:blocks/acacia_hanging_sign",
-    "texture": "minecraft:blocks/planks_acacia"
+    "texture": "minecraft:blocks/entity__acacia_hanging_sign"
   },
   {
     "name": "ochre_froglight",
@@ -1953,7 +1953,7 @@
     "name": "dark_oak_hanging_sign",
     "blockState": "dark_oak_hanging_sign",
     "model": "minecraft:blocks/dark_oak_hanging_sign",
-    "texture": "minecraft:blocks/planks_big_oak"
+    "texture": "minecraft:blocks/entity__dark_oak_hanging_sign"
   },
   {
     "name": "glowingobsidian",
@@ -2444,7 +2444,7 @@
   {
     "name": "redstone_wire",
     "blockState": "redstone_wire",
-    "model": "minecraft:blocks/redstone_wire",
+    "model": "minecraft:blocks/redstone_wire_4",
     "texture": "minecraft:blocks/redstone_dust_cross"
   },
   {
@@ -2469,7 +2469,7 @@
     "name": "jungle_hanging_sign",
     "blockState": "jungle_hanging_sign",
     "model": "minecraft:blocks/jungle_hanging_sign",
-    "texture": "minecraft:blocks/planks_jungle"
+    "texture": "minecraft:blocks/entity__jungle_hanging_sign"
   },
   {
     "name": "birch_slab",
@@ -2727,7 +2727,7 @@
     "name": "waxed_exposed_copper_golem_statue",
     "blockState": "waxed_exposed_copper_golem_statue",
     "model": "minecraft:blocks/waxed_exposed_copper_golem_statue",
-    "texture": "minecraft:blocks/exposed_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_exposed"
   },
   {
     "name": "red_glazed_terracotta",
@@ -3213,7 +3213,7 @@
     "name": "copper_golem_statue",
     "blockState": "copper_golem_statue",
     "model": "minecraft:blocks/copper_golem_statue",
-    "texture": "minecraft:blocks/copper_block"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem"
   },
   {
     "name": "hard_blue_stained_glass",
@@ -3693,7 +3693,7 @@
     "name": "bamboo_hanging_sign",
     "blockState": "bamboo_hanging_sign",
     "model": "minecraft:blocks/bamboo_hanging_sign",
-    "texture": "minecraft:blocks/bamboo_planks"
+    "texture": "minecraft:blocks/entity__bamboo_hanging_sign"
   },
   {
     "name": "infested_deepslate",
@@ -3789,7 +3789,7 @@
     "name": "waxed_weathered_copper_golem_statue",
     "blockState": "waxed_weathered_copper_golem_statue",
     "model": "minecraft:blocks/waxed_weathered_copper_golem_statue",
-    "texture": "minecraft:blocks/weathered_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_weathered"
   },
   {
     "name": "iron_ore",
@@ -3927,7 +3927,7 @@
     "name": "oak_hanging_sign",
     "blockState": "oak_hanging_sign",
     "model": "minecraft:blocks/oak_hanging_sign",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__oak_hanging_sign"
   },
   {
     "name": "white_concrete_powder",
@@ -4023,7 +4023,7 @@
     "name": "waxed_oxidized_copper_golem_statue",
     "blockState": "waxed_oxidized_copper_golem_statue",
     "model": "minecraft:blocks/oxidized_copper_golem_statue",
-    "texture": "minecraft:blocks/oxidized_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_oxidized"
   },
   {
     "name": "chiseled_sulfur",
@@ -4467,7 +4467,7 @@
     "name": "pale_oak_hanging_sign",
     "blockState": "pale_oak_hanging_sign",
     "model": "minecraft:blocks/pale_oak_hanging_sign",
-    "texture": "minecraft:blocks/pale_oak_planks"
+    "texture": "minecraft:blocks/entity__pale_oak_hanging_sign"
   },
   {
     "name": "weeping_vines",
@@ -4712,8 +4712,8 @@
   {
     "name": "wall_banner",
     "blockState": "wall_banner",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/wall_banner",
+    "texture": "minecraft:blocks/entity__banner__banner_base"
   },
   {
     "name": "twisting_vines",
@@ -4833,7 +4833,7 @@
     "name": "spruce_hanging_sign",
     "blockState": "spruce_hanging_sign",
     "model": "minecraft:blocks/spruce_hanging_sign",
-    "texture": "minecraft:blocks/planks_spruce"
+    "texture": "minecraft:blocks/entity__spruce_hanging_sign"
   },
   {
     "name": "polished_diorite",
@@ -4977,7 +4977,7 @@
     "name": "mangrove_hanging_sign",
     "blockState": "mangrove_hanging_sign",
     "model": "minecraft:blocks/mangrove_hanging_sign",
-    "texture": "minecraft:blocks/mangrove_planks"
+    "texture": "minecraft:blocks/entity__mangrove_hanging_sign"
   },
   {
     "name": "brown_concrete_double_slab",
@@ -5193,7 +5193,7 @@
     "name": "warped_hanging_sign",
     "blockState": "warped_hanging_sign",
     "model": "minecraft:blocks/warped_hanging_sign",
-    "texture": "minecraft:blocks/warped_planks"
+    "texture": "minecraft:blocks/entity__warped_hanging_sign"
   },
   {
     "name": "lime_wool",
@@ -5235,7 +5235,7 @@
     "name": "weathered_copper_golem_statue",
     "blockState": "weathered_copper_golem_statue",
     "model": "minecraft:blocks/waxed_weathered_copper_golem_statue",
-    "texture": "minecraft:blocks/weathered_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_weathered"
   },
   {
     "name": "light_blue_wool_stairs",
@@ -6488,8 +6488,8 @@
   {
     "name": "standing_banner",
     "blockState": "standing_banner",
-    "model": null,
-    "texture": null
+    "model": "minecraft:blocks/standing_banner",
+    "texture": "minecraft:blocks/entity__banner__banner_base"
   },
   {
     "name": "light_blue_shulker_box",
@@ -6795,7 +6795,7 @@
     "name": "crimson_hanging_sign",
     "blockState": "crimson_hanging_sign",
     "model": "minecraft:blocks/crimson_hanging_sign",
-    "texture": "minecraft:blocks/crimson_planks"
+    "texture": "minecraft:blocks/entity__crimson_hanging_sign"
   },
   {
     "name": "sculk_vein",
@@ -7377,7 +7377,7 @@
     "name": "exposed_copper_golem_statue",
     "blockState": "exposed_copper_golem_statue",
     "model": "minecraft:blocks/waxed_exposed_copper_golem_statue",
-    "texture": "minecraft:blocks/exposed_copper"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem_exposed"
   },
   {
     "name": "orange_poplar_leaves",
@@ -8565,7 +8565,7 @@
     "name": "waxed_copper_golem_statue",
     "blockState": "waxed_copper_golem_statue",
     "model": "minecraft:blocks/copper_golem_statue",
-    "texture": "minecraft:blocks/copper_block"
+    "texture": "minecraft:blocks/entity__copper_golem__copper_golem"
   },
   {
     "name": "light_gray_wool",

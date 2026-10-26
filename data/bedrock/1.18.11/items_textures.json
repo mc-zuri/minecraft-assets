@@ -2547,7 +2547,7 @@
   {
     "name": "redstone_wire",
     "model": "redstone_wire",
-    "texture": "minecraft:block/redstone_dust_cross"
+    "texture": "minecraft:block/redstone_dust_line"
   },
   {
     "name": "diamond_ore",
@@ -5417,7 +5417,7 @@
   {
     "name": "firefly_spawn_egg",
     "model": "firefly_spawn_egg",
-    "texture": null
+    "texture": "minecraft:items/firefly_spawn_egg"
   },
   {
     "name": "boat",

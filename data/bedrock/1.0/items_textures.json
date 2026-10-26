@@ -257,7 +257,7 @@
   {
     "name": "redstone_wire",
     "model": "redstone_wire",
-    "texture": "minecraft:block/redstone_dust_cross"
+    "texture": "minecraft:block/redstone_dust_line"
   },
   {
     "name": "diamond_ore",
@@ -1062,7 +1062,7 @@
   {
     "name": "seeds",
     "model": "seeds",
-    "texture": null
+    "texture": "minecraft:items/seeds_wheat"
   },
   {
     "name": "wheat",
@@ -1077,17 +1077,17 @@
   {
     "name": "leather_cap",
     "model": "leather_cap",
-    "texture": null
+    "texture": "minecraft:items/leather_helmet"
   },
   {
     "name": "leather_tunic",
     "model": "leather_tunic",
-    "texture": null
+    "texture": "minecraft:items/leather_chestplate"
   },
   {
     "name": "leather_pants",
     "model": "leather_pants",
-    "texture": null
+    "texture": "minecraft:items/leather_leggings"
   },
   {
     "name": "leather_boots",
@@ -1097,22 +1097,22 @@
   {
     "name": "chain_helmet",
     "model": "chain_helmet",
-    "texture": null
+    "texture": "minecraft:items/chainmail_helmet"
   },
   {
     "name": "chain_chestplate",
     "model": "chain_chestplate",
-    "texture": null
+    "texture": "minecraft:items/chainmail_chestplate"
   },
   {
     "name": "chain_leggings",
     "model": "chain_leggings",
-    "texture": null
+    "texture": "minecraft:items/chainmail_leggings"
   },
   {
     "name": "chain_boots",
     "model": "chain_boots",
-    "texture": null
+    "texture": "minecraft:items/chainmail_boots"
   },
   {
     "name": "iron_helmet",
@@ -1282,7 +1282,7 @@
   {
     "name": "minecart_with_chest",
     "model": "minecart_with_chest",
-    "texture": null
+    "texture": "minecraft:items/minecart_chest"
   },
   {
     "name": "egg",
@@ -1387,7 +1387,7 @@
   {
     "name": "steak",
     "model": "steak",
-    "texture": null
+    "texture": "minecraft:items/beef_cooked"
   },
   {
     "name": "raw_chicken",
@@ -1472,12 +1472,12 @@
   {
     "name": "eye_of_ender",
     "model": "eye_of_ender",
-    "texture": null
+    "texture": "minecraft:items/ender_eye"
   },
   {
     "name": "glistering_melon",
     "model": "glistering_melon",
-    "texture": null
+    "texture": "minecraft:items/melon_speckled"
   },
   {
     "name": "spawn_egg",
@@ -1487,7 +1487,7 @@
   {
     "name": "bottle_o'_enchanting",
     "model": "bottle_o'_enchanting",
-    "texture": null
+    "texture": "minecraft:items/experience_bottle"
   },
   {
     "name": "fire_charge",
@@ -1532,7 +1532,7 @@
   {
     "name": "map",
     "model": "map",
-    "texture": null
+    "texture": "minecraft:items/map_empty"
   },
   {
     "name": "golden_carrot",
@@ -1577,17 +1577,17 @@
   {
     "name": "nether_quartz",
     "model": "nether_quartz",
-    "texture": null
+    "texture": "minecraft:items/quartz"
   },
   {
     "name": "minecart_with_tnt",
     "model": "minecart_with_tnt",
-    "texture": null
+    "texture": "minecraft:items/minecart_tnt"
   },
   {
     "name": "minecart_with_hopper",
     "model": "minecart_with_hopper",
-    "texture": null
+    "texture": "minecraft:items/minecart_hopper"
   },
   {
     "name": "prismarine_shard",
@@ -1617,7 +1617,7 @@
   {
     "name": "rabbit's_foot",
     "model": "rabbit's_foot",
-    "texture": null
+    "texture": "minecraft:items/rabbit_foot"
   },
   {
     "name": "rabbit_hide",
@@ -1712,7 +1712,7 @@
   {
     "name": "dragon's_breath",
     "model": "dragon's_breath",
-    "texture": null
+    "texture": "minecraft:items/dragons_breath"
   },
   {
     "name": "splash_potion",

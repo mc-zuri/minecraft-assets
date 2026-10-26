@@ -242,7 +242,7 @@
   {
     "name": "redstone_wire",
     "model": "redstone_wire",
-    "texture": "minecraft:block/redstone_dust_cross"
+    "texture": "minecraft:block/redstone_dust_line"
   },
   {
     "name": "diamond_ore",
@@ -917,7 +917,7 @@
   {
     "name": "seeds",
     "model": "seeds",
-    "texture": null
+    "texture": "minecraft:items/seeds_wheat"
   },
   {
     "name": "wheat",
@@ -932,17 +932,17 @@
   {
     "name": "leather_cap",
     "model": "leather_cap",
-    "texture": null
+    "texture": "minecraft:items/leather_helmet"
   },
   {
     "name": "leather_tunic",
     "model": "leather_tunic",
-    "texture": null
+    "texture": "minecraft:items/leather_chestplate"
   },
   {
     "name": "leather_pants",
     "model": "leather_pants",
-    "texture": null
+    "texture": "minecraft:items/leather_leggings"
   },
   {
     "name": "leather_boots",
@@ -952,22 +952,22 @@
   {
     "name": "chain_helmet",
     "model": "chain_helmet",
-    "texture": null
+    "texture": "minecraft:items/chainmail_helmet"
   },
   {
     "name": "chain_chestplate",
     "model": "chain_chestplate",
-    "texture": null
+    "texture": "minecraft:items/chainmail_chestplate"
   },
   {
     "name": "chain_leggings",
     "model": "chain_leggings",
-    "texture": null
+    "texture": "minecraft:items/chainmail_leggings"
   },
   {
     "name": "chain_boots",
     "model": "chain_boots",
-    "texture": null
+    "texture": "minecraft:items/chainmail_boots"
   },
   {
     "name": "iron_helmet",
@@ -1232,7 +1232,7 @@
   {
     "name": "steak",
     "model": "steak",
-    "texture": null
+    "texture": "minecraft:items/beef_cooked"
   },
   {
     "name": "raw_chicken",
@@ -1312,7 +1312,7 @@
   {
     "name": "glistering_melon",
     "model": "glistering_melon",
-    "texture": null
+    "texture": "minecraft:items/melon_speckled"
   },
   {
     "name": "spawn_egg",
@@ -1322,7 +1322,7 @@
   {
     "name": "bottle_o'_enchanting",
     "model": "bottle_o'_enchanting",
-    "texture": null
+    "texture": "minecraft:items/experience_bottle"
   },
   {
     "name": "emerald",
@@ -1382,7 +1382,7 @@
   {
     "name": "nether_quartz",
     "model": "nether_quartz",
-    "texture": null
+    "texture": "minecraft:items/quartz"
   },
   {
     "name": "raw_rabbit",
@@ -1402,7 +1402,7 @@
   {
     "name": "rabbit's_foot",
     "model": "rabbit's_foot",
-    "texture": null
+    "texture": "minecraft:items/rabbit_foot"
   },
   {
     "name": "rabbit_hide",

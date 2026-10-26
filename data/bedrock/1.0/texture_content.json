@@ -205,7 +205,7 @@
   },
   {
     "name": "redstone_wire",
-    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaUlEQVR42sVSwQkAMQhz/w2dwR3skUcgFKRXfVQQpTUxqGYHi4hlTy0z+wog391nBIgtEkpHvCJAMZxAqEBOL2XunfDOP+ZKVJKxULsz7vMoN0QCBbXWqcBrAgW0j6ktXYc1OuUxwR/wB9sIzZCkjcESAAAAAElFTkSuQmCC"
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAPElEQVR42mNgGAWDENy8efM/DBOl4fXr12CF//79Q9EEEgfxQeLo6pBpDMNgCnEZTrTLsHkNq62jYBAAALqLSqeZyAfwAAAAAElFTkSuQmCC"
   },
   {
     "name": "diamond_ore",
@@ -849,7 +849,7 @@
   },
   {
     "name": "seeds",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAVUlEQVR42mNgGAXYwSOB/ySJo4PMDRb/STYcGeg58/zHZzheC9BtACl2KVL5j2w4PgvgBqyB2kJYAw7biNaE7ncMjUheArkqH8k7JLmIZO+QpWFoAgAY9DgM7ldwswAAAABJRU5ErkJggg=="
   },
   {
     "name": "wheat",
@@ -861,15 +861,15 @@
   },
   {
     "name": "leather_cap",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaklEQVR42mP4//8/AyWYYXAaEBwc/B+ETRRFlUAYxifKAJDCt2/fgjUXeegxgzCIvW3btv+mpqb/8RoA04zLAGyG0M4A5DAAaSLJABDNzsKMgmGG0McAkCKyDIAZgi26QGIEo3EY5QVSMABPgKZvOFPEpwAAAABJRU5ErkJggg=="
   },
   {
     "name": "leather_tunic",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR42s2T0QnAMAhEs9RNkgldwq0yQ4IfFhuNGOhHA4Lo3VOEtPa713ufEtW6E4wxJjO/xFqXkBzAdGYxqUhyK7KAqO8EdlrUCwF2AyuMahGgnSadzADcER2EiB5Ias6Ola6+P2lWNigDdnMZoGLd4ApgxdcAhWTx+edb+hWMmhR53GMAAAAASUVORK5CYII="
   },
   {
     "name": "leather_pants",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfklEQVR42mP4//8/AyWYgeoGBAcH/8eH8RoAUvD27VuceNu2bf9NTU3/08cAkGJkTJIBME0gxSBMkgEmiqKiIIysEJc4hgEgBVPjrFmKPPRYFEV5RQmJYzUApAibAdjEqe8F5EBEN4DkWCDbAOQoJCSO1QBY3KMbgE2cKrkRAMX3osBWhDaAAAAAAElFTkSuQmCC"
   },
   {
     "name": "leather_boots",
@@ -877,19 +877,19 @@
   },
   {
     "name": "chain_helmet",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAcElEQVR42mNgGJ5AV1f3PzZMtObc3Nz/x44dQ6GnTZv2X1FR8T9RmkEA3ZDQ0FDChoAMQLcZWTOIlpSU/E+U85H9DtJEkgtAtBwfx38BAQE4DTOEKBeAaGTNIBpkM9EuACkiywUwQ7ApAhlKUPMIBQC8HpTYirojgwAAAABJRU5ErkJggg=="
   },
   {
     "name": "chain_chestplate",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAiElEQVR42s2T2wnAIAxFXcNPB3Acx3AdR3Ityy0E8lBjC4UGSuA+0tOPhvC7yTkPPKe6CdRaR2tNhEnvvd96jHGYMkwKlVJEyPPFG/gmKq2DMKUkD0CEiZkd42VDMMN8VMZAhLk7At/gawqPYFnGwHyF730GlY8IeHi2twTeEbfMjyCs9yc/3wXS8SxJD0xPSgAAAABJRU5ErkJggg=="
   },
   {
     "name": "chain_leggings",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAbUlEQVR42mNgGHRAV1f3Pz5MUHNubu7/Y8eOYaWnTZv2X1FR8T9eA2CKQQDdkNDQ0P+SkpL/CboABECKQTbCaJJcANMEUgyyEcQnyQXoNuESx+sCZJtwiY+6AIcByFFISByrASAbYPFPSJwqAAC2yeWWfYk3aAAAAABJRU5ErkJggg=="
   },
   {
     "name": "chain_boots",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaklEQVR42t1RwQ0AIQxyjT4doON0DNdxpK7FhQcvPftWEmNCAUlt7T24O3RO3K85MxERMDNU/DZgjIE5J3rvqPjXGlBEnBowhPfyG3pB5l0D8gpZmlBAcmcW2EjzZRcMoInkacuaV7rL8AG1YqlgNeeDsgAAAABJRU5ErkJggg=="
   },
   {
     "name": "iron_helmet",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "minecart_with_chest",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAvUlEQVR42mPwXDiFAYbRgYYc938YZsAF8GnsTFeHY5yGIBuATSNRhsA049JIlCGEbMdriKiYGFwzIUNgFoH0wA3Q1tEFCyArwqURxAapxTBg7sKVYMEMPzkUQ7BpbGjuxDQAJAgzBNlWkIEwjdl5RWB1IBqrC9ANQbYRWTNeFyAbgq4JpwuwGeLk4oJVM0gdJycX9rSAbAjIAHQbQRikGaQOZ4qEGQJzAT4bseUjuCEysnIEbcRpACGAXAQAAGFuOeUK+JAOAAAAAElFTkSuQmCC"
   },
   {
     "name": "egg",
@@ -1109,7 +1109,7 @@
   },
   {
     "name": "steak",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABQElEQVR42mNgoCXgZmXFwCRpzrbSgtPImCTboZr+I2MtMV7CmnOs4Tb+TzVV/9/gbfZ/cUHU/wnh9iAD/tsrimHXCAITwu3hmuu9TP/3hrr8r7TV/V9krwc2AITtFcX+Y9UMAjDNTR5W/1NN1f7PSg38PyXS8X+Ng/7/Vm8b/AbA/AmzqcPf4X+6ucb/Jh/z/3MT3f93BlrDvYGiud3bHKy5PcDqf6Wd7v9MC83/M2KcwYp7AqzAhhTa6/7vC7UD245hAMzZXX6WYJtA/m3ysPzfF2QD5s/JCPmfa6P9P8NCA7vzwbZ7m/+vstP9n2+rA7YJFICgcAAZ1hOM8DuK7cgGgBRMj3YCBxTICyBNvSG2YJvTzdSxa0Y2BKQgSF8ebBDIQJC/YbaCsJoI93+8CQiaQDAwSBynzbgMQsY0zbEAFWbNZbqjDbEAAAAASUVORK5CYII="
   },
   {
     "name": "raw_chicken",
@@ -1177,11 +1177,11 @@
   },
   {
     "name": "eye_of_ender",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABuklEQVR42q2US0tbURRG/QmSgdQHwYE60VSs1kgs1selmBDb2DS5xuLj1jy8mijWlMSiqU18NKjRqCgqNgYd1omdlKIVWiiUjsQf4My/seTeEgkkPumBPdmHtc7Hhn1yjMnVnFTd69wbvI3gweMGUnUnaX7tUwrrmmh468cy+47msTFKBNPtRApsDK/wKvoeaX2UgYQXeceJc2sYXzJ0vSQF986HOT0/I3n4lYnEOP59kdgfmcVvKwgB79USnf0NttjSJTzz8zm6ZwWsnwwSPLCq/fohF1WdYqZAU25A3gjRtz2rwpNHrTT2lKGt1GAQS4kcOXAlbGoKU7CPvKonZAheRCP0b07Rs9HC3F8RvaWEwvJcKlu1fPrVyeh+G46ojBCQswseSj5exz24PlsY+WKkxlxMkS4XQaog9L2drjWB8A8/huEsAuUU6BvViI64Dc+OlcixlUdmLdO/7QzsCeqdGPOhDDvrEJUUNUPj6rDaZsyI8RZMgWo6lv/BSr9MlLK/ni4ptUsIQTcvP7roXZrAvRnBseDF6P9wPZwuUWLqurpx73qodnrJ1zdlwDfukSJK1X9dxPQv4AInkhL3KvvNOwAAAABJRU5ErkJggg=="
   },
   {
     "name": "glistering_melon",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABOUlEQVR42mPwXDiFAYbJAmRrxGVAXAj3/1klEv/JMgykeVKm4P+L3X3/D9rokm7IxhaZ/18WLfv/q33u/x9dAqQZArL96lKt///fPv//e6r0/48nWf/vFuf+v99QmThD0mP5/l/dZwA24IGtzv9b0rz/r5bxgQ0hyiX5qSL/z0xX+P//9DGwATdaZf6DwElPDuJcAjIAFAYgAw6YqIE1gDTvVRGH03gNAXkBFH331q36f6owFqwYZPP1OtH///8z/L+Sx0bYOyBDFtYpgA0BuQJkK8wQEH3nfC7YIJyGgAxoL5f7v6dHDe4SkEEwfL1BHCwGSic4ExvMEJhLQBgULqDYAWFQOgFpBqnD6xVQoIIUwjAogEGxdLBT/H9zkfB/ovIRKHGBcEYsPxhnxnL/Twjm/E9xRkQuAgAyTAZpvhRp9QAAAABJRU5ErkJggg=="
   },
   {
     "name": "spawn_egg",
@@ -1189,7 +1189,7 @@
   },
   {
     "name": "bottle_o'_enchanting",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABCElEQVR42qWTvUpDQRBGgz6JlVjYSbwhIqIQiKTQSrKVkCaVBCWl4hvcFfQBbC1kUPyJKKSwMNhY+gD7CtZHZ8lICHh/4sLHNnPOMMtOpXl5XrHMdLLAL1I+g4spLVB4d22e5YW5eGdKsmBLKYkW/kswKfkY36XgyTEeZxEYfBscJ7LCVRmJwRIcI87oyDY9SbgpIlFYH+wuON5J2ZcWNd+iLXscySrDPIl1126vpGz5hKV+ncQ36comg+Big1zBfXAcSpV1v8Fiv07NNxhywUNRwUtwHEuVjuzEEXSUN1Keigjs0zz/FJ1KwoE04mNej2GN1v25BrY8Kpn+jQoanLeIvyKDpkHLN3NDLjg6plTuAAAAAElFTkSuQmCC"
   },
   {
     "name": "fire_charge",
@@ -1225,7 +1225,7 @@
   },
   {
     "name": "map",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAqUlEQVR42qWTyw3DIBAFtymKyJEDXVAAhUQRV1eTDixqcBOJnuVnLXjttRKkuVjM8LGQx/QU8tOwxBDCToxxxw1QyjlLKaWj1nodgphSWhkDy/L+AEQA5h4GyowgwAhlwl2agdZadwxK8/xa0ZHTANCiDuiIGRhXtAJmxBK9CNlWl1uS/gYHqCP4Ee60E/t7EDdwKuuIdSeHLXuRUbT+/eUDvLPiXy+YfAEObnneAXlVBQAAAABJRU5ErkJggg=="
   },
   {
     "name": "golden_carrot",
@@ -1261,15 +1261,15 @@
   },
   {
     "name": "nether_quartz",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACkklEQVR42lWT70tTURjHv77ZD2GSOrQrOoTmXBZqIqYwm0KKhiUohEoa1ItZUC9axqAUTBqbSVn224KUmWjWmIKZyMY2SzGXZJLWQkk0M7H6D048R87Fvfju3N09n8/znN1zsTg1DkqRJOFJdTUC9nOwmkyoMhpxIj2dp02jQcBqxYvaWlwuLOT3lqa9ePmgHXA7bDiaYUSJUglHZSVSoqN5AQEE3m66iGlPHwpSU1GnUKBRpcKFrH3wD7kQDgXBYVtJCYeN8fE4npbGwW/BUTw6cwoh/wh6H3Yge28yT01UFM9b11NUJyQAGTExKDUYkKhW43ReHoJ3b+LX6leEZ32YeNXDQv4RRuARnR6lhoPQ7YmHEUCDVov63FzgR18rH9dSkIWTBYflThSfx8X+bW9yCcFiJUmLRsMbolKpjIBEJwoJ/mz9ZOvfF9jy4kcmJqKVJAfi4iCDAqKUGzN5JkcH2NbGKltf+cIhCk002N3Jt0USuSutBO0WUbfwrI998npkeGE2yB63t7L6Y2YWIaBiEfpOI4v9CxGfZHiAOa9aIwVUQD8SIMadHHvNr3+vLXOYat5PDLPeLmekgD6EhAr/bm2w7c015h16zqbGPfwPDIz0cykJdwtsZjP4oyAJ3SDJ/NQ4C89Ps9A7LxvqvsMBMf7K0pwMm1Qq5EgS5DMuJOJRTb4ZZD1dTnbP3sye3brBQQHPjLmRmajdOQczNhvaKipwNidHlty3N7OOliYZEiDls28UepUK14qLcYgm+GC/zt9Gg1oNt8WCBoUConh3XP09aLScR7YkwVFWhiytdmcLc95BWWDW6VCvS4CkVmN/bCxon66aGrgv1aJcr0dnVRHyk5JgSk5GfkoKhtuu4D9TRLNcvWhL8wAAAABJRU5ErkJggg=="
   },
   {
     "name": "minecart_with_tnt",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA0ElEQVR42mPwXDiFAYbRgYYc938YZsAF8Gm87SL1f6KuIJjGaQiyAegat2SGgDQRNgSmGVkjyYag2w7SBNMIovF6R1RMDK4ZRlsJsaEYAnMVzCKQHrgB2jq6YAGYLdi8g+xCkFoMA+YuXAkWRHYmLo0NzZ2YBoAEYYaguwSmMTuvCKwORGN1AbIhIAOQbUTWjNcFyIaga8LpAmyGOLm4YNUMUsfJyYU9LSAbAjIA3UYQBmkGqcOZImGGwFyAz0Zs+QhuiIysHEEbcRpACCAXAQBD+zJ73WVkkAAAAABJRU5ErkJggg=="
   },
   {
     "name": "minecart_with_hopper",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAp0lEQVR42mNgwAMEBQX/wzADKQCmycrKCo6JMgSbRqINwaYR2QsEDUFWiKyRKENExcQIakY3BKQHboC2ji5YAJvT0TWDaJBaDAPmLlyJ0xBkW0G4obkT0wCQILoh6Bqz84rA6kA0VhegG4JsI7JmvC5ANgRdE04XYDPEycUFq2aQOk5OLuxpAdkQkAHoNoIwSDNIHc4UCTME5gK8NuIzREZWjjgbKQUASCwL5M6LbjwAAAAASUVORK5CYII="
   },
   {
     "name": "prismarine_shard",
@@ -1293,7 +1293,7 @@
   },
   {
     "name": "rabbit's_foot",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaElEQVR42mNgGDlgRUPIfxAmW/Pxeen/z6+s+D8x24V4Q0CKQZpBGkEYZEhTguN/ojWCNMBshhlQFG7/nyjNW7qjwRhmCIxPlAEgDcguIFozuvORaaI0Y/MGiE2SZmRDQCFOVKiPcAAA2mOCaKMKZesAAAAASUVORK5CYII="
   },
   {
     "name": "rabbit_hide",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "dragon's_breath",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA3klEQVR42mNgGNTgSq7n/z2hhv9Xuqv+J1nzkydP/p9ZvxSOQXySDTgYY/l/lavi/+nmYv/PnTtHuitAmi47FP7ftWvXf7LCAGTAKt1q8gwAeWGLVjEY7zSvIs0QkOaF+s3ggLuSNPn/Cvve//uCphNnCEjTTvdusOYDwZP+X5m47//tJSf/P5q+/f+ZqtWEDQH5+2rWbLABd2Yc+v/ywK3/7y89+f/5ziswJsqAa+07/j9efwFD449Xn4kz4Nn2q3DN3568h2v89f4bcQaAFIEMwKaZ6NiAKUbGNMlwAFg4AveQz3O/AAAAAElFTkSuQmCC"
   },
   {
     "name": "splash_potion",

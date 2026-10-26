@@ -4277,7 +4277,7 @@
   },
   {
     "name": "redstone_wire",
-    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR42sWSWwrAIAwEvf8NPYN30LKFgaVGW/WjgcUHyWaUpNZaikSUUu7DMO/NgNg2qLXuEwg/53xmoFUmSwaOrhWKiKQLJUsUikJ7DLsA89lJ9y5MXKEZyVAgzL3JkMrxKRp2nX2i5E8MP/HLFHrnpTkA/b9RPjaYvR1d499hiPqUqJEAAAAASUVORK5CYII="
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAARklEQVR42mP4//8/AyWYYdQAKhiADm7evPkfhP/9+4dFFgt4/fo1WCFIA0gjNnF0GoaxGgbTiMtwZEuIdiVeDaPpYBAYAAAKpIoL6pIgAgAAAABJRU5ErkJggg=="
   },
   {
     "name": "diamond_ore",

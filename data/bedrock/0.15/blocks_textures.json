@@ -314,7 +314,7 @@
   {
     "name": "redstone_wire",
     "blockState": "redstone_wire",
-    "model": "minecraft:blocks/redstone_wire",
+    "model": "minecraft:blocks/redstone_wire_4",
     "texture": "minecraft:blocks/redstone_dust_cross"
   },
   {

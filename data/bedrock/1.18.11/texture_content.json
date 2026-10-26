@@ -2037,7 +2037,7 @@
   },
   {
     "name": "redstone_wire",
-    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAfUlEQVR42sWSWwrAIAwEvf8NPYN30LKFgaVGW/WjgcUHyWaUpNZaikSUUu7DMO/NgNg2qLXuEwg/53xmoFUmSwaOrhWKiKQLJUsUikJ7DLsA89lJ9y5MXKEZyVAgzL3JkMrxKRp2nX2i5E8MP/HLFHrnpTkA/b9RPjaYvR1d499hiPqUqJEAAAAASUVORK5CYII="
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAARklEQVR42mP4//8/AyWYYdQAKhiADm7evPkfhP/9+4dFFgt4/fo1WCFIA0gjNnF0GoaxGgbTiMtwZEuIdiVeDaPpYBAYAAAKpIoL6pIgAgAAAABJRU5ErkJggg=="
   },
   {
     "name": "diamond_ore",
@@ -4333,7 +4333,7 @@
   },
   {
     "name": "firefly_spawn_egg",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABKUlEQVR42q2Uu4qDYBCF83r7FBZiJ1qJCMZYWVrtCyyCpktpl0IsvKAvIF5B1EYlRdpZZsAlS9g/F1Y4/NX5zszR393H1+du01vP28ZnAIfDAURRhJehpmkCqixLSJIEEGQYBjxtdhwHPM+DLMtgmiaC2LYNmqY9hmCa67rg+z7EcQyXywW6roPT6fR4HTQXRQF5nkOapmSe5xnatiUYiglBAKYtywLX65XOYRhoJcuy2AA0Y2lowPSqqmAcR5rofD7/AP6E7Pd7Sur7nqbA0eu6JgBqM6MEQbgH6LpOKU3TwLqu1H4QBHcAnJTjOGCWiMnH4/HX7niiZFlmlxiGIRk2M34XG0BRFJAkif0qsSDU7c5RFAHP83dm5j1CCCaqqkrmf72It7+AbxndYtps6uP6AAAAAElFTkSuQmCC"
   },
   {
     "name": "boat",

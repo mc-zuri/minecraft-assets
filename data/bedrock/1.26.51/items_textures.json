@@ -6362,7 +6362,7 @@
   {
     "name": "redstone_wire",
     "model": "redstone_wire",
-    "texture": "minecraft:block/redstone_dust_cross"
+    "texture": "minecraft:block/redstone_dust_line"
   },
   {
     "name": "diamond_ore",
@@ -9067,7 +9067,7 @@
   {
     "name": "photo_item",
     "model": "photo_item",
-    "texture": null
+    "texture": "minecraft:block/camera_back"
   },
   {
     "name": "portfolio",
