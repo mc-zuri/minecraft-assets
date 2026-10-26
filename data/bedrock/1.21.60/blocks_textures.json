@@ -135,7 +135,7 @@
     "name": "yellow_shulker_box",
     "blockState": "yellow_shulker_box",
     "model": "minecraft:blocks/yellow_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_yellow"
+    "texture": "minecraft:blocks/entity__shulker__shulker_yellow"
   },
   {
     "name": "blackstone_double_slab",
@@ -531,7 +531,7 @@
     "name": "magenta_shulker_box",
     "blockState": "magenta_shulker_box",
     "model": "minecraft:blocks/magenta_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_magenta"
+    "texture": "minecraft:blocks/entity__shulker__shulker_magenta"
   },
   {
     "name": "packed_ice",
@@ -615,7 +615,7 @@
     "name": "lime_shulker_box",
     "blockState": "lime_shulker_box",
     "model": "minecraft:blocks/lime_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_lime"
+    "texture": "minecraft:blocks/entity__shulker__shulker_lime"
   },
   {
     "name": "weathered_chiseled_copper",
@@ -735,7 +735,7 @@
     "name": "white_shulker_box",
     "blockState": "white_shulker_box",
     "model": "minecraft:blocks/white_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_white"
+    "texture": "minecraft:blocks/entity__shulker__shulker_white"
   },
   {
     "name": "copper_grate",
@@ -1803,7 +1803,7 @@
     "name": "undyed_shulker_box",
     "blockState": "undyed_shulker_box",
     "model": "minecraft:blocks/undyed_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_undyed"
+    "texture": "minecraft:blocks/entity__shulker__shulker_undyed"
   },
   {
     "name": "polished_blackstone",
@@ -2589,7 +2589,7 @@
     "name": "pink_shulker_box",
     "blockState": "pink_shulker_box",
     "model": "minecraft:blocks/pink_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_pink"
+    "texture": "minecraft:blocks/entity__shulker__shulker_pink"
   },
   {
     "name": "warped_double_slab",
@@ -2649,7 +2649,7 @@
     "name": "red_shulker_box",
     "blockState": "red_shulker_box",
     "model": "minecraft:blocks/red_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_red"
+    "texture": "minecraft:blocks/entity__shulker__shulker_red"
   },
   {
     "name": "stripped_cherry_log",
@@ -3387,7 +3387,7 @@
     "name": "gray_shulker_box",
     "blockState": "gray_shulker_box",
     "model": "minecraft:blocks/gray_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_gray"
+    "texture": "minecraft:blocks/entity__shulker__shulker_gray"
   },
   {
     "name": "red_sandstone_stairs",
@@ -3957,7 +3957,7 @@
     "name": "light_gray_shulker_box",
     "blockState": "light_gray_shulker_box",
     "model": "minecraft:blocks/light_gray_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_silver"
+    "texture": "minecraft:blocks/entity__shulker__shulker_silver"
   },
   {
     "name": "resin_bricks",
@@ -4107,7 +4107,7 @@
     "name": "black_shulker_box",
     "blockState": "black_shulker_box",
     "model": "minecraft:blocks/black_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_black"
+    "texture": "minecraft:blocks/entity__shulker__shulker_black"
   },
   {
     "name": "jungle_sapling",
@@ -4377,7 +4377,7 @@
     "name": "orange_shulker_box",
     "blockState": "orange_shulker_box",
     "model": "minecraft:blocks/orange_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_orange"
+    "texture": "minecraft:blocks/entity__shulker__shulker_orange"
   },
   {
     "name": "light_gray_candle",
@@ -4419,7 +4419,7 @@
     "name": "blue_shulker_box",
     "blockState": "blue_shulker_box",
     "model": "minecraft:blocks/blue_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_blue"
+    "texture": "minecraft:blocks/entity__shulker__shulker_blue"
   },
   {
     "name": "exposed_copper_bulb",
@@ -4671,7 +4671,7 @@
     "name": "green_shulker_box",
     "blockState": "green_shulker_box",
     "model": "minecraft:blocks/green_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_green"
+    "texture": "minecraft:blocks/entity__shulker__shulker_green"
   },
   {
     "name": "large_fern",
@@ -5037,7 +5037,7 @@
     "name": "brown_shulker_box",
     "blockState": "brown_shulker_box",
     "model": "minecraft:blocks/brown_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_brown"
+    "texture": "minecraft:blocks/entity__shulker__shulker_brown"
   },
   {
     "name": "azalea",
@@ -5109,7 +5109,7 @@
     "name": "light_blue_shulker_box",
     "blockState": "light_blue_shulker_box",
     "model": "minecraft:blocks/light_blue_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_light_blue"
+    "texture": "minecraft:blocks/entity__shulker__shulker_light_blue"
   },
   {
     "name": "jungle_stairs",
@@ -5199,7 +5199,7 @@
     "name": "cyan_shulker_box",
     "blockState": "cyan_shulker_box",
     "model": "minecraft:blocks/cyan_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_cyan"
+    "texture": "minecraft:blocks/entity__shulker__shulker_cyan"
   },
   {
     "name": "polished_andesite_stairs",
@@ -5685,7 +5685,7 @@
     "name": "purple_shulker_box",
     "blockState": "purple_shulker_box",
     "model": "minecraft:blocks/purple_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_purple"
+    "texture": "minecraft:blocks/entity__shulker__shulker_purple"
   },
   {
     "name": "carved_pumpkin",

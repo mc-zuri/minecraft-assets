@@ -735,6 +735,266 @@
   },
   "yellow_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/yellow_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/yellow_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/yellow_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/yellow_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/yellow_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/yellow_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/yellow_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/yellow_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/yellow_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/yellow_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/yellow_shulker_box"
       }
@@ -3895,6 +4155,266 @@
   },
   "magenta_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/magenta_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/magenta_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/magenta_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/magenta_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/magenta_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/magenta_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/magenta_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/magenta_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/magenta_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/magenta_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/magenta_shulker_box"
       }
@@ -4233,6 +4753,266 @@
   },
   "lime_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/lime_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/lime_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/lime_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/lime_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/lime_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/lime_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/lime_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/lime_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/lime_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/lime_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/lime_shulker_box"
       }
@@ -4604,6 +5384,266 @@
   },
   "white_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/white_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/white_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/white_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/white_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/white_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/white_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/white_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/white_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/white_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/white_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/white_shulker_box"
       }
@@ -26160,6 +27200,266 @@
   },
   "undyed_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/undyed_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/undyed_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/undyed_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/undyed_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/undyed_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/undyed_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/undyed_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/undyed_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/undyed_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/undyed_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/undyed_shulker_box"
       }
@@ -42239,6 +43539,266 @@
   },
   "pink_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/pink_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/pink_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/pink_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/pink_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/pink_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/pink_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/pink_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/pink_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/pink_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/pink_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/pink_shulker_box"
       }
@@ -42563,6 +44123,266 @@
   },
   "red_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/red_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/red_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/red_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/red_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/red_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/red_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/red_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/red_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/red_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/red_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/red_shulker_box"
       }
@@ -55586,6 +57406,266 @@
   },
   "gray_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/gray_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/gray_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/gray_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/gray_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/gray_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/gray_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/gray_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/gray_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/gray_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/gray_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/gray_shulker_box"
       }
@@ -61523,6 +63603,266 @@
   },
   "light_gray_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/light_gray_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/light_gray_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/light_gray_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/light_gray_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/light_gray_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/light_gray_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/light_gray_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/light_gray_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/light_gray_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/light_gray_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/light_gray_shulker_box"
       }
@@ -63675,6 +66015,266 @@
   },
   "black_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/black_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/black_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/black_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/black_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/black_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/black_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/black_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/black_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/black_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/black_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/black_shulker_box"
       }
@@ -64602,6 +67202,266 @@
   },
   "orange_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/orange_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/orange_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/orange_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/orange_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/orange_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/orange_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/orange_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/orange_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/orange_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/orange_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/orange_shulker_box"
       }
@@ -64877,6 +67737,266 @@
   },
   "blue_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/blue_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/blue_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/blue_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/blue_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/blue_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/blue_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/blue_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/blue_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/blue_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/blue_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/blue_shulker_box"
       }
@@ -65992,6 +69112,266 @@
   },
   "green_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/green_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/green_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/green_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/green_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/green_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/green_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/green_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/green_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/green_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/green_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/green_shulker_box"
       }
@@ -68337,6 +71717,266 @@
   },
   "brown_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/brown_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/brown_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/brown_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/brown_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/brown_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/brown_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/brown_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/brown_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/brown_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/brown_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/brown_shulker_box"
       }
@@ -68783,6 +72423,266 @@
   },
   "light_blue_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/light_blue_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/light_blue_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/light_blue_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/light_blue_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/light_blue_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/light_blue_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/light_blue_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/light_blue_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/light_blue_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/light_blue_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/light_blue_shulker_box"
       }
@@ -69281,6 +73181,266 @@
   },
   "cyan_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/cyan_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/cyan_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/cyan_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/cyan_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/cyan_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/cyan_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/cyan_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/cyan_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/cyan_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/cyan_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/cyan_shulker_box"
       }
@@ -73737,6 +77897,266 @@
   },
   "purple_shulker_box": {
     "variants": {
+      "block_entity.facing=1,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box"
+      },
+      "block_entity.facing=1,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2"
+      },
+      "block_entity.facing=1,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3"
+      },
+      "block_entity.facing=1,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4"
+      },
+      "block_entity.facing=1,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5"
+      },
+      "block_entity.facing=1,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6"
+      },
+      "block_entity.facing=1,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7"
+      },
+      "block_entity.facing=1,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8"
+      },
+      "block_entity.facing=1,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9"
+      },
+      "block_entity.facing=1,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10"
+      },
+      "block_entity.facing=0,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9",
+        "x": 180
+      },
+      "block_entity.facing=0,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10",
+        "x": 180
+      },
+      "block_entity.facing=2,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9",
+        "x": 90
+      },
+      "block_entity.facing=2,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10",
+        "x": 90
+      },
+      "block_entity.facing=3,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=3,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10",
+        "x": 90,
+        "y": 180
+      },
+      "block_entity.facing=4,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=4,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10",
+        "x": 90,
+        "y": 270
+      },
+      "block_entity.facing=5,block_entity.lid=0": {
+        "model": "minecraft:block/purple_shulker_box",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=1": {
+        "model": "minecraft:block/purple_shulker_box_2",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=2": {
+        "model": "minecraft:block/purple_shulker_box_3",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=3": {
+        "model": "minecraft:block/purple_shulker_box_4",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=4": {
+        "model": "minecraft:block/purple_shulker_box_5",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=5": {
+        "model": "minecraft:block/purple_shulker_box_6",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=6": {
+        "model": "minecraft:block/purple_shulker_box_7",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=7": {
+        "model": "minecraft:block/purple_shulker_box_8",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=8": {
+        "model": "minecraft:block/purple_shulker_box_9",
+        "x": 90,
+        "y": 90
+      },
+      "block_entity.facing=5,block_entity.lid=9": {
+        "model": "minecraft:block/purple_shulker_box_10",
+        "x": 90,
+        "y": 90
+      },
       "": {
         "model": "minecraft:block/purple_shulker_box"
       }

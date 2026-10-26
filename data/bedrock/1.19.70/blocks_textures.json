@@ -1041,7 +1041,7 @@
     "name": "undyed_shulker_box",
     "blockState": "undyed_shulker_box",
     "model": "minecraft:blocks/undyed_shulker_box",
-    "texture": "minecraft:blocks/shulker_top_undyed"
+    "texture": "minecraft:blocks/entity__shulker__shulker_undyed"
   },
   {
     "name": "polished_blackstone",
@@ -2025,7 +2025,7 @@
     "name": "shulker_box",
     "blockState": "shulker_box",
     "model": "minecraft:blocks/shulker_box",
-    "texture": "minecraft:blocks/shulker_top_white"
+    "texture": "minecraft:blocks/entity__shulker__shulker_white"
   },
   {
     "name": "golden_rail",
