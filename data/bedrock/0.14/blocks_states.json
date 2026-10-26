@@ -802,56 +802,150 @@
   },
   "oak_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/oak_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/oak_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/oak_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/oak_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/oak_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/oak_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/oak_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/oak_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/oak_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/oak_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/oak_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/oak_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/oak_wood_stairs_20"
       }
     }
   },
   "chest": {
     "variants": {
       "facing_direction=0": {
-        "model": "minecraft:block/chest",
-        "x": 270
+        "model": "minecraft:block/chest"
       },
       "facing_direction=1": {
-        "model": "minecraft:block/chest_2",
-        "x": 90
+        "model": "minecraft:block/chest"
       },
       "facing_direction=2": {
-        "model": "minecraft:block/chest_3",
-        "y": 180
+        "model": "minecraft:block/chest"
       },
       "facing_direction=3": {
-        "model": "minecraft:block/chest_3"
+        "model": "minecraft:block/chest",
+        "y": 180
       },
       "facing_direction=4": {
-        "model": "minecraft:block/chest_3",
-        "y": 90
+        "model": "minecraft:block/chest",
+        "y": 270
       },
       "facing_direction=5": {
-        "model": "minecraft:block/chest_3",
-        "y": 270
+        "model": "minecraft:block/chest",
+        "y": 90
       }
     }
   },
@@ -1014,55 +1108,67 @@
   "sign": {
     "variants": {
       "ground_sign_direction=0": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign",
+        "y": 180
       },
       "ground_sign_direction=1": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_2",
+        "y": 180
       },
       "ground_sign_direction=2": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_3",
+        "y": 180
       },
       "ground_sign_direction=3": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_4",
+        "y": 180
       },
       "ground_sign_direction=4": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign",
+        "y": 270
       },
       "ground_sign_direction=5": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_2",
+        "y": 270
       },
       "ground_sign_direction=6": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_3",
+        "y": 270
       },
       "ground_sign_direction=7": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_4",
+        "y": 270
       },
       "ground_sign_direction=8": {
         "model": "minecraft:block/sign"
       },
       "ground_sign_direction=9": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_2"
       },
       "ground_sign_direction=10": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_3"
       },
       "ground_sign_direction=11": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_4"
       },
       "ground_sign_direction=12": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign",
+        "y": 90
       },
       "ground_sign_direction=13": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_2",
+        "y": 90
       },
       "ground_sign_direction=14": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_3",
+        "y": 90
       },
       "ground_sign_direction=15": {
-        "model": "minecraft:block/sign"
+        "model": "minecraft:block/sign_4",
+        "y": 90
       },
       "ground_sign_direction=undefined": {
-        "model": "minecraft:block/double_stone_slab_3"
+        "model": "minecraft:block/sign_5"
       }
     }
   },
@@ -1141,29 +1247,125 @@
   },
   "cobblestone_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/cobblestone_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/cobblestone_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/cobblestone_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/cobblestone_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/cobblestone_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/cobblestone_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/cobblestone_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/cobblestone_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/cobblestone_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/cobblestone_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/cobblestone_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/cobblestone_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/cobblestone_stairs_20"
       }
     }
   },
@@ -1491,26 +1693,290 @@
     }
   },
   "fence": {
-    "variants": {
-      "wood_type=oak": {
-        "model": "minecraft:block/fence"
+    "multipart": [
+      {
+        "apply": {
+          "model": "minecraft:block/fence"
+        },
+        "when": {
+          "wood_type": "oak"
+        }
       },
-      "wood_type=spruce": {
-        "model": "minecraft:block/fence_2"
+      {
+        "apply": {
+          "model": "minecraft:block/fence_2"
+        },
+        "when": {
+          "wood_type": "oak",
+          "minecraft:connection_north": "1"
+        }
       },
-      "wood_type=birch": {
-        "model": "minecraft:block/fence_3"
+      {
+        "apply": {
+          "model": "minecraft:block/fence_2",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "oak",
+          "minecraft:connection_east": "1"
+        }
       },
-      "wood_type=jungle": {
-        "model": "minecraft:block/fence_4"
+      {
+        "apply": {
+          "model": "minecraft:block/fence_2",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "oak",
+          "minecraft:connection_south": "1"
+        }
       },
-      "wood_type=acacia": {
-        "model": "minecraft:block/fence_5"
+      {
+        "apply": {
+          "model": "minecraft:block/fence_2",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "oak",
+          "minecraft:connection_west": "1"
+        }
       },
-      "wood_type=dark_oak": {
-        "model": "minecraft:block/fence_6"
+      {
+        "apply": {
+          "model": "minecraft:block/fence_3"
+        },
+        "when": {
+          "wood_type": "spruce"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_4"
+        },
+        "when": {
+          "wood_type": "spruce",
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_4",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "spruce",
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_4",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "spruce",
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_4",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "spruce",
+          "minecraft:connection_west": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_5"
+        },
+        "when": {
+          "wood_type": "birch"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_6"
+        },
+        "when": {
+          "wood_type": "birch",
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_6",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "birch",
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_6",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "birch",
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_6",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "birch",
+          "minecraft:connection_west": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_7"
+        },
+        "when": {
+          "wood_type": "jungle"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_8"
+        },
+        "when": {
+          "wood_type": "jungle",
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_8",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "jungle",
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_8",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "jungle",
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_8",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "jungle",
+          "minecraft:connection_west": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_9"
+        },
+        "when": {
+          "wood_type": "acacia"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_10"
+        },
+        "when": {
+          "wood_type": "acacia",
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_10",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "acacia",
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_10",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "acacia",
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_10",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "acacia",
+          "minecraft:connection_west": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_11"
+        },
+        "when": {
+          "wood_type": "dark_oak"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_12"
+        },
+        "when": {
+          "wood_type": "dark_oak",
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_12",
+          "y": 90
+        },
+        "when": {
+          "wood_type": "dark_oak",
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_12",
+          "y": 180
+        },
+        "when": {
+          "wood_type": "dark_oak",
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/fence_12",
+          "y": 270
+        },
+        "when": {
+          "wood_type": "dark_oak",
+          "minecraft:connection_west": "1"
+        }
       }
-    }
+    ]
   },
   "pumpkin": {
     "variants": {
@@ -1777,24 +2243,178 @@
       {
         "apply": {
           "model": "minecraft:block/iron_bars_2"
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/iron_bars_2",
           "y": 90
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/iron_bars_2",
           "y": 180
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/iron_bars_2",
           "y": 270
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            }
+          ]
         }
       }
     ]
@@ -1809,24 +2429,178 @@
       {
         "apply": {
           "model": "minecraft:block/glass_pane_2"
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/glass_pane_2",
           "y": 90
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/glass_pane_2",
           "y": 180
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "0|1"
+            }
+          ]
         }
       },
       {
         "apply": {
           "model": "minecraft:block/glass_pane_2",
           "y": 270
+        },
+        "when": {
+          "OR": [
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "0|1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "0",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "0",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "0",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            },
+            {
+              "minecraft:connection_north": "1",
+              "minecraft:connection_east": "1",
+              "minecraft:connection_south": "1",
+              "minecraft:connection_west": "1"
+            }
+          ]
         }
       }
     ]
@@ -2012,57 +2786,249 @@
   },
   "brick_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/brick_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/brick_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/brick_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/brick_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/brick_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/brick_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/brick_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/brick_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/brick_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/brick_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/brick_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/brick_stairs_20"
       }
     }
   },
   "stone_brick_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/stone_brick_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/stone_brick_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/stone_brick_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/stone_brick_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/stone_brick_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/stone_brick_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/stone_brick_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/stone_brick_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/stone_brick_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/stone_brick_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/stone_brick_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/stone_brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/stone_brick_stairs_20"
       }
     }
   },
@@ -2088,37 +3054,170 @@
     }
   },
   "nether_brick_fence": {
-    "variants": {
-      "": {
-        "model": "minecraft:block/nether_brick_fence"
+    "multipart": [
+      {
+        "apply": {
+          "model": "minecraft:block/nether_brick_fence"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/nether_brick_fence_2"
+        },
+        "when": {
+          "minecraft:connection_north": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/nether_brick_fence_2",
+          "y": 90
+        },
+        "when": {
+          "minecraft:connection_east": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/nether_brick_fence_2",
+          "y": 180
+        },
+        "when": {
+          "minecraft:connection_south": "1"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/nether_brick_fence_2",
+          "y": 270
+        },
+        "when": {
+          "minecraft:connection_west": "1"
+        }
       }
-    }
+    ]
   },
   "nether_brick_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/nether_brick_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/nether_brick_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/nether_brick_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/nether_brick_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/nether_brick_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/nether_brick_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/nether_brick_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/nether_brick_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/nether_brick_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/nether_brick_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/nether_brick_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/nether_brick_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/nether_brick_stairs_20"
       }
     }
   },
@@ -2276,29 +3375,125 @@
   },
   "sandstone_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/sandstone_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/sandstone_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/sandstone_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/sandstone_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/sandstone_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/sandstone_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/sandstone_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/sandstone_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/sandstone_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/sandstone_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/sandstone_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/sandstone_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/sandstone_stairs_20"
       }
     }
   },
@@ -2350,137 +3545,419 @@
   },
   "spruce_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/spruce_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/spruce_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/spruce_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/spruce_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/spruce_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/spruce_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/spruce_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/spruce_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/spruce_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/spruce_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/spruce_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/spruce_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/spruce_wood_stairs_20"
       }
     }
   },
   "birch_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/birch_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/birch_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/birch_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/birch_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/birch_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/birch_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/birch_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/birch_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/birch_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/birch_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/birch_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/birch_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/birch_wood_stairs_20"
       }
     }
   },
   "jungle_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/jungle_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/jungle_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/jungle_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/jungle_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/jungle_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/jungle_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/jungle_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/jungle_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/jungle_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/jungle_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/jungle_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/jungle_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/jungle_wood_stairs_20"
       }
     }
   },
   "cobblestone_wall": {
     "variants": {
-      "wall_block_type=cobblestone,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=mossy_cobblestone,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=granite,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=diorite,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=andesite,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=sandstone,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=stone_brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=mossy_stone_brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=nether_brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=end_brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=prismarine,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=red_sandstone,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=red_nether_brick,wall_post_bit=0": {
-        "model": "minecraft:block/air"
-      },
-      "wall_block_type=cobblestone,wall_post_bit=1": {
+      "wall_block_type=cobblestone": {
         "model": "minecraft:block/cobblestone_wall"
       },
-      "wall_block_type=mossy_cobblestone,wall_post_bit=1": {
+      "wall_block_type=mossy_cobblestone": {
         "model": "minecraft:block/cobblestone_wall_2"
+      },
+      "wall_block_type=granite": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=diorite": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=andesite": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=sandstone": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=brick": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=stone_brick": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=mossy_stone_brick": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=nether_brick": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=end_brick": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=prismarine": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=red_sandstone": {
+        "model": "minecraft:block/cobblestone_wall"
+      },
+      "wall_block_type=red_nether_brick": {
+        "model": "minecraft:block/cobblestone_wall"
       }
     }
   },
@@ -2613,27 +4090,25 @@
   "trapped_chest": {
     "variants": {
       "facing_direction=0": {
-        "model": "minecraft:block/chest",
-        "x": 270
+        "model": "minecraft:block/trapped_chest"
       },
       "facing_direction=1": {
-        "model": "minecraft:block/chest_2",
-        "x": 90
+        "model": "minecraft:block/trapped_chest"
       },
       "facing_direction=2": {
-        "model": "minecraft:block/chest_3",
-        "y": 180
+        "model": "minecraft:block/trapped_chest"
       },
       "facing_direction=3": {
-        "model": "minecraft:block/chest_3"
+        "model": "minecraft:block/trapped_chest",
+        "y": 180
       },
       "facing_direction=4": {
-        "model": "minecraft:block/chest_3",
-        "y": 90
+        "model": "minecraft:block/trapped_chest",
+        "y": 270
       },
       "facing_direction=5": {
-        "model": "minecraft:block/chest_3",
-        "y": 270
+        "model": "minecraft:block/trapped_chest",
+        "y": 90
       }
     }
   },
@@ -2764,29 +4239,125 @@
   },
   "quartz_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/quartz_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/quartz_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/quartz_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/quartz_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/quartz_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/quartz_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/quartz_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/quartz_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/quartz_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/quartz_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/quartz_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/quartz_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/quartz_stairs_20"
       }
     }
   },
@@ -2962,57 +4533,249 @@
   },
   "acacia_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/acacia_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/acacia_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/acacia_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/acacia_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/acacia_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/acacia_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/acacia_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/acacia_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/acacia_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/acacia_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/acacia_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/acacia_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/acacia_wood_stairs_20"
       }
     }
   },
   "dark_oak_wood_stairs": {
     "variants": {
-      "upside_down_bit=0,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=none": {
         "model": "minecraft:block/dark_oak_wood_stairs"
       },
-      "upside_down_bit=0,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_left": {
         "model": "minecraft:block/dark_oak_wood_stairs_2"
       },
-      "upside_down_bit=0,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=inner_right": {
         "model": "minecraft:block/dark_oak_wood_stairs_3"
       },
-      "upside_down_bit=0,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_left": {
         "model": "minecraft:block/dark_oak_wood_stairs_4"
       },
-      "upside_down_bit=1,weirdo_direction=0": {
+      "upside_down_bit=0,weirdo_direction=0,minecraft:corner=outer_right": {
         "model": "minecraft:block/dark_oak_wood_stairs_5"
       },
-      "upside_down_bit=1,weirdo_direction=1": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=none": {
         "model": "minecraft:block/dark_oak_wood_stairs_6"
       },
-      "upside_down_bit=1,weirdo_direction=2": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_left": {
         "model": "minecraft:block/dark_oak_wood_stairs_7"
       },
-      "upside_down_bit=1,weirdo_direction=3": {
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=inner_right": {
         "model": "minecraft:block/dark_oak_wood_stairs_8"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_11"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_12"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_13"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_5"
+      },
+      "upside_down_bit=0,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_9"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_14"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_15"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_16"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_10"
+      },
+      "upside_down_bit=0,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_4"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_17"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_18"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_19"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_20"
+      },
+      "upside_down_bit=1,weirdo_direction=0,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_22"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_23"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_24"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=1,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_27"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_28"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_29"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_21"
+      },
+      "upside_down_bit=1,weirdo_direction=2,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_25"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=none": {
+        "model": "minecraft:block/dark_oak_wood_stairs_30"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_31"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=inner_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_32"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_left": {
+        "model": "minecraft:block/dark_oak_wood_stairs_26"
+      },
+      "upside_down_bit=1,weirdo_direction=3,minecraft:corner=outer_right": {
+        "model": "minecraft:block/dark_oak_wood_stairs_20"
       }
     }
   },

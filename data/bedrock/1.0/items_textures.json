@@ -477,7 +477,7 @@
   {
     "name": "end_portal",
     "model": "end_portal",
-    "texture": "minecraft:items/end_sky"
+    "texture": "minecraft:block/end_portal"
   },
   {
     "name": "end_portal_frame",
@@ -797,17 +797,17 @@
   {
     "name": "end_gateway",
     "model": "end_gateway",
-    "texture": "minecraft:items/end_sky"
+    "texture": "minecraft:block/end_gateway"
   },
   {
     "name": "allow",
     "model": "allow",
-    "texture": "minecraft:block/missing_tile"
+    "texture": "minecraft:block/build_allow"
   },
   {
     "name": "deny",
     "model": "deny",
-    "texture": "minecraft:block/missing_tile"
+    "texture": "minecraft:block/build_deny"
   },
   {
     "name": "border_block",

@@ -307,22 +307,22 @@
   {
     "name": "cut_red_sandstone_double_slab",
     "model": "cut_red_sandstone_double_slab",
-    "texture": "minecraft:block/stonebrick_mossy"
+    "texture": "minecraft:block/red_sandstone_smooth"
   },
   {
     "name": "cut_sandstone_double_slab",
     "model": "cut_sandstone_double_slab",
-    "texture": "minecraft:block/stonebrick_mossy"
+    "texture": "minecraft:block/sandstone_smooth"
   },
   {
     "name": "normal_stone_double_slab",
     "model": "normal_stone_double_slab",
-    "texture": "minecraft:block/stonebrick_mossy"
+    "texture": "minecraft:block/stone"
   },
   {
     "name": "smooth_quartz_double_slab",
     "model": "smooth_quartz_double_slab",
-    "texture": "minecraft:block/stonebrick_mossy"
+    "texture": "minecraft:block/quartz_block_bottom"
   },
   {
     "name": "polished_granite_double_slab",
@@ -6707,7 +6707,7 @@
   {
     "name": "shield",
     "model": "shield",
-    "texture": "minecraft:items/shield"
+    "texture": "minecraft:items/entity__shield"
   },
   {
     "name": "flint",
@@ -7197,7 +7197,7 @@
   {
     "name": "bat_spawn_egg",
     "model": "bat_spawn_egg",
-    "texture": "minecraft:items/egg_bat"
+    "texture": "minecraft:items/spawn_egg_bat"
   },
   {
     "name": "ghast_spawn_egg",
@@ -7312,7 +7312,7 @@
   {
     "name": "evoker_spawn_egg",
     "model": "evoker_spawn_egg",
-    "texture": "minecraft:items/egg_evoker"
+    "texture": "minecraft:items/spawn_egg_evoker"
   },
   {
     "name": "vex_spawn_egg",
@@ -7942,7 +7942,7 @@
   {
     "name": "camera",
     "model": "camera",
-    "texture": null
+    "texture": "minecraft:block/camera_back"
   },
   {
     "name": "compound",
@@ -8707,7 +8707,7 @@
   {
     "name": "light_block",
     "model": "light_block",
-    "texture": null
+    "texture": "minecraft:items/light_block_15"
   },
   {
     "name": "boat",

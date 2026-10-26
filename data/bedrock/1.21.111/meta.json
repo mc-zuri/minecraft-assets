@@ -10,16 +10,23 @@
     "kind": "client",
     "build": "1.21.113.1"
   },
+  "later": [
+    {
+      "kind": "client",
+      "build": "1.26.51.1"
+    },
+    {
+      "kind": "client",
+      "build": "1.21.113.1"
+    }
+  ],
   "blocks": 1321,
   "states": 15845,
-  "models": 2949,
-  "textures": 1282,
+  "models": 4300,
+  "textures": 1309,
   "items": 1888,
   "itemTextures": 595,
-  "itemsWithoutIcon": [
-    "camera",
-    "light_block"
-  ],
+  "itemsWithoutIcon": [],
   "shapes": {
     "Block": 1187,
     "Candle": 136,
@@ -33,10 +40,10 @@
     "BambooBlock": 6,
     "Invisible": 53,
     "Wall": 4374,
-    "DoubleSideFence": 34,
+    "DoubleSideFence": 544,
     "FenceGate": 192,
     "Shelf": 384,
-    "Stairs": 464,
+    "Stairs": 2320,
     "ShulkerBox": 17,
     "CandleCake": 34,
     "BlockHalf": 125,
@@ -58,11 +65,11 @@
     "CrystalCluster": 24,
     "Rail": 46,
     "DoublesidedRows": 36,
-    "Fence": 13,
+    "Fence": 208,
     "Comparator": 32,
     "Eyeblossom": 2,
     "Fire": 32,
-    "MetalBars": 9,
+    "MetalBars": 144,
     "BlockActorRendererOnly": 36,
     "CameraFacingSprite": 17,
     "MultifaceBlock": 192,
@@ -139,13 +146,7 @@
     "Ladder": 6,
     "CartographyTable": 1
   },
-  "missingTile": [
-    "air",
-    "chalkboard",
-    "client_request_placeholder_block",
-    "moving_block",
-    "unknown"
-  ],
+  "missingTile": [],
   "unrendered": [],
   "missingTextures": [],
   "failed": []

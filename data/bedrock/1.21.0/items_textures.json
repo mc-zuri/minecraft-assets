@@ -3177,7 +3177,7 @@
   {
     "name": "light_block",
     "model": "light_block",
-    "texture": "minecraft:block/missing_tile"
+    "texture": "minecraft:items/light_block_15"
   },
   {
     "name": "lit_blast_furnace",
@@ -6022,7 +6022,7 @@
   {
     "name": "shield",
     "model": "shield",
-    "texture": "minecraft:items/shield"
+    "texture": "minecraft:items/entity__shield"
   },
   {
     "name": "flint",
@@ -6517,7 +6517,7 @@
   {
     "name": "bat_spawn_egg",
     "model": "bat_spawn_egg",
-    "texture": "minecraft:items/egg_bat"
+    "texture": "minecraft:items/spawn_egg_bat"
   },
   {
     "name": "ghast_spawn_egg",
@@ -6632,7 +6632,7 @@
   {
     "name": "evoker_spawn_egg",
     "model": "evoker_spawn_egg",
-    "texture": "minecraft:items/egg_evoker"
+    "texture": "minecraft:items/spawn_egg_evoker"
   },
   {
     "name": "vex_spawn_egg",
@@ -7192,42 +7192,42 @@
   {
     "name": "flower_banner_pattern",
     "model": "flower_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/flower_banner_pattern"
   },
   {
     "name": "creeper_banner_pattern",
     "model": "creeper_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/creeper_banner_pattern"
   },
   {
     "name": "skull_banner_pattern",
     "model": "skull_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/skull_banner_pattern"
   },
   {
     "name": "mojang_banner_pattern",
     "model": "mojang_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/mojang_banner_pattern"
   },
   {
     "name": "field_masoned_banner_pattern",
     "model": "field_masoned_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/field_masoned_banner_pattern"
   },
   {
     "name": "bordure_indented_banner_pattern",
     "model": "bordure_indented_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/bordure_indented_banner_pattern"
   },
   {
     "name": "piglin_banner_pattern",
     "model": "piglin_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/piglin_banner_pattern"
   },
   {
     "name": "globe_banner_pattern",
     "model": "globe_banner_pattern",
-    "texture": "minecraft:items/banner_pattern"
+    "texture": "minecraft:items/globe_banner_pattern"
   },
   {
     "name": "flow_banner_pattern",
@@ -7267,7 +7267,7 @@
   {
     "name": "camera",
     "model": "camera",
-    "texture": null
+    "texture": "minecraft:block/camera_back"
   },
   {
     "name": "compound",

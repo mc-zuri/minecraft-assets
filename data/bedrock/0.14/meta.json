@@ -9,10 +9,20 @@
     "kind": "client",
     "build": "0.15.0.0"
   },
+  "later": [
+    {
+      "kind": "client",
+      "build": "1.26.51.1"
+    },
+    {
+      "kind": "client",
+      "build": "0.15.0.0"
+    }
+  ],
   "blocks": 161,
   "states": 161,
-  "models": 672,
-  "textures": 331,
+  "models": 990,
+  "textures": 339,
   "items": 287,
   "itemTextures": 162,
   "itemsWithoutIcon": [
@@ -41,7 +51,7 @@
     "BlockHalf": 29,
     "Torch": 18,
     "Fire": 16,
-    "Stairs": 96,
+    "Stairs": 480,
     "Chest": 12,
     "RedDust": 16,
     "DoublesidedRows": 36,
@@ -51,11 +61,11 @@
     "Lever": 16,
     "TopSnow": 16,
     "Cactus": 16,
-    "Fence": 7,
+    "Fence": 112,
     "Repeater": 32,
     "Trapdoor": 32,
-    "MetalBars": 1,
-    "DoubleSideFence": 1,
+    "MetalBars": 16,
+    "DoubleSideFence": 16,
     "Stem": 32,
     "Vine": 16,
     "FenceGate": 96,
@@ -74,9 +84,7 @@
     "DoublesidedDoublePlant": 12,
     "ItemFrame": 16
   },
-  "missingTile": [
-    "air"
-  ],
+  "missingTile": [],
   "unrendered": [],
   "missingTextures": [],
   "failed": []

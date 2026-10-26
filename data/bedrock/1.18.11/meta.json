@@ -5,22 +5,30 @@
     "build": "1.18.12.1",
     "match": "hotfix"
   },
+  "later": [
+    {
+      "kind": "client",
+      "build": "1.26.51.1"
+    },
+    {
+      "kind": "client",
+      "build": "1.18.12.1"
+    }
+  ],
   "blocks": 708,
   "states": 7946,
-  "models": 2293,
-  "textures": 1008,
+  "models": 3374,
+  "textures": 1021,
   "items": 1090,
-  "itemTextures": 388,
+  "itemTextures": 398,
   "itemsWithoutIcon": [
-    "camera",
-    "allay_spawn_egg",
     "firefly_spawn_egg"
   ],
   "shapes": {
     "Block": 947,
     "Door": 288,
     "FenceGate": 128,
-    "Stairs": 384,
+    "Stairs": 1920,
     "Sign": 176,
     "Trapdoor": 144,
     "Rail": 46,
@@ -64,7 +72,7 @@
     "Composter": 9,
     "Conduit": 1,
     "CoralFan": 68,
-    "Fence": 9,
+    "Fence": 144,
     "DoublesidedDoublePlant": 12,
     "DragonEgg": 1,
     "DriedKelpBlock": 1,
@@ -78,13 +86,13 @@
     "Water": 64,
     "ItemFrame": 24,
     "FrogSpawn": 1,
-    "DoubleSideFence": 34,
+    "DoubleSideFence": 544,
     "GlowItemFrame": 24,
     "MultifaceBlock": 128,
     "Grindstone": 16,
     "HoneyBlock": 1,
     "Hopper": 12,
-    "MetalBars": 1,
+    "MetalBars": 16,
     "Kelp": 26,
     "Ladder": 6,
     "Lantern": 4,
@@ -120,12 +128,8 @@
     "WeepingVine": 26
   },
   "missingTile": [
-    "air",
-    "client_request_placeholder_block",
-    "light_block",
     "mysterious_frame",
-    "mysterious_frame_slot",
-    "unknown"
+    "mysterious_frame_slot"
   ],
   "unrendered": [
     "mysterious_frame",

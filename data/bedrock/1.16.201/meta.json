@@ -5,20 +5,28 @@
     "build": "1.16.201.2",
     "match": "exact"
   },
+  "later": [
+    {
+      "kind": "client",
+      "build": "1.26.51.1"
+    },
+    {
+      "kind": "client",
+      "build": "1.16.210.5"
+    }
+  ],
   "blocks": 554,
   "states": 6611,
-  "models": 1772,
-  "textures": 874,
+  "models": 2661,
+  "textures": 887,
   "items": 914,
-  "itemTextures": 352,
-  "itemsWithoutIcon": [
-    "camera"
-  ],
+  "itemTextures": 360,
+  "itemsWithoutIcon": [],
   "shapes": {
     "Block": 865,
     "Door": 288,
     "FenceGate": 128,
-    "Stairs": 288,
+    "Stairs": 1440,
     "Sign": 176,
     "Trapdoor": 144,
     "Rail": 46,
@@ -55,7 +63,7 @@
     "Composter": 9,
     "Conduit": 1,
     "CoralFan": 68,
-    "Fence": 9,
+    "Fence": 144,
     "DoublesidedDoublePlant": 12,
     "DragonEgg": 1,
     "DriedKelpBlock": 1,
@@ -68,11 +76,11 @@
     "FlowerPot": 2,
     "Water": 64,
     "ItemFrame": 12,
-    "DoubleSideFence": 34,
+    "DoubleSideFence": 544,
     "Grindstone": 16,
     "HoneyBlock": 1,
     "Hopper": 12,
-    "MetalBars": 1,
+    "MetalBars": 16,
     "Kelp": 26,
     "Ladder": 6,
     "Lantern": 4,
@@ -100,11 +108,7 @@
     "Lilypad": 1,
     "WeepingVine": 26
   },
-  "missingTile": [
-    "air",
-    "light_block",
-    "unknown"
-  ],
+  "missingTile": [],
   "unrendered": [],
   "missingTextures": [],
   "failed": []

@@ -6869,7 +6869,7 @@
   },
   {
     "name": "camera",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaklEQVR42mNYUqT+H4Sbo+RJwjB9DBQbABNw1BcnCcP0Ud8ACQkJvHgkGJDoKIYX084AWMLY0OoKxitWrADjoKAgMIaJoyc86hmAjmtra8FYRUUFjHGpo9wAdCfBAgumEYZh4gRzI6kGAAAz4NFMZVrC/wAAAABJRU5ErkJggg=="
   },
   {
     "name": "compound",
@@ -7761,7 +7761,7 @@
   },
   {
     "name": "light_block",
-    "texture": null
+    "texture": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABdElEQVR42mP4//8/gzSPNE78/3JYKQjjU4NPHSH9DEgOmCbNI/0fSsPYyHgaLR0AtjAk5D/cQhAbGYPE/l8OWwgzEMomyCcUcjAHoFiE7hgQTvTUvUFLB+ANARQHvNnxnyiMcAhKFKDzsTogyEbzGLLvUaKARg7A8DHWNAAxGBLU3278B2NE0KNiTIdgjRKUEEBL8ShpoDIjhqYOYMAVVEgGoVt8GwfG6xB08wePA3AVIHgc8AcHRnUImn58JeHAOgBLEKEbADMYYhEMoPPRo4iCNEBfBxARBRADoeDo0aNgjMEn0gHkpAHaOgBnFGBGBTjI4RbCogA9cRIoiIhPA/RyAKGGBrpD0B0A56NnWxJaRIPLATiLZlwOIWAx2blgwBxARCsYZNn/np4eMIbxSTVn6DgAPQh3LV/9Hxlvmb8EjEntTwwdB6DjS6fP/EfGpw4eBmO6pYEBd0BTTuF/EO6vqAPjgvAYMB45DoBhci0eNA4AAHKi/fPggE0iAAAAAElFTkSuQmCC"
   },
   {
     "name": "boat",

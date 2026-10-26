@@ -21,7 +21,7 @@
     "name": "birch_standing_sign",
     "blockState": "birch_standing_sign",
     "model": "minecraft:blocks/birch_standing_sign",
-    "texture": "minecraft:blocks/planks_birch"
+    "texture": "minecraft:blocks/entity__sign_birch"
   },
   {
     "name": "polished_basalt",
@@ -110,7 +110,7 @@
   {
     "name": "nether_brick_stairs",
     "blockState": "nether_brick_stairs",
-    "model": "minecraft:blocks/nether_brick_stairs",
+    "model": "minecraft:blocks/nether_brick_stairs_5",
     "texture": "minecraft:blocks/nether_brick"
   },
   {
@@ -146,7 +146,7 @@
   {
     "name": "spruce_stairs",
     "blockState": "spruce_stairs",
-    "model": "minecraft:blocks/spruce_stairs",
+    "model": "minecraft:blocks/spruce_stairs_5",
     "texture": "minecraft:blocks/planks_spruce"
   },
   {
@@ -195,7 +195,7 @@
     "name": "crimson_wall_sign",
     "blockState": "crimson_wall_sign",
     "model": "minecraft:blocks/crimson_wall_sign",
-    "texture": "minecraft:blocks/crimson_planks"
+    "texture": "minecraft:blocks/entity__sign_crimson"
   },
   {
     "name": "yellow_stained_glass_pane",
@@ -224,7 +224,7 @@
   {
     "name": "cobbled_deepslate_stairs",
     "blockState": "cobbled_deepslate_stairs",
-    "model": "minecraft:blocks/cobbled_deepslate_stairs",
+    "model": "minecraft:blocks/cobbled_deepslate_stairs_5",
     "texture": "minecraft:blocks/cobbled_deepslate"
   },
   {
@@ -266,7 +266,7 @@
   {
     "name": "prismarine_bricks_stairs",
     "blockState": "prismarine_bricks_stairs",
-    "model": "minecraft:blocks/prismarine_bricks_stairs",
+    "model": "minecraft:blocks/prismarine_bricks_stairs_5",
     "texture": "minecraft:blocks/prismarine_bricks"
   },
   {
@@ -428,7 +428,7 @@
   {
     "name": "oak_stairs",
     "blockState": "oak_stairs",
-    "model": "minecraft:blocks/oak_stairs",
+    "model": "minecraft:blocks/oak_stairs_5",
     "texture": "minecraft:blocks/planks_oak"
   },
   {
@@ -530,7 +530,7 @@
   {
     "name": "polished_deepslate_stairs",
     "blockState": "polished_deepslate_stairs",
-    "model": "minecraft:blocks/polished_deepslate_stairs",
+    "model": "minecraft:blocks/polished_deepslate_stairs_5",
     "texture": "minecraft:blocks/polished_deepslate"
   },
   {
@@ -602,7 +602,7 @@
   {
     "name": "oxidized_cut_copper_stairs",
     "blockState": "oxidized_cut_copper_stairs",
-    "model": "minecraft:blocks/oxidized_cut_copper_stairs",
+    "model": "minecraft:blocks/oxidized_cut_copper_stairs_5",
     "texture": "minecraft:blocks/oxidized_cut_copper"
   },
   {
@@ -657,7 +657,7 @@
     "name": "warped_wall_sign",
     "blockState": "warped_wall_sign",
     "model": "minecraft:blocks/warped_wall_sign",
-    "texture": "minecraft:blocks/warped_planks"
+    "texture": "minecraft:blocks/entity__sign_warped"
   },
   {
     "name": "spruce_fence",
@@ -680,7 +680,7 @@
   {
     "name": "waxed_cut_copper_stairs",
     "blockState": "waxed_cut_copper_stairs",
-    "model": "minecraft:blocks/waxed_cut_copper_stairs",
+    "model": "minecraft:blocks/waxed_cut_copper_stairs_5",
     "texture": "minecraft:blocks/cut_copper"
   },
   {
@@ -794,7 +794,7 @@
   {
     "name": "normal_stone_stairs",
     "blockState": "normal_stone_stairs",
-    "model": "minecraft:blocks/normal_stone_stairs",
+    "model": "minecraft:blocks/normal_stone_stairs_5",
     "texture": "minecraft:blocks/stone"
   },
   {
@@ -896,7 +896,7 @@
   {
     "name": "crimson_double_slab",
     "blockState": "crimson_double_slab",
-    "model": "minecraft:blocks/crimson_wall_sign",
+    "model": "minecraft:blocks/crimson_double_slab",
     "texture": "minecraft:blocks/crimson_planks"
   },
   {
@@ -962,7 +962,7 @@
   {
     "name": "bamboo_stairs",
     "blockState": "bamboo_stairs",
-    "model": "minecraft:blocks/bamboo_stairs",
+    "model": "minecraft:blocks/bamboo_stairs_5",
     "texture": "minecraft:blocks/bamboo_planks"
   },
   {
@@ -1028,7 +1028,7 @@
   {
     "name": "warped_planks",
     "blockState": "warped_planks",
-    "model": "minecraft:blocks/warped_wall_sign",
+    "model": "minecraft:blocks/warped_planks",
     "texture": "minecraft:blocks/warped_planks"
   },
   {
@@ -1052,7 +1052,7 @@
   {
     "name": "stone_brick_stairs",
     "blockState": "stone_brick_stairs",
-    "model": "minecraft:blocks/stone_brick_stairs",
+    "model": "minecraft:blocks/stone_brick_stairs_5",
     "texture": "minecraft:blocks/stonebrick"
   },
   {
@@ -1256,7 +1256,7 @@
   {
     "name": "granite_stairs",
     "blockState": "granite_stairs",
-    "model": "minecraft:blocks/granite_stairs",
+    "model": "minecraft:blocks/granite_stairs_5",
     "texture": "minecraft:blocks/stone_granite"
   },
   {
@@ -1334,7 +1334,7 @@
   {
     "name": "sandstone_stairs",
     "blockState": "sandstone_stairs",
-    "model": "minecraft:blocks/sandstone_stairs",
+    "model": "minecraft:blocks/sandstone_stairs_5",
     "texture": "minecraft:blocks/sandstone_top"
   },
   {
@@ -1394,7 +1394,7 @@
   {
     "name": "smooth_sandstone_stairs",
     "blockState": "smooth_sandstone_stairs",
-    "model": "minecraft:blocks/smooth_sandstone_stairs",
+    "model": "minecraft:blocks/smooth_sandstone_stairs_5",
     "texture": "minecraft:blocks/sandstone_top"
   },
   {
@@ -1431,7 +1431,7 @@
     "name": "acacia_wall_sign",
     "blockState": "acacia_wall_sign",
     "model": "minecraft:blocks/acacia_wall_sign",
-    "texture": "minecraft:blocks/planks_acacia"
+    "texture": "minecraft:blocks/entity__sign_acacia"
   },
   {
     "name": "light_weighted_pressure_plate",
@@ -1472,7 +1472,7 @@
   {
     "name": "stone_stairs",
     "blockState": "stone_stairs",
-    "model": "minecraft:blocks/stone_stairs",
+    "model": "minecraft:blocks/stone_stairs_5",
     "texture": "minecraft:blocks/cobblestone"
   },
   {
@@ -1502,7 +1502,7 @@
   {
     "name": "warped_stairs",
     "blockState": "warped_stairs",
-    "model": "minecraft:blocks/warped_stairs",
+    "model": "minecraft:blocks/warped_stairs_5",
     "texture": "minecraft:blocks/warped_planks"
   },
   {
@@ -1652,7 +1652,7 @@
   {
     "name": "waxed_exposed_cut_copper_stairs",
     "blockState": "waxed_exposed_cut_copper_stairs",
-    "model": "minecraft:blocks/waxed_exposed_cut_copper_stairs",
+    "model": "minecraft:blocks/waxed_exposed_cut_copper_stairs_5",
     "texture": "minecraft:blocks/exposed_cut_copper"
   },
   {
@@ -1688,7 +1688,7 @@
   {
     "name": "mossy_cobblestone_stairs",
     "blockState": "mossy_cobblestone_stairs",
-    "model": "minecraft:blocks/mossy_cobblestone_stairs",
+    "model": "minecraft:blocks/mossy_cobblestone_stairs_5",
     "texture": "minecraft:blocks/cobblestone_mossy"
   },
   {
@@ -1730,7 +1730,7 @@
   {
     "name": "polished_granite_stairs",
     "blockState": "polished_granite_stairs",
-    "model": "minecraft:blocks/polished_granite_stairs",
+    "model": "minecraft:blocks/polished_granite_stairs_5",
     "texture": "minecraft:blocks/stone_granite_smooth"
   },
   {
@@ -1839,7 +1839,7 @@
     "name": "mangrove_standing_sign",
     "blockState": "mangrove_standing_sign",
     "model": "minecraft:blocks/mangrove_standing_sign",
-    "texture": "minecraft:blocks/mangrove_planks"
+    "texture": "minecraft:blocks/entity__mangrove_sign"
   },
   {
     "name": "stripped_mangrove_wood",
@@ -1964,13 +1964,13 @@
   {
     "name": "polished_blackstone_stairs",
     "blockState": "polished_blackstone_stairs",
-    "model": "minecraft:blocks/polished_blackstone_stairs",
+    "model": "minecraft:blocks/polished_blackstone_stairs_5",
     "texture": "minecraft:blocks/polished_blackstone"
   },
   {
     "name": "weathered_cut_copper_stairs",
     "blockState": "weathered_cut_copper_stairs",
-    "model": "minecraft:blocks/weathered_cut_copper_stairs",
+    "model": "minecraft:blocks/weathered_cut_copper_stairs_5",
     "texture": "minecraft:blocks/weathered_cut_copper"
   },
   {
@@ -2079,7 +2079,7 @@
     "name": "ender_chest",
     "blockState": "ender_chest",
     "model": "minecraft:blocks/ender_chest",
-    "texture": "minecraft:blocks/ender_chest_top"
+    "texture": "minecraft:blocks/entity__chest__ender"
   },
   {
     "name": "medium_amethyst_bud",
@@ -2096,14 +2096,14 @@
   {
     "name": "warped_double_slab",
     "blockState": "warped_double_slab",
-    "model": "minecraft:blocks/warped_wall_sign",
+    "model": "minecraft:blocks/warped_planks",
     "texture": "minecraft:blocks/warped_planks"
   },
   {
     "name": "jungle_wall_sign",
     "blockState": "jungle_wall_sign",
     "model": "minecraft:blocks/jungle_wall_sign",
-    "texture": "minecraft:blocks/planks_jungle"
+    "texture": "minecraft:blocks/entity__sign_jungle"
   },
   {
     "name": "sculk_sensor",
@@ -2120,7 +2120,7 @@
   {
     "name": "diorite_stairs",
     "blockState": "diorite_stairs",
-    "model": "minecraft:blocks/diorite_stairs",
+    "model": "minecraft:blocks/diorite_stairs_5",
     "texture": "minecraft:blocks/stone_diorite"
   },
   {
@@ -2156,7 +2156,7 @@
   {
     "name": "acacia_planks",
     "blockState": "acacia_planks",
-    "model": "minecraft:blocks/acacia_wall_sign",
+    "model": "minecraft:blocks/acacia_planks",
     "texture": "minecraft:blocks/planks_acacia"
   },
   {
@@ -2180,7 +2180,7 @@
   {
     "name": "polished_blackstone_brick_stairs",
     "blockState": "polished_blackstone_brick_stairs",
-    "model": "minecraft:blocks/polished_blackstone_brick_stairs",
+    "model": "minecraft:blocks/polished_blackstone_brick_stairs_5",
     "texture": "minecraft:blocks/polished_blackstone_bricks"
   },
   {
@@ -2330,13 +2330,13 @@
   {
     "name": "exposed_cut_copper_stairs",
     "blockState": "exposed_cut_copper_stairs",
-    "model": "minecraft:blocks/waxed_exposed_cut_copper_stairs",
+    "model": "minecraft:blocks/waxed_exposed_cut_copper_stairs_5",
     "texture": "minecraft:blocks/exposed_cut_copper"
   },
   {
     "name": "mangrove_stairs",
     "blockState": "mangrove_stairs",
-    "model": "minecraft:blocks/mangrove_stairs",
+    "model": "minecraft:blocks/mangrove_stairs_5",
     "texture": "minecraft:blocks/mangrove_planks"
   },
   {
@@ -2348,7 +2348,7 @@
   {
     "name": "cut_copper_stairs",
     "blockState": "cut_copper_stairs",
-    "model": "minecraft:blocks/waxed_cut_copper_stairs",
+    "model": "minecraft:blocks/waxed_cut_copper_stairs_5",
     "texture": "minecraft:blocks/cut_copper"
   },
   {
@@ -2426,7 +2426,7 @@
   {
     "name": "deepslate_tile_stairs",
     "blockState": "deepslate_tile_stairs",
-    "model": "minecraft:blocks/deepslate_tile_stairs",
+    "model": "minecraft:blocks/deepslate_tile_stairs_5",
     "texture": "minecraft:blocks/deepslate_tiles"
   },
   {
@@ -2534,7 +2534,7 @@
   {
     "name": "quartz_stairs",
     "blockState": "quartz_stairs",
-    "model": "minecraft:blocks/quartz_stairs",
+    "model": "minecraft:blocks/quartz_stairs_5",
     "texture": "minecraft:blocks/quartz_block_top"
   },
   {
@@ -2588,7 +2588,7 @@
   {
     "name": "crimson_planks",
     "blockState": "crimson_planks",
-    "model": "minecraft:blocks/crimson_wall_sign",
+    "model": "minecraft:blocks/crimson_double_slab",
     "texture": "minecraft:blocks/crimson_planks"
   },
   {
@@ -2619,7 +2619,7 @@
     "name": "wall_sign",
     "blockState": "wall_sign",
     "model": "minecraft:blocks/wall_sign",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__sign"
   },
   {
     "name": "jukebox",
@@ -2666,7 +2666,7 @@
   {
     "name": "dark_oak_stairs",
     "blockState": "dark_oak_stairs",
-    "model": "minecraft:blocks/dark_oak_stairs",
+    "model": "minecraft:blocks/dark_oak_stairs_5",
     "texture": "minecraft:blocks/planks_big_oak"
   },
   {
@@ -2726,8 +2726,8 @@
   {
     "name": "mangrove_wall_sign",
     "blockState": "mangrove_wall_sign",
-    "model": "minecraft:blocks/mangrove_double_slab",
-    "texture": "minecraft:blocks/mangrove_planks"
+    "model": "minecraft:blocks/mangrove_wall_sign",
+    "texture": "minecraft:blocks/entity__mangrove_sign"
   },
   {
     "name": "raw_copper_block",
@@ -2757,7 +2757,7 @@
     "name": "skull",
     "blockState": "skull",
     "model": "minecraft:blocks/skull",
-    "texture": "minecraft:blocks/soul_sand"
+    "texture": "minecraft:blocks/entity__skulls__skeleton"
   },
   {
     "name": "light_gray_candle_cake",
@@ -2774,7 +2774,7 @@
   {
     "name": "andesite_stairs",
     "blockState": "andesite_stairs",
-    "model": "minecraft:blocks/andesite_stairs",
+    "model": "minecraft:blocks/andesite_stairs_5",
     "texture": "minecraft:blocks/stone_andesite"
   },
   {
@@ -2798,8 +2798,8 @@
   {
     "name": "darkoak_wall_sign",
     "blockState": "darkoak_wall_sign",
-    "model": "minecraft:blocks/dark_oak_planks",
-    "texture": "minecraft:blocks/planks_big_oak"
+    "model": "minecraft:blocks/darkoak_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_darkoak"
   },
   {
     "name": "gray_shulker_box",
@@ -2810,7 +2810,7 @@
   {
     "name": "red_sandstone_stairs",
     "blockState": "red_sandstone_stairs",
-    "model": "minecraft:blocks/red_sandstone_stairs",
+    "model": "minecraft:blocks/red_sandstone_stairs_5",
     "texture": "minecraft:blocks/red_sandstone_top"
   },
   {
@@ -2966,7 +2966,7 @@
   {
     "name": "mud_brick_stairs",
     "blockState": "mud_brick_stairs",
-    "model": "minecraft:blocks/mud_brick_stairs",
+    "model": "minecraft:blocks/mud_brick_stairs_5",
     "texture": "minecraft:blocks/mud_bricks"
   },
   {
@@ -2978,7 +2978,7 @@
   {
     "name": "smooth_red_sandstone_stairs",
     "blockState": "smooth_red_sandstone_stairs",
-    "model": "minecraft:blocks/smooth_red_sandstone_stairs",
+    "model": "minecraft:blocks/smooth_red_sandstone_stairs_5",
     "texture": "minecraft:blocks/red_sandstone_top"
   },
   {
@@ -3117,7 +3117,7 @@
     "name": "trapped_chest",
     "blockState": "trapped_chest",
     "model": "minecraft:blocks/trapped_chest",
-    "texture": "minecraft:blocks/chest_top"
+    "texture": "minecraft:blocks/entity__chest__trapped"
   },
   {
     "name": "acacia_trapdoor",
@@ -3129,7 +3129,7 @@
     "name": "standing_sign",
     "blockState": "standing_sign",
     "model": "minecraft:blocks/standing_sign",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__sign"
   },
   {
     "name": "bamboo_planks",
@@ -3290,7 +3290,7 @@
   {
     "name": "waxed_oxidized_cut_copper_stairs",
     "blockState": "waxed_oxidized_cut_copper_stairs",
-    "model": "minecraft:blocks/oxidized_cut_copper_stairs",
+    "model": "minecraft:blocks/oxidized_cut_copper_stairs_5",
     "texture": "minecraft:blocks/oxidized_cut_copper"
   },
   {
@@ -3345,12 +3345,12 @@
     "name": "cherry_standing_sign",
     "blockState": "cherry_standing_sign",
     "model": "minecraft:blocks/cherry_standing_sign",
-    "texture": "minecraft:blocks/cherry_planks"
+    "texture": "minecraft:blocks/entity__cherry_sign"
   },
   {
     "name": "double_wooden_slab",
     "blockState": "double_wooden_slab",
-    "model": "minecraft:blocks/wall_sign",
+    "model": "minecraft:blocks/double_wooden_slab",
     "texture": "minecraft:blocks/planks_oak"
   },
   {
@@ -3380,7 +3380,7 @@
   {
     "name": "mossy_stone_brick_stairs",
     "blockState": "mossy_stone_brick_stairs",
-    "model": "minecraft:blocks/mossy_stone_brick_stairs",
+    "model": "minecraft:blocks/mossy_stone_brick_stairs_5",
     "texture": "minecraft:blocks/stonebrick_mossy"
   },
   {
@@ -3440,7 +3440,7 @@
   {
     "name": "tuff_stairs",
     "blockState": "tuff_stairs",
-    "model": "minecraft:blocks/tuff_stairs",
+    "model": "minecraft:blocks/tuff_stairs_5",
     "texture": "minecraft:blocks/tuff"
   },
   {
@@ -3585,7 +3585,7 @@
     "name": "jungle_standing_sign",
     "blockState": "jungle_standing_sign",
     "model": "minecraft:blocks/jungle_standing_sign",
-    "texture": "minecraft:blocks/planks_jungle"
+    "texture": "minecraft:blocks/entity__sign_jungle"
   },
   {
     "name": "cherry_double_slab",
@@ -3704,7 +3704,7 @@
   {
     "name": "waxed_weathered_cut_copper_stairs",
     "blockState": "waxed_weathered_cut_copper_stairs",
-    "model": "minecraft:blocks/weathered_cut_copper_stairs",
+    "model": "minecraft:blocks/weathered_cut_copper_stairs_5",
     "texture": "minecraft:blocks/weathered_cut_copper"
   },
   {
@@ -3722,13 +3722,13 @@
   {
     "name": "acacia_stairs",
     "blockState": "acacia_stairs",
-    "model": "minecraft:blocks/acacia_stairs",
+    "model": "minecraft:blocks/acacia_stairs_5",
     "texture": "minecraft:blocks/planks_acacia"
   },
   {
     "name": "bamboo_mosaic_stairs",
     "blockState": "bamboo_mosaic_stairs",
-    "model": "minecraft:blocks/bamboo_mosaic_stairs",
+    "model": "minecraft:blocks/bamboo_mosaic_stairs_5",
     "texture": "minecraft:blocks/bamboo_mosaic"
   },
   {
@@ -3771,12 +3771,12 @@
     "name": "acacia_standing_sign",
     "blockState": "acacia_standing_sign",
     "model": "minecraft:blocks/acacia_standing_sign",
-    "texture": "minecraft:blocks/planks_acacia"
+    "texture": "minecraft:blocks/entity__sign_acacia"
   },
   {
     "name": "tuff_brick_stairs",
     "blockState": "tuff_brick_stairs",
-    "model": "minecraft:blocks/tuff_brick_stairs",
+    "model": "minecraft:blocks/tuff_brick_stairs_5",
     "texture": "minecraft:blocks/tuff_bricks"
   },
   {
@@ -3800,7 +3800,7 @@
   {
     "name": "crimson_stairs",
     "blockState": "crimson_stairs",
-    "model": "minecraft:blocks/crimson_stairs",
+    "model": "minecraft:blocks/crimson_stairs_5",
     "texture": "minecraft:blocks/crimson_planks"
   },
   {
@@ -3878,7 +3878,7 @@
   {
     "name": "end_brick_stairs",
     "blockState": "end_brick_stairs",
-    "model": "minecraft:blocks/end_brick_stairs",
+    "model": "minecraft:blocks/end_brick_stairs_5",
     "texture": "minecraft:blocks/end_bricks"
   },
   {
@@ -4022,7 +4022,7 @@
   {
     "name": "brick_stairs",
     "blockState": "brick_stairs",
-    "model": "minecraft:blocks/brick_stairs",
+    "model": "minecraft:blocks/brick_stairs_5",
     "texture": "minecraft:blocks/brick"
   },
   {
@@ -4100,7 +4100,7 @@
   {
     "name": "red_nether_brick_stairs",
     "blockState": "red_nether_brick_stairs",
-    "model": "minecraft:blocks/red_nether_brick_stairs",
+    "model": "minecraft:blocks/red_nether_brick_stairs_5",
     "texture": "minecraft:blocks/red_nether_brick"
   },
   {
@@ -4112,7 +4112,7 @@
   {
     "name": "jungle_planks",
     "blockState": "jungle_planks",
-    "model": "minecraft:blocks/jungle_wall_sign",
+    "model": "minecraft:blocks/double_wooden_slab_3",
     "texture": "minecraft:blocks/planks_jungle"
   },
   {
@@ -4203,7 +4203,7 @@
     "name": "bed",
     "blockState": "bed",
     "model": "minecraft:blocks/bed",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__bed__red"
   },
   {
     "name": "black_concrete",
@@ -4232,7 +4232,7 @@
   {
     "name": "polished_diorite_stairs",
     "blockState": "polished_diorite_stairs",
-    "model": "minecraft:blocks/polished_diorite_stairs",
+    "model": "minecraft:blocks/polished_diorite_stairs_5",
     "texture": "minecraft:blocks/stone_diorite_smooth"
   },
   {
@@ -4304,14 +4304,14 @@
   {
     "name": "birch_wall_sign",
     "blockState": "birch_wall_sign",
-    "model": "minecraft:blocks/birch_planks",
-    "texture": "minecraft:blocks/planks_birch"
+    "model": "minecraft:blocks/birch_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_birch"
   },
   {
     "name": "bamboo_wall_sign",
     "blockState": "bamboo_wall_sign",
-    "model": "minecraft:blocks/bamboo_double_slab",
-    "texture": "minecraft:blocks/bamboo_planks"
+    "model": "minecraft:blocks/bamboo_wall_sign",
+    "texture": "minecraft:blocks/entity__bamboo_sign"
   },
   {
     "name": "gray_stained_glass_pane",
@@ -4364,7 +4364,7 @@
   {
     "name": "jungle_stairs",
     "blockState": "jungle_stairs",
-    "model": "minecraft:blocks/jungle_stairs",
+    "model": "minecraft:blocks/jungle_stairs_5",
     "texture": "minecraft:blocks/planks_jungle"
   },
   {
@@ -4400,7 +4400,7 @@
   {
     "name": "birch_stairs",
     "blockState": "birch_stairs",
-    "model": "minecraft:blocks/birch_stairs",
+    "model": "minecraft:blocks/birch_stairs_5",
     "texture": "minecraft:blocks/planks_birch"
   },
   {
@@ -4424,7 +4424,7 @@
   {
     "name": "blackstone_stairs",
     "blockState": "blackstone_stairs",
-    "model": "minecraft:blocks/blackstone_stairs",
+    "model": "minecraft:blocks/blackstone_stairs_5",
     "texture": "minecraft:blocks/blackstone"
   },
   {
@@ -4448,7 +4448,7 @@
   {
     "name": "polished_andesite_stairs",
     "blockState": "polished_andesite_stairs",
-    "model": "minecraft:blocks/polished_andesite_stairs",
+    "model": "minecraft:blocks/polished_andesite_stairs_5",
     "texture": "minecraft:blocks/stone_andesite_smooth"
   },
   {
@@ -4479,7 +4479,7 @@
     "name": "spruce_standing_sign",
     "blockState": "spruce_standing_sign",
     "model": "minecraft:blocks/spruce_standing_sign",
-    "texture": "minecraft:blocks/planks_spruce"
+    "texture": "minecraft:blocks/entity__sign_spruce"
   },
   {
     "name": "mangrove_button",
@@ -4551,7 +4551,7 @@
     "name": "chest",
     "blockState": "chest",
     "model": "minecraft:blocks/chest",
-    "texture": "minecraft:blocks/chest_top"
+    "texture": "minecraft:blocks/entity__chest__normal"
   },
   {
     "name": "cherry_wood",
@@ -4574,7 +4574,7 @@
   {
     "name": "cherry_stairs",
     "blockState": "cherry_stairs",
-    "model": "minecraft:blocks/cherry_stairs",
+    "model": "minecraft:blocks/cherry_stairs_5",
     "texture": "minecraft:blocks/cherry_planks"
   },
   {
@@ -4617,7 +4617,7 @@
     "name": "warped_standing_sign",
     "blockState": "warped_standing_sign",
     "model": "minecraft:blocks/warped_standing_sign",
-    "texture": "minecraft:blocks/warped_planks"
+    "texture": "minecraft:blocks/entity__sign_warped"
   },
   {
     "name": "cracked_polished_blackstone_bricks",
@@ -4629,7 +4629,7 @@
     "name": "bamboo_standing_sign",
     "blockState": "bamboo_standing_sign",
     "model": "minecraft:blocks/bamboo_standing_sign",
-    "texture": "minecraft:blocks/bamboo_planks"
+    "texture": "minecraft:blocks/entity__bamboo_sign"
   },
   {
     "name": "flowing_lava",
@@ -4724,7 +4724,7 @@
   {
     "name": "prismarine_stairs",
     "blockState": "prismarine_stairs",
-    "model": "minecraft:blocks/prismarine_stairs",
+    "model": "minecraft:blocks/prismarine_stairs_5",
     "texture": "minecraft:blocks/prismarine_rough"
   },
   {
@@ -4742,7 +4742,7 @@
   {
     "name": "polished_tuff_stairs",
     "blockState": "polished_tuff_stairs",
-    "model": "minecraft:blocks/polished_tuff_stairs",
+    "model": "minecraft:blocks/polished_tuff_stairs_5",
     "texture": "minecraft:blocks/polished_tuff"
   },
   {
@@ -4869,13 +4869,13 @@
     "name": "crimson_standing_sign",
     "blockState": "crimson_standing_sign",
     "model": "minecraft:blocks/crimson_standing_sign",
-    "texture": "minecraft:blocks/crimson_planks"
+    "texture": "minecraft:blocks/entity__sign_crimson"
   },
   {
     "name": "darkoak_standing_sign",
     "blockState": "darkoak_standing_sign",
     "model": "minecraft:blocks/darkoak_standing_sign",
-    "texture": "minecraft:blocks/planks_big_oak"
+    "texture": "minecraft:blocks/entity__sign_darkoak"
   },
   {
     "name": "weathered_double_cut_copper_slab",
@@ -4934,8 +4934,8 @@
   {
     "name": "spruce_wall_sign",
     "blockState": "spruce_wall_sign",
-    "model": "minecraft:blocks/double_wooden_slab",
-    "texture": "minecraft:blocks/planks_spruce"
+    "model": "minecraft:blocks/spruce_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_spruce"
   },
   {
     "name": "stripped_warped_stem",
@@ -4970,13 +4970,13 @@
   {
     "name": "deepslate_brick_stairs",
     "blockState": "deepslate_brick_stairs",
-    "model": "minecraft:blocks/deepslate_brick_stairs",
+    "model": "minecraft:blocks/deepslate_brick_stairs_5",
     "texture": "minecraft:blocks/deepslate_bricks"
   },
   {
     "name": "dark_prismarine_stairs",
     "blockState": "dark_prismarine_stairs",
-    "model": "minecraft:blocks/dark_prismarine_stairs",
+    "model": "minecraft:blocks/dark_prismarine_stairs_5",
     "texture": "minecraft:blocks/prismarine_dark"
   },
   {
@@ -5054,7 +5054,7 @@
   {
     "name": "oak_planks",
     "blockState": "oak_planks",
-    "model": "minecraft:blocks/wall_sign",
+    "model": "minecraft:blocks/double_wooden_slab",
     "texture": "minecraft:blocks/planks_oak"
   },
   {
@@ -5732,7 +5732,7 @@
   {
     "name": "smooth_quartz_stairs",
     "blockState": "smooth_quartz_stairs",
-    "model": "minecraft:blocks/smooth_quartz_stairs",
+    "model": "minecraft:blocks/smooth_quartz_stairs_5",
     "texture": "minecraft:blocks/quartz_block_bottom"
   },
   {
@@ -5756,8 +5756,8 @@
   {
     "name": "cherry_wall_sign",
     "blockState": "cherry_wall_sign",
-    "model": "minecraft:blocks/cherry_double_slab",
-    "texture": "minecraft:blocks/cherry_planks"
+    "model": "minecraft:blocks/cherry_wall_sign",
+    "texture": "minecraft:blocks/entity__cherry_sign"
   },
   {
     "name": "cyan_candle",
@@ -5822,7 +5822,7 @@
   {
     "name": "purpur_stairs",
     "blockState": "purpur_stairs",
-    "model": "minecraft:blocks/purpur_stairs",
+    "model": "minecraft:blocks/purpur_stairs_5",
     "texture": "minecraft:blocks/purpur_block"
   },
   {
@@ -5870,7 +5870,7 @@
   {
     "name": "spruce_planks",
     "blockState": "spruce_planks",
-    "model": "minecraft:blocks/double_wooden_slab",
+    "model": "minecraft:blocks/double_wooden_slab_2",
     "texture": "minecraft:blocks/planks_spruce"
   },
   {

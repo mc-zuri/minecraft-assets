@@ -5,12 +5,22 @@
     "build": "1.0.0.16",
     "match": "exact"
   },
+  "later": [
+    {
+      "kind": "client",
+      "build": "1.26.51.1"
+    },
+    {
+      "kind": "client",
+      "build": "1.16.201.2"
+    }
+  ],
   "blocks": 199,
   "states": 199,
-  "models": 741,
-  "textures": 375,
+  "models": 1105,
+  "textures": 388,
   "items": 358,
-  "itemTextures": 164,
+  "itemTextures": 163,
   "itemsWithoutIcon": [
     "seeds",
     "leather_cap",
@@ -44,7 +54,7 @@
     "BlockHalf": 45,
     "Torch": 18,
     "Fire": 16,
-    "Stairs": 112,
+    "Stairs": 560,
     "Chest": 18,
     "RedDust": 16,
     "DoublesidedRows": 36,
@@ -54,11 +64,11 @@
     "Lever": 16,
     "TopSnow": 16,
     "Cactus": 16,
-    "Fence": 7,
+    "Fence": 112,
     "Repeater": 32,
     "Trapdoor": 32,
-    "MetalBars": 1,
-    "DoubleSideFence": 17,
+    "MetalBars": 16,
+    "DoubleSideFence": 272,
     "Stem": 32,
     "Vine": 16,
     "FenceGate": 96,
@@ -87,13 +97,7 @@
     "ChorusPlant": 1,
     "FacingBlock": 12
   },
-  "missingTile": [
-    "air",
-    "allow",
-    "camera",
-    "chalkboard",
-    "deny"
-  ],
+  "missingTile": [],
   "unrendered": [],
   "missingTextures": [],
   "failed": []

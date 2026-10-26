@@ -27,7 +27,7 @@
     "name": "birch_standing_sign",
     "blockState": "birch_standing_sign",
     "model": "minecraft:blocks/birch_standing_sign",
-    "texture": "minecraft:blocks/planks_birch"
+    "texture": "minecraft:blocks/entity__sign_birch"
   },
   {
     "name": "polished_basalt",
@@ -45,7 +45,7 @@
     "name": "zombie_head",
     "blockState": "zombie_head",
     "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "texture": "minecraft:blocks/entity__skulls__zombie"
   },
   {
     "name": "waxed_weathered_copper_chain",
@@ -57,7 +57,7 @@
     "name": "waxed_weathered_copper_chest",
     "blockState": "waxed_weathered_copper_chest",
     "model": "minecraft:blocks/waxed_weathered_copper_chest",
-    "texture": "minecraft:blocks/weathered_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_weathered"
   },
   {
     "name": "leaf_litter",
@@ -279,7 +279,7 @@
     "name": "crimson_wall_sign",
     "blockState": "crimson_wall_sign",
     "model": "minecraft:blocks/crimson_wall_sign",
-    "texture": "minecraft:blocks/crimson_planks"
+    "texture": "minecraft:blocks/entity__sign_crimson"
   },
   {
     "name": "yellow_stained_glass_pane",
@@ -417,7 +417,7 @@
     "name": "waxed_exposed_copper_chest",
     "blockState": "waxed_exposed_copper_chest",
     "model": "minecraft:blocks/waxed_exposed_copper_chest",
-    "texture": "minecraft:blocks/exposed_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_exposed"
   },
   {
     "name": "calcite",
@@ -975,7 +975,7 @@
     "name": "warped_wall_sign",
     "blockState": "warped_wall_sign",
     "model": "minecraft:blocks/warped_wall_sign",
-    "texture": "minecraft:blocks/warped_planks"
+    "texture": "minecraft:blocks/entity__sign_warped"
   },
   {
     "name": "spruce_fence",
@@ -1041,7 +1041,7 @@
     "name": "pale_oak_wall_sign",
     "blockState": "pale_oak_wall_sign",
     "model": "minecraft:blocks/pale_oak_wall_sign",
-    "texture": "minecraft:blocks/pale_oak_planks"
+    "texture": "minecraft:blocks/entity__pale_oak_sign"
   },
   {
     "name": "poplar_slab",
@@ -1394,7 +1394,7 @@
   {
     "name": "crimson_double_slab",
     "blockState": "crimson_double_slab",
-    "model": "minecraft:blocks/crimson_wall_sign",
+    "model": "minecraft:blocks/crimson_double_slab",
     "texture": "minecraft:blocks/crimson_planks"
   },
   {
@@ -1617,7 +1617,7 @@
     "name": "poplar_standing_sign",
     "blockState": "poplar_standing_sign",
     "model": "minecraft:blocks/poplar_standing_sign",
-    "texture": "minecraft:blocks/poplar_planks"
+    "texture": "minecraft:blocks/entity__poplar_sign"
   },
   {
     "name": "dried_ghast",
@@ -1628,7 +1628,7 @@
   {
     "name": "warped_planks",
     "blockState": "warped_planks",
-    "model": "minecraft:blocks/warped_wall_sign",
+    "model": "minecraft:blocks/warped_planks",
     "texture": "minecraft:blocks/warped_planks"
   },
   {
@@ -2199,7 +2199,7 @@
     "name": "acacia_wall_sign",
     "blockState": "acacia_wall_sign",
     "model": "minecraft:blocks/acacia_wall_sign",
-    "texture": "minecraft:blocks/planks_acacia"
+    "texture": "minecraft:blocks/entity__sign_acacia"
   },
   {
     "name": "magenta_wool_stairs",
@@ -2252,7 +2252,7 @@
   {
     "name": "pale_oak_planks",
     "blockState": "pale_oak_planks",
-    "model": "minecraft:blocks/pale_oak_wall_sign",
+    "model": "minecraft:blocks/pale_oak_planks",
     "texture": "minecraft:blocks/pale_oak_planks"
   },
   {
@@ -2318,8 +2318,8 @@
   {
     "name": "player_head",
     "blockState": "player_head",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/player_head",
+    "texture": "minecraft:blocks/entity__steve"
   },
   {
     "name": "weathered_copper_grate",
@@ -2361,7 +2361,7 @@
     "name": "copper_chest",
     "blockState": "copper_chest",
     "model": "minecraft:blocks/copper_chest",
-    "texture": "minecraft:blocks/copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_default"
   },
   {
     "name": "mossy_stone_bricks",
@@ -2739,7 +2739,7 @@
     "name": "waxed_oxidized_copper_chest",
     "blockState": "waxed_oxidized_copper_chest",
     "model": "minecraft:blocks/waxed_oxidized_copper_chest",
-    "texture": "minecraft:blocks/oxidized_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_oxidized"
   },
   {
     "name": "waxed_oxidized_copper_chain",
@@ -2865,7 +2865,7 @@
     "name": "mangrove_standing_sign",
     "blockState": "mangrove_standing_sign",
     "model": "minecraft:blocks/mangrove_standing_sign",
-    "texture": "minecraft:blocks/mangrove_planks"
+    "texture": "minecraft:blocks/entity__mangrove_sign"
   },
   {
     "name": "stripped_mangrove_wood",
@@ -2973,7 +2973,7 @@
     "name": "waxed_copper_chest",
     "blockState": "waxed_copper_chest",
     "model": "minecraft:blocks/copper_chest",
-    "texture": "minecraft:blocks/copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_default"
   },
   {
     "name": "green_stained_glass",
@@ -3261,7 +3261,7 @@
     "name": "ender_chest",
     "blockState": "ender_chest",
     "model": "minecraft:blocks/ender_chest",
-    "texture": "minecraft:blocks/ender_chest_top"
+    "texture": "minecraft:blocks/entity__chest__ender"
   },
   {
     "name": "medium_amethyst_bud",
@@ -3278,14 +3278,14 @@
   {
     "name": "warped_double_slab",
     "blockState": "warped_double_slab",
-    "model": "minecraft:blocks/warped_wall_sign",
+    "model": "minecraft:blocks/warped_planks",
     "texture": "minecraft:blocks/warped_planks"
   },
   {
     "name": "jungle_wall_sign",
     "blockState": "jungle_wall_sign",
     "model": "minecraft:blocks/jungle_wall_sign",
-    "texture": "minecraft:blocks/planks_jungle"
+    "texture": "minecraft:blocks/entity__sign_jungle"
   },
   {
     "name": "sculk_sensor",
@@ -3362,7 +3362,7 @@
   {
     "name": "acacia_planks",
     "blockState": "acacia_planks",
-    "model": "minecraft:blocks/acacia_wall_sign",
+    "model": "minecraft:blocks/acacia_planks",
     "texture": "minecraft:blocks/planks_acacia"
   },
   {
@@ -3944,7 +3944,7 @@
   {
     "name": "crimson_planks",
     "blockState": "crimson_planks",
-    "model": "minecraft:blocks/crimson_wall_sign",
+    "model": "minecraft:blocks/crimson_double_slab",
     "texture": "minecraft:blocks/crimson_planks"
   },
   {
@@ -3998,8 +3998,8 @@
   {
     "name": "wall_sign",
     "blockState": "wall_sign",
-    "model": "minecraft:blocks/oak_double_slab",
-    "texture": "minecraft:blocks/planks_oak"
+    "model": "minecraft:blocks/wall_sign",
+    "texture": "minecraft:blocks/entity__sign"
   },
   {
     "name": "jukebox",
@@ -4166,8 +4166,8 @@
   {
     "name": "mangrove_wall_sign",
     "blockState": "mangrove_wall_sign",
-    "model": "minecraft:blocks/mangrove_double_slab",
-    "texture": "minecraft:blocks/mangrove_planks"
+    "model": "minecraft:blocks/mangrove_wall_sign",
+    "texture": "minecraft:blocks/entity__mangrove_sign"
   },
   {
     "name": "raw_copper_block",
@@ -4262,8 +4262,8 @@
   {
     "name": "darkoak_wall_sign",
     "blockState": "darkoak_wall_sign",
-    "model": "minecraft:blocks/dark_oak_planks",
-    "texture": "minecraft:blocks/planks_big_oak"
+    "model": "minecraft:blocks/darkoak_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_darkoak"
   },
   {
     "name": "jungle_leaves",
@@ -4364,14 +4364,14 @@
   {
     "name": "skeleton_skull",
     "blockState": "skeleton_skull",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/skeleton_skull",
+    "texture": "minecraft:blocks/entity__skulls__skeleton"
   },
   {
     "name": "exposed_copper_chest",
     "blockState": "exposed_copper_chest",
     "model": "minecraft:blocks/waxed_exposed_copper_chest",
-    "texture": "minecraft:blocks/exposed_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_exposed"
   },
   {
     "name": "exposed_copper_chain",
@@ -4659,7 +4659,7 @@
     "name": "trapped_chest",
     "blockState": "trapped_chest",
     "model": "minecraft:blocks/trapped_chest",
-    "texture": "minecraft:blocks/chest_top"
+    "texture": "minecraft:blocks/entity__chest__trapped"
   },
   {
     "name": "acacia_trapdoor",
@@ -4671,7 +4671,7 @@
     "name": "weathered_copper_chest",
     "blockState": "weathered_copper_chest",
     "model": "minecraft:blocks/waxed_weathered_copper_chest",
-    "texture": "minecraft:blocks/weathered_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_weathered"
   },
   {
     "name": "brain_coral_block",
@@ -4689,7 +4689,7 @@
     "name": "standing_sign",
     "blockState": "standing_sign",
     "model": "minecraft:blocks/standing_sign",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__sign"
   },
   {
     "name": "bamboo_planks",
@@ -4730,7 +4730,7 @@
   {
     "name": "acacia_double_slab",
     "blockState": "acacia_double_slab",
-    "model": "minecraft:blocks/acacia_wall_sign",
+    "model": "minecraft:blocks/acacia_planks",
     "texture": "minecraft:blocks/planks_acacia"
   },
   {
@@ -4785,7 +4785,7 @@
     "name": "shelf_mushroom",
     "blockState": "shelf_mushroom",
     "model": "minecraft:blocks/shelf_mushroom",
-    "texture": "minecraft:blocks/missing_tile"
+    "texture": "minecraft:blocks/shelf_mushroom_small"
   },
   {
     "name": "bubble_column",
@@ -4862,8 +4862,8 @@
   {
     "name": "creeper_head",
     "blockState": "creeper_head",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/creeper_head",
+    "texture": "minecraft:blocks/entity__skulls__creeper"
   },
   {
     "name": "black_glazed_terracotta",
@@ -4886,8 +4886,8 @@
   {
     "name": "dragon_head",
     "blockState": "dragon_head",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/dragon_head",
+    "texture": "minecraft:blocks/entity__dragon__dragon"
   },
   {
     "name": "waxed_weathered_copper_bars",
@@ -4953,7 +4953,7 @@
     "name": "cherry_standing_sign",
     "blockState": "cherry_standing_sign",
     "model": "minecraft:blocks/cherry_standing_sign",
-    "texture": "minecraft:blocks/cherry_planks"
+    "texture": "minecraft:blocks/entity__cherry_sign"
   },
   {
     "name": "pale_oak_shelf",
@@ -5283,7 +5283,7 @@
     "name": "jungle_standing_sign",
     "blockState": "jungle_standing_sign",
     "model": "minecraft:blocks/jungle_standing_sign",
-    "texture": "minecraft:blocks/planks_jungle"
+    "texture": "minecraft:blocks/entity__sign_jungle"
   },
   {
     "name": "cherry_double_slab",
@@ -5589,7 +5589,7 @@
     "name": "acacia_standing_sign",
     "blockState": "acacia_standing_sign",
     "model": "minecraft:blocks/acacia_standing_sign",
-    "texture": "minecraft:blocks/planks_acacia"
+    "texture": "minecraft:blocks/entity__sign_acacia"
   },
   {
     "name": "polished_granite_slab",
@@ -6116,7 +6116,7 @@
   {
     "name": "jungle_planks",
     "blockState": "jungle_planks",
-    "model": "minecraft:blocks/jungle_wall_sign",
+    "model": "minecraft:blocks/jungle_planks",
     "texture": "minecraft:blocks/planks_jungle"
   },
   {
@@ -6225,7 +6225,7 @@
     "name": "bed",
     "blockState": "bed",
     "model": "minecraft:blocks/bed",
-    "texture": "minecraft:blocks/planks_oak"
+    "texture": "minecraft:blocks/entity__bed__red"
   },
   {
     "name": "black_concrete",
@@ -6261,7 +6261,7 @@
     "name": "oxidized_copper_chest",
     "blockState": "oxidized_copper_chest",
     "model": "minecraft:blocks/waxed_oxidized_copper_chest",
-    "texture": "minecraft:blocks/oxidized_copper_chest_inventory_top"
+    "texture": "minecraft:blocks/entity__chest__copper_oxidized"
   },
   {
     "name": "oxidized_copper_chain",
@@ -6273,7 +6273,7 @@
     "name": "pale_oak_standing_sign",
     "blockState": "pale_oak_standing_sign",
     "model": "minecraft:blocks/pale_oak_standing_sign",
-    "texture": "minecraft:blocks/pale_oak_planks"
+    "texture": "minecraft:blocks/entity__pale_oak_sign"
   },
   {
     "name": "polished_diorite_stairs",
@@ -6404,14 +6404,14 @@
   {
     "name": "birch_wall_sign",
     "blockState": "birch_wall_sign",
-    "model": "minecraft:blocks/birch_planks",
-    "texture": "minecraft:blocks/planks_birch"
+    "model": "minecraft:blocks/birch_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_birch"
   },
   {
     "name": "bamboo_wall_sign",
     "blockState": "bamboo_wall_sign",
-    "model": "minecraft:blocks/bamboo_double_slab",
-    "texture": "minecraft:blocks/bamboo_planks"
+    "model": "minecraft:blocks/bamboo_wall_sign",
+    "texture": "minecraft:blocks/entity__bamboo_sign"
   },
   {
     "name": "green_concrete_slab",
@@ -6620,8 +6620,8 @@
   {
     "name": "piglin_head",
     "blockState": "piglin_head",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/piglin_head",
+    "texture": "minecraft:blocks/entity__piglin__piglin"
   },
   {
     "name": "sculk",
@@ -6651,7 +6651,7 @@
     "name": "spruce_standing_sign",
     "blockState": "spruce_standing_sign",
     "model": "minecraft:blocks/spruce_standing_sign",
-    "texture": "minecraft:blocks/planks_spruce"
+    "texture": "minecraft:blocks/entity__sign_spruce"
   },
   {
     "name": "mangrove_button",
@@ -6765,7 +6765,7 @@
     "name": "chest",
     "blockState": "chest",
     "model": "minecraft:blocks/chest",
-    "texture": "minecraft:blocks/chest_top"
+    "texture": "minecraft:blocks/entity__chest__normal"
   },
   {
     "name": "cherry_wood",
@@ -6831,7 +6831,7 @@
     "name": "warped_standing_sign",
     "blockState": "warped_standing_sign",
     "model": "minecraft:blocks/warped_standing_sign",
-    "texture": "minecraft:blocks/warped_planks"
+    "texture": "minecraft:blocks/entity__sign_warped"
   },
   {
     "name": "polished_andesite_double_slab",
@@ -6855,7 +6855,7 @@
     "name": "bamboo_standing_sign",
     "blockState": "bamboo_standing_sign",
     "model": "minecraft:blocks/bamboo_standing_sign",
-    "texture": "minecraft:blocks/bamboo_planks"
+    "texture": "minecraft:blocks/entity__bamboo_sign"
   },
   {
     "name": "flowing_lava",
@@ -6872,8 +6872,8 @@
   {
     "name": "wither_skeleton_skull",
     "blockState": "wither_skeleton_skull",
-    "model": "minecraft:blocks/zombie_head",
-    "texture": "minecraft:blocks/soul_sand"
+    "model": "minecraft:blocks/wither_skeleton_skull",
+    "texture": "minecraft:blocks/entity__skulls__wither_skeleton"
   },
   {
     "name": "polished_tuff",
@@ -7167,13 +7167,13 @@
     "name": "crimson_standing_sign",
     "blockState": "crimson_standing_sign",
     "model": "minecraft:blocks/crimson_standing_sign",
-    "texture": "minecraft:blocks/crimson_planks"
+    "texture": "minecraft:blocks/entity__sign_crimson"
   },
   {
     "name": "darkoak_standing_sign",
     "blockState": "darkoak_standing_sign",
     "model": "minecraft:blocks/darkoak_standing_sign",
-    "texture": "minecraft:blocks/planks_big_oak"
+    "texture": "minecraft:blocks/entity__sign_darkoak"
   },
   {
     "name": "weathered_double_cut_copper_slab",
@@ -7274,8 +7274,8 @@
   {
     "name": "spruce_wall_sign",
     "blockState": "spruce_wall_sign",
-    "model": "minecraft:blocks/spruce_double_slab",
-    "texture": "minecraft:blocks/planks_spruce"
+    "model": "minecraft:blocks/spruce_wall_sign",
+    "texture": "minecraft:blocks/entity__sign_spruce"
   },
   {
     "name": "stripped_warped_stem",
@@ -7568,8 +7568,8 @@
   {
     "name": "poplar_wall_sign",
     "blockState": "poplar_wall_sign",
-    "model": "minecraft:blocks/poplar_planks",
-    "texture": "minecraft:blocks/poplar_planks"
+    "model": "minecraft:blocks/poplar_wall_sign",
+    "texture": "minecraft:blocks/entity__poplar_sign"
   },
   {
     "name": "smooth_quartz_slab",
@@ -7634,7 +7634,7 @@
   {
     "name": "jungle_double_slab",
     "blockState": "jungle_double_slab",
-    "model": "minecraft:blocks/jungle_wall_sign",
+    "model": "minecraft:blocks/jungle_planks",
     "texture": "minecraft:blocks/planks_jungle"
   },
   {
@@ -8276,8 +8276,8 @@
   {
     "name": "cherry_wall_sign",
     "blockState": "cherry_wall_sign",
-    "model": "minecraft:blocks/cherry_double_slab",
-    "texture": "minecraft:blocks/cherry_planks"
+    "model": "minecraft:blocks/cherry_wall_sign",
+    "texture": "minecraft:blocks/entity__cherry_sign"
   },
   {
     "name": "cyan_candle",
@@ -8726,7 +8726,7 @@
   {
     "name": "pale_oak_double_slab",
     "blockState": "pale_oak_double_slab",
-    "model": "minecraft:blocks/pale_oak_wall_sign",
+    "model": "minecraft:blocks/pale_oak_planks",
     "texture": "minecraft:blocks/pale_oak_planks"
   },
   {

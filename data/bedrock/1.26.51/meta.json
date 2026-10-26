@@ -7,14 +7,12 @@
   },
   "blocks": 1477,
   "states": 22091,
-  "models": 5719,
-  "textures": 1317,
+  "models": 5736,
+  "textures": 1347,
   "items": 2076,
   "itemTextures": 638,
   "itemsWithoutIcon": [
-    "photo_item",
-    "camera",
-    "light_block"
+    "photo_item"
   ],
   "shapes": {
     "Block": 1279,
@@ -135,14 +133,7 @@
     "Ladder": 6,
     "CartographyTable": 1
   },
-  "missingTile": [
-    "air",
-    "chalkboard",
-    "client_request_placeholder_block",
-    "moving_block",
-    "shelf_mushroom",
-    "unknown"
-  ],
+  "missingTile": [],
   "unrendered": [],
   "missingTextures": [],
   "failed": []

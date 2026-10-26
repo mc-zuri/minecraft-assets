@@ -2,12 +2,12 @@
   {
     "name": "air",
     "model": "air",
-    "texture": "minecraft:items/missing_tile"
+    "texture": "minecraft:items/blocks__missing_tile"
   },
   {
     "name": "stone",
     "model": "stone",
-    "texture": "minecraft:items/stone"
+    "texture": "minecraft:items/blocks__stone"
   },
   {
     "name": "grass_block",
@@ -17,292 +17,292 @@
   {
     "name": "dirt",
     "model": "dirt",
-    "texture": "minecraft:items/dirt"
+    "texture": "minecraft:items/blocks__dirt"
   },
   {
     "name": "cobblestone",
     "model": "cobblestone",
-    "texture": "minecraft:items/cobblestone"
+    "texture": "minecraft:items/blocks__cobblestone"
   },
   {
     "name": "wood_planks",
     "model": "wood_planks",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "sapling",
     "model": "sapling",
-    "texture": "minecraft:items/sapling_oak"
+    "texture": "minecraft:items/blocks__sapling_oak"
   },
   {
     "name": "bedrock",
     "model": "bedrock",
-    "texture": "minecraft:items/bedrock"
+    "texture": "minecraft:items/blocks__bedrock"
   },
   {
     "name": "water",
     "model": "water",
-    "texture": "minecraft:items/water"
+    "texture": "minecraft:items/blocks__water"
   },
   {
     "name": "lava",
     "model": "lava",
-    "texture": "minecraft:items/lava"
+    "texture": "minecraft:items/blocks__lava"
   },
   {
     "name": "sand",
     "model": "sand",
-    "texture": "minecraft:items/sand"
+    "texture": "minecraft:items/blocks__sand"
   },
   {
     "name": "gravel",
     "model": "gravel",
-    "texture": "minecraft:items/gravel"
+    "texture": "minecraft:items/blocks__gravel"
   },
   {
     "name": "gold_ore",
     "model": "gold_ore",
-    "texture": "minecraft:items/gold_ore"
+    "texture": "minecraft:items/blocks__gold_ore"
   },
   {
     "name": "iron_ore",
     "model": "iron_ore",
-    "texture": "minecraft:items/iron_ore"
+    "texture": "minecraft:items/blocks__iron_ore"
   },
   {
     "name": "coal_ore",
     "model": "coal_ore",
-    "texture": "minecraft:items/coal_ore"
+    "texture": "minecraft:items/blocks__coal_ore"
   },
   {
     "name": "wood",
     "model": "wood",
-    "texture": "minecraft:items/log_oak"
+    "texture": "minecraft:items/blocks__log_oak"
   },
   {
     "name": "leaves",
     "model": "leaves",
-    "texture": "minecraft:items/leaves_oak_carried"
+    "texture": "minecraft:items/blocks__leaves_oak_carried"
   },
   {
     "name": "sponge",
     "model": "sponge",
-    "texture": "minecraft:items/sponge"
+    "texture": "minecraft:items/blocks__sponge"
   },
   {
     "name": "glass",
     "model": "glass",
-    "texture": "minecraft:items/glass"
+    "texture": "minecraft:items/blocks__glass"
   },
   {
     "name": "lapis_lazuli_ore",
     "model": "lapis_lazuli_ore",
-    "texture": "minecraft:items/lapis_ore"
+    "texture": "minecraft:items/blocks__lapis_ore"
   },
   {
     "name": "lapis_lazuli_block",
     "model": "lapis_lazuli_block",
-    "texture": "minecraft:items/lapis_block"
+    "texture": "minecraft:items/blocks__lapis_block"
   },
   {
     "name": "dispenser",
     "model": "dispenser",
-    "texture": "minecraft:items/furnace_side"
+    "texture": "minecraft:items/blocks__furnace_side"
   },
   {
     "name": "sandstone",
     "model": "sandstone",
-    "texture": "minecraft:items/sandstone_normal"
+    "texture": "minecraft:items/blocks__sandstone_normal"
   },
   {
     "name": "note_block",
     "model": "note_block",
-    "texture": "minecraft:items/noteblock"
+    "texture": "minecraft:items/blocks__noteblock"
   },
   {
     "name": "powered_rail",
     "model": "powered_rail",
-    "texture": "minecraft:items/rail_golden"
+    "texture": "minecraft:items/blocks__rail_golden"
   },
   {
     "name": "detector_rail",
     "model": "detector_rail",
-    "texture": "minecraft:items/rail_detector"
+    "texture": "minecraft:items/blocks__rail_detector"
   },
   {
     "name": "sticky_piston",
     "model": "sticky_piston",
-    "texture": "minecraft:items/piston_side"
+    "texture": "minecraft:items/blocks__piston_side"
   },
   {
     "name": "cobweb",
     "model": "cobweb",
-    "texture": "minecraft:items/web"
+    "texture": "minecraft:items/blocks__web"
   },
   {
     "name": "tall_grass",
     "model": "tall_grass",
-    "texture": "minecraft:items/tallgrass"
+    "texture": "minecraft:items/blocks__tallgrass"
   },
   {
     "name": "dead_bush",
     "model": "dead_bush",
-    "texture": "minecraft:items/deadbush"
+    "texture": "minecraft:items/blocks__deadbush"
   },
   {
     "name": "piston",
     "model": "piston",
-    "texture": "minecraft:items/piston_side"
+    "texture": "minecraft:items/blocks__piston_side"
   },
   {
     "name": "piston_head",
     "model": "piston_head",
-    "texture": "minecraft:items/piston_inner"
+    "texture": "minecraft:items/blocks__piston_inner"
   },
   {
     "name": "wool",
     "model": "wool",
-    "texture": "minecraft:items/wool_colored_white"
+    "texture": "minecraft:items/blocks__wool_colored_white"
   },
   {
     "name": "dandelion",
     "model": "dandelion",
-    "texture": "minecraft:items/flower_dandelion"
+    "texture": "minecraft:items/blocks__flower_dandelion"
   },
   {
     "name": "flower",
     "model": "flower",
-    "texture": "minecraft:items/flower_rose"
+    "texture": "minecraft:items/blocks__flower_rose"
   },
   {
     "name": "brown_mushroom",
     "model": "brown_mushroom",
-    "texture": "minecraft:items/mushroom_brown"
+    "texture": "minecraft:items/blocks__mushroom_brown"
   },
   {
     "name": "red_mushroom",
     "model": "red_mushroom",
-    "texture": "minecraft:items/mushroom_red"
+    "texture": "minecraft:items/blocks__mushroom_red"
   },
   {
     "name": "block_of_gold",
     "model": "block_of_gold",
-    "texture": "minecraft:items/gold_block"
+    "texture": "minecraft:items/blocks__gold_block"
   },
   {
     "name": "block_of_iron",
     "model": "block_of_iron",
-    "texture": "minecraft:items/iron_block"
+    "texture": "minecraft:items/blocks__iron_block"
   },
   {
     "name": "double_stone_slab",
     "model": "double_stone_slab",
-    "texture": "minecraft:items/stone_slab_side"
+    "texture": "minecraft:items/blocks__stone_slab_side"
   },
   {
     "name": "stone_slab",
     "model": "stone_slab",
-    "texture": "minecraft:items/stone_slab_side"
+    "texture": "minecraft:items/blocks__stone_slab_side"
   },
   {
     "name": "bricks",
     "model": "bricks",
-    "texture": "minecraft:items/brick"
+    "texture": "minecraft:items/blocks__brick"
   },
   {
     "name": "tnt",
     "model": "tnt",
-    "texture": "minecraft:items/tnt_side"
+    "texture": "minecraft:items/blocks__tnt_side"
   },
   {
     "name": "bookshelf",
     "model": "bookshelf",
-    "texture": "minecraft:items/bookshelf"
+    "texture": "minecraft:items/blocks__bookshelf"
   },
   {
     "name": "moss_stone",
     "model": "moss_stone",
-    "texture": "minecraft:items/cobblestone_mossy"
+    "texture": "minecraft:items/blocks__cobblestone_mossy"
   },
   {
     "name": "obsidian",
     "model": "obsidian",
-    "texture": "minecraft:items/obsidian"
+    "texture": "minecraft:items/blocks__obsidian"
   },
   {
     "name": "torch",
     "model": "torch",
-    "texture": "minecraft:items/torch_on"
+    "texture": "minecraft:items/blocks__torch_on"
   },
   {
     "name": "fire",
     "model": "fire",
-    "texture": "minecraft:items/fire_0"
+    "texture": "minecraft:items/blocks__fire_0"
   },
   {
     "name": "monster_spawner",
     "model": "monster_spawner",
-    "texture": "minecraft:items/mob_spawner"
+    "texture": "minecraft:items/blocks__mob_spawner"
   },
   {
     "name": "oak_wood_stairs",
     "model": "oak_wood_stairs",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "chest",
     "model": "chest",
-    "texture": "minecraft:items/chest_side"
+    "texture": "minecraft:items/blocks__chest_side"
   },
   {
     "name": "redstone_wire",
     "model": "redstone_wire",
-    "texture": "minecraft:items/redstone_dust_cross"
+    "texture": "minecraft:items/blocks__redstone_dust_cross"
   },
   {
     "name": "diamond_ore",
     "model": "diamond_ore",
-    "texture": "minecraft:items/diamond_ore"
+    "texture": "minecraft:items/blocks__diamond_ore"
   },
   {
     "name": "block_of_diamond",
     "model": "block_of_diamond",
-    "texture": "minecraft:items/diamond_block"
+    "texture": "minecraft:items/blocks__diamond_block"
   },
   {
     "name": "crafting_table",
     "model": "crafting_table",
-    "texture": "minecraft:items/crafting_table_front"
+    "texture": "minecraft:items/blocks__crafting_table_front"
   },
   {
     "name": "crops",
     "model": "crops",
-    "texture": "minecraft:items/wheat_stage_0"
+    "texture": "minecraft:items/blocks__wheat_stage_0"
   },
   {
     "name": "farmland",
     "model": "farmland",
-    "texture": "minecraft:items/dirt"
+    "texture": "minecraft:items/blocks__dirt"
   },
   {
     "name": "furnace",
     "model": "furnace",
-    "texture": "minecraft:items/furnace_side"
+    "texture": "minecraft:items/blocks__furnace_side"
   },
   {
     "name": "ladder",
     "model": "ladder",
-    "texture": "minecraft:items/ladder"
+    "texture": "minecraft:items/blocks__ladder"
   },
   {
     "name": "rail",
     "model": "rail",
-    "texture": "minecraft:items/rail_normal"
+    "texture": "minecraft:items/blocks__rail_normal"
   },
   {
     "name": "cobblestone_stairs",
     "model": "cobblestone_stairs",
-    "texture": "minecraft:items/cobblestone"
+    "texture": "minecraft:items/blocks__cobblestone"
   },
   {
     "name": "lever",
@@ -312,467 +312,467 @@
   {
     "name": "stone_pressure_plate",
     "model": "stone_pressure_plate",
-    "texture": "minecraft:items/stone"
+    "texture": "minecraft:items/blocks__stone"
   },
   {
     "name": "wooden_pressure_plate",
     "model": "wooden_pressure_plate",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "redstone_ore",
     "model": "redstone_ore",
-    "texture": "minecraft:items/redstone_ore"
+    "texture": "minecraft:items/blocks__redstone_ore"
   },
   {
     "name": "redstone_torch",
     "model": "redstone_torch",
-    "texture": "minecraft:items/redstone_torch_off"
+    "texture": "minecraft:items/blocks__redstone_torch_off"
   },
   {
     "name": "stone_button",
     "model": "stone_button",
-    "texture": "minecraft:items/stone"
+    "texture": "minecraft:items/blocks__stone"
   },
   {
     "name": "top_snow",
     "model": "top_snow",
-    "texture": "minecraft:items/snow"
+    "texture": "minecraft:items/blocks__snow"
   },
   {
     "name": "ice",
     "model": "ice",
-    "texture": "minecraft:items/ice"
+    "texture": "minecraft:items/blocks__ice"
   },
   {
     "name": "snow",
     "model": "snow",
-    "texture": "minecraft:items/snow"
+    "texture": "minecraft:items/blocks__snow"
   },
   {
     "name": "cactus",
     "model": "cactus",
-    "texture": "minecraft:items/cactus_side"
+    "texture": "minecraft:items/blocks__cactus_side"
   },
   {
     "name": "fence",
     "model": "fence",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "pumpkin",
     "model": "pumpkin",
-    "texture": "minecraft:items/pumpkin_side"
+    "texture": "minecraft:items/blocks__pumpkin_side"
   },
   {
     "name": "netherrack",
     "model": "netherrack",
-    "texture": "minecraft:items/netherrack"
+    "texture": "minecraft:items/blocks__netherrack"
   },
   {
     "name": "soul_sand",
     "model": "soul_sand",
-    "texture": "minecraft:items/soul_sand"
+    "texture": "minecraft:items/blocks__soul_sand"
   },
   {
     "name": "glowstone",
     "model": "glowstone",
-    "texture": "minecraft:items/glowstone"
+    "texture": "minecraft:items/blocks__glowstone"
   },
   {
     "name": "portal",
     "model": "portal",
-    "texture": "minecraft:items/portal"
+    "texture": "minecraft:items/blocks__portal"
   },
   {
     "name": "jack_o'lantern",
     "model": "jack_o'lantern",
-    "texture": "minecraft:items/pumpkin_side"
+    "texture": "minecraft:items/blocks__pumpkin_side"
   },
   {
     "name": "invisible_bedrock",
     "model": "invisible_bedrock",
-    "texture": "minecraft:items/stone"
+    "texture": "minecraft:items/blocks__stone"
   },
   {
     "name": "trapdoor",
     "model": "trapdoor",
-    "texture": "minecraft:items/trapdoor"
+    "texture": "minecraft:items/blocks__trapdoor"
   },
   {
     "name": "monster_egg",
     "model": "monster_egg",
-    "texture": "minecraft:items/cobblestone"
+    "texture": "minecraft:items/blocks__cobblestone"
   },
   {
     "name": "stone_brick",
     "model": "stone_brick",
-    "texture": "minecraft:items/stonebrick"
+    "texture": "minecraft:items/blocks__stonebrick"
   },
   {
     "name": "iron_bars",
     "model": "iron_bars",
-    "texture": "minecraft:items/iron_bars"
+    "texture": "minecraft:items/blocks__iron_bars"
   },
   {
     "name": "glass_pane",
     "model": "glass_pane",
-    "texture": "minecraft:items/glass"
+    "texture": "minecraft:items/blocks__glass"
   },
   {
     "name": "pumpkin_stem",
     "model": "pumpkin_stem",
-    "texture": "minecraft:items/pumpkin_stem_disconnected"
+    "texture": "minecraft:items/blocks__pumpkin_stem_disconnected"
   },
   {
     "name": "melon_stem",
     "model": "melon_stem",
-    "texture": "minecraft:items/melon_stem_disconnected"
+    "texture": "minecraft:items/blocks__melon_stem_disconnected"
   },
   {
     "name": "vines",
     "model": "vines",
-    "texture": "minecraft:items/vine_carried"
+    "texture": "minecraft:items/blocks__vine_carried"
   },
   {
     "name": "fence_gate",
     "model": "fence_gate",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "brick_stairs",
     "model": "brick_stairs",
-    "texture": "minecraft:items/brick"
+    "texture": "minecraft:items/blocks__brick"
   },
   {
     "name": "stone_brick_stairs",
     "model": "stone_brick_stairs",
-    "texture": "minecraft:items/stonebrick"
+    "texture": "minecraft:items/blocks__stonebrick"
   },
   {
     "name": "mycelium",
     "model": "mycelium",
-    "texture": "minecraft:items/mycelium_side"
+    "texture": "minecraft:items/blocks__mycelium_side"
   },
   {
     "name": "lily_pad",
     "model": "lily_pad",
-    "texture": "minecraft:items/carried_waterlily"
+    "texture": "minecraft:items/blocks__carried_waterlily"
   },
   {
     "name": "nether_brick_fence",
     "model": "nether_brick_fence",
-    "texture": "minecraft:items/nether_brick"
+    "texture": "minecraft:items/blocks__nether_brick"
   },
   {
     "name": "nether_brick_stairs",
     "model": "nether_brick_stairs",
-    "texture": "minecraft:items/nether_brick"
+    "texture": "minecraft:items/blocks__nether_brick"
   },
   {
     "name": "enchantment_table",
     "model": "enchantment_table",
-    "texture": "minecraft:items/enchanting_table_side"
+    "texture": "minecraft:items/blocks__enchanting_table_side"
   },
   {
     "name": "end_portal_frame",
     "model": "end_portal_frame",
-    "texture": "minecraft:items/endframe_side"
+    "texture": "minecraft:items/blocks__endframe_side"
   },
   {
     "name": "end_stone",
     "model": "end_stone",
-    "texture": "minecraft:items/end_stone"
+    "texture": "minecraft:items/blocks__end_stone"
   },
   {
     "name": "redstone_lamp",
     "model": "redstone_lamp",
-    "texture": "minecraft:items/redstone_lamp_off"
+    "texture": "minecraft:items/blocks__redstone_lamp_off"
   },
   {
     "name": "dropper",
     "model": "dropper",
-    "texture": "minecraft:items/furnace_side"
+    "texture": "minecraft:items/blocks__furnace_side"
   },
   {
     "name": "activator_rail",
     "model": "activator_rail",
-    "texture": "minecraft:items/rail_activator"
+    "texture": "minecraft:items/blocks__rail_activator"
   },
   {
     "name": "cocoa",
     "model": "cocoa",
-    "texture": "minecraft:items/cocoa_stage_0"
+    "texture": "minecraft:items/blocks__cocoa_stage_0"
   },
   {
     "name": "sandstone_stairs",
     "model": "sandstone_stairs",
-    "texture": "minecraft:items/sandstone_normal"
+    "texture": "minecraft:items/blocks__sandstone_normal"
   },
   {
     "name": "emerald_ore",
     "model": "emerald_ore",
-    "texture": "minecraft:items/emerald_ore"
+    "texture": "minecraft:items/blocks__emerald_ore"
   },
   {
     "name": "tripwire_hook",
     "model": "tripwire_hook",
-    "texture": "minecraft:items/trip_wire_source"
+    "texture": "minecraft:items/blocks__trip_wire_source"
   },
   {
     "name": "tripwire",
     "model": "tripwire",
-    "texture": "minecraft:items/trip_wire"
+    "texture": "minecraft:items/blocks__trip_wire"
   },
   {
     "name": "block_of_emerald",
     "model": "block_of_emerald",
-    "texture": "minecraft:items/emerald_block"
+    "texture": "minecraft:items/blocks__emerald_block"
   },
   {
     "name": "spruce_wood_stairs",
     "model": "spruce_wood_stairs",
-    "texture": "minecraft:items/planks_spruce"
+    "texture": "minecraft:items/blocks__planks_spruce"
   },
   {
     "name": "birch_wood_stairs",
     "model": "birch_wood_stairs",
-    "texture": "minecraft:items/planks_birch"
+    "texture": "minecraft:items/blocks__planks_birch"
   },
   {
     "name": "jungle_wood_stairs",
     "model": "jungle_wood_stairs",
-    "texture": "minecraft:items/planks_jungle"
+    "texture": "minecraft:items/blocks__planks_jungle"
   },
   {
     "name": "cobblestone_wall",
     "model": "cobblestone_wall",
-    "texture": "minecraft:items/cobblestone"
+    "texture": "minecraft:items/blocks__cobblestone"
   },
   {
     "name": "carrots",
     "model": "carrots",
-    "texture": "minecraft:items/carrots_stage_0"
+    "texture": "minecraft:items/blocks__carrots_stage_0"
   },
   {
     "name": "wooden_button",
     "model": "wooden_button",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "anvil",
     "model": "anvil",
-    "texture": "minecraft:items/anvil_base"
+    "texture": "minecraft:items/blocks__anvil_base"
   },
   {
     "name": "trapped_chest",
     "model": "trapped_chest",
-    "texture": "minecraft:items/chest_side"
+    "texture": "minecraft:items/blocks__chest_side"
   },
   {
     "name": "weighted_pressure_plate",
     "model": "weighted_pressure_plate",
-    "texture": "minecraft:items/gold_block"
+    "texture": "minecraft:items/blocks__gold_block"
   },
   {
     "name": "redstone_comparator",
     "model": "redstone_comparator",
-    "texture": "minecraft:items/stone_slab_top"
+    "texture": "minecraft:items/blocks__stone_slab_top"
   },
   {
     "name": "daylight_sensor",
     "model": "daylight_sensor",
-    "texture": "minecraft:items/daylight_detector_side"
+    "texture": "minecraft:items/blocks__daylight_detector_side"
   },
   {
     "name": "block_of_redstone",
     "model": "block_of_redstone",
-    "texture": "minecraft:items/redstone_block"
+    "texture": "minecraft:items/blocks__redstone_block"
   },
   {
     "name": "nether_quartz_ore",
     "model": "nether_quartz_ore",
-    "texture": "minecraft:items/quartz_ore"
+    "texture": "minecraft:items/blocks__quartz_ore"
   },
   {
     "name": "block_of_quartz",
     "model": "block_of_quartz",
-    "texture": "minecraft:items/quartz_block_side"
+    "texture": "minecraft:items/blocks__quartz_block_side"
   },
   {
     "name": "quartz_stairs",
     "model": "quartz_stairs",
-    "texture": "minecraft:items/quartz_block_side"
+    "texture": "minecraft:items/blocks__quartz_block_side"
   },
   {
     "name": "wooden_double_slab",
     "model": "wooden_double_slab",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "wooden_slab",
     "model": "wooden_slab",
-    "texture": "minecraft:items/planks_oak"
+    "texture": "minecraft:items/blocks__planks_oak"
   },
   {
     "name": "stained_clay",
     "model": "stained_clay",
-    "texture": "minecraft:items/hardened_clay_stained_white"
+    "texture": "minecraft:items/blocks__hardened_clay_stained_white"
   },
   {
     "name": "acacia_leaves",
     "model": "acacia_leaves",
-    "texture": "minecraft:items/leaves_acacia_carried"
+    "texture": "minecraft:items/blocks__leaves_acacia_carried"
   },
   {
     "name": "acacia_wood",
     "model": "acacia_wood",
-    "texture": "minecraft:items/log_acacia"
+    "texture": "minecraft:items/blocks__log_acacia"
   },
   {
     "name": "acacia_wood_stairs",
     "model": "acacia_wood_stairs",
-    "texture": "minecraft:items/planks_acacia"
+    "texture": "minecraft:items/blocks__planks_acacia"
   },
   {
     "name": "dark_oak_wood_stairs",
     "model": "dark_oak_wood_stairs",
-    "texture": "minecraft:items/planks_big_oak"
+    "texture": "minecraft:items/blocks__planks_big_oak"
   },
   {
     "name": "slime_block",
     "model": "slime_block",
-    "texture": "minecraft:items/slime"
+    "texture": "minecraft:items/blocks__slime"
   },
   {
     "name": "iron_trapdoor",
     "model": "iron_trapdoor",
-    "texture": "minecraft:items/iron_trapdoor"
+    "texture": "minecraft:items/blocks__iron_trapdoor"
   },
   {
     "name": "hay_bale",
     "model": "hay_bale",
-    "texture": "minecraft:items/hay_block_side"
+    "texture": "minecraft:items/blocks__hay_block_side"
   },
   {
     "name": "carpet",
     "model": "carpet",
-    "texture": "minecraft:items/wool_colored_white"
+    "texture": "minecraft:items/blocks__wool_colored_white"
   },
   {
     "name": "hardened_clay",
     "model": "hardened_clay",
-    "texture": "minecraft:items/hardened_clay"
+    "texture": "minecraft:items/blocks__hardened_clay"
   },
   {
     "name": "block_of_coal",
     "model": "block_of_coal",
-    "texture": "minecraft:items/coal_block"
+    "texture": "minecraft:items/blocks__coal_block"
   },
   {
     "name": "packed_ice",
     "model": "packed_ice",
-    "texture": "minecraft:items/ice_packed"
+    "texture": "minecraft:items/blocks__ice_packed"
   },
   {
     "name": "sunflower",
     "model": "sunflower",
-    "texture": "minecraft:items/double_plant_sunflower_front"
+    "texture": "minecraft:items/blocks__double_plant_sunflower_front"
   },
   {
     "name": "inverted_daylight_sensor",
     "model": "inverted_daylight_sensor",
-    "texture": "minecraft:items/daylight_detector_side"
+    "texture": "minecraft:items/blocks__daylight_detector_side"
   },
   {
     "name": "red_sandstone",
     "model": "red_sandstone",
-    "texture": "minecraft:items/red_sandstone_normal"
+    "texture": "minecraft:items/blocks__red_sandstone_normal"
   },
   {
     "name": "red_sandstone_stairs",
     "model": "red_sandstone_stairs",
-    "texture": "minecraft:items/red_sandstone_normal"
+    "texture": "minecraft:items/blocks__red_sandstone_normal"
   },
   {
     "name": "double_red_sandstone_slab",
     "model": "double_red_sandstone_slab",
-    "texture": "minecraft:items/red_sandstone_normal"
+    "texture": "minecraft:items/blocks__red_sandstone_normal"
   },
   {
     "name": "red_sandstone_slab",
     "model": "red_sandstone_slab",
-    "texture": "minecraft:items/red_sandstone_normal"
+    "texture": "minecraft:items/blocks__red_sandstone_normal"
   },
   {
     "name": "spruce_fence_gate",
     "model": "spruce_fence_gate",
-    "texture": "minecraft:items/planks_spruce"
+    "texture": "minecraft:items/blocks__planks_spruce"
   },
   {
     "name": "birch_fence_gate",
     "model": "birch_fence_gate",
-    "texture": "minecraft:items/planks_birch"
+    "texture": "minecraft:items/blocks__planks_birch"
   },
   {
     "name": "jungle_fence_gate",
     "model": "jungle_fence_gate",
-    "texture": "minecraft:items/planks_jungle"
+    "texture": "minecraft:items/blocks__planks_jungle"
   },
   {
     "name": "dark_oak_fence_gate",
     "model": "dark_oak_fence_gate",
-    "texture": "minecraft:items/planks_big_oak"
+    "texture": "minecraft:items/blocks__planks_big_oak"
   },
   {
     "name": "acacia_fence_gate",
     "model": "acacia_fence_gate",
-    "texture": "minecraft:items/planks_acacia"
+    "texture": "minecraft:items/blocks__planks_acacia"
   },
   {
     "name": "grass_path",
     "model": "grass_path",
-    "texture": "minecraft:items/grass_path_side"
+    "texture": "minecraft:items/blocks__grass_path_side"
   },
   {
     "name": "podzol",
     "model": "podzol",
-    "texture": "minecraft:items/dirt_podzol_side"
+    "texture": "minecraft:items/blocks__dirt_podzol_side"
   },
   {
     "name": "stonecutter",
     "model": "stonecutter",
-    "texture": "minecraft:items/stonecutter_side"
+    "texture": "minecraft:items/blocks__stonecutter_side"
   },
   {
     "name": "glowing_obsidian",
     "model": "glowing_obsidian",
-    "texture": "minecraft:items/glowing_obsidian"
+    "texture": "minecraft:items/blocks__glowing_obsidian"
   },
   {
     "name": "nether_reactor_core",
     "model": "nether_reactor_core",
-    "texture": "minecraft:items/reactor_core_stage_0"
+    "texture": "minecraft:items/blocks__reactor_core_stage_0"
   },
   {
     "name": "update_game_block",
     "model": "update_game_block",
-    "texture": "minecraft:items/missing_tile"
+    "texture": "minecraft:items/blocks__missing_tile"
   },
   {
     "name": "block_moved_by_piston",
     "model": "block_moved_by_piston",
-    "texture": "minecraft:items/missing_tile"
+    "texture": "minecraft:items/blocks__missing_tile"
   },
   {
     "name": "observer",
     "model": "observer",
-    "texture": "minecraft:items/missing_tile"
+    "texture": "minecraft:items/blocks__observer_front"
   },
   {
     "name": "info_reserved6",
     "model": "info_reserved6",
-    "texture": "minecraft:items/missing_tile"
+    "texture": "minecraft:items/blocks__missing_tile"
   },
   {
     "name": "iron_shovel",
@@ -1162,12 +1162,12 @@
   {
     "name": "brick",
     "model": "brick",
-    "texture": "minecraft:items/brick_2"
+    "texture": "minecraft:items/brick"
   },
   {
     "name": "clay",
     "model": "clay",
-    "texture": "minecraft:items/clay"
+    "texture": "minecraft:items/blocks__clay"
   },
   {
     "name": "sugar_cane",
@@ -1257,7 +1257,7 @@
   {
     "name": "redstone_repeater",
     "model": "redstone_repeater",
-    "texture": "minecraft:items/stone_slab_top"
+    "texture": "minecraft:items/blocks__stone_slab_top"
   },
   {
     "name": "cookie",
@@ -1442,7 +1442,7 @@
   {
     "name": "mob_head",
     "model": "mob_head",
-    "texture": "minecraft:items/soul_sand"
+    "texture": "minecraft:items/blocks__soul_sand"
   },
   {
     "name": "carrot_on_a_stick",
@@ -1467,7 +1467,7 @@
   {
     "name": "nether_brick",
     "model": "nether_brick",
-    "texture": "minecraft:items/nether_brick"
+    "texture": "minecraft:items/blocks__nether_brick"
   },
   {
     "name": "nether_quartz",

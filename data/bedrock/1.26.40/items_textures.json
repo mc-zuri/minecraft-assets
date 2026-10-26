@@ -7347,7 +7347,7 @@
   {
     "name": "shield",
     "model": "shield",
-    "texture": "minecraft:items/shield"
+    "texture": "minecraft:items/entity__shield"
   },
   {
     "name": "flint",
@@ -8587,7 +8587,7 @@
   {
     "name": "camera",
     "model": "camera",
-    "texture": null
+    "texture": "minecraft:block/camera_back"
   },
   {
     "name": "compound",
@@ -9702,7 +9702,7 @@
   {
     "name": "light_block",
     "model": "light_block",
-    "texture": null
+    "texture": "minecraft:items/light_block_15"
   },
   {
     "name": "boat",
