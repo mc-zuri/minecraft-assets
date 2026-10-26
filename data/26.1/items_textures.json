@@ -7467,42 +7467,42 @@
   {
     "name": "copper_golem_statue",
     "model": "copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "exposed_copper_golem_statue",
     "model": "exposed_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "weathered_copper_golem_statue",
     "model": "weathered_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "oxidized_copper_golem_statue",
     "model": "oxidized_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "waxed_copper_golem_statue",
     "model": "waxed_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "waxed_exposed_copper_golem_statue",
     "model": "waxed_exposed_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "waxed_weathered_copper_golem_statue",
     "model": "waxed_weathered_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "waxed_oxidized_copper_golem_statue",
     "model": "waxed_oxidized_copper_golem_statue",
-    "texture": null
+    "texture": "block/copper_block"
   },
   {
     "name": "trial_spawner",
