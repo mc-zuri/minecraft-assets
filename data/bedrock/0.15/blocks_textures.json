@@ -380,7 +380,7 @@
   {
     "name": "wooden_door",
     "blockState": "wooden_door",
-    "model": "minecraft:blocks/wooden_door",
+    "model": "minecraft:blocks/wooden_door_2",
     "texture": "minecraft:blocks/door_wood_lower"
   },
   {
@@ -422,7 +422,7 @@
   {
     "name": "iron_door",
     "blockState": "iron_door",
-    "model": "minecraft:blocks/iron_door",
+    "model": "minecraft:blocks/iron_door_2",
     "texture": "minecraft:blocks/door_iron_lower"
   },
   {
@@ -1052,31 +1052,31 @@
   {
     "name": "spruce_door",
     "blockState": "spruce_door",
-    "model": "minecraft:blocks/spruce_door",
+    "model": "minecraft:blocks/spruce_door_2",
     "texture": "minecraft:blocks/door_spruce_lower"
   },
   {
     "name": "birch_door",
     "blockState": "birch_door",
-    "model": "minecraft:blocks/birch_door",
+    "model": "minecraft:blocks/birch_door_2",
     "texture": "minecraft:blocks/door_birch_lower"
   },
   {
     "name": "jungle_door",
     "blockState": "jungle_door",
-    "model": "minecraft:blocks/jungle_door",
+    "model": "minecraft:blocks/jungle_door_2",
     "texture": "minecraft:blocks/door_jungle_lower"
   },
   {
     "name": "acacia_door",
     "blockState": "acacia_door",
-    "model": "minecraft:blocks/acacia_door",
+    "model": "minecraft:blocks/acacia_door_2",
     "texture": "minecraft:blocks/door_acacia_lower"
   },
   {
     "name": "dark_oak_door",
     "blockState": "dark_oak_door",
-    "model": "minecraft:blocks/dark_oak_door",
+    "model": "minecraft:blocks/dark_oak_door_2",
     "texture": "minecraft:blocks/door_dark_oak_lower"
   },
   {

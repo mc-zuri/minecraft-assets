@@ -146,17 +146,125 @@
   },
   "warped_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/warped_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/warped_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/warped_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/warped_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/warped_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/warped_door_8",
+        "y": 180
       }
     }
   },
@@ -4421,17 +4529,125 @@
   },
   "bamboo_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/bamboo_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/bamboo_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/bamboo_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/bamboo_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/bamboo_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/bamboo_door_8",
+        "y": 180
       }
     }
   },
@@ -27264,17 +27480,125 @@
   },
   "wooden_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/wooden_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/wooden_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/wooden_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/wooden_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/wooden_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/wooden_door_8",
+        "y": 180
       }
     }
   },
@@ -39507,17 +39831,125 @@
   },
   "crimson_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/crimson_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/crimson_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/crimson_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/crimson_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/crimson_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/crimson_door_8",
+        "y": 180
       }
     }
   },
@@ -41998,17 +42430,125 @@
   },
   "cherry_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/cherry_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/cherry_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/cherry_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/cherry_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/cherry_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/cherry_door_8",
+        "y": 180
       }
     }
   },
@@ -42509,6 +43049,156 @@
   },
   "ender_chest": {
     "variants": {
+      "minecraft:cardinal_direction=south,block_entity.lid=0": {
+        "model": "minecraft:block/ender_chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=1": {
+        "model": "minecraft:block/ender_chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=2": {
+        "model": "minecraft:block/ender_chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=3": {
+        "model": "minecraft:block/ender_chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=4": {
+        "model": "minecraft:block/ender_chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=5": {
+        "model": "minecraft:block/ender_chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=6": {
+        "model": "minecraft:block/ender_chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=7": {
+        "model": "minecraft:block/ender_chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=8": {
+        "model": "minecraft:block/ender_chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.lid=9": {
+        "model": "minecraft:block/ender_chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=0": {
+        "model": "minecraft:block/ender_chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=1": {
+        "model": "minecraft:block/ender_chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=2": {
+        "model": "minecraft:block/ender_chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=3": {
+        "model": "minecraft:block/ender_chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=4": {
+        "model": "minecraft:block/ender_chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=5": {
+        "model": "minecraft:block/ender_chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=6": {
+        "model": "minecraft:block/ender_chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=7": {
+        "model": "minecraft:block/ender_chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=8": {
+        "model": "minecraft:block/ender_chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.lid=9": {
+        "model": "minecraft:block/ender_chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=0": {
+        "model": "minecraft:block/ender_chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=1": {
+        "model": "minecraft:block/ender_chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=2": {
+        "model": "minecraft:block/ender_chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=3": {
+        "model": "minecraft:block/ender_chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=4": {
+        "model": "minecraft:block/ender_chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=5": {
+        "model": "minecraft:block/ender_chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=6": {
+        "model": "minecraft:block/ender_chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=7": {
+        "model": "minecraft:block/ender_chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=8": {
+        "model": "minecraft:block/ender_chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.lid=9": {
+        "model": "minecraft:block/ender_chest_10"
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=0": {
+        "model": "minecraft:block/ender_chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=1": {
+        "model": "minecraft:block/ender_chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=2": {
+        "model": "minecraft:block/ender_chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=3": {
+        "model": "minecraft:block/ender_chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=4": {
+        "model": "minecraft:block/ender_chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=5": {
+        "model": "minecraft:block/ender_chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=6": {
+        "model": "minecraft:block/ender_chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=7": {
+        "model": "minecraft:block/ender_chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=8": {
+        "model": "minecraft:block/ender_chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.lid=9": {
+        "model": "minecraft:block/ender_chest_10",
+        "y": 90
+      },
       "minecraft:cardinal_direction=south": {
         "model": "minecraft:block/ender_chest",
         "y": 180
@@ -42750,17 +43440,125 @@
   },
   "acacia_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/acacia_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/acacia_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/acacia_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/acacia_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/acacia_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/acacia_door_8",
+        "y": 180
       }
     }
   },
@@ -42850,17 +43648,125 @@
   },
   "iron_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/iron_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/iron_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/iron_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/iron_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/iron_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/iron_door_8",
+        "y": 180
       }
     }
   },
@@ -43063,27 +43969,50 @@
   },
   "barrel": {
     "variants": {
-      "facing_direction=0": {
+      "facing_direction=0,open_bit=0": {
         "model": "minecraft:block/barrel",
         "x": 90
       },
-      "facing_direction=1": {
+      "facing_direction=1,open_bit=0": {
         "model": "minecraft:block/barrel",
         "x": 270
       },
-      "facing_direction=2": {
+      "facing_direction=2,open_bit=0": {
         "model": "minecraft:block/barrel"
       },
-      "facing_direction=3": {
+      "facing_direction=3,open_bit=0": {
         "model": "minecraft:block/barrel",
         "y": 180
       },
-      "facing_direction=4": {
+      "facing_direction=4,open_bit=0": {
         "model": "minecraft:block/barrel",
         "y": 270
       },
-      "facing_direction=5": {
+      "facing_direction=5,open_bit=0": {
         "model": "minecraft:block/barrel",
+        "y": 90
+      },
+      "facing_direction=0,open_bit=1": {
+        "model": "minecraft:block/barrel_2",
+        "x": 90
+      },
+      "facing_direction=1,open_bit=1": {
+        "model": "minecraft:block/barrel_2",
+        "x": 270
+      },
+      "facing_direction=2,open_bit=1": {
+        "model": "minecraft:block/barrel_2"
+      },
+      "facing_direction=3,open_bit=1": {
+        "model": "minecraft:block/barrel_2",
+        "y": 180
+      },
+      "facing_direction=4,open_bit=1": {
+        "model": "minecraft:block/barrel_2",
+        "y": 270
+      },
+      "facing_direction=5,open_bit=1": {
+        "model": "minecraft:block/barrel_2",
         "y": 90
       }
     }
@@ -46145,17 +47074,125 @@
   },
   "spruce_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/spruce_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/spruce_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/spruce_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/spruce_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/spruce_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/spruce_door_8",
+        "y": 180
       }
     }
   },
@@ -46199,17 +47236,125 @@
   },
   "exposed_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/exposed_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/exposed_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/exposed_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/exposed_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 180
       }
     }
   },
@@ -56429,17 +57574,125 @@
   },
   "waxed_exposed_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/exposed_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/exposed_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/exposed_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/exposed_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/exposed_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/exposed_copper_door_8",
+        "y": 180
       }
     }
   },
@@ -57053,6 +58306,756 @@
   },
   "trapped_chest": {
     "variants": {
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_11",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_12",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_13",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_14",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_15",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_16",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_17",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_18",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_19",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_20",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_21",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_22",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_23",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_24",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_25",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_26",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_27",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_28",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_29",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_30",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_21",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_22",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_23",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_24",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_25",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_26",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_27",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_28",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_29",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_30",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_11",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_12",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_13",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_14",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_15",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_16",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_17",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_18",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_19",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_20",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_21"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_22"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_23"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_24"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_25"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_26"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_27"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_28"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_29"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_30"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_11"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_12"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_13"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_14"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_15"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_16"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_17"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_18"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_19"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_20"
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_11",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_12",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_13",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_14",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_15",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_16",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_17",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_18",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_19",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_20",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest_21",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_22",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_23",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_24",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_25",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_26",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_27",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_28",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_29",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_30",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/trapped_chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/trapped_chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/trapped_chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/trapped_chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/trapped_chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/trapped_chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/trapped_chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/trapped_chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/trapped_chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/trapped_chest_10",
+        "y": 90
+      },
       "minecraft:cardinal_direction=south": {
         "model": "minecraft:block/trapped_chest",
         "y": 180
@@ -57444,17 +59447,125 @@
   },
   "dark_oak_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/dark_oak_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/dark_oak_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/dark_oak_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/dark_oak_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/dark_oak_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/dark_oak_door_8",
+        "y": 180
       }
     }
   },
@@ -61244,17 +63355,125 @@
   },
   "waxed_oxidized_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/waxed_oxidized_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/waxed_oxidized_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/waxed_oxidized_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/waxed_oxidized_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 180
       }
     }
   },
@@ -61424,17 +63643,125 @@
   },
   "copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 180
       }
     }
   },
@@ -63358,17 +65685,125 @@
   },
   "jungle_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/jungle_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/jungle_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/jungle_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/jungle_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/jungle_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/jungle_door_8",
+        "y": 180
       }
     }
   },
@@ -64845,17 +67280,125 @@
   },
   "mangrove_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/mangrove_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/mangrove_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/mangrove_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/mangrove_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/mangrove_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/mangrove_door_8",
+        "y": 180
       }
     }
   },
@@ -64868,17 +67411,125 @@
   },
   "weathered_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/weathered_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/weathered_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/weathered_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/weathered_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 180
       }
     }
   },
@@ -69416,17 +72067,125 @@
   },
   "waxed_weathered_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/weathered_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/weathered_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/weathered_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/weathered_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/weathered_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/weathered_copper_door_8",
+        "y": 180
       }
     }
   },
@@ -69881,22 +72640,880 @@
   },
   "birch_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/birch_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/birch_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/birch_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/birch_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/birch_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/birch_door_8",
+        "y": 180
       }
     }
   },
   "chest": {
     "variants": {
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/chest_11",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/chest_12",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/chest_13",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/chest_14",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/chest_15",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/chest_16",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/chest_17",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/chest_18",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/chest_19",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/chest_20",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/chest_21",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/chest_22",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/chest_23",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/chest_24",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/chest_25",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/chest_26",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/chest_27",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/chest_28",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/chest_29",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=south,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/chest_30",
+        "y": 180
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/chest_21",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/chest_22",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/chest_23",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/chest_24",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/chest_25",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/chest_26",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/chest_27",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/chest_28",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/chest_29",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/chest_30",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/chest_11",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/chest_12",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/chest_13",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/chest_14",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/chest_15",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/chest_16",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/chest_17",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/chest_18",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/chest_19",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/chest_20",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=west,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 270
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/chest_21"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/chest_22"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/chest_23"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/chest_24"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/chest_25"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/chest_26"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/chest_27"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/chest_28"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/chest_29"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/chest_30"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/chest"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/chest_11"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/chest_12"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/chest_13"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/chest_14"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/chest_15"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/chest_16"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/chest_17"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/chest_18"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/chest_19"
+      },
+      "minecraft:cardinal_direction=north,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/chest_20"
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=none,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=0": {
+        "model": "minecraft:block/chest_11",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=1": {
+        "model": "minecraft:block/chest_12",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=2": {
+        "model": "minecraft:block/chest_13",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=3": {
+        "model": "minecraft:block/chest_14",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=4": {
+        "model": "minecraft:block/chest_15",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=5": {
+        "model": "minecraft:block/chest_16",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=6": {
+        "model": "minecraft:block/chest_17",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=7": {
+        "model": "minecraft:block/chest_18",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=8": {
+        "model": "minecraft:block/chest_19",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=north,block_entity.lid=9": {
+        "model": "minecraft:block/chest_20",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=east,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=0": {
+        "model": "minecraft:block/chest_21",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=1": {
+        "model": "minecraft:block/chest_22",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=2": {
+        "model": "minecraft:block/chest_23",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=3": {
+        "model": "minecraft:block/chest_24",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=4": {
+        "model": "minecraft:block/chest_25",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=5": {
+        "model": "minecraft:block/chest_26",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=6": {
+        "model": "minecraft:block/chest_27",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=7": {
+        "model": "minecraft:block/chest_28",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=8": {
+        "model": "minecraft:block/chest_29",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=south,block_entity.lid=9": {
+        "model": "minecraft:block/chest_30",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=0": {
+        "model": "minecraft:block/chest",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=1": {
+        "model": "minecraft:block/chest_2",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=2": {
+        "model": "minecraft:block/chest_3",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=3": {
+        "model": "minecraft:block/chest_4",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=4": {
+        "model": "minecraft:block/chest_5",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=5": {
+        "model": "minecraft:block/chest_6",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=6": {
+        "model": "minecraft:block/chest_7",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=7": {
+        "model": "minecraft:block/chest_8",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=8": {
+        "model": "minecraft:block/chest_9",
+        "y": 90
+      },
+      "minecraft:cardinal_direction=east,block_entity.pair=west,block_entity.lid=9": {
+        "model": "minecraft:block/chest_10",
+        "y": 90
+      },
       "minecraft:cardinal_direction=south": {
         "model": "minecraft:block/chest",
         "y": 180
@@ -75538,17 +79155,125 @@
   },
   "waxed_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/copper_door_8",
+        "y": 180
       }
     }
   },
@@ -77987,17 +81712,125 @@
   },
   "oxidized_copper_door": {
     "variants": {
-      "door_hinge_bit=0,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
         "model": "minecraft:block/waxed_oxidized_copper_door"
       },
-      "door_hinge_bit=0,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_2",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=0": {
         "model": "minecraft:block/waxed_oxidized_copper_door_2"
       },
-      "door_hinge_bit=1,upper_block_bit=0": {
+      "direction=0,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
         "model": "minecraft:block/waxed_oxidized_copper_door_3"
       },
-      "door_hinge_bit=1,upper_block_bit=1": {
+      "direction=1,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=0,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_3",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 90
+      },
+      "direction=1,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 180
+      },
+      "direction=2,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_4",
+        "y": 270
+      },
+      "direction=3,door_hinge_bit=0,open_bit=1,upper_block_bit=1": {
         "model": "minecraft:block/waxed_oxidized_copper_door_4"
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_5",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=0": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_6",
+        "y": 180
+      },
+      "direction=0,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7"
+      },
+      "direction=1,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 90
+      },
+      "direction=2,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 180
+      },
+      "direction=3,door_hinge_bit=1,open_bit=0,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_7",
+        "y": 270
+      },
+      "direction=0,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 270
+      },
+      "direction=1,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8"
+      },
+      "direction=2,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 90
+      },
+      "direction=3,door_hinge_bit=1,open_bit=1,upper_block_bit=1": {
+        "model": "minecraft:block/waxed_oxidized_copper_door_8",
+        "y": 180
       }
     }
   }
